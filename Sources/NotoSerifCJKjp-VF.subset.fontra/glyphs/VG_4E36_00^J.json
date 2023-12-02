@@ -6,6 +6,12 @@
 "minValue": 70,
 "defaultValue": 369,
 "maxValue": 369
+},
+{
+"name": "thickness",
+"minValue": -20,
+"defaultValue": 0,
+"maxValue": 20
 }
 ],
 "sources": [
@@ -36,6 +42,20 @@
 "location": {
 "wght": 1,
 "length": 70
+}
+},
+{
+"name": "thickness=-20",
+"layerName": "thickness=-20",
+"location": {
+"thickness": -20
+}
+},
+{
+"name": "thickness=20",
+"layerName": "thickness=20",
+"location": {
+"thickness": 20
 }
 }
 ],
@@ -214,6 +234,98 @@
 {
 "x": 565,
 "y": 664,
+"type": "cubic"
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 1000
+}
+},
+"thickness=-20": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 343,
+"y": 611
+},
+{
+"x": 330,
+"y": 600
+},
+{
+"x": 465,
+"y": 520,
+"type": "cubic"
+},
+{
+"x": 621,
+"y": 366,
+"type": "cubic"
+},
+{
+"x": 635,
+"y": 242
+},
+{
+"x": 687,
+"y": 222,
+"type": "cubic"
+},
+{
+"x": 693,
+"y": 399,
+"type": "cubic"
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 1000
+}
+},
+"thickness=20": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 343,
+"y": 611
+},
+{
+"x": 330,
+"y": 600
+},
+{
+"x": 448,
+"y": 505,
+"type": "cubic"
+},
+{
+"x": 598,
+"y": 355,
+"type": "cubic"
+},
+{
+"x": 635,
+"y": 242
+},
+{
+"x": 741,
+"y": 178,
+"type": "cubic"
+},
+{
+"x": 762,
+"y": 416,
 "type": "cubic"
 }
 ],
