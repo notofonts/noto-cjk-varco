@@ -6,6 +6,9 @@
 "layerName": "<default>",
 "location": {
 "wght": 0
+},
+"customData": {
+"fontra.development.status": 1
 }
 },
 {
@@ -13,156 +16,15 @@
 "layerName": "wght=1",
 "location": {
 "wght": 1.0
+},
+"customData": {
+"fontra.development.status": 1
 }
 }
 ],
 "layers": {
 "<default>": {
 "glyph": {
-"path": {
-"contours": [
-{
-"points": [
-{
-"x": 61,
-"y": 544
-},
-{
-"x": 69,
-"y": 514
-},
-{
-"x": 427,
-"y": 514,
-"smooth": true
-},
-{
-"x": 439,
-"y": 514,
-"type": "cubic"
-},
-{
-"x": 449,
-"y": 519,
-"type": "cubic"
-},
-{
-"x": 451,
-"y": 530
-},
-{
-"x": 424,
-"y": 557,
-"type": "cubic"
-},
-{
-"x": 378,
-"y": 592,
-"type": "cubic"
-},
-{
-"x": 378,
-"y": 592
-},
-{
-"x": 340,
-"y": 544
-}
-],
-"isClosed": true
-},
-{
-"points": [
-{
-"x": 219,
-"y": 799
-},
-{
-"x": 219,
-"y": 150
-},
-{
-"x": 263,
-"y": 164
-},
-{
-"x": 263,
-"y": 762
-},
-{
-"x": 288,
-"y": 765,
-"type": "cubic"
-},
-{
-"x": 297,
-"y": 775,
-"type": "cubic"
-},
-{
-"x": 300,
-"y": 789
-}
-],
-"isClosed": true
-},
-{
-"points": [
-{
-"x": 48,
-"y": 121
-},
-{
-"x": 90,
-"y": 57
-},
-{
-"x": 98,
-"y": 61,
-"type": "cubic"
-},
-{
-"x": 105,
-"y": 70,
-"type": "cubic"
-},
-{
-"x": 107,
-"y": 82
-},
-{
-"x": 260,
-"y": 148,
-"type": "cubic"
-},
-{
-"x": 375,
-"y": 203,
-"type": "cubic"
-},
-{
-"x": 460,
-"y": 243
-},
-{
-"x": 454,
-"y": 259
-},
-{
-"x": 284,
-"y": 198,
-"type": "cubic"
-},
-{
-"x": 117,
-"y": 140,
-"type": "cubic"
-}
-],
-"isClosed": true
-}
-]
-},
 "components": [
 {
 "name": "VG_4E5A_00",
@@ -178,6 +40,50 @@
 "h-thick": 3.14179976626413,
 "v-thick": 3.0229840280483
 }
+},
+{
+"name": "VG_4E28_00",
+"transformation": {
+"translateX": -255,
+"translateY": 230
+},
+"location": {
+"length": 638.702601065497,
+"barb": 1,
+"thickness": 0,
+"start_slope": 0,
+"crop_corner": 0,
+"flat_end": 0.585187506528779,
+"barb_size": 0,
+"barb_slope": 0
+}
+},
+{
+"name": "VG_rise_00",
+"transformation": {
+"translateX": 6.88333953434352,
+"translateY": -160.23180159426482,
+"rotation": 5,
+"tCenterX": 238,
+"tCenterY": 332
+},
+"location": {
+"width": -54.1731954455239,
+"start_slope": -2.1090567220307106
+}
+},
+{
+"name": "VG_4E00_00",
+"transformation": {
+"translateX": 8,
+"translateY": 113
+},
+"location": {
+"width": 400.731223232007,
+"thickness": 29.4672516452523,
+"head": 71.7486681291131,
+"head-height": 1.5355687872140402
+}
 }
 ],
 "xAdvance": 1000
@@ -185,150 +91,6 @@
 },
 "wght=1": {
 "glyph": {
-"path": {
-"contours": [
-{
-"points": [
-{
-"x": 26.0,
-"y": 562.0
-},
-{
-"x": 34.0,
-"y": 534.0
-},
-{
-"x": 435.0,
-"y": 534.0,
-"smooth": true
-},
-{
-"x": 449.0,
-"y": 534.0,
-"type": "cubic"
-},
-{
-"x": 459.0,
-"y": 539.0,
-"type": "cubic"
-},
-{
-"x": 462.0,
-"y": 550.0
-},
-{
-"x": 426.0,
-"y": 591.0,
-"type": "cubic"
-},
-{
-"x": 358.0,
-"y": 656.0,
-"type": "cubic"
-},
-{
-"x": 358.0,
-"y": 656.0
-},
-{
-"x": 299.0,
-"y": 562.0
-}
-],
-"isClosed": true
-},
-{
-"points": [
-{
-"x": 158.0,
-"y": 829.0
-},
-{
-"x": 158.0,
-"y": 148.0
-},
-{
-"x": 304.0,
-"y": 194.0
-},
-{
-"x": 304.0,
-"y": 785.0
-},
-{
-"x": 332.0,
-"y": 789.0,
-"type": "cubic"
-},
-{
-"x": 339.0,
-"y": 800.0,
-"type": "cubic"
-},
-{
-"x": 341.0,
-"y": 813.0
-}
-],
-"isClosed": true
-},
-{
-"points": [
-{
-"x": 13.0,
-"y": 179.0
-},
-{
-"x": 90.0,
-"y": 21.0
-},
-{
-"x": 102.0,
-"y": 26.0,
-"type": "cubic"
-},
-{
-"x": 113.0,
-"y": 37.0,
-"type": "cubic"
-},
-{
-"x": 117.0,
-"y": 50.0
-},
-{
-"x": 284.0,
-"y": 148.0,
-"type": "cubic"
-},
-{
-"x": 393.0,
-"y": 225.0,
-"type": "cubic"
-},
-{
-"x": 460.0,
-"y": 279.0
-},
-{
-"x": 458.0,
-"y": 288.0
-},
-{
-"x": 275.0,
-"y": 239.0,
-"type": "cubic"
-},
-{
-"x": 88.0,
-"y": 194.0,
-"type": "cubic"
-}
-],
-"isClosed": true
-}
-]
-},
 "components": [
 {
 "name": "VG_4E5A_00",
@@ -343,6 +105,50 @@
 "barb": 1,
 "h-thick": -6.830931047915859,
 "v-thick": 0.5298013245033077
+}
+},
+{
+"name": "VG_4E28_00",
+"transformation": {
+"translateX": -257,
+"translateY": 250
+},
+"location": {
+"length": 626.668755875901,
+"barb": 1,
+"thickness": -11.9043142170688,
+"start_slope": 0,
+"crop_corner": 0,
+"flat_end": 0.585187506528779,
+"barb_size": -3.54538807061527,
+"barb_slope": 0
+}
+},
+{
+"name": "VG_rise_00",
+"transformation": {
+"translateX": -8.033881516032125,
+"translateY": -141.22398570037547,
+"rotation": 5,
+"tCenterX": 250,
+"tCenterY": 328
+},
+"location": {
+"width": -30.1055050663324,
+"start_slope": -0.9056722030711359
+}
+},
+{
+"name": "VG_4E00_00",
+"transformation": {
+"translateX": -30,
+"translateY": 133
+},
+"location": {
+"width": 400.731223232007,
+"thickness": 29.4672516452523,
+"head": 68.4059333542254,
+"head-height": 7.4187819910164
 }
 }
 ],
