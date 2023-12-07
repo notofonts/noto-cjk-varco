@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni5902" format="2">
+  <advance width="1000"/>
+  <unicode hex="5902"/>
+  <outline>
+    <contour>
+      <point x="316" y="646" type="line"/>
+      <point x="303" y="617" type="line"/>
+      <point x="772" y="617" type="line"/>
+      <point x="772" y="646" type="line"/>
+    </contour>
+    <contour>
+      <point x="736" y="646" type="line"/>
+      <point x="638" y="330"/>
+      <point x="411" y="76"/>
+      <point x="42" y="-55" type="curve"/>
+      <point x="53" y="-73" type="line"/>
+      <point x="456" y="53"/>
+      <point x="667" y="303"/>
+      <point x="779" y="610" type="curve"/>
+      <point x="803" y="611"/>
+      <point x="814" y="613"/>
+      <point x="823" y="622" type="curve"/>
+      <point x="762" y="680" type="line"/>
+      <point x="726" y="646" type="line"/>
+    </contour>
+    <contour>
+      <point x="296" y="583" type="curve"/>
+      <point x="281" y="560" type="line"/>
+      <point x="377" y="286"/>
+      <point x="559" y="57"/>
+      <point x="906" y="-73" type="curve"/>
+      <point x="914" y="-53"/>
+      <point x="935" y="-42"/>
+      <point x="956" y="-41" type="curve"/>
+      <point x="959" y="-30" type="line"/>
+      <point x="591" y="85"/>
+      <point x="399" y="315"/>
+    </contour>
+    <contour>
+      <point x="376" y="834" type="line"/>
+      <point x="310" y="623"/>
+      <point x="195" y="433"/>
+      <point x="78" y="317" type="curve"/>
+      <point x="93" y="304" type="line"/>
+      <point x="223" y="412"/>
+      <point x="340" y="587"/>
+      <point x="416" y="788" type="curve"/>
+      <point x="437" y="787"/>
+      <point x="449" y="796"/>
+      <point x="454" y="807" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>robocjk.status</key>
+      <integer>0</integer>
+      <key>robocjk.variationGlyphs</key>
+      <array>
+        <dict>
+          <key>layerName</key>
+          <string>wght=1</string>
+          <key>location</key>
+          <dict>
+            <key>wght</key>
+            <real>1.0</real>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>wght=1</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

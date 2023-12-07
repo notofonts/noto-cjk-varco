@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni53C8" format="2">
+  <advance width="1000"/>
+  <unicode hex="53C8"/>
+  <outline>
+    <contour>
+      <point x="93" y="726" type="line"/>
+      <point x="102" y="696" type="line"/>
+      <point x="782" y="696" type="line"/>
+      <point x="782" y="726" type="line"/>
+    </contour>
+    <contour>
+      <point x="762" y="726" type="line"/>
+      <point x="665" y="377"/>
+      <point x="434" y="91"/>
+      <point x="45" y="-59" type="curve"/>
+      <point x="56" y="-77" type="line"/>
+      <point x="487" y="67"/>
+      <point x="699" y="351"/>
+      <point x="810" y="688" type="curve"/>
+      <point x="833" y="690"/>
+      <point x="844" y="692"/>
+      <point x="852" y="700" type="curve"/>
+      <point x="789" y="761" type="line"/>
+      <point x="753" y="726" type="line"/>
+    </contour>
+    <contour>
+      <point x="259" y="726" type="curve"/>
+      <point x="239" y="713" type="line"/>
+      <point x="327" y="335"/>
+      <point x="567" y="59"/>
+      <point x="901" y="-74" type="curve"/>
+      <point x="913" y="-51"/>
+      <point x="936" y="-39"/>
+      <point x="959" y="-41" type="curve"/>
+      <point x="963" y="-30" type="line"/>
+      <point x="615" y="90"/>
+      <point x="354" y="363"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>robocjk.status</key>
+      <integer>0</integer>
+      <key>robocjk.variationGlyphs</key>
+      <array>
+        <dict>
+          <key>layerName</key>
+          <string>wght=1</string>
+          <key>location</key>
+          <dict>
+            <key>wght</key>
+            <real>1.0</real>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>wght=1</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>
