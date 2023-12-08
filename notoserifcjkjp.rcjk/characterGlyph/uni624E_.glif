@@ -3,55 +3,6 @@
   <advance width="1000"/>
   <unicode hex="624E"/>
   <outline>
-    <contour>
-      <point x="51" y="608" type="line"/>
-      <point x="59" y="578" type="line"/>
-      <point x="431" y="578" type="line" smooth="yes"/>
-      <point x="444" y="578"/>
-      <point x="453" y="583"/>
-      <point x="455" y="594" type="curve"/>
-      <point x="429" y="621"/>
-      <point x="386" y="654"/>
-      <point x="386" y="654" type="curve"/>
-      <point x="348" y="608" type="line"/>
-    </contour>
-    <contour>
-      <point x="234" y="834" type="line"/>
-      <point x="234" y="16" type="line" smooth="yes"/>
-      <point x="234" y="-2"/>
-      <point x="228" y="-8"/>
-      <point x="206" y="-8" type="curve" smooth="yes"/>
-      <point x="183" y="-8"/>
-      <point x="66" y="1"/>
-      <point x="66" y="1" type="curve"/>
-      <point x="66" y="-16" type="line"/>
-      <point x="114" y="-21"/>
-      <point x="145" y="-27"/>
-      <point x="161" y="-36" type="curve" smooth="yes"/>
-      <point x="175" y="-44"/>
-      <point x="181" y="-57"/>
-      <point x="185" y="-72" type="curve"/>
-      <point x="269" y="-63"/>
-      <point x="278" y="-32"/>
-      <point x="278" y="11" type="curve" smooth="yes"/>
-      <point x="278" y="798" type="line"/>
-      <point x="302" y="801"/>
-      <point x="311" y="811"/>
-      <point x="314" y="825" type="curve"/>
-    </contour>
-    <contour>
-      <point x="31" y="290" type="curve"/>
-      <point x="63" y="227" type="line"/>
-      <point x="71" y="231"/>
-      <point x="79" y="240"/>
-      <point x="81" y="251" type="curve"/>
-      <point x="244" y="322"/>
-      <point x="371" y="384"/>
-      <point x="467" y="428" type="curve"/>
-      <point x="461" y="443" type="line"/>
-      <point x="279" y="375"/>
-      <point x="102" y="308"/>
-    </contour>
   </outline>
   <lib>
     <dict>
@@ -93,9 +44,61 @@
             <integer>-6</integer>
           </dict>
         </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>gou_length</key>
+            <real>17.3926668755876</real>
+            <key>heng_X</key>
+            <real>-3.36362686723076</real>
+            <key>heng_head</key>
+            <integer>0</integer>
+            <key>heng_head_height</key>
+            <integer>0</integer>
+            <key>heng_height</key>
+            <real>-11.3861903269612</real>
+            <key>heng_length</key>
+            <real>-46.1506319857934</real>
+            <key>rise_X</key>
+            <real>-3.36362686723076</real>
+            <key>rise_height</key>
+            <real>-8.71200250705108</real>
+            <key>rise_length</key>
+            <real>-16.7345659667816</real>
+            <key>rise_rot</key>
+            <real>5.91350673769978</real>
+            <key>rise_slope</key>
+            <real>7.9191476026324</real>
+            <key>shu_height</key>
+            <integer>906</integer>
+            <key>thickness_H</key>
+            <integer>0</integer>
+            <key>thickness_V</key>
+            <integer>0</integer>
+          </dict>
+          <key>name</key>
+          <string>VG_624C_00</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>-23</integer>
+            <key>y</key>
+            <integer>0</integer>
+          </dict>
+        </dict>
       </array>
       <key>robocjk.status</key>
-      <integer>0</integer>
+      <integer>1</integer>
       <key>robocjk.variationGlyphs</key>
       <array>
         <dict>
@@ -137,9 +140,61 @@
                 <integer>-22</integer>
               </dict>
             </dict>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>gou_length</key>
+                <real>-2.66374177373865</real>
+                <key>heng_X</key>
+                <real>-0.6894390473206</real>
+                <key>heng_head</key>
+                <real>6.34075002611512</real>
+                <key>heng_head_height</key>
+                <real>50.4648490546328</real>
+                <key>heng_height</key>
+                <real>-3.36362686723076</real>
+                <key>heng_length</key>
+                <real>-32.7796928862426</real>
+                <key>rise_X</key>
+                <real>-3.36362686723076</real>
+                <key>rise_height</key>
+                <real>1.98474877258956</real>
+                <key>rise_length</key>
+                <real>-16.7345659667816</real>
+                <key>rise_rot</key>
+                <real>0.6988404888749642</real>
+                <key>rise_slope</key>
+                <real>22.7608900031338</real>
+                <key>shu_height</key>
+                <integer>906</integer>
+                <key>thickness_H</key>
+                <real>15.4413454507469</real>
+                <key>thickness_V</key>
+                <integer>0</integer>
+              </dict>
+              <key>name</key>
+              <string>VG_624C_00</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>-42</integer>
+                <key>y</key>
+                <integer>0</integer>
+              </dict>
+            </dict>
           </array>
           <key>layerName</key>
-          <string>wght=1</string>
+          <string></string>
           <key>location</key>
           <dict>
             <key>wght</key>
@@ -150,7 +205,7 @@
           <key>sourceName</key>
           <string>wght=1</string>
           <key>status</key>
-          <integer>0</integer>
+          <integer>1</integer>
         </dict>
       </array>
     </dict>

@@ -169,62 +169,288 @@
       <point x="328" y="837" type="line"/>
       <point x="328" y="752" type="line"/>
     </contour>
-    <contour>
-      <point x="46" y="141" type="line"/>
-      <point x="55" y="111" type="line"/>
-      <point x="930" y="111" type="line" smooth="yes"/>
-      <point x="944" y="111"/>
-      <point x="953" y="116"/>
-      <point x="956" y="127" type="curve"/>
-      <point x="926" y="152"/>
-      <point x="884" y="179"/>
-      <point x="884" y="179" type="curve"/>
-      <point x="846" y="141" type="line"/>
-    </contour>
-    <contour>
-      <point x="436" y="141" type="line"/>
-      <point x="340" y="65"/>
-      <point x="188" y="3"/>
-      <point x="33" y="-36" type="curve"/>
-      <point x="41" y="-56" type="line"/>
-      <point x="213" y="-22"/>
-      <point x="379" y="39"/>
-      <point x="489" y="125" type="curve"/>
-      <point x="489" y="141" type="line"/>
-    </contour>
-    <contour>
-      <point x="522" y="141" type="curve"/>
-      <point x="507" y="128" type="line"/>
-      <point x="597" y="45"/>
-      <point x="771" y="-19"/>
-      <point x="921" y="-49" type="curve"/>
-      <point x="927" y="-27"/>
-      <point x="944" y="-15"/>
-      <point x="964" y="-13" type="curve"/>
-      <point x="964" y="-1" type="line"/>
-      <point x="810" y="19"/>
-      <point x="614" y="71"/>
-    </contour>
-    <contour>
-      <point x="477" y="205" type="line"/>
-      <point x="477" y="-73" type="line"/>
-      <point x="486" y="-73" type="line" smooth="yes"/>
-      <point x="502" y="-73"/>
-      <point x="521" y="-62"/>
-      <point x="521" y="-55" type="curve" smooth="yes"/>
-      <point x="521" y="171" type="line"/>
-      <point x="543" y="174"/>
-      <point x="552" y="183"/>
-      <point x="554" y="196" type="curve"/>
-    </contour>
   </outline>
   <lib>
     <dict>
+      <key>robocjk.deepComponents</key>
+      <array>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>barb</key>
+            <integer>1</integer>
+            <key>barb_size</key>
+            <integer>0</integer>
+            <key>crop_corner</key>
+            <integer>0</integer>
+            <key>flat_end</key>
+            <integer>0</integer>
+            <key>length</key>
+            <integer>279</integer>
+            <key>start_slope</key>
+            <integer>0</integer>
+            <key>thickness</key>
+            <integer>-2</integer>
+          </dict>
+          <key>name</key>
+          <string>VG_4E28_00</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>3</integer>
+            <key>y</key>
+            <integer>-2</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>head</key>
+            <real>66.7704695301371</real>
+            <key>head-height</key>
+            <real>-2.68687212668142</real>
+            <key>thickness</key>
+            <real>29.4312957602588</real>
+            <key>width</key>
+            <integer>948</integer>
+          </dict>
+          <key>name</key>
+          <string>VG_4E00_00</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>0</integer>
+            <key>y</key>
+            <real>-289.47464788732395</real>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>bend</key>
+            <real>-17.057026305628792</real>
+            <key>end_pointy</key>
+            <real>57.83645856066079</real>
+            <key>length</key>
+            <real>369.28854509656264</real>
+            <key>thickness</key>
+            <integer>0</integer>
+          </dict>
+          <key>name</key>
+          <string>VG_31CF_00</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <real>32.77183098591549</real>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <real>688.6851111488868</real>
+            <key>y</key>
+            <real>-718.1877199967901</real>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>bend</key>
+            <real>-15.813474410227737</real>
+            <key>length</key>
+            <real>386.62949041088024</real>
+            <key>startcorner_crop</key>
+            <real>57.1816567429228</real>
+            <key>thickness</key>
+            <integer>0</integer>
+          </dict>
+          <key>name</key>
+          <string>VG_31D2_00</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <real>-31.8830985915493</real>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <real>-542.4162583413276</real>
+            <key>y</key>
+            <real>-199.17381437471408</real>
+          </dict>
+        </dict>
+      </array>
       <key>robocjk.status</key>
-      <integer>0</integer>
+      <integer>1</integer>
       <key>robocjk.variationGlyphs</key>
       <array>
         <dict>
+          <key>deepComponents</key>
+          <array>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>barb</key>
+                <integer>1</integer>
+                <key>barb_size</key>
+                <integer>0</integer>
+                <key>crop_corner</key>
+                <integer>0</integer>
+                <key>flat_end</key>
+                <real>0.454622850332028</real>
+                <key>length</key>
+                <real>257.290992678359</real>
+                <key>start_slope</key>
+                <integer>0</integer>
+                <key>thickness</key>
+                <real>-15.66116124638175</real>
+              </dict>
+              <key>name</key>
+              <string>VG_4E28_00</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>10</integer>
+                <key>y</key>
+                <integer>1</integer>
+              </dict>
+            </dict>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>head</key>
+                <real>79.75168759786362</real>
+                <key>head-height</key>
+                <real>-17.9431295760259</real>
+                <key>thickness</key>
+                <integer>28</integer>
+                <key>width</key>
+                <integer>930</integer>
+              </dict>
+              <key>name</key>
+              <string>VG_4E00_00</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>-9</integer>
+                <key>y</key>
+                <real>-297.15164407182033</real>
+              </dict>
+            </dict>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>bend</key>
+                <real>-23.821017048780753</real>
+                <key>end_pointy</key>
+                <real>72.72001727992512</real>
+                <key>length</key>
+                <real>335.5473498634602</real>
+                <key>thickness</key>
+                <real>-11.902161369978412</real>
+              </dict>
+              <key>name</key>
+              <string>VG_31CF_00</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <real>30.208958158965693</real>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <real>679.281945821563</real>
+                <key>y</key>
+                <real>-736.9230171422782</real>
+              </dict>
+            </dict>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>bend</key>
+                <real>-16.10691353487106</real>
+                <key>length</key>
+                <real>390.4957629992613</real>
+                <key>startcorner_crop</key>
+                <real>67.2098610675859</real>
+                <key>thickness</key>
+                <real>-15.05880815652543</real>
+              </dict>
+              <key>name</key>
+              <string>VG_31D2_00</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <real>-27.872390481146702</real>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <real>-516.7527885793903</real>
+                <key>y</key>
+                <real>-285.52192350440174</real>
+              </dict>
+            </dict>
+          </array>
           <key>layerName</key>
           <string>wght=1</string>
           <key>location</key>
@@ -237,7 +463,7 @@
           <key>sourceName</key>
           <string>wght=1</string>
           <key>status</key>
-          <integer>0</integer>
+          <integer>1</integer>
         </dict>
       </array>
     </dict>

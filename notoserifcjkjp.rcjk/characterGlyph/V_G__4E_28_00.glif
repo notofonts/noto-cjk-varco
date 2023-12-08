@@ -91,6 +91,16 @@
           <key>name</key>
           <string>barb_size</string>
         </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>30</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>barb_slope</string>
+        </dict>
       </array>
       <key>robocjk.status</key>
       <integer>0</integer>
@@ -324,6 +334,38 @@
           <true/>
           <key>sourceName</key>
           <string>barb_size=-20</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>barb_slope=30</string>
+          <key>location</key>
+          <dict>
+            <key>barb_slope</key>
+            <integer>30</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>barb_slope=30</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>wght=1,barb_slope=30</string>
+          <key>location</key>
+          <dict>
+            <key>barb_slope</key>
+            <integer>30</integer>
+            <key>wght</key>
+            <integer>1</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>wght=1,barb_slope=30</string>
           <key>status</key>
           <integer>0</integer>
         </dict>

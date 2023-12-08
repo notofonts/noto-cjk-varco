@@ -65,7 +65,7 @@
           <key>maxValue</key>
           <integer>20</integer>
           <key>minValue</key>
-          <integer>-20</integer>
+          <integer>-40</integer>
           <key>name</key>
           <string>thickness_v</string>
         </dict>
@@ -108,6 +108,16 @@
           <integer>-20</integer>
           <key>name</key>
           <string>corner_node</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>30</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>corner_length</string>
         </dict>
       </array>
       <key>robocjk.status</key>
@@ -404,6 +414,36 @@
           <true/>
           <key>sourceName</key>
           <string>wght=1,corner_node=20</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>corner_length=30</string>
+          <key>location</key>
+          <dict>
+            <key>corner_length</key>
+            <integer>30</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>corner_length=30</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>thickness_v=-40</string>
+          <key>location</key>
+          <dict>
+            <key>thickness_v</key>
+            <integer>-40</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>thickness_v=-40</string>
           <key>status</key>
           <integer>0</integer>
         </dict>

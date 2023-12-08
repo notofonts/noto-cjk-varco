@@ -26,6 +26,16 @@
           <key>name</key>
           <string>length</string>
         </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>20</integer>
+          <key>minValue</key>
+          <integer>-20</integer>
+          <key>name</key>
+          <string>thickness</string>
+        </dict>
       </array>
       <key>robocjk.status</key>
       <integer>0</integer>
@@ -75,6 +85,55 @@
           <true/>
           <key>sourceName</key>
           <string>wght=1,length=70</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>thickness=-20</string>
+          <key>location</key>
+          <dict>
+            <key>thickness</key>
+            <integer>-20</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>thickness=-20</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>thickness=20</string>
+          <key>location</key>
+          <dict>
+            <key>thickness</key>
+            <integer>20</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>thickness=20</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>wght=1,length=70,thickness=-20</string>
+          <key>location</key>
+          <dict>
+            <key>length</key>
+            <integer>70</integer>
+            <key>thickness</key>
+            <integer>-20</integer>
+            <key>wght</key>
+            <integer>1</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>wght=1,length=70,thickness=-20</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
