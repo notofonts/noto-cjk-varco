@@ -14,7 +14,7 @@
       <point x="902" y="-120" type="line"/>
       <point x="908" y="-120" type="line" smooth="yes"/>
       <point x="923" y="-120"/>
-      <point x="944" y="-110"/>
+      <point x="946" y="-110"/>
       <point x="946" y="-105" type="curve"/>
       <point x="946" y="798" type="line"/>
       <point x="970" y="802"/>
@@ -208,6 +208,26 @@
           <integer>-20</integer>
           <key>name</key>
           <string>B_H_weight</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>100</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>L_S_bottom_curve</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>100</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>R_S_bottom_curve</string>
         </dict>
       </array>
       <key>robocjk.status</key>
@@ -710,6 +730,36 @@
           <true/>
           <key>sourceName</key>
           <string>B_H_weight=-20</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>L_S_bottom_curve=0</string>
+          <key>location</key>
+          <dict>
+            <key>L_S_bottom_curve</key>
+            <integer>0</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>L_S_bottom_curve=0</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>R_S_bottom_curve=0</string>
+          <key>location</key>
+          <dict>
+            <key>R_S_bottom_curve</key>
+            <integer>0</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>R_S_bottom_curve=0</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
