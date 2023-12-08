@@ -61,21 +61,21 @@
         </dict>
         <dict>
           <key>defaultValue</key>
-          <integer>36</integer>
-          <key>maxValue</key>
-          <integer>46</integer>
-          <key>minValue</key>
           <integer>0</integer>
+          <key>maxValue</key>
+          <integer>30</integer>
+          <key>minValue</key>
+          <integer>-30</integer>
           <key>name</key>
           <string>serif_width</string>
         </dict>
         <dict>
           <key>defaultValue</key>
-          <integer>28</integer>
-          <key>maxValue</key>
-          <integer>36</integer>
-          <key>minValue</key>
           <integer>0</integer>
+          <key>maxValue</key>
+          <integer>30</integer>
+          <key>minValue</key>
+          <integer>-30</integer>
           <key>name</key>
           <string>serif_height</string>
         </dict>
@@ -183,6 +183,96 @@
           <true/>
           <key>sourceName</key>
           <string>serif_moveV=-100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>serif_width=30</string>
+          <key>location</key>
+          <dict>
+            <key>serif_width</key>
+            <integer>30</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>serif_width=30</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>serif_width=-30</string>
+          <key>location</key>
+          <dict>
+            <key>serif_width</key>
+            <integer>-30</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>serif_width=-30</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>serif_height=30</string>
+          <key>location</key>
+          <dict>
+            <key>serif_height</key>
+            <integer>30</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>serif_height=30</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>serif_height=-30</string>
+          <key>location</key>
+          <dict>
+            <key>serif_height</key>
+            <integer>-30</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>serif_height=-30</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>serif_curve=100</string>
+          <key>location</key>
+          <dict>
+            <key>serif_curve</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>serif_curve=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>serif_curve=-100·</string>
+          <key>location</key>
+          <dict>
+            <key>serif_curve</key>
+            <integer>-100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>serif_curve=-100·</string>
           <key>status</key>
           <integer>0</integer>
         </dict>

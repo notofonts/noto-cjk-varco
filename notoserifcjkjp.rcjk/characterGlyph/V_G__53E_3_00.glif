@@ -69,6 +69,66 @@
           <key>name</key>
           <string>width</string>
         </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>30</integer>
+          <key>minValue</key>
+          <integer>-30</integer>
+          <key>name</key>
+          <string>TL_serif_height</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>30</integer>
+          <key>minValue</key>
+          <integer>-30</integer>
+          <key>name</key>
+          <string>TL_serif_width</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>30</integer>
+          <key>minValue</key>
+          <integer>-30</integer>
+          <key>name</key>
+          <string>TR_serif_right_height</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>30</integer>
+          <key>minValue</key>
+          <integer>-30</integer>
+          <key>name</key>
+          <string>TR_serif_right_width</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>30</integer>
+          <key>minValue</key>
+          <integer>-30</integer>
+          <key>name</key>
+          <string>TR_serif_top_height</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>30</integer>
+          <key>minValue</key>
+          <integer>-30</integer>
+          <key>name</key>
+          <string>TR_serif_top_width</string>
+        </dict>
       </array>
       <key>robocjk.status</key>
       <integer>0</integer>
@@ -116,6 +176,36 @@
           <true/>
           <key>sourceName</key>
           <string>weight=160</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>TL_serif_height=30</string>
+          <key>location</key>
+          <dict>
+            <key>TL_serif_height</key>
+            <integer>30</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>TL_serif_height=30</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>TL_serif_height=-30</string>
+          <key>location</key>
+          <dict>
+            <key>TL_serif_height</key>
+            <integer>-30</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>TL_serif_height=-30</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
