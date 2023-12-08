@@ -20,7 +20,7 @@ jobs:
           pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Export Hangul test UFOs
+      - name: Export Fontra sources and TTF
         run: ./export_and_build.sh
 
       - name: Storing Fontra Sources
