@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="VG_4E00_00" format="2">
+<glyph name="VG_4E00_00.alt" format="2">
   <advance width="1000"/>
   <outline>
     <contour>
-      <point x="895" y="505" type="curve"/>
-      <point x="840" y="434" type="line"/>
-      <point x="0" y="434" type="line"/>
-      <point x="10" y="401" type="line"/>
-      <point x="970" y="401" type="line" smooth="yes"/>
-      <point x="986" y="401"/>
-      <point x="997" y="404"/>
-      <point x="1000" y="416" type="curve"/>
-      <point x="959" y="454"/>
-      <point x="895" y="505"/>
+      <point x="848" y="505" type="curve"/>
+      <point x="793" y="434" type="line"/>
+      <point x="53" y="434" type="line"/>
+      <point x="63" y="401" type="line"/>
+      <point x="923" y="401" type="line" smooth="yes"/>
+      <point x="939" y="401"/>
+      <point x="950" y="404"/>
+      <point x="953" y="416" type="curve"/>
+      <point x="912" y="454"/>
+      <point x="848" y="505"/>
     </contour>
   </outline>
   <lib>
@@ -21,7 +21,7 @@
       <array>
         <dict>
           <key>defaultValue</key>
-          <integer>1000</integer>
+          <integer>951</integer>
           <key>maxValue</key>
           <integer>1000</integer>
           <key>minValue</key>
@@ -33,41 +33,31 @@
           <key>defaultValue</key>
           <integer>33</integer>
           <key>maxValue</key>
-          <integer>50</integer>
+          <integer>70</integer>
           <key>minValue</key>
           <integer>10</integer>
           <key>name</key>
-          <string>weight</string>
+          <string>thickness</string>
         </dict>
         <dict>
           <key>defaultValue</key>
-          <integer>104</integer>
+          <integer>105</integer>
           <key>maxValue</key>
-          <integer>208</integer>
+          <integer>150</integer>
           <key>minValue</key>
-          <integer>42</integer>
+          <integer>50</integer>
           <key>name</key>
-          <string>serif_height</string>
-        </dict>
-        <dict>
-          <key>defaultValue</key>
-          <integer>160</integer>
-          <key>maxValue</key>
-          <integer>320</integer>
-          <key>minValue</key>
-          <integer>32</integer>
-          <key>name</key>
-          <string>serif_width</string>
+          <string>head</string>
         </dict>
         <dict>
           <key>defaultValue</key>
           <integer>0</integer>
           <key>maxValue</key>
-          <integer>50</integer>
+          <integer>20</integer>
           <key>minValue</key>
-          <integer>-50</integer>
+          <integer>-20</integer>
           <key>name</key>
-          <string>L_cutangle</string>
+          <string>head-height</string>
         </dict>
       </array>
       <key>robocjk.status</key>
@@ -76,155 +66,153 @@
       <array>
         <dict>
           <key>layerName</key>
-          <string>width=100</string>
+          <string>wght=1</string>
+          <key>location</key>
+          <dict>
+            <key>wght</key>
+            <integer>1</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>wght=1</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>width=1000</string>
           <key>location</key>
           <dict>
             <key>width</key>
-            <integer>100</integer>
+            <integer>1000</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>width=100</string>
+          <string>width=1000</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
         <dict>
           <key>layerName</key>
-          <string>weight=32,serif_height=164,serif_width=257</string>
+          <string>width=200</string>
           <key>location</key>
           <dict>
-            <key>serif_height</key>
-            <integer>164</integer>
-            <key>serif_width</key>
-            <integer>257</integer>
-            <key>weight</key>
-            <integer>32</integer>
+            <key>width</key>
+            <integer>200</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>weight=32,serif_height=164,serif_width=257</string>
+          <string>width=200</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
         <dict>
           <key>layerName</key>
-          <string>serif_width=32</string>
+          <string>thickness=70</string>
           <key>location</key>
           <dict>
-            <key>serif_width</key>
-            <integer>32</integer>
+            <key>thickness</key>
+            <integer>70</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>serif_width=32</string>
+          <string>thickness=70</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
         <dict>
           <key>layerName</key>
-          <string>serif_width=320</string>
+          <string>thickness=10</string>
           <key>location</key>
           <dict>
-            <key>serif_width</key>
-            <integer>320</integer>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>serif_width=320</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
-          <string>serif_height=208</string>
-          <key>location</key>
-          <dict>
-            <key>serif_height</key>
-            <integer>208</integer>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>serif_height=208</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
-          <string>serif_height=42</string>
-          <key>location</key>
-          <dict>
-            <key>serif_height</key>
-            <integer>42</integer>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>serif_height=42</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
-          <string>weight=10</string>
-          <key>location</key>
-          <dict>
-            <key>weight</key>
+            <key>thickness</key>
             <integer>10</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>weight=10</string>
+          <string>thickness=10</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
         <dict>
           <key>layerName</key>
-          <string>weight=50</string>
+          <string>head=50</string>
           <key>location</key>
           <dict>
-            <key>weight</key>
+            <key>head</key>
             <integer>50</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>weight=50</string>
+          <string>head=50</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
         <dict>
           <key>layerName</key>
-          <string>L_cutangle=50</string>
+          <string>head=150</string>
           <key>location</key>
           <dict>
-            <key>L_cutangle</key>
+            <key>head</key>
+            <integer>150</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>head=150</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>head-height=20</string>
+          <key>location</key>
+          <dict>
+            <key>head-height</key>
+            <integer>20</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>head-height=20</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>head-height=-20</string>
+          <key>location</key>
+          <dict>
+            <key>head-height</key>
+            <integer>-20</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>head-height=-20</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>wght=1,head=50</string>
+          <key>location</key>
+          <dict>
+            <key>head</key>
             <integer>50</integer>
+            <key>wght</key>
+            <integer>1</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>L_cutangle=50</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
-          <string>L_cutangle=-50</string>
-          <key>location</key>
-          <dict>
-            <key>L_cutangle</key>
-            <integer>-50</integer>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>L_cutangle=-50</string>
+          <string>wght=1,head=50</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
