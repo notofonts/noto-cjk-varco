@@ -213,7 +213,7 @@
           <key>defaultValue</key>
           <integer>100</integer>
           <key>maxValue</key>
-          <integer>100</integer>
+          <integer>200</integer>
           <key>minValue</key>
           <integer>0</integer>
           <key>name</key>
@@ -223,7 +223,7 @@
           <key>defaultValue</key>
           <integer>100</integer>
           <key>maxValue</key>
-          <integer>100</integer>
+          <integer>200</integer>
           <key>minValue</key>
           <integer>0</integer>
           <key>name</key>
@@ -760,6 +760,104 @@
           <true/>
           <key>sourceName</key>
           <string>R_S_bottom_curve=0</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>L_S_bottom_curve=200</string>
+          <key>location</key>
+          <dict>
+            <key>L_S_bottom_curve</key>
+            <integer>200</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>L_S_bottom_curve=200</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>R_S_bottom_curve=200</string>
+          <key>location</key>
+          <dict>
+            <key>R_S_bottom_curve</key>
+            <integer>200</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>R_S_bottom_curve=200</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>weight=160,L_S_bottom_curve=200</string>
+          <key>location</key>
+          <dict>
+            <key>L_S_bottom_curve</key>
+            <integer>200</integer>
+            <key>weight</key>
+            <integer>160</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>weight=160,L_S_bottom_curve=200</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>weight=160,L_S_bottom_curve=0</string>
+          <key>location</key>
+          <dict>
+            <key>L_S_bottom_curve</key>
+            <integer>0</integer>
+            <key>weight</key>
+            <integer>160</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>weight=160,L_S_bottom_curve=0</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>weight=160,R_S_bottom_curve=0</string>
+          <key>location</key>
+          <dict>
+            <key>R_S_bottom_curve</key>
+            <integer>0</integer>
+            <key>weight</key>
+            <integer>160</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>weight=160,R_S_bottom_curve=0</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>weight=160,R_S_bottom_curve=200</string>
+          <key>location</key>
+          <dict>
+            <key>R_S_bottom_curve</key>
+            <integer>200</integer>
+            <key>weight</key>
+            <integer>160</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>weight=160,R_S_bottom_curve=200</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
