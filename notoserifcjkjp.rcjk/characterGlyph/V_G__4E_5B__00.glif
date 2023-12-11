@@ -34,7 +34,7 @@
           <key>maxValue</key>
           <integer>189</integer>
           <key>minValue</key>
-          <integer>110</integer>
+          <integer>90</integer>
           <key>name</key>
           <string>G_length</string>
         </dict>
@@ -804,6 +804,72 @@
           <true/>
           <key>sourceName</key>
           <string>left_point2_mH=20</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>G_length=90</string>
+          <key>location</key>
+          <dict>
+            <key>G_length</key>
+            <integer>90</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>G_length=90</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>G_length=110,G_width=-50</string>
+          <key>location</key>
+          <dict>
+            <key>G_length</key>
+            <integer>110</integer>
+            <key>G_width</key>
+            <integer>-50</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>G_length=110,G_width=-50</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>G_length=110,G_width=50</string>
+          <key>location</key>
+          <dict>
+            <key>G_length</key>
+            <integer>110</integer>
+            <key>G_width</key>
+            <integer>50</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>G_length=110,G_width=50</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>G_length=90,G_width=50</string>
+          <key>location</key>
+          <dict>
+            <key>G_length</key>
+            <integer>90</integer>
+            <key>G_width</key>
+            <integer>50</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>G_length=90,G_width=50</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
