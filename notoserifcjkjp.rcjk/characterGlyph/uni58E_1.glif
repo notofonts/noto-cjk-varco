@@ -264,6 +264,22 @@
             <integer>356</integer>
             <key>H_weight</key>
             <integer>30</integer>
+            <key>bottom_point1_mH</key>
+            <integer>-1</integer>
+            <key>bottom_point2_mV</key>
+            <integer>-1</integer>
+            <key>leftbottom_curve</key>
+            <integer>5</integer>
+            <key>right_point1_mH</key>
+            <integer>2</integer>
+            <key>right_point2_mV</key>
+            <integer>-1</integer>
+            <key>rightbottom_curve</key>
+            <integer>-7</integer>
+            <key>rightmiddle_curve</key>
+            <integer>14</integer>
+            <key>top_point_mH</key>
+            <integer>-1</integer>
           </dict>
           <key>name</key>
           <string>VG_4E5B_00</string>
@@ -299,7 +315,7 @@
                 <key>G_bottomright_curve</key>
                 <integer>11</integer>
                 <key>G_length</key>
-                <integer>121</integer>
+                <integer>120</integer>
                 <key>G_middleright_curve</key>
                 <integer>0</integer>
                 <key>G_middlerightpoint_moveH</key>
@@ -313,13 +329,33 @@
                 <key>G_toppoint_moveV</key>
                 <integer>4</integer>
                 <key>G_weight</key>
-                <integer>64</integer>
+                <integer>73</integer>
                 <key>G_width</key>
-                <integer>6</integer>
+                <integer>8</integer>
                 <key>H_length</key>
-                <integer>670</integer>
+                <integer>370</integer>
                 <key>H_weight</key>
                 <integer>28</integer>
+                <key>bottom_point2_mH</key>
+                <integer>-1</integer>
+                <key>bottom_point2_mV</key>
+                <integer>1</integer>
+                <key>left_point2_mH</key>
+                <integer>-1</integer>
+                <key>right_point1_mH</key>
+                <integer>0</integer>
+                <key>right_point1_mV</key>
+                <integer>0</integer>
+                <key>right_point2_mH</key>
+                <integer>0</integer>
+                <key>right_point2_mV</key>
+                <integer>0</integer>
+                <key>rightbottom_curve</key>
+                <integer>16</integer>
+                <key>top_point_mH</key>
+                <integer>0</integer>
+                <key>top_point_mV</key>
+                <integer>1</integer>
               </dict>
               <key>name</key>
               <string>VG_4E5B_00</string>
@@ -336,7 +372,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>-373</integer>
+                <integer>-355</integer>
                 <key>y</key>
                 <integer>138</integer>
               </dict>
