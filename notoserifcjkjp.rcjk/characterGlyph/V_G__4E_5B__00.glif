@@ -208,6 +208,26 @@
           <key>name</key>
           <string>leftbottom_curve</string>
         </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>20</integer>
+          <key>minValue</key>
+          <integer>-20</integer>
+          <key>name</key>
+          <string>left_point1_mH</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>20</integer>
+          <key>minValue</key>
+          <integer>-20</integer>
+          <key>name</key>
+          <string>left_point2_mH</string>
+        </dict>
       </array>
       <key>robocjk.status</key>
       <integer>0</integer>
@@ -724,6 +744,66 @@
           <true/>
           <key>sourceName</key>
           <string>wght=1,G_length=110,G_weight=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>left_point1_mH=-20</string>
+          <key>location</key>
+          <dict>
+            <key>left_point1_mH</key>
+            <integer>-20</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>left_point1_mH=-20</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>left_point1_mH=20</string>
+          <key>location</key>
+          <dict>
+            <key>left_point1_mH</key>
+            <integer>20</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>left_point1_mH=20</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>left_point2_mH=-20</string>
+          <key>location</key>
+          <dict>
+            <key>left_point2_mH</key>
+            <integer>-20</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>left_point2_mH=-20</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>left_point2_mH=20</string>
+          <key>location</key>
+          <dict>
+            <key>left_point2_mH</key>
+            <integer>20</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>left_point2_mH=20</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
