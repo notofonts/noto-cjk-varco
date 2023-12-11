@@ -6,6 +6,9 @@
       <point x="500" y="880" type="line"/>
       <point x="510" y="880" type="line"/>
       <point x="510" y="-120" type="line"/>
+      <point x="510" y="-120"/>
+      <point x="505" y="-120"/>
+      <point x="502" y="-120" type="curve"/>
       <point x="500" y="-120" type="line"/>
     </contour>
   </outline>
@@ -32,6 +35,16 @@
           <integer>10</integer>
           <key>name</key>
           <string>height</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>B_curve</string>
         </dict>
       </array>
       <key>robocjk.status</key>
@@ -65,6 +78,38 @@
           <true/>
           <key>sourceName</key>
           <string>height=10</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>B_curve=100</string>
+          <key>location</key>
+          <dict>
+            <key>B_curve</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>B_curve=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>weight=44,B_curve=100</string>
+          <key>location</key>
+          <dict>
+            <key>B_curve</key>
+            <integer>100</integer>
+            <key>weight</key>
+            <integer>44</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>weight=44,B_curve=100</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
