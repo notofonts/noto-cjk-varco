@@ -3,8 +3,8 @@
   <advance width="1000"/>
   <outline>
     <contour>
-      <point x="164" y="543" type="line"/>
-      <point x="164" y="513" type="line"/>
+      <point x="-142" y="543" type="line"/>
+      <point x="-142" y="513" type="line"/>
       <point x="891" y="513" type="line"/>
       <point x="891" y="543" type="line"/>
     </contour>
@@ -97,6 +97,36 @@
           <integer>-100</integer>
           <key>name</key>
           <string>G_middleright_curve</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>50</integer>
+          <key>minValue</key>
+          <integer>-50</integer>
+          <key>name</key>
+          <string>G_width</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>1000</integer>
+          <key>maxValue</key>
+          <integer>1000</integer>
+          <key>minValue</key>
+          <integer>100</integer>
+          <key>name</key>
+          <string>H_length</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>50</integer>
+          <key>minValue</key>
+          <integer>-50</integer>
+          <key>name</key>
+          <string>G_middlerightpoint_moveH</string>
         </dict>
       </array>
       <key>robocjk.status</key>
@@ -297,6 +327,81 @@
           <true/>
           <key>sourceName</key>
           <string>G_length=110,G_weight=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>G_width=-50</string>
+          <key>location</key>
+          <dict>
+            <key>G_width</key>
+            <integer>-50</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>G_width=-50</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>G_width=50</string>
+          <key>location</key>
+          <dict>
+            <key>G_width</key>
+            <integer>50</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>G_width=50</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>H_length=100</string>
+          <key>location</key>
+          <dict>
+            <key>H_length</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>H_length=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>G_middlerightpoint_moveH=-50</string>
+          <key>location</key>
+          <dict>
+            <key>G_middlerightpoint_moveH</key>
+            <integer>-50</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>G_middlerightpoint_moveH=-50</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>G_middlerightpoint_moveH=50</string>
+          <key>location</key>
+          <dict>
+            <key>G_middlerightpoint_moveH</key>
+            <integer>50</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>G_middlerightpoint_moveH=50</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
