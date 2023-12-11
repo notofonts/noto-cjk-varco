@@ -138,6 +138,26 @@
           <key>name</key>
           <string>G_rightpoint_moveV</string>
         </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>50</integer>
+          <key>minValue</key>
+          <integer>-50</integer>
+          <key>name</key>
+          <string>G_bottomleftpoint_moveH</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>-100</integer>
+          <key>name</key>
+          <string>G_bottomright_curve</string>
+        </dict>
       </array>
       <key>robocjk.status</key>
       <integer>0</integer>
@@ -442,6 +462,66 @@
           <true/>
           <key>sourceName</key>
           <string>G_rightpoint_moveV=50</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>G_bottomleftpoint_moveH=-50</string>
+          <key>location</key>
+          <dict>
+            <key>G_bottomleftpoint_moveH</key>
+            <integer>-50</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>G_bottomleftpoint_moveH=-50</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>G_bottomleftpoint_moveH=50</string>
+          <key>location</key>
+          <dict>
+            <key>G_bottomleftpoint_moveH</key>
+            <integer>50</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>G_bottomleftpoint_moveH=50</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>G_bottomright_curve=-100</string>
+          <key>location</key>
+          <dict>
+            <key>G_bottomright_curve</key>
+            <integer>-100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>G_bottomright_curve=-100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>G_bottomright_curve=100</string>
+          <key>location</key>
+          <dict>
+            <key>G_bottomright_curve</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>G_bottomright_curve=100</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
