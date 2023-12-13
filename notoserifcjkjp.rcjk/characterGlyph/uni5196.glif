@@ -111,8 +111,14 @@
         <dict>
           <key>coord</key>
           <dict>
+            <key>BL_curve_bottom</key>
+            <integer>2</integer>
             <key>BL_curve_top</key>
             <integer>0</integer>
+            <key>BL_point_mH</key>
+            <integer>1</integer>
+            <key>BL_point_mV</key>
+            <integer>-4</integer>
             <key>BR_curve</key>
             <integer>-24</integer>
             <key>BR_point_mH</key>
@@ -122,7 +128,7 @@
             <key>ML_point_mH</key>
             <integer>2</integer>
             <key>R_curve_bottom</key>
-            <integer>0</integer>
+            <integer>2</integer>
             <key>R_curve_top</key>
             <integer>5</integer>
             <key>TB_curve</key>
@@ -130,9 +136,9 @@
             <key>TL_curve</key>
             <integer>30</integer>
             <key>TL_curve_bottom</key>
-            <integer>0</integer>
+            <integer>5</integer>
             <key>TL_curve_top</key>
-            <integer>22</integer>
+            <integer>4</integer>
             <key>TL_point_moveH</key>
             <integer>-1</integer>
             <key>TL_point_moveV</key>
@@ -245,30 +251,48 @@
             <dict>
               <key>coord</key>
               <dict>
+                <key>BL_curve_bottom</key>
+                <integer>0</integer>
+                <key>BL_curve_top</key>
+                <integer>-10</integer>
+                <key>BL_point_mH</key>
+                <integer>1</integer>
                 <key>BL_point_mV</key>
-                <integer>9</integer>
-                <key>BR_curve</key>
                 <integer>-4</integer>
+                <key>BR_curve</key>
+                <integer>-24</integer>
                 <key>BR_point_mH</key>
                 <integer>5</integer>
                 <key>BR_point_mV</key>
-                <integer>-1</integer>
-                <key>B_point_mH</key>
-                <integer>-1</integer>
-                <key>B_point_mV</key>
-                <integer>8</integer>
+                <integer>1</integer>
+                <key>ML_point_mH</key>
+                <integer>2</integer>
+                <key>ML_point_mV</key>
+                <integer>5</integer>
+                <key>R_curve_bottom</key>
+                <integer>-3</integer>
+                <key>R_curve_top</key>
+                <integer>13</integer>
                 <key>TB_curve</key>
                 <integer>0</integer>
                 <key>TL_curve</key>
-                <integer>42</integer>
+                <integer>30</integer>
+                <key>TL_curve_bottom</key>
+                <integer>5</integer>
+                <key>TL_curve_top</key>
+                <integer>9</integer>
+                <key>TL_point_moveH</key>
+                <integer>-1</integer>
+                <key>TL_point_moveV</key>
+                <integer>-1</integer>
                 <key>TR_curve</key>
-                <integer>13</integer>
+                <integer>23</integer>
                 <key>T_point1_moveH</key>
                 <integer>0</integer>
                 <key>T_point1_moveV</key>
                 <integer>-1</integer>
                 <key>height</key>
-                <integer>245</integer>
+                <integer>240</integer>
                 <key>weight</key>
                 <integer>152</integer>
                 <key>width</key>

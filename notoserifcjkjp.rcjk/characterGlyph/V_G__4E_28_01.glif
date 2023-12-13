@@ -46,6 +46,16 @@
           <key>name</key>
           <string>B_curve</string>
         </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>10</integer>
+          <key>minValue</key>
+          <integer>-20</integer>
+          <key>name</key>
+          <string>BR_handle_moveV</string>
+        </dict>
       </array>
       <key>robocjk.status</key>
       <integer>4</integer>
@@ -144,6 +154,31 @@
           <true/>
           <key>sourceName</key>
           <string>weight=200,B_curve=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>fontraLayerName</key>
+          <string>wght=1,weight=145,height=829,B_curve=66,BR_handle_moveV=10</string>
+          <key>layerName</key>
+          <string>wght=1,weight=145,height=829,B_curve=.5519fe2106ee</string>
+          <key>location</key>
+          <dict>
+            <key>BR_handle_moveV</key>
+            <integer>10</integer>
+            <key>B_curve</key>
+            <integer>66</integer>
+            <key>height</key>
+            <integer>829</integer>
+            <key>weight</key>
+            <integer>145</integer>
+            <key>wght</key>
+            <integer>1</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>wght=1,weight=145,height=829,B_curve=66,BR_handle_moveV=10</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
