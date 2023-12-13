@@ -79,9 +79,29 @@
           <key>name</key>
           <string>serif_top_moveH</string>
         </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>10</integer>
+          <key>minValue</key>
+          <integer>-10</integer>
+          <key>name</key>
+          <string>serif_right_moveV</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>10</integer>
+          <key>minValue</key>
+          <integer>-10</integer>
+          <key>name</key>
+          <string>serif_right_curve</string>
+        </dict>
       </array>
       <key>robocjk.status</key>
-      <integer>0</integer>
+      <integer>4</integer>
       <key>robocjk.variationGlyphs</key>
       <array>
         <dict>
@@ -246,6 +266,66 @@
           <true/>
           <key>sourceName</key>
           <string>serif_width=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>serif_right_moveV=10</string>
+          <key>location</key>
+          <dict>
+            <key>serif_right_moveV</key>
+            <integer>10</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>serif_right_moveV=10</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>serif_right_moveV=-10</string>
+          <key>location</key>
+          <dict>
+            <key>serif_right_moveV</key>
+            <integer>-10</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>serif_right_moveV=-10</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>serif_right_curve=-10</string>
+          <key>location</key>
+          <dict>
+            <key>serif_right_curve</key>
+            <integer>-10</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>serif_right_curve=-10</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>serif_right_curve=10</string>
+          <key>location</key>
+          <dict>
+            <key>serif_right_curve</key>
+            <integer>10</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>serif_right_curve=10</string>
           <key>status</key>
           <integer>0</integer>
         </dict>

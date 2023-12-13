@@ -5,16 +5,16 @@
     <contour>
       <point x="358" y="590" type="line"/>
       <point x="359" y="483"/>
-      <point x="304" y="394"/>
-      <point x="248" y="360" type="curve"/>
-      <point x="231" y="348"/>
-      <point x="221" y="330"/>
-      <point x="231" y="315" type="curve" smooth="yes"/>
-      <point x="243" y="298"/>
-      <point x="276" y="308"/>
-      <point x="303" y="329" type="curve" smooth="yes"/>
-      <point x="344" y="361"/>
-      <point x="404" y="445"/>
+      <point x="300" y="394"/>
+      <point x="244" y="360" type="curve"/>
+      <point x="227" y="348"/>
+      <point x="217" y="330"/>
+      <point x="227" y="315" type="curve" smooth="yes"/>
+      <point x="239" y="298"/>
+      <point x="272" y="308"/>
+      <point x="299" y="329" type="curve" smooth="yes"/>
+      <point x="340" y="361"/>
+      <point x="404" y="449"/>
       <point x="377" y="590" type="curve"/>
     </contour>
   </outline>
@@ -24,33 +24,153 @@
       <array>
         <dict>
           <key>defaultValue</key>
+          <integer>150</integer>
+          <key>maxValue</key>
+          <integer>150</integer>
+          <key>minValue</key>
+          <integer>75</integer>
+          <key>name</key>
+          <string>width</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
           <integer>275</integer>
           <key>maxValue</key>
           <integer>275</integer>
           <key>minValue</key>
           <integer>135</integer>
           <key>name</key>
-          <string>length</string>
-        </dict>
-        <dict>
-          <key>defaultValue</key>
-          <integer>0</integer>
-          <key>maxValue</key>
-          <integer>0</integer>
-          <key>minValue</key>
-          <integer>-80</integer>
-          <key>name</key>
           <string>height</string>
         </dict>
         <dict>
           <key>defaultValue</key>
+          <integer>57</integer>
+          <key>maxValue</key>
+          <integer>152</integer>
+          <key>minValue</key>
+          <integer>57</integer>
+          <key>name</key>
+          <string>weight</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
           <integer>0</integer>
           <key>maxValue</key>
-          <integer>0</integer>
+          <integer>20</integer>
           <key>minValue</key>
-          <integer>-90</integer>
+          <integer>-20</integer>
           <key>name</key>
-          <string>width</string>
+          <string>T_point1_moveH</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>20</integer>
+          <key>minValue</key>
+          <integer>-20</integer>
+          <key>name</key>
+          <string>T_point1_moveV</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>-100</integer>
+          <key>name</key>
+          <string>TR_curve</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>-100</integer>
+          <key>name</key>
+          <string>TL_curve</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>20</integer>
+          <key>minValue</key>
+          <integer>-20</integer>
+          <key>name</key>
+          <string>BR_point_mH</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>20</integer>
+          <key>minValue</key>
+          <integer>-20</integer>
+          <key>name</key>
+          <string>BR_point_mV</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>-100</integer>
+          <key>name</key>
+          <string>BR_curve</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>20</integer>
+          <key>minValue</key>
+          <integer>-20</integer>
+          <key>name</key>
+          <string>B_point_mH</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>20</integer>
+          <key>minValue</key>
+          <integer>-20</integer>
+          <key>name</key>
+          <string>B_point_mV</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>20</integer>
+          <key>minValue</key>
+          <integer>-20</integer>
+          <key>name</key>
+          <string>BL_point_mH</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>20</integer>
+          <key>minValue</key>
+          <integer>-20</integer>
+          <key>name</key>
+          <string>BL_point_mV</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>-100</integer>
+          <key>name</key>
+          <string>BL_curve</string>
         </dict>
       </array>
       <key>robocjk.status</key>
@@ -59,80 +179,438 @@
       <array>
         <dict>
           <key>layerName</key>
-          <string>length=135</string>
+          <string>width=75,height=135</string>
           <key>location</key>
           <dict>
-            <key>length</key>
+            <key>height</key>
+            <integer>135</integer>
+            <key>width</key>
+            <integer>75</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>width=75,height=135</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>height=135</string>
+          <key>location</key>
+          <dict>
+            <key>height</key>
             <integer>135</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>length=135</string>
+          <string>height=135</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
         <dict>
           <key>layerName</key>
-          <string>height=-80</string>
+          <string>height=200</string>
           <key>location</key>
           <dict>
             <key>height</key>
-            <integer>-80</integer>
+            <integer>200</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>height=-80</string>
+          <string>height=200</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
         <dict>
           <key>layerName</key>
-          <string>width=-90</string>
+          <string>weight=152</string>
+          <key>location</key>
+          <dict>
+            <key>weight</key>
+            <integer>152</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>weight=152</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>width=75</string>
           <key>location</key>
           <dict>
             <key>width</key>
-            <integer>-90</integer>
+            <integer>75</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>width=-90</string>
+          <string>width=75</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
         <dict>
           <key>layerName</key>
-          <string>length=239,width=-70</string>
+          <string>T_point1_moveH=-20</string>
           <key>location</key>
           <dict>
-            <key>length</key>
-            <integer>239</integer>
-            <key>width</key>
-            <integer>-70</integer>
+            <key>T_point1_moveH</key>
+            <integer>-20</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>length=239,width=-70</string>
+          <string>T_point1_moveH=-20</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
         <dict>
           <key>layerName</key>
-          <string>length=236,height=-4</string>
+          <string>T_point1_moveH=20</string>
           <key>location</key>
           <dict>
-            <key>height</key>
-            <integer>-4</integer>
-            <key>length</key>
-            <integer>236</integer>
+            <key>T_point1_moveH</key>
+            <integer>20</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>length=236,height=-4</string>
+          <string>T_point1_moveH=20</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>T_point1_moveV=-20</string>
+          <key>location</key>
+          <dict>
+            <key>T_point1_moveV</key>
+            <integer>-20</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>T_point1_moveV=-20</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>T_point1_moveV=20</string>
+          <key>location</key>
+          <dict>
+            <key>T_point1_moveV</key>
+            <integer>20</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>T_point1_moveV=20</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>TR_curve=-100</string>
+          <key>location</key>
+          <dict>
+            <key>TR_curve</key>
+            <integer>-100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>TR_curve=-100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>TR_curve=100</string>
+          <key>location</key>
+          <dict>
+            <key>TR_curve</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>TR_curve=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>TL_curve=-100</string>
+          <key>location</key>
+          <dict>
+            <key>TL_curve</key>
+            <integer>-100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>TL_curve=-100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>TL_curve=100</string>
+          <key>location</key>
+          <dict>
+            <key>TL_curve</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>TL_curve=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>BR_point_mH=-20</string>
+          <key>location</key>
+          <dict>
+            <key>BR_point_mH</key>
+            <integer>-20</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>BR_point_mH=-20</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>BR_point_mH=20</string>
+          <key>location</key>
+          <dict>
+            <key>BR_point_mH</key>
+            <integer>20</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>BR_point_mH=20</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>BR_point_mV=-20</string>
+          <key>location</key>
+          <dict>
+            <key>BR_point_mV</key>
+            <integer>-20</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>BR_point_mV=-20</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>BR_point_mV=20</string>
+          <key>location</key>
+          <dict>
+            <key>BR_point_mV</key>
+            <integer>20</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>BR_point_mV=20</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>BR_curve=-100</string>
+          <key>location</key>
+          <dict>
+            <key>BR_curve</key>
+            <integer>-100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>BR_curve=-100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>BR_curve=100</string>
+          <key>location</key>
+          <dict>
+            <key>BR_curve</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>BR_curve=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>B_point_mH=-20</string>
+          <key>location</key>
+          <dict>
+            <key>B_point_mH</key>
+            <integer>-20</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>B_point_mH=-20</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>B_point_mH=20</string>
+          <key>location</key>
+          <dict>
+            <key>B_point_mH</key>
+            <integer>20</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>B_point_mH=20</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>B_point_mV=-20</string>
+          <key>location</key>
+          <dict>
+            <key>B_point_mV</key>
+            <integer>-20</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>B_point_mV=-20</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>B_point_mV=20</string>
+          <key>location</key>
+          <dict>
+            <key>B_point_mV</key>
+            <integer>20</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>B_point_mV=20</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>BL_point_mH=-20</string>
+          <key>location</key>
+          <dict>
+            <key>BL_point_mH</key>
+            <integer>-20</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>BL_point_mH=-20</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>BL_point_mH=20</string>
+          <key>location</key>
+          <dict>
+            <key>BL_point_mH</key>
+            <integer>20</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>BL_point_mH=20</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>BL_point_mV=-20</string>
+          <key>location</key>
+          <dict>
+            <key>BL_point_mV</key>
+            <integer>-20</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>BL_point_mV=-20</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>BL_point_mV=20</string>
+          <key>location</key>
+          <dict>
+            <key>BL_point_mV</key>
+            <integer>20</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>BL_point_mV=20</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>BL_curve=-100</string>
+          <key>location</key>
+          <dict>
+            <key>BL_curve</key>
+            <integer>-100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>BL_curve=-100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>BL_curve=100</string>
+          <key>location</key>
+          <dict>
+            <key>BL_curve</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>BL_curve=100</string>
           <key>status</key>
           <integer>0</integer>
         </dict>

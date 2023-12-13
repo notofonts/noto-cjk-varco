@@ -14,7 +14,7 @@
       <point x="902" y="-120" type="line"/>
       <point x="908" y="-120" type="line" smooth="yes"/>
       <point x="923" y="-120"/>
-      <point x="946" y="-110"/>
+      <point x="944" y="-110"/>
       <point x="946" y="-105" type="curve"/>
       <point x="946" y="798" type="line"/>
       <point x="970" y="802"/>
@@ -229,9 +229,29 @@
           <key>name</key>
           <string>R_S_bottom_curve</string>
         </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>10</integer>
+          <key>minValue</key>
+          <integer>-10</integer>
+          <key>name</key>
+          <string>L_S_weight</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>10</integer>
+          <key>minValue</key>
+          <integer>-10</integer>
+          <key>name</key>
+          <string>R_S_weight</string>
+        </dict>
       </array>
       <key>robocjk.status</key>
-      <integer>0</integer>
+      <integer>4</integer>
       <key>robocjk.variationGlyphs</key>
       <array>
         <dict>
@@ -858,6 +878,142 @@
           <true/>
           <key>sourceName</key>
           <string>weight=160,R_S_bottom_curve=200</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>wght=1,L_S_weight=10</string>
+          <key>location</key>
+          <dict>
+            <key>L_S_weight</key>
+            <integer>10</integer>
+            <key>wght</key>
+            <integer>1</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>wght=1,L_S_weight=10</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>wght=1,L_S_weight=-10</string>
+          <key>location</key>
+          <dict>
+            <key>L_S_weight</key>
+            <integer>-10</integer>
+            <key>wght</key>
+            <integer>1</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>wght=1,L_S_weight=-10</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>wght=1,R_S_weight=10</string>
+          <key>location</key>
+          <dict>
+            <key>R_S_weight</key>
+            <integer>10</integer>
+            <key>wght</key>
+            <integer>1</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>wght=1,R_S_weight=10</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>wght=1,R_S_weight=-10</string>
+          <key>location</key>
+          <dict>
+            <key>R_S_weight</key>
+            <integer>-10</integer>
+            <key>wght</key>
+            <integer>1</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>wght=1,R_S_weight=-10</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>weight=160,TR_serif_right_width=-30</string>
+          <key>location</key>
+          <dict>
+            <key>TR_serif_right_width</key>
+            <integer>-30</integer>
+            <key>weight</key>
+            <integer>160</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>weight=160,TR_serif_right_width=-30</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>weight=160,TR_serif_right_width=30</string>
+          <key>location</key>
+          <dict>
+            <key>TR_serif_right_width</key>
+            <integer>30</integer>
+            <key>weight</key>
+            <integer>160</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>weight=160,TR_serif_right_width=30</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>weight=160,TR_serif_right_height=-30</string>
+          <key>location</key>
+          <dict>
+            <key>TR_serif_right_height</key>
+            <integer>-30</integer>
+            <key>weight</key>
+            <integer>160</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>weight=160,TR_serif_right_height=-30</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>weight=160,TR_serif_right_height=30</string>
+          <key>location</key>
+          <dict>
+            <key>TR_serif_right_height</key>
+            <integer>30</integer>
+            <key>weight</key>
+            <integer>160</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>weight=160,TR_serif_right_height=30</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
