@@ -1017,6 +1017,66 @@
           <key>status</key>
           <integer>0</integer>
         </dict>
+        <dict>
+          <key>layerName</key>
+          <string>L_S_weight=10</string>
+          <key>location</key>
+          <dict>
+            <key>L_S_weight</key>
+            <integer>10</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>L_S_weight=10</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>L_S_weight=-10</string>
+          <key>location</key>
+          <dict>
+            <key>L_S_weight</key>
+            <integer>-10</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>L_S_weight=-10</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>R_S_weight=10</string>
+          <key>location</key>
+          <dict>
+            <key>R_S_weight</key>
+            <integer>10</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>R_S_weight=10</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>R_S_weight=-10</string>
+          <key>location</key>
+          <dict>
+            <key>R_S_weight</key>
+            <integer>-10</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>R_S_weight=-10</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
       </array>
     </dict>
   </lib>
