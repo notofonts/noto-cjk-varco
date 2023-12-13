@@ -111,16 +111,32 @@
         <dict>
           <key>coord</key>
           <dict>
+            <key>BL_curve_top</key>
+            <integer>0</integer>
             <key>BR_curve</key>
             <integer>-24</integer>
             <key>BR_point_mH</key>
             <integer>5</integer>
             <key>BR_point_mV</key>
             <integer>1</integer>
+            <key>ML_point_mH</key>
+            <integer>2</integer>
+            <key>R_curve_bottom</key>
+            <integer>0</integer>
+            <key>R_curve_top</key>
+            <integer>5</integer>
             <key>TB_curve</key>
             <integer>0</integer>
             <key>TL_curve</key>
             <integer>30</integer>
+            <key>TL_curve_bottom</key>
+            <integer>0</integer>
+            <key>TL_curve_top</key>
+            <integer>21</integer>
+            <key>TL_point_moveH</key>
+            <integer>-1</integer>
+            <key>TL_point_moveV</key>
+            <integer>-1</integer>
             <key>TR_curve</key>
             <integer>23</integer>
             <key>T_point1_moveH</key>
@@ -128,7 +144,7 @@
             <key>T_point1_moveV</key>
             <integer>-1</integer>
             <key>height</key>
-            <integer>235</integer>
+            <integer>233</integer>
             <key>weight</key>
             <integer>57</integer>
             <key>width</key>
