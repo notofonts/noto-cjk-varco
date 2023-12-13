@@ -28,9 +28,29 @@
           <key>maxValue</key>
           <integer>275</integer>
           <key>minValue</key>
-          <integer>97</integer>
+          <integer>135</integer>
           <key>name</key>
           <string>length</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>0</integer>
+          <key>minValue</key>
+          <integer>-80</integer>
+          <key>name</key>
+          <string>height</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>0</integer>
+          <key>minValue</key>
+          <integer>-90</integer>
+          <key>name</key>
+          <string>width</string>
         </dict>
       </array>
       <key>robocjk.status</key>
@@ -39,16 +59,46 @@
       <array>
         <dict>
           <key>layerName</key>
-          <string>length=97</string>
+          <string>length=135</string>
           <key>location</key>
           <dict>
             <key>length</key>
-            <integer>97</integer>
+            <integer>135</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>length=97</string>
+          <string>length=135</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>height=-80</string>
+          <key>location</key>
+          <dict>
+            <key>height</key>
+            <integer>-80</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>height=-80</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>width=-90</string>
+          <key>location</key>
+          <dict>
+            <key>width</key>
+            <integer>-90</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>width=-90</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
