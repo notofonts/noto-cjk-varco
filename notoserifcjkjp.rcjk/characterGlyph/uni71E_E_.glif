@@ -234,14 +234,38 @@
         <dict>
           <key>coord</key>
           <dict>
+            <key>BL_curve_bottom</key>
+            <integer>1</integer>
+            <key>BL_point_mV</key>
+            <integer>-6</integer>
+            <key>B_point_mH</key>
+            <integer>-6</integer>
+            <key>ML_curve_top</key>
+            <integer>2</integer>
+            <key>ML_point_mH</key>
+            <integer>6</integer>
+            <key>ML_point_mV</key>
+            <integer>-1</integer>
+            <key>R_curve_bottom</key>
+            <integer>-3</integer>
+            <key>R_curve_top</key>
+            <integer>4</integer>
+            <key>TL_curve_bottom</key>
+            <integer>4</integer>
+            <key>TL_curve_top</key>
+            <integer>6</integer>
+            <key>TL_point_moveH</key>
+            <integer>-2</integer>
+            <key>TL_point_moveV</key>
+            <integer>-1</integer>
             <key>height</key>
-            <integer>170</integer>
+            <integer>168</integer>
             <key>length</key>
             <integer>165</integer>
             <key>weight</key>
             <integer>57</integer>
             <key>width</key>
-            <integer>90</integer>
+            <integer>89</integer>
           </dict>
           <key>name</key>
           <string>VG_4E36_03</string>
@@ -269,6 +293,65 @@
       <key>robocjk.variationGlyphs</key>
       <array>
         <dict>
+          <key>deepComponents</key>
+          <array>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>BL_curve_bottom</key>
+                <integer>1</integer>
+                <key>BL_point_mV</key>
+                <integer>-6</integer>
+                <key>B_point_mH</key>
+                <integer>-6</integer>
+                <key>ML_curve_top</key>
+                <integer>2</integer>
+                <key>ML_point_mH</key>
+                <integer>6</integer>
+                <key>ML_point_mV</key>
+                <integer>-1</integer>
+                <key>R_curve_bottom</key>
+                <integer>-3</integer>
+                <key>R_curve_top</key>
+                <integer>4</integer>
+                <key>TL_curve_bottom</key>
+                <integer>4</integer>
+                <key>TL_curve_top</key>
+                <integer>6</integer>
+                <key>TL_point_moveH</key>
+                <integer>-2</integer>
+                <key>TL_point_moveV</key>
+                <integer>-1</integer>
+                <key>height</key>
+                <integer>168</integer>
+                <key>length</key>
+                <integer>165</integer>
+                <key>weight</key>
+                <real>126.914466181244</real>
+                <key>width</key>
+                <integer>75</integer>
+              </dict>
+              <key>name</key>
+              <string>VG_4E36_03</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>-267</integer>
+                <key>y</key>
+                <integer>134</integer>
+              </dict>
+            </dict>
+          </array>
           <key>layerName</key>
           <string>wght=1</string>
           <key>location</key>
