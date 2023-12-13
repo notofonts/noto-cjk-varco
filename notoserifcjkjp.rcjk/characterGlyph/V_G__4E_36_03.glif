@@ -60,7 +60,7 @@
           <key>minValue</key>
           <integer>-20</integer>
           <key>name</key>
-          <string>T_point1_moveH</string>
+          <string>TL_point_moveH</string>
         </dict>
         <dict>
           <key>defaultValue</key>
@@ -70,7 +70,7 @@
           <key>minValue</key>
           <integer>-20</integer>
           <key>name</key>
-          <string>T_point1_moveV</string>
+          <string>TL_point_moveV</string>
         </dict>
         <dict>
           <key>defaultValue</key>
@@ -221,66 +221,6 @@
           <true/>
           <key>sourceName</key>
           <string>width=75</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
-          <string>T_point1_moveH=-20</string>
-          <key>location</key>
-          <dict>
-            <key>T_point1_moveH</key>
-            <integer>-20</integer>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>T_point1_moveH=-20</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
-          <string>T_point1_moveH=20</string>
-          <key>location</key>
-          <dict>
-            <key>T_point1_moveH</key>
-            <integer>20</integer>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>T_point1_moveH=20</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
-          <string>T_point1_moveV=-20</string>
-          <key>location</key>
-          <dict>
-            <key>T_point1_moveV</key>
-            <integer>-20</integer>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>T_point1_moveV=-20</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
-          <string>T_point1_moveV=20</string>
-          <key>location</key>
-          <dict>
-            <key>T_point1_moveV</key>
-            <integer>20</integer>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>T_point1_moveV=20</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
