@@ -153,16 +153,6 @@
           <key>defaultValue</key>
           <integer>0</integer>
           <key>maxValue</key>
-          <integer>100</integer>
-          <key>minValue</key>
-          <integer>-100</integer>
-          <key>name</key>
-          <string>TR_serif_right_curve</string>
-        </dict>
-        <dict>
-          <key>defaultValue</key>
-          <integer>0</integer>
-          <key>maxValue</key>
           <integer>200</integer>
           <key>minValue</key>
           <integer>-200</integer>
@@ -536,70 +526,6 @@
           <true/>
           <key>sourceName</key>
           <string>TR_serif_right_moveV=-30</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
-          <string>TR_serif_right_curve=100</string>
-          <key>location</key>
-          <dict>
-            <key>TR_serif_right_curve</key>
-            <integer>100</integer>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>TR_serif_right_curve=100</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
-          <string>TR_serif_right_curve=-100</string>
-          <key>location</key>
-          <dict>
-            <key>TR_serif_right_curve</key>
-            <integer>-100</integer>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>TR_serif_right_curve=-100</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
-          <string>weight=160,TR_serif_right_curve=100</string>
-          <key>location</key>
-          <dict>
-            <key>TR_serif_right_curve</key>
-            <integer>100</integer>
-            <key>weight</key>
-            <integer>160</integer>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>weight=160,TR_serif_right_curve=100</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
-          <string>weight=160,TR_serif_right_curve=-100</string>
-          <key>location</key>
-          <dict>
-            <key>TR_serif_right_curve</key>
-            <integer>-100</integer>
-            <key>weight</key>
-            <integer>160</integer>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>weight=160,TR_serif_right_curve=-100</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
