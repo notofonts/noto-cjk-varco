@@ -81,13 +81,13 @@
         </dict>
         <dict>
           <key>defaultValue</key>
-          <integer>0</integer>
+          <integer>1</integer>
           <key>maxValue</key>
-          <integer>100</integer>
+          <integer>2</integer>
           <key>minValue</key>
-          <integer>-100</integer>
+          <integer>1</integer>
           <key>name</key>
-          <string>serif_curve</string>
+          <string>serif_style2</string>
         </dict>
       </array>
       <key>robocjk.status</key>
@@ -248,36 +248,6 @@
         </dict>
         <dict>
           <key>layerName</key>
-          <string>serif_curve=100</string>
-          <key>location</key>
-          <dict>
-            <key>serif_curve</key>
-            <integer>100</integer>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>serif_curve=100</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
-          <string>serif_curve=-100·</string>
-          <key>location</key>
-          <dict>
-            <key>serif_curve</key>
-            <integer>-100</integer>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>serif_curve=-100·</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
           <string>serif_width=-30,serif_height=-30</string>
           <key>location</key>
           <dict>
@@ -307,6 +277,21 @@
           <true/>
           <key>sourceName</key>
           <string>serif_width=-30,serif_height=30</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>serif_style2=2</string>
+          <key>location</key>
+          <dict>
+            <key>serif_style2</key>
+            <integer>2</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>serif_style2=2</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
