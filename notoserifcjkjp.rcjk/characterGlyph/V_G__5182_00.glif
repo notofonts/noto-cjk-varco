@@ -76,6 +76,36 @@
           <key>name</key>
           <string>weight</string>
         </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>500</integer>
+          <key>minValue</key>
+          <integer>-100</integer>
+          <key>name</key>
+          <string>BR_G_moveV</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>0</integer>
+          <key>minValue</key>
+          <integer>-100</integer>
+          <key>name</key>
+          <string>BR_G_width</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>0</integer>
+          <key>minValue</key>
+          <integer>-10</integer>
+          <key>name</key>
+          <string>BR_G_height</string>
+        </dict>
       </array>
       <key>robocjk.status</key>
       <integer>0</integer>
@@ -123,6 +153,83 @@
           <true/>
           <key>sourceName</key>
           <string>weight=150</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>BR_G_moveV=500</string>
+          <key>location</key>
+          <dict>
+            <key>BR_G_moveV</key>
+            <integer>500</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>BR_G_moveV=500</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>BR_G_moveV=-100</string>
+          <key>location</key>
+          <dict>
+            <key>BR_G_moveV</key>
+            <integer>-100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>BR_G_moveV=-100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>BR_G_width=-100</string>
+          <key>location</key>
+          <dict>
+            <key>BR_G_width</key>
+            <integer>-100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>BR_G_width=-100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>BR_G_height=-10</string>
+          <key>location</key>
+          <dict>
+            <key>BR_G_height</key>
+            <integer>-10</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>BR_G_height=-10</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>BR_G_width=-66,BR_G_height=-9</string>
+          <key>location</key>
+          <dict>
+            <key>BR_G_height</key>
+            <integer>-9</integer>
+            <key>BR_G_width</key>
+            <integer>-66</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>BR_G_width=-66,BR_G_height=-9</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
