@@ -102,9 +102,29 @@
           <key>maxValue</key>
           <integer>0</integer>
           <key>minValue</key>
-          <integer>-10</integer>
+          <integer>-30</integer>
           <key>name</key>
           <string>BR_G_height</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>0</integer>
+          <key>minValue</key>
+          <integer>-10</integer>
+          <key>name</key>
+          <string>L_S_weight</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>-100</integer>
+          <key>name</key>
+          <string>L_S_bottom_length</string>
         </dict>
       </array>
       <key>robocjk.status</key>
@@ -245,6 +265,83 @@
           <true/>
           <key>sourceName</key>
           <string>BR_G_width=-120</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>BR_G_height=-30</string>
+          <key>location</key>
+          <dict>
+            <key>BR_G_height</key>
+            <integer>-30</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>BR_G_height=-30</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>weight=150,BR_G_height=-30</string>
+          <key>location</key>
+          <dict>
+            <key>BR_G_height</key>
+            <integer>-30</integer>
+            <key>weight</key>
+            <integer>150</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>weight=150,BR_G_height=-30</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>L_S_weight=-10</string>
+          <key>location</key>
+          <dict>
+            <key>L_S_weight</key>
+            <integer>-10</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>L_S_weight=-10</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>L_S_bottom_length=100</string>
+          <key>location</key>
+          <dict>
+            <key>L_S_bottom_length</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>L_S_bottom_length=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>L_S_bottom_length=-100</string>
+          <key>location</key>
+          <dict>
+            <key>L_S_bottom_length</key>
+            <integer>-100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>L_S_bottom_length=-100</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
