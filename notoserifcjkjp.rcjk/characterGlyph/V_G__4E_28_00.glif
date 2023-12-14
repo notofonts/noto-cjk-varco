@@ -23,7 +23,7 @@
           <key>defaultValue</key>
           <integer>1000</integer>
           <key>maxValue</key>
-          <integer>1000</integer>
+          <integer>1500</integer>
           <key>minValue</key>
           <integer>50</integer>
           <key>name</key>
@@ -35,7 +35,7 @@
           <key>maxValue</key>
           <integer>160</integer>
           <key>minValue</key>
-          <integer>44</integer>
+          <integer>30</integer>
           <key>name</key>
           <string>weight</string>
         </dict>
@@ -442,6 +442,36 @@
           <true/>
           <key>sourceName</key>
           <string>T_angle=-30</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>length=1500</string>
+          <key>location</key>
+          <dict>
+            <key>length</key>
+            <integer>1500</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>length=1500</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>weight=30</string>
+          <key>location</key>
+          <dict>
+            <key>weight</key>
+            <integer>30</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>weight=30</string>
           <key>status</key>
           <integer>0</integer>
         </dict>

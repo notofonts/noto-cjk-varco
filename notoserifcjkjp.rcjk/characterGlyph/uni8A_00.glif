@@ -195,23 +195,9 @@
         <dict>
           <key>coord</key>
           <dict>
-            <key>B_H_moveV</key>
-            <integer>23</integer>
-            <key>B_H_weight</key>
-            <integer>0</integer>
-            <key>L_S_bottom_curve</key>
-            <integer>95</integer>
-            <key>L_S_bottom_moveV</key>
-            <integer>0</integer>
             <key>R_S_bottom_curve</key>
-            <integer>115</integer>
-            <key>R_S_bottom_moveV</key>
-            <integer>10</integer>
-            <key>TL_serif_height</key>
-            <integer>-3</integer>
-            <key>TL_serif_width</key>
-            <integer>0</integer>
-            <key>TR_serif_right_curve</key>
+            <integer>100</integer>
+            <key>R_S_weight</key>
             <integer>0</integer>
             <key>TR_serif_right_height</key>
             <integer>-7</integer>
@@ -225,17 +211,19 @@
             <integer>-1</integer>
             <key>TR_serif_top_width</key>
             <integer>-3</integer>
+            <key>T_H_left_angle</key>
+            <integer>0</integer>
             <key>T_H_weight</key>
             <integer>0</integer>
             <key>height</key>
-            <integer>343</integer>
+            <integer>295</integer>
             <key>weight</key>
             <integer>44</integer>
             <key>width</key>
-            <integer>608</integer>
+            <integer>528</integer>
           </dict>
           <key>name</key>
-          <string>VG_53E3_00</string>
+          <string>VG_31D5_00</string>
           <key>transform</key>
           <dict>
             <key>rotation</key>
@@ -249,9 +237,89 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>223</integer>
+            <integer>-223</integer>
             <key>y</key>
-            <integer>46</integer>
+            <integer>-649</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>B_curve</key>
+            <integer>95</integer>
+            <key>T_angle</key>
+            <integer>-3</integer>
+            <key>length</key>
+            <integer>332</integer>
+            <key>serif_height</key>
+            <integer>0</integer>
+            <key>serif_moveV</key>
+            <real>-36.4</real>
+            <key>serif_style2</key>
+            <integer>1</integer>
+            <key>serif_style3</key>
+            <integer>3</integer>
+            <key>serif_width</key>
+            <integer>0</integer>
+            <key>weight</key>
+            <integer>44</integer>
+          </dict>
+          <key>name</key>
+          <string>VG_4E28_00</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>-254</integer>
+            <key>y</key>
+            <integer>-622</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>L_cutangle</key>
+            <integer>0</integer>
+            <key>serif_height</key>
+            <integer>0</integer>
+            <key>serif_right_moveV</key>
+            <integer>0</integer>
+            <key>serif_top_moveH</key>
+            <integer>0</integer>
+            <key>serif_width</key>
+            <integer>0</integer>
+            <key>weight</key>
+            <integer>30</integer>
+            <key>width</key>
+            <real>510.90000000000003</real>
+          </dict>
+          <key>name</key>
+          <string>VG_4E00_01</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>244</integer>
+            <key>y</key>
+            <integer>-381</integer>
           </dict>
         </dict>
       </array>
@@ -449,49 +517,35 @@
             <dict>
               <key>coord</key>
               <dict>
-                <key>B_H_moveV</key>
-                <integer>-26</integer>
-                <key>B_H_weight</key>
-                <integer>-2</integer>
-                <key>L_S_bottom_curve</key>
-                <integer>86</integer>
-                <key>L_S_bottom_moveV</key>
-                <integer>0</integer>
-                <key>L_S_weight</key>
-                <integer>-7</integer>
                 <key>R_S_bottom_curve</key>
-                <integer>75</integer>
-                <key>R_S_bottom_moveV</key>
-                <integer>9</integer>
-                <key>TL_serif_height</key>
-                <integer>-3</integer>
-                <key>TL_serif_width</key>
-                <integer>-10</integer>
-                <key>TR_serif_right_curve</key>
-                <integer>4</integer>
+                <integer>100</integer>
+                <key>R_S_weight</key>
+                <integer>0</integer>
                 <key>TR_serif_right_height</key>
-                <integer>-8</integer>
+                <real>-0.5517241379310347</real>
                 <key>TR_serif_right_moveV</key>
                 <integer>1</integer>
                 <key>TR_serif_right_width</key>
-                <integer>-11</integer>
+                <real>-0.7586206896551744</real>
                 <key>TR_serif_top_height</key>
                 <integer>-10</integer>
                 <key>TR_serif_top_moveH</key>
                 <integer>-5</integer>
                 <key>TR_serif_top_width</key>
                 <integer>-3</integer>
+                <key>T_H_left_angle</key>
+                <integer>0</integer>
                 <key>T_H_weight</key>
                 <integer>-2</integer>
                 <key>height</key>
-                <integer>405</integer>
+                <integer>358</integer>
                 <key>weight</key>
-                <integer>152</integer>
+                <integer>44</integer>
                 <key>width</key>
-                <integer>683</integer>
+                <integer>603</integer>
               </dict>
               <key>name</key>
-              <string>VG_53E3_00</string>
+              <string>VG_31D5_00</string>
               <key>transform</key>
               <dict>
                 <key>rotation</key>
@@ -505,9 +559,89 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>187</integer>
+                <integer>-184</integer>
                 <key>y</key>
-                <integer>26</integer>
+                <integer>-607</integer>
+              </dict>
+            </dict>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>B_curve</key>
+                <real>97.31034482758622</real>
+                <key>T_angle</key>
+                <integer>-3</integer>
+                <key>length</key>
+                <integer>394</integer>
+                <key>serif_height</key>
+                <integer>0</integer>
+                <key>serif_moveV</key>
+                <real>-36.4</real>
+                <key>serif_style2</key>
+                <integer>1</integer>
+                <key>serif_style3</key>
+                <integer>3</integer>
+                <key>serif_width</key>
+                <integer>-10</integer>
+                <key>weight</key>
+                <integer>44</integer>
+              </dict>
+              <key>name</key>
+              <string>VG_4E28_00</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>-290</integer>
+                <key>y</key>
+                <integer>-580</integer>
+              </dict>
+            </dict>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>L_cutangle</key>
+                <integer>0</integer>
+                <key>serif_height</key>
+                <integer>0</integer>
+                <key>serif_right_moveV</key>
+                <integer>0</integer>
+                <key>serif_top_moveH</key>
+                <integer>0</integer>
+                <key>serif_width</key>
+                <integer>0</integer>
+                <key>weight</key>
+                <integer>28</integer>
+                <key>width</key>
+                <real>584.9625000000001</real>
+              </dict>
+              <key>name</key>
+              <string>VG_4E00_01</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>208</integer>
+                <key>y</key>
+                <integer>-450</integer>
               </dict>
             </dict>
           </array>
