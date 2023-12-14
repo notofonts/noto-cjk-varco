@@ -92,7 +92,7 @@
           <key>maxValue</key>
           <integer>0</integer>
           <key>minValue</key>
-          <integer>-100</integer>
+          <integer>-120</integer>
           <key>name</key>
           <string>BR_G_width</string>
         </dict>
@@ -218,18 +218,18 @@
         </dict>
         <dict>
           <key>layerName</key>
-          <string>BR_G_width=-66,BR_G_height=-9</string>
+          <string>weight=150,BR_G_width=-120</string>
           <key>location</key>
           <dict>
-            <key>BR_G_height</key>
-            <integer>-9</integer>
             <key>BR_G_width</key>
-            <integer>-66</integer>
+            <integer>-120</integer>
+            <key>weight</key>
+            <integer>150</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>BR_G_width=-66,BR_G_height=-9</string>
+          <string>weight=150,BR_G_width=-120</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
