@@ -137,6 +137,16 @@
           <key>name</key>
           <string>TR_serif_right_moveV</string>
         </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>20</integer>
+          <key>minValue</key>
+          <integer>-20</integer>
+          <key>name</key>
+          <string>T_H_weight</string>
+        </dict>
       </array>
       <key>robocjk.status</key>
       <integer>0</integer>
@@ -413,6 +423,66 @@
           <true/>
           <key>sourceName</key>
           <string>TR_serif_right_height=-50</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>TR_serif_right_moveV=50</string>
+          <key>location</key>
+          <dict>
+            <key>TR_serif_right_moveV</key>
+            <integer>50</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>TR_serif_right_moveV=50</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>TR_serif_right_moveV=-50</string>
+          <key>location</key>
+          <dict>
+            <key>TR_serif_right_moveV</key>
+            <integer>-50</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>TR_serif_right_moveV=-50</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>T_H_weight=20</string>
+          <key>location</key>
+          <dict>
+            <key>T_H_weight</key>
+            <integer>20</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>T_H_weight=20</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>T_H_weight=-20</string>
+          <key>location</key>
+          <dict>
+            <key>T_H_weight</key>
+            <integer>-20</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>T_H_weight=-20</string>
           <key>status</key>
           <integer>0</integer>
         </dict>

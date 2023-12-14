@@ -89,6 +89,26 @@
           <key>name</key>
           <string>serif_style2</string>
         </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>1</integer>
+          <key>maxValue</key>
+          <integer>3</integer>
+          <key>minValue</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>serif_style3</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>20</integer>
+          <key>minValue</key>
+          <integer>-20</integer>
+          <key>name</key>
+          <string>T_angle</string>
+        </dict>
       </array>
       <key>robocjk.status</key>
       <integer>4</integer>
@@ -309,6 +329,119 @@
           <true/>
           <key>sourceName</key>
           <string>weight=160,serif_style2=2</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>serif_style3=3</string>
+          <key>location</key>
+          <dict>
+            <key>serif_style3</key>
+            <integer>3</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>serif_style3=3</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>serif_height=30,serif_style3=3</string>
+          <key>location</key>
+          <dict>
+            <key>serif_height</key>
+            <integer>30</integer>
+            <key>serif_style3</key>
+            <integer>3</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>serif_height=30,serif_style3=3</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>serif_height=-30,serif_style3=3</string>
+          <key>location</key>
+          <dict>
+            <key>serif_height</key>
+            <integer>-30</integer>
+            <key>serif_style3</key>
+            <integer>3</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>serif_height=-30,serif_style3=3</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>serif_width=-30,serif_style3=3</string>
+          <key>location</key>
+          <dict>
+            <key>serif_style3</key>
+            <integer>3</integer>
+            <key>serif_width</key>
+            <integer>-30</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>serif_width=-30,serif_style3=3</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>serif_width=30,serif_style3=3</string>
+          <key>location</key>
+          <dict>
+            <key>serif_style3</key>
+            <integer>3</integer>
+            <key>serif_width</key>
+            <integer>30</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>serif_width=30,serif_style3=3</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>T_angle=20</string>
+          <key>location</key>
+          <dict>
+            <key>T_angle</key>
+            <integer>20</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>T_angle=20</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>T_angle=-20</string>
+          <key>location</key>
+          <dict>
+            <key>T_angle</key>
+            <integer>-20</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>T_angle=-20</string>
           <key>status</key>
           <integer>0</integer>
         </dict>

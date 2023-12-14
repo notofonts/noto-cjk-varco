@@ -82,6 +82,16 @@
           <key>name</key>
           <string>T_weight</string>
         </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>R_curve</string>
+        </dict>
       </array>
       <key>robocjk.status</key>
       <integer>0</integer>
@@ -221,6 +231,21 @@
           <true/>
           <key>sourceName</key>
           <string>T_weight=20</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>R_curve=100</string>
+          <key>location</key>
+          <dict>
+            <key>R_curve</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>R_curve=100</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
