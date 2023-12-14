@@ -92,6 +92,16 @@
           <key>name</key>
           <string>R_curve</string>
         </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>20</integer>
+          <key>minValue</key>
+          <integer>-20</integer>
+          <key>name</key>
+          <string>ML_point_moveV</string>
+        </dict>
       </array>
       <key>robocjk.status</key>
       <integer>0</integer>
@@ -246,6 +256,36 @@
           <true/>
           <key>sourceName</key>
           <string>R_curve=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>ML_point_moveV=-20</string>
+          <key>location</key>
+          <dict>
+            <key>ML_point_moveV</key>
+            <integer>-20</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>ML_point_moveV=-20</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>ML_point_moveV=20</string>
+          <key>location</key>
+          <dict>
+            <key>ML_point_moveV</key>
+            <integer>20</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>ML_point_moveV=20</string>
           <key>status</key>
           <integer>0</integer>
         </dict>

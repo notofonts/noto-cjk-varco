@@ -25,7 +25,7 @@
           <key>maxValue</key>
           <integer>1000</integer>
           <key>minValue</key>
-          <integer>100</integer>
+          <integer>50</integer>
           <key>name</key>
           <string>length</string>
         </dict>
@@ -103,9 +103,9 @@
           <key>defaultValue</key>
           <integer>0</integer>
           <key>maxValue</key>
-          <integer>20</integer>
+          <integer>30</integer>
           <key>minValue</key>
-          <integer>-20</integer>
+          <integer>-30</integer>
           <key>name</key>
           <string>T_angle</string>
         </dict>
@@ -114,21 +114,6 @@
       <integer>4</integer>
       <key>robocjk.variationGlyphs</key>
       <array>
-        <dict>
-          <key>layerName</key>
-          <string>length=100</string>
-          <key>location</key>
-          <dict>
-            <key>length</key>
-            <integer>100</integer>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>length=100</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
         <dict>
           <key>layerName</key>
           <string>weight=160</string>
@@ -417,31 +402,46 @@
         </dict>
         <dict>
           <key>layerName</key>
-          <string>T_angle=20</string>
+          <string>length=50</string>
           <key>location</key>
           <dict>
-            <key>T_angle</key>
-            <integer>20</integer>
+            <key>length</key>
+            <integer>50</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>T_angle=20</string>
+          <string>length=50</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
         <dict>
           <key>layerName</key>
-          <string>T_angle=-20</string>
+          <string>T_angle=30</string>
           <key>location</key>
           <dict>
             <key>T_angle</key>
-            <integer>-20</integer>
+            <integer>30</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>T_angle=-20</string>
+          <string>T_angle=30</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>T_angle=-30</string>
+          <key>location</key>
+          <dict>
+            <key>T_angle</key>
+            <integer>-30</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>T_angle=-30</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
