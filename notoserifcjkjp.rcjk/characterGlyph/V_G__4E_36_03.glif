@@ -112,6 +112,26 @@
           <key>name</key>
           <string>T_cut_angle</string>
         </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>ML_curve_break</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>TL_curveV</string>
+        </dict>
       </array>
       <key>robocjk.status</key>
       <integer>0</integer>
@@ -377,6 +397,55 @@
           <true/>
           <key>sourceName</key>
           <string>T_cut_angle=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>ML_curve_break=100</string>
+          <key>location</key>
+          <dict>
+            <key>ML_curve_break</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>ML_curve_break=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>TL_curveV=100</string>
+          <key>location</key>
+          <dict>
+            <key>TL_curveV</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>TL_curveV=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>width=100,height=150,ML_curve_break=100</string>
+          <key>location</key>
+          <dict>
+            <key>ML_curve_break</key>
+            <integer>100</integer>
+            <key>height</key>
+            <integer>150</integer>
+            <key>width</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>width=100,height=150,ML_curve_break=100</string>
           <key>status</key>
           <integer>0</integer>
         </dict>

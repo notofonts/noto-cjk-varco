@@ -255,6 +255,8 @@
             <integer>3</integer>
             <key>ML_curve_bottom</key>
             <integer>0</integer>
+            <key>ML_curve_break</key>
+            <integer>50</integer>
             <key>ML_curve_top</key>
             <integer>-1</integer>
             <key>ML_point_mH</key>
@@ -262,11 +264,11 @@
             <key>ML_point_mV</key>
             <integer>9</integer>
             <key>ML_point_moveH</key>
-            <integer>-5</integer>
+            <integer>-14</integer>
             <key>ML_point_moveV</key>
-            <integer>0</integer>
+            <integer>-6</integer>
             <key>R_curve</key>
-            <integer>-21</integer>
+            <integer>-22</integer>
             <key>R_curve_bottom</key>
             <integer>3</integer>
             <key>R_curve_top</key>
@@ -274,7 +276,9 @@
             <key>TB_curve</key>
             <integer>0</integer>
             <key>TL_curve</key>
-            <integer>-45</integer>
+            <integer>-70</integer>
+            <key>TL_curveV</key>
+            <integer>20</integer>
             <key>TL_curve_bottom</key>
             <integer>7</integer>
             <key>TL_curve_top</key>
@@ -286,19 +290,19 @@
             <key>TR_curve</key>
             <integer>23</integer>
             <key>T_cut_angle</key>
-            <integer>29</integer>
+            <integer>20</integer>
             <key>T_point1_moveH</key>
             <integer>0</integer>
             <key>T_point1_moveV</key>
             <integer>-1</integer>
             <key>T_weight</key>
-            <integer>-3</integer>
+            <integer>-4</integer>
             <key>height</key>
             <integer>153</integer>
             <key>weight</key>
             <integer>57</integer>
             <key>width</key>
-            <integer>105</integer>
+            <integer>104</integer>
           </dict>
           <key>name</key>
           <string>VG_4E36_03</string>
@@ -409,6 +413,8 @@
                 <integer>3</integer>
                 <key>ML_curve_bottom</key>
                 <integer>0</integer>
+                <key>ML_curve_break</key>
+                <integer>70</integer>
                 <key>ML_curve_top</key>
                 <integer>-1</integer>
                 <key>ML_point_mH</key>
@@ -418,9 +424,9 @@
                 <key>ML_point_moveH</key>
                 <integer>-11</integer>
                 <key>ML_point_moveV</key>
-                <integer>8</integer>
+                <integer>9</integer>
                 <key>R_curve</key>
-                <integer>-21</integer>
+                <integer>-20</integer>
                 <key>R_curve_bottom</key>
                 <integer>3</integer>
                 <key>R_curve_top</key>
@@ -428,7 +434,9 @@
                 <key>TB_curve</key>
                 <integer>0</integer>
                 <key>TL_curve</key>
-                <integer>-15</integer>
+                <integer>-60</integer>
+                <key>TL_curveV</key>
+                <integer>30</integer>
                 <key>TL_curve_bottom</key>
                 <integer>7</integer>
                 <key>TL_curve_top</key>
@@ -440,7 +448,7 @@
                 <key>TR_curve</key>
                 <integer>23</integer>
                 <key>T_cut_angle</key>
-                <integer>29</integer>
+                <integer>20</integer>
                 <key>T_point1_moveH</key>
                 <integer>0</integer>
                 <key>T_point1_moveV</key>
@@ -450,7 +458,7 @@
                 <key>height</key>
                 <integer>166</integer>
                 <key>weight</key>
-                <integer>105</integer>
+                <integer>102</integer>
                 <key>width</key>
                 <integer>102</integer>
               </dict>
