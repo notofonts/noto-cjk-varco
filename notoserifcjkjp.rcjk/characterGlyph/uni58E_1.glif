@@ -34,25 +34,6 @@
       <point x="403" y="753" type="line"/>
     </contour>
     <contour>
-      <point x="524" y="636" type="line"/>
-      <point x="524" y="666" type="line"/>
-    </contour>
-    <contour>
-      <point x="492" y="666" type="line"/>
-      <point x="484" y="636"/>
-      <point x="465" y="577"/>
-      <point x="452" y="548" type="curve"/>
-      <point x="468" y="540" type="line"/>
-      <point x="491" y="563"/>
-      <point x="523" y="603"/>
-      <point x="541" y="630" type="curve"/>
-      <point x="559" y="630"/>
-      <point x="570" y="631"/>
-      <point x="578" y="638" type="curve"/>
-      <point x="514" y="700" type="line"/>
-      <point x="481" y="666" type="line"/>
-    </contour>
-    <contour>
       <point x="308" y="450" type="curve"/>
       <point x="292" y="446" type="line"/>
       <point x="382" y="395"/>
@@ -374,7 +355,7 @@
                 <key>G_bottomright_curve</key>
                 <integer>11</integer>
                 <key>G_length</key>
-                <integer>120</integer>
+                <integer>114</integer>
                 <key>G_middleright_curve</key>
                 <integer>0</integer>
                 <key>G_middlerightpoint_moveH</key>
@@ -388,9 +369,9 @@
                 <key>G_toppoint_moveV</key>
                 <integer>4</integer>
                 <key>G_weight</key>
-                <integer>73</integer>
+                <integer>57</integer>
                 <key>G_width</key>
-                <integer>8</integer>
+                <integer>29</integer>
                 <key>H_length</key>
                 <integer>370</integer>
                 <key>H_weight</key>
@@ -431,7 +412,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>-355</integer>
+                <integer>-368</integer>
                 <key>y</key>
                 <integer>138</integer>
               </dict>
@@ -467,6 +448,10 @@
                 <integer>20</integer>
                 <key>ML_point_mV</key>
                 <integer>20</integer>
+                <key>ML_point_moveV</key>
+                <integer>8</integer>
+                <key>R_curve</key>
+                <integer>0</integer>
                 <key>R_curve_bottom</key>
                 <integer>0</integer>
                 <key>R_curve_top</key>
@@ -490,11 +475,11 @@
                 <key>T_point1_moveV</key>
                 <integer>-1</integer>
                 <key>height</key>
-                <integer>173</integer>
+                <integer>179</integer>
                 <key>weight</key>
                 <integer>113</integer>
                 <key>width</key>
-                <integer>90</integer>
+                <integer>107</integer>
               </dict>
               <key>name</key>
               <string>VG_4E36_03</string>
