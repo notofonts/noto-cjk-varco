@@ -89,6 +89,16 @@
           <key>name</key>
           <string>G_height</string>
         </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>20</integer>
+          <key>minValue</key>
+          <integer>-20</integer>
+          <key>name</key>
+          <string>H_left_angle</string>
+        </dict>
       </array>
       <key>robocjk.status</key>
       <integer>0</integer>
@@ -230,6 +240,36 @@
           <true/>
           <key>sourceName</key>
           <string>weight=150,BR_G_height=-30</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>H_left_angle=20</string>
+          <key>location</key>
+          <dict>
+            <key>H_left_angle</key>
+            <integer>20</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>H_left_angle=20</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>H_left_angle=-20</string>
+          <key>location</key>
+          <dict>
+            <key>H_left_angle</key>
+            <integer>-20</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>H_left_angle=-20</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
