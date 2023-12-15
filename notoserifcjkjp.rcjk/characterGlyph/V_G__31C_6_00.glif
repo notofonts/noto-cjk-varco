@@ -77,7 +77,7 @@
           <key>minValue</key>
           <integer>-120</integer>
           <key>name</key>
-          <string>BR_G_width</string>
+          <string>G_width</string>
         </dict>
         <dict>
           <key>defaultValue</key>
@@ -87,47 +87,7 @@
           <key>minValue</key>
           <integer>-30</integer>
           <key>name</key>
-          <string>BR_G_height</string>
-        </dict>
-        <dict>
-          <key>defaultValue</key>
-          <integer>0</integer>
-          <key>maxValue</key>
-          <integer>0</integer>
-          <key>minValue</key>
-          <integer>-10</integer>
-          <key>name</key>
-          <string>L_S_weight</string>
-        </dict>
-        <dict>
-          <key>defaultValue</key>
-          <integer>0</integer>
-          <key>maxValue</key>
-          <integer>100</integer>
-          <key>minValue</key>
-          <integer>-100</integer>
-          <key>name</key>
-          <string>L_S_bottom_length</string>
-        </dict>
-        <dict>
-          <key>defaultValue</key>
-          <integer>0</integer>
-          <key>maxValue</key>
-          <integer>20</integer>
-          <key>minValue</key>
-          <integer>-20</integer>
-          <key>name</key>
-          <string>TL_serif_height</string>
-        </dict>
-        <dict>
-          <key>defaultValue</key>
-          <integer>0</integer>
-          <key>maxValue</key>
-          <integer>20</integer>
-          <key>minValue</key>
-          <integer>-20</integer>
-          <key>name</key>
-          <string>TL_serif_width</string>
+          <string>G_height</string>
         </dict>
       </array>
       <key>robocjk.status</key>
@@ -184,7 +144,7 @@
           <string>BR_G_height=-10</string>
           <key>location</key>
           <dict>
-            <key>BR_G_height</key>
+            <key>G_height</key>
             <integer>-10</integer>
           </dict>
           <key>on</key>
@@ -199,7 +159,7 @@
           <string>weight=150,BR_G_width=-120</string>
           <key>location</key>
           <dict>
-            <key>BR_G_width</key>
+            <key>G_width</key>
             <integer>-120</integer>
             <key>weight</key>
             <integer>150</integer>
@@ -216,7 +176,7 @@
           <string>BR_G_width=-77</string>
           <key>location</key>
           <dict>
-            <key>BR_G_width</key>
+            <key>G_width</key>
             <integer>-77</integer>
           </dict>
           <key>on</key>
@@ -231,7 +191,7 @@
           <string>BR_G_width=-120</string>
           <key>location</key>
           <dict>
-            <key>BR_G_width</key>
+            <key>G_width</key>
             <integer>-120</integer>
           </dict>
           <key>on</key>
@@ -246,7 +206,7 @@
           <string>BR_G_height=-30</string>
           <key>location</key>
           <dict>
-            <key>BR_G_height</key>
+            <key>G_height</key>
             <integer>-30</integer>
           </dict>
           <key>on</key>
@@ -261,7 +221,7 @@
           <string>weight=150,BR_G_height=-30</string>
           <key>location</key>
           <dict>
-            <key>BR_G_height</key>
+            <key>G_height</key>
             <integer>-30</integer>
             <key>weight</key>
             <integer>150</integer>
@@ -270,66 +230,6 @@
           <true/>
           <key>sourceName</key>
           <string>weight=150,BR_G_height=-30</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
-          <string>TL_serif_height=20</string>
-          <key>location</key>
-          <dict>
-            <key>TL_serif_height</key>
-            <integer>20</integer>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>TL_serif_height=20</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
-          <string>TL_serif_height=-20</string>
-          <key>location</key>
-          <dict>
-            <key>TL_serif_height</key>
-            <integer>-20</integer>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>TL_serif_height=-20</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
-          <string>TL_serif_width=20</string>
-          <key>location</key>
-          <dict>
-            <key>TL_serif_width</key>
-            <integer>20</integer>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>TL_serif_width=20</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
-          <string>TL_serif_width=-20</string>
-          <key>location</key>
-          <dict>
-            <key>TL_serif_width</key>
-            <integer>-20</integer>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>TL_serif_width=-20</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
