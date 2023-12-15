@@ -42,7 +42,7 @@
           <key>defaultValue</key>
           <integer>0</integer>
           <key>maxValue</key>
-          <integer>100</integer>
+          <integer>110</integer>
           <key>minValue</key>
           <integer>0</integer>
           <key>name</key>
@@ -441,6 +441,21 @@
           <true/>
           <key>sourceName</key>
           <string>TR_height=20</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>G_weight=110</string>
+          <key>location</key>
+          <dict>
+            <key>G_weight</key>
+            <integer>110</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>G_weight=110</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
