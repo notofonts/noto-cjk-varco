@@ -1,20 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="VG_5182_00" format="2">
+<glyph name="VG_31C6_00" format="2">
   <advance width="1000"/>
   <outline>
-    <contour>
-      <point x="0" y="880" type="line"/>
-      <point x="0" y="-120" type="line"/>
-      <point x="9" y="-120" type="line" smooth="yes"/>
-      <point x="30" y="-120"/>
-      <point x="45" y="-108"/>
-      <point x="45" y="-101" type="curve" smooth="yes"/>
-      <point x="45" y="850" type="line"/>
-      <point x="979" y="850" type="line"/>
-      <point x="979" y="880" type="line"/>
-      <point x="50" y="880" type="line"/>
-      <point x="0" y="906" type="line"/>
-    </contour>
     <contour>
       <point x="955" y="880" type="line"/>
       <point x="955" y="-30" type="line" smooth="yes"/>
@@ -40,6 +27,12 @@
       <point x="1044" y="860" type="curve"/>
       <point x="971" y="914" type="line"/>
       <point x="946" y="880" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="850" type="line"/>
+      <point x="979" y="850" type="line"/>
+      <point x="979" y="880" type="line"/>
+      <point x="0" y="880" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -75,16 +68,6 @@
           <integer>45</integer>
           <key>name</key>
           <string>weight</string>
-        </dict>
-        <dict>
-          <key>defaultValue</key>
-          <integer>0</integer>
-          <key>maxValue</key>
-          <integer>500</integer>
-          <key>minValue</key>
-          <integer>-100</integer>
-          <key>name</key>
-          <string>BR_G_moveV</string>
         </dict>
         <dict>
           <key>defaultValue</key>
@@ -198,36 +181,6 @@
         </dict>
         <dict>
           <key>layerName</key>
-          <string>BR_G_moveV=500</string>
-          <key>location</key>
-          <dict>
-            <key>BR_G_moveV</key>
-            <integer>500</integer>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>BR_G_moveV=500</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
-          <string>BR_G_moveV=-100</string>
-          <key>location</key>
-          <dict>
-            <key>BR_G_moveV</key>
-            <integer>-100</integer>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>BR_G_moveV=-100</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
           <string>BR_G_height=-10</string>
           <key>location</key>
           <dict>
@@ -317,51 +270,6 @@
           <true/>
           <key>sourceName</key>
           <string>weight=150,BR_G_height=-30</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
-          <string>L_S_weight=-10</string>
-          <key>location</key>
-          <dict>
-            <key>L_S_weight</key>
-            <integer>-10</integer>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>L_S_weight=-10</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
-          <string>L_S_bottom_length=100</string>
-          <key>location</key>
-          <dict>
-            <key>L_S_bottom_length</key>
-            <integer>100</integer>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>L_S_bottom_length=100</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
-          <string>L_S_bottom_length=-100</string>
-          <key>location</key>
-          <dict>
-            <key>L_S_bottom_length</key>
-            <integer>-100</integer>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>L_S_bottom_length=-100</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
