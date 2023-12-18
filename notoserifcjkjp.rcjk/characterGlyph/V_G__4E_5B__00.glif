@@ -62,7 +62,7 @@
           <key>defaultValue</key>
           <integer>0</integer>
           <key>maxValue</key>
-          <integer>50</integer>
+          <integer>60</integer>
           <key>minValue</key>
           <integer>-50</integer>
           <key>name</key>
@@ -392,6 +392,76 @@
           <true/>
           <key>sourceName</key>
           <string>wght=1,G_length=90,G_weight=100,G_width=50</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>G_width=60</string>
+          <key>location</key>
+          <dict>
+            <key>G_width</key>
+            <integer>60</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>G_width=60</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>G_length=110,G_width=60</string>
+          <key>location</key>
+          <dict>
+            <key>G_length</key>
+            <integer>110</integer>
+            <key>G_width</key>
+            <integer>60</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>G_length=110,G_width=60</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>G_length=90,G_width=60</string>
+          <key>location</key>
+          <dict>
+            <key>G_length</key>
+            <integer>90</integer>
+            <key>G_width</key>
+            <integer>60</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>G_length=90,G_width=60</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>wght=1,G_length=90,G_weight=100,G_width=60</string>
+          <key>location</key>
+          <dict>
+            <key>G_length</key>
+            <integer>90</integer>
+            <key>G_weight</key>
+            <integer>100</integer>
+            <key>G_width</key>
+            <integer>60</integer>
+            <key>wght</key>
+            <integer>1</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>wght=1,G_length=90,G_weight=100,G_width=60</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
