@@ -38,7 +38,7 @@
           <key>maxValue</key>
           <integer>100</integer>
           <key>minValue</key>
-          <integer>-100</integer>
+          <integer>-200</integer>
           <key>name</key>
           <string>P_bottom_moveH</string>
         </dict>
@@ -101,6 +101,16 @@
           <integer>-30</integer>
           <key>name</key>
           <string>serif_height</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>0</integer>
+          <key>minValue</key>
+          <integer>-350</integer>
+          <key>name</key>
+          <string>P_bottom_moveV</string>
         </dict>
       </array>
       <key>robocjk.status</key>
@@ -350,6 +360,21 @@
           <true/>
           <key>sourceName</key>
           <string>serif_height=-30</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>P_bottom_moveH=-200</string>
+          <key>location</key>
+          <dict>
+            <key>P_bottom_moveH</key>
+            <integer>-200</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>P_bottom_moveH=-200</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
