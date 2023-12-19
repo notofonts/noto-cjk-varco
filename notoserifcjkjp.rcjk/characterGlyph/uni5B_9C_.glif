@@ -44,51 +44,6 @@
       <point x="320" y="538" type="line"/>
       <point x="264" y="564" type="line"/>
     </contour>
-    <contour>
-      <point x="160" y="696" type="line"/>
-      <point x="160" y="667" type="line"/>
-      <point x="887" y="667" type="line"/>
-      <point x="887" y="696" type="line"/>
-    </contour>
-    <contour>
-      <point x="471" y="833" type="line"/>
-      <point x="471" y="677" type="line"/>
-      <point x="515" y="677" type="line"/>
-      <point x="515" y="797" type="line"/>
-      <point x="539" y="800"/>
-      <point x="550" y="810"/>
-      <point x="552" y="824" type="curve"/>
-    </contour>
-    <contour>
-      <point x="154" y="746" type="line"/>
-      <point x="160" y="667"/>
-      <point x="122" y="598"/>
-      <point x="76" y="572" type="curve"/>
-      <point x="60" y="561"/>
-      <point x="49" y="544"/>
-      <point x="58" y="528" type="curve" smooth="yes"/>
-      <point x="69" y="510"/>
-      <point x="100" y="517"/>
-      <point x="123" y="534" type="curve" smooth="yes"/>
-      <point x="160" y="561"/>
-      <point x="203" y="630"/>
-      <point x="172" y="747" type="curve"/>
-    </contour>
-    <contour>
-      <point x="867" y="696" type="line"/>
-      <point x="853" y="660"/>
-      <point x="820" y="593"/>
-      <point x="797" y="557" type="curve"/>
-      <point x="812" y="549" type="line"/>
-      <point x="847" y="577"/>
-      <point x="894" y="626"/>
-      <point x="919" y="659" type="curve"/>
-      <point x="938" y="661"/>
-      <point x="950" y="662"/>
-      <point x="958" y="669" type="curve"/>
-      <point x="892" y="733" type="line"/>
-      <point x="856" y="696" type="line"/>
-    </contour>
   </outline>
   <lib>
     <dict>
@@ -292,11 +247,11 @@
               <key>coord</key>
               <dict>
                 <key>G_length</key>
-                <real>140.82481751824818</real>
+                <real>125.825</real>
                 <key>G_weight</key>
-                <real>90.2919708029197</real>
+                <real>80.29</real>
                 <key>G_width</key>
-                <real>25.868613138686133</real>
+                <real>39.87</real>
                 <key>H_length</key>
                 <real>689.4890510948906</real>
                 <key>H_weight</key>
@@ -347,7 +302,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>-13</integer>
+                <integer>5</integer>
                 <key>y</key>
                 <integer>171</integer>
               </dict>
@@ -374,11 +329,11 @@
                 <key>ML_point_mV</key>
                 <integer>5</integer>
                 <key>ML_point_moveH</key>
-                <integer>0</integer>
+                <integer>10</integer>
                 <key>ML_point_moveV</key>
-                <integer>8</integer>
+                <integer>12</integer>
                 <key>R_curve</key>
-                <real>6.4963503649635035</real>
+                <real>22.5</real>
                 <key>R_curve_bottom</key>
                 <integer>-3</integer>
                 <key>R_curve_top</key>
@@ -386,7 +341,7 @@
                 <key>TB_curve</key>
                 <integer>0</integer>
                 <key>TL_curve</key>
-                <real>26.496350364963504</real>
+                <real>26.5</real>
                 <key>TL_curve_bottom</key>
                 <integer>5</integer>
                 <key>TL_curve_top</key>
@@ -404,11 +359,11 @@
                 <key>T_point1_moveV</key>
                 <integer>-1</integer>
                 <key>height</key>
-                <real>234.18</real>
+                <integer>233</integer>
                 <key>weight</key>
-                <real>133.241</real>
+                <integer>133</integer>
                 <key>width</key>
-                <real>123.299</real>
+                <integer>123</integer>
               </dict>
               <key>name</key>
               <string>VG_4E36_03</string>
@@ -436,7 +391,7 @@
                 <key>B_curve</key>
                 <real>7.105427357601002e-15</real>
                 <key>length</key>
-                <real>183.46715328467153</real>
+                <real>158.47</real>
                 <key>serif_height</key>
                 <integer>-7</integer>
                 <key>serif_moveV</key>
