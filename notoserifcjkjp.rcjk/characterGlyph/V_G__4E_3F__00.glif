@@ -112,6 +112,16 @@
           <key>name</key>
           <string>P_bottom_moveV</string>
         </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>50</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>P_curve_weightV</string>
+        </dict>
       </array>
       <key>robocjk.status</key>
       <integer>0</integer>
@@ -496,6 +506,57 @@
           <true/>
           <key>sourceName</key>
           <string>weight=155,P_bottom_moveH=-176,P_bottom_moveV=-310</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>weight=155,P_bottom_moveH=-176,P_bottom_moveV=-350</string>
+          <key>location</key>
+          <dict>
+            <key>P_bottom_moveH</key>
+            <integer>-176</integer>
+            <key>P_bottom_moveV</key>
+            <integer>-350</integer>
+            <key>weight</key>
+            <integer>155</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>weight=155,P_bottom_moveH=-176,P_bottom_moveV=-350</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>weight=155,P_bottom_moveH=-200</string>
+          <key>location</key>
+          <dict>
+            <key>P_bottom_moveH</key>
+            <integer>-200</integer>
+            <key>weight</key>
+            <integer>155</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>weight=155,P_bottom_moveH=-200</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>P_curve_weightV=50</string>
+          <key>location</key>
+          <dict>
+            <key>P_curve_weightV</key>
+            <integer>50</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>P_curve_weightV=50</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
