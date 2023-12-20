@@ -50,6 +50,26 @@
           <key>name</key>
           <string>weight</string>
         </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>10</integer>
+          <key>minValue</key>
+          <integer>-10</integer>
+          <key>name</key>
+          <string>end_weightH</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>10</integer>
+          <key>minValue</key>
+          <integer>-10</integer>
+          <key>name</key>
+          <string>end_weightV</string>
+        </dict>
       </array>
       <key>robocjk.status</key>
       <integer>0</integer>
@@ -148,6 +168,66 @@
           <true/>
           <key>sourceName</key>
           <string>width=130,weight=170</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>end_weightH=-10</string>
+          <key>location</key>
+          <dict>
+            <key>end_weightH</key>
+            <integer>-10</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>end_weightH=-10</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>end_weightH=10</string>
+          <key>location</key>
+          <dict>
+            <key>end_weightH</key>
+            <integer>10</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>end_weightH=10</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>end_weightV=-10</string>
+          <key>location</key>
+          <dict>
+            <key>end_weightV</key>
+            <integer>-10</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>end_weightV=-10</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>end_weightV=10</string>
+          <key>location</key>
+          <dict>
+            <key>end_weightV</key>
+            <integer>10</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>end_weightV=10</string>
           <key>status</key>
           <integer>0</integer>
         </dict>

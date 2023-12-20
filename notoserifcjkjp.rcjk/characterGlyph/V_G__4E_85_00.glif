@@ -55,7 +55,7 @@
           <key>defaultValue</key>
           <integer>45</integer>
           <key>maxValue</key>
-          <integer>150</integer>
+          <integer>155</integer>
           <key>minValue</key>
           <integer>45</integer>
           <key>name</key>
@@ -496,6 +496,55 @@
           <true/>
           <key>sourceName</key>
           <string>T_serif_height=-50</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>weight=155</string>
+          <key>location</key>
+          <dict>
+            <key>weight</key>
+            <integer>155</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>weight=155</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>weight=155,G_width=-120</string>
+          <key>location</key>
+          <dict>
+            <key>G_width</key>
+            <integer>-120</integer>
+            <key>weight</key>
+            <integer>155</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>weight=155,G_width=-120</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>weight=155,G_height=-30</string>
+          <key>location</key>
+          <dict>
+            <key>G_height</key>
+            <integer>-30</integer>
+            <key>weight</key>
+            <integer>155</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>weight=155,G_height=-30</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
