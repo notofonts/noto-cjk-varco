@@ -75,7 +75,7 @@
           <key>maxValue</key>
           <integer>0</integer>
           <key>minValue</key>
-          <integer>-120</integer>
+          <integer>-150</integer>
           <key>name</key>
           <string>G_width</string>
         </dict>
@@ -622,6 +622,21 @@
           <true/>
           <key>sourceName</key>
           <string>weight=150,G_height=30</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>G_width=-150</string>
+          <key>location</key>
+          <dict>
+            <key>G_width</key>
+            <integer>-150</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>G_width=-150</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
