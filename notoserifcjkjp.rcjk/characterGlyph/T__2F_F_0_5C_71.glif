@@ -11,7 +11,7 @@
           <key>defaultValue</key>
           <integer>502</integer>
           <key>maxValue</key>
-          <integer>568</integer>
+          <integer>585</integer>
           <key>minValue</key>
           <integer>502</integer>
           <key>name</key>
@@ -385,6 +385,14 @@
               <dict>
                 <key>B_curve</key>
                 <integer>0</integer>
+                <key>barb</key>
+                <integer>0</integer>
+                <key>barb_size</key>
+                <integer>0</integer>
+                <key>crop_corner</key>
+                <integer>0</integer>
+                <key>flat_end</key>
+                <integer>0</integer>
                 <key>length</key>
                 <real>765.1</real>
                 <key>serif_curve</key>
@@ -395,6 +403,10 @@
                 <integer>0</integer>
                 <key>serif_width</key>
                 <integer>0</integer>
+                <key>start_slope</key>
+                <integer>0</integer>
+                <key>thickness</key>
+                <integer>0</integer>
                 <key>weight</key>
                 <integer>44</integer>
               </dict>
@@ -413,9 +425,9 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>138</integer>
+                <integer>136</integer>
                 <key>y</key>
-                <integer>-63</integer>
+                <integer>-67</integer>
               </dict>
             </dict>
             <dict>
@@ -423,8 +435,16 @@
               <dict>
                 <key>B_curve</key>
                 <integer>100</integer>
+                <key>barb</key>
+                <integer>0</integer>
+                <key>barb_size</key>
+                <integer>0</integer>
+                <key>crop_corner</key>
+                <integer>0</integer>
+                <key>flat_end</key>
+                <integer>0</integer>
                 <key>length</key>
-                <real>690.1</real>
+                <real>659.1</real>
                 <key>serif_curve</key>
                 <integer>0</integer>
                 <key>serif_height</key>
@@ -433,6 +453,10 @@
                 <integer>0</integer>
                 <key>serif_width</key>
                 <integer>0</integer>
+                <key>start_slope</key>
+                <integer>0</integer>
+                <key>thickness</key>
+                <integer>0</integer>
                 <key>weight</key>
                 <integer>44</integer>
               </dict>
@@ -451,9 +475,9 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>-102</integer>
+                <integer>-116</integer>
                 <key>y</key>
-                <integer>-253</integer>
+                <integer>-286</integer>
               </dict>
             </dict>
             <dict>
@@ -461,8 +485,16 @@
               <dict>
                 <key>B_curve</key>
                 <integer>100</integer>
+                <key>barb</key>
+                <integer>0</integer>
+                <key>barb_size</key>
+                <integer>0</integer>
+                <key>crop_corner</key>
+                <integer>0</integer>
+                <key>flat_end</key>
+                <integer>0</integer>
                 <key>length</key>
-                <integer>676</integer>
+                <integer>639</integer>
                 <key>serif_curve</key>
                 <integer>0</integer>
                 <key>serif_height</key>
@@ -471,6 +503,10 @@
                 <integer>0</integer>
                 <key>serif_width</key>
                 <integer>0</integer>
+                <key>start_slope</key>
+                <integer>0</integer>
+                <key>thickness</key>
+                <integer>0</integer>
                 <key>weight</key>
                 <integer>44</integer>
               </dict>
@@ -489,9 +525,9 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>386</integer>
+                <integer>389</integer>
                 <key>y</key>
-                <integer>-253</integer>
+                <integer>-290</integer>
               </dict>
             </dict>
             <dict>
@@ -510,7 +546,7 @@
                 <key>weight</key>
                 <integer>30</integer>
                 <key>width</key>
-                <real>468.31</real>
+                <integer>488</integer>
               </dict>
               <key>name</key>
               <string>VG_4E00_01</string>
@@ -527,9 +563,9 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>409</integer>
+                <integer>389</integer>
                 <key>y</key>
-                <integer>-336</integer>
+                <integer>-342</integer>
               </dict>
             </dict>
           </array>
@@ -538,12 +574,12 @@
           <key>location</key>
           <dict>
             <key>width</key>
-            <integer>568</integer>
+            <integer>585</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>width=568</string>
+          <string>width=585</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
@@ -565,6 +601,8 @@
                 <integer>0</integer>
                 <key>length</key>
                 <real>804.99932885906</real>
+                <key>serif_curve</key>
+                <integer>0</integer>
                 <key>serif_height</key>
                 <integer>-6</integer>
                 <key>serif_moveV</key>
@@ -576,7 +614,7 @@
                 <key>thickness</key>
                 <real>5.08768942618764</real>
                 <key>weight</key>
-                <integer>140</integer>
+                <integer>144</integer>
               </dict>
               <key>name</key>
               <string>VG_4E28_00</string>
@@ -593,7 +631,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>101</integer>
+                <integer>81</integer>
                 <key>y</key>
                 <integer>-45</integer>
               </dict>
@@ -612,17 +650,21 @@
                 <key>flat_end</key>
                 <integer>0</integer>
                 <key>length</key>
-                <integer>747</integer>
+                <integer>711</integer>
+                <key>serif_curve</key>
+                <integer>0</integer>
                 <key>serif_height</key>
-                <integer>-10</integer>
+                <integer>-6</integer>
+                <key>serif_moveV</key>
+                <integer>0</integer>
                 <key>serif_width</key>
-                <integer>-12</integer>
+                <integer>-8</integer>
                 <key>start_slope</key>
                 <integer>0</integer>
                 <key>thickness</key>
                 <real>5.08768942618764</real>
                 <key>weight</key>
-                <integer>136</integer>
+                <integer>134</integer>
               </dict>
               <key>name</key>
               <string>VG_4E28_00</string>
@@ -639,9 +681,9 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>-113</integer>
+                <integer>-138</integer>
                 <key>y</key>
-                <integer>-226</integer>
+                <integer>-235</integer>
               </dict>
             </dict>
             <dict>
@@ -658,19 +700,21 @@
                 <key>flat_end</key>
                 <integer>0</integer>
                 <key>length</key>
-                <real>729.99932885906</real>
+                <integer>708</integer>
+                <key>serif_curve</key>
+                <integer>0</integer>
                 <key>serif_height</key>
                 <integer>-9</integer>
                 <key>serif_moveV</key>
                 <integer>1</integer>
                 <key>serif_width</key>
-                <integer>-13</integer>
+                <integer>-10</integer>
                 <key>start_slope</key>
                 <integer>0</integer>
                 <key>thickness</key>
                 <real>5.08768942618764</real>
                 <key>weight</key>
-                <integer>142</integer>
+                <integer>145</integer>
               </dict>
               <key>name</key>
               <string>VG_4E28_00</string>
@@ -687,9 +731,9 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>319</integer>
+                <integer>312</integer>
                 <key>y</key>
-                <integer>-226</integer>
+                <integer>-232</integer>
               </dict>
             </dict>
             <dict>
@@ -727,7 +771,7 @@
                 <key>x</key>
                 <integer>409</integer>
                 <key>y</key>
-                <integer>-352</integer>
+                <integer>-350</integer>
               </dict>
             </dict>
           </array>
@@ -738,12 +782,12 @@
             <key>wght</key>
             <integer>1</integer>
             <key>width</key>
-            <integer>568</integer>
+            <integer>585</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>wght=1,width=568</string>
+          <string>wght=1,width=585</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
