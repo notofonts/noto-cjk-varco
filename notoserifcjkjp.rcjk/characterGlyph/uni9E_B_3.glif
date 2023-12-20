@@ -80,19 +80,6 @@
       <point x="327" y="819" type="curve"/>
     </contour>
     <contour>
-      <point x="134" y="680" type="line"/>
-      <point x="121" y="591"/>
-      <point x="89" y="515"/>
-      <point x="44" y="464" type="curve"/>
-      <point x="59" y="453" type="line"/>
-      <point x="111" y="495"/>
-      <point x="149" y="563"/>
-      <point x="171" y="642" type="curve"/>
-      <point x="191" y="642"/>
-      <point x="201" y="652"/>
-      <point x="204" y="664" type="curve"/>
-    </contour>
-    <contour>
       <point x="377" y="680" type="line"/>
       <point x="365" y="610"/>
       <point x="337" y="547"/>
@@ -227,11 +214,117 @@
   </outline>
   <lib>
     <dict>
+      <key>robocjk.deepComponents</key>
+      <array>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>L_curveH</key>
+            <integer>5</integer>
+            <key>L_curveV</key>
+            <integer>6</integer>
+            <key>R_curve</key>
+            <integer>10</integer>
+            <key>R_curveH</key>
+            <integer>7</integer>
+            <key>R_curveV</key>
+            <integer>1</integer>
+            <key>end_weightH</key>
+            <integer>7</integer>
+            <key>end_weightV</key>
+            <integer>6</integer>
+            <key>height</key>
+            <integer>221</integer>
+            <key>serif_height</key>
+            <integer>0</integer>
+            <key>serif_right_moveV</key>
+            <integer>5</integer>
+            <key>serif_width</key>
+            <integer>-6</integer>
+            <key>weight</key>
+            <integer>54</integer>
+            <key>width</key>
+            <integer>164</integer>
+          </dict>
+          <key>name</key>
+          <string>VG_4E3F_01</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>-481</integer>
+            <key>y</key>
+            <integer>-153</integer>
+          </dict>
+        </dict>
+      </array>
       <key>robocjk.status</key>
       <integer>0</integer>
       <key>robocjk.variationGlyphs</key>
       <array>
         <dict>
+          <key>deepComponents</key>
+          <array>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>L_curveH</key>
+                <integer>5</integer>
+                <key>L_curveV</key>
+                <integer>-1</integer>
+                <key>R_curve</key>
+                <integer>10</integer>
+                <key>R_curveH</key>
+                <integer>7</integer>
+                <key>R_curveV</key>
+                <integer>1</integer>
+                <key>end_weightH</key>
+                <integer>8</integer>
+                <key>end_weightV</key>
+                <integer>4</integer>
+                <key>height</key>
+                <integer>229</integer>
+                <key>serif_height</key>
+                <integer>5</integer>
+                <key>serif_right_moveV</key>
+                <integer>-1</integer>
+                <key>serif_width</key>
+                <integer>-3</integer>
+                <key>weight</key>
+                <integer>101</integer>
+                <key>width</key>
+                <integer>131</integer>
+              </dict>
+              <key>name</key>
+              <string>VG_4E3F_01</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>-529</integer>
+                <key>y</key>
+                <integer>-130</integer>
+              </dict>
+            </dict>
+          </array>
           <key>layerName</key>
           <string>wght=1</string>
           <key>location</key>
