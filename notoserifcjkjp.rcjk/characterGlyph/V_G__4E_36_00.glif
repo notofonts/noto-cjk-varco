@@ -42,6 +42,16 @@
           <key>name</key>
           <string>height</string>
         </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>60</integer>
+          <key>maxValue</key>
+          <integer>180</integer>
+          <key>minValue</key>
+          <integer>60</integer>
+          <key>name</key>
+          <string>weight</string>
+        </dict>
       </array>
       <key>robocjk.status</key>
       <integer>0</integer>
@@ -91,6 +101,21 @@
           <true/>
           <key>sourceName</key>
           <string>width=80,height=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>weight=180</string>
+          <key>location</key>
+          <dict>
+            <key>weight</key>
+            <integer>180</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>weight=180</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
