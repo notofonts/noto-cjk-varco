@@ -112,6 +112,16 @@
           <key>name</key>
           <string>T_cut_angle</string>
         </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>-100</integer>
+          <key>name</key>
+          <string>TL_weightV</string>
+        </dict>
       </array>
       <key>robocjk.status</key>
       <integer>0</integer>
@@ -377,6 +387,36 @@
           <true/>
           <key>sourceName</key>
           <string>T_cut_angle=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>TL_weightV=100</string>
+          <key>location</key>
+          <dict>
+            <key>TL_weightV</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>TL_weightV=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>TL_weightV=-100</string>
+          <key>location</key>
+          <dict>
+            <key>TL_weightV</key>
+            <integer>-100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>TL_weightV=-100</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
