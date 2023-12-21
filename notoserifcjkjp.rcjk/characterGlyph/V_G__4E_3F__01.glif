@@ -126,7 +126,7 @@
           <key>maxValue</key>
           <integer>50</integer>
           <key>minValue</key>
-          <integer>-20</integer>
+          <integer>-50</integer>
           <key>name</key>
           <string>serif_height</string>
         </dict>
@@ -134,7 +134,7 @@
           <key>defaultValue</key>
           <integer>0</integer>
           <key>maxValue</key>
-          <integer>30</integer>
+          <integer>50</integer>
           <key>minValue</key>
           <integer>-50</integer>
           <key>name</key>
@@ -598,16 +598,16 @@
         </dict>
         <dict>
           <key>layerName</key>
-          <string>serif_right_moveV=30</string>
+          <string>serif_right_moveV=50</string>
           <key>location</key>
           <dict>
             <key>serif_right_moveV</key>
-            <integer>30</integer>
+            <integer>50</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>serif_right_moveV=30</string>
+          <string>serif_right_moveV=50</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
@@ -655,6 +655,21 @@
           <true/>
           <key>sourceName</key>
           <string>serif_height=50,serif_right_moveV=-50</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>serif_height=-50</string>
+          <key>location</key>
+          <dict>
+            <key>serif_height</key>
+            <integer>-50</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>serif_height=-50</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
