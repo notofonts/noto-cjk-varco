@@ -82,51 +82,6 @@
       <point x="946" y="-103"/>
       <point x="1015" y="18"/>
     </contour>
-    <contour>
-      <point x="160" y="723" type="line"/>
-      <point x="160" y="694" type="line"/>
-      <point x="887" y="694" type="line"/>
-      <point x="887" y="723" type="line"/>
-    </contour>
-    <contour>
-      <point x="477" y="834" type="line"/>
-      <point x="477" y="701" type="line"/>
-      <point x="521" y="701" type="line"/>
-      <point x="521" y="798" type="line"/>
-      <point x="545" y="801"/>
-      <point x="556" y="811"/>
-      <point x="558" y="825" type="curve"/>
-    </contour>
-    <contour>
-      <point x="161" y="768" type="line"/>
-      <point x="160" y="696"/>
-      <point x="120" y="629"/>
-      <point x="80" y="604" type="curve"/>
-      <point x="64" y="591"/>
-      <point x="54" y="573"/>
-      <point x="63" y="559" type="curve" smooth="yes"/>
-      <point x="75" y="542"/>
-      <point x="106" y="550"/>
-      <point x="126" y="566" type="curve" smooth="yes"/>
-      <point x="160" y="594"/>
-      <point x="200" y="663"/>
-      <point x="179" y="768" type="curve"/>
-    </contour>
-    <contour>
-      <point x="861" y="723" type="line"/>
-      <point x="851" y="689"/>
-      <point x="827" y="627"/>
-      <point x="810" y="592" type="curve"/>
-      <point x="825" y="584" type="line"/>
-      <point x="854" y="611"/>
-      <point x="893" y="655"/>
-      <point x="912" y="687" type="curve"/>
-      <point x="931" y="688"/>
-      <point x="943" y="689"/>
-      <point x="951" y="696" type="curve"/>
-      <point x="885" y="760" type="line"/>
-      <point x="850" y="723" type="line"/>
-    </contour>
   </outline>
   <lib>
     <dict>
@@ -135,10 +90,22 @@
         <dict>
           <key>coord</key>
           <dict>
-            <key>height</key>
-            <integer>310</integer>
-            <key>width</key>
+            <key>L_D_height</key>
+            <integer>10</integer>
+            <key>L_D_moveH</key>
             <integer>0</integer>
+            <key>L_D_moveV</key>
+            <integer>0</integer>
+            <key>L_D_width</key>
+            <integer>4</integer>
+            <key>R_G_length</key>
+            <integer>6</integer>
+            <key>R_G_moveH</key>
+            <integer>4</integer>
+            <key>R_G_width</key>
+            <integer>-7</integer>
+            <key>height</key>
+            <integer>274</integer>
           </dict>
           <key>name</key>
           <string>T_5B80_2FF1</string>
@@ -157,7 +124,7 @@
             <key>x</key>
             <integer>0</integer>
             <key>y</key>
-            <integer>179</integer>
+            <integer>0</integer>
           </dict>
         </dict>
       </array>
@@ -171,10 +138,22 @@
             <dict>
               <key>coord</key>
               <dict>
-                <key>height</key>
-                <integer>310</integer>
-                <key>width</key>
+                <key>L_D_height</key>
+                <integer>-10</integer>
+                <key>L_D_moveH</key>
                 <integer>0</integer>
+                <key>L_D_moveV</key>
+                <integer>0</integer>
+                <key>L_D_width</key>
+                <integer>4</integer>
+                <key>R_G_length</key>
+                <integer>-12</integer>
+                <key>R_G_moveH</key>
+                <integer>4</integer>
+                <key>R_G_width</key>
+                <integer>-4</integer>
+                <key>height</key>
+                <integer>299</integer>
               </dict>
               <key>name</key>
               <string>T_5B80_2FF1</string>
@@ -193,7 +172,7 @@
                 <key>x</key>
                 <integer>0</integer>
                 <key>y</key>
-                <integer>179</integer>
+                <integer>0</integer>
               </dict>
             </dict>
           </array>
