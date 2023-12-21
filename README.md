@@ -12,3 +12,6 @@ The goal is to make 2 fonts with 1000 Character Glyphs each using the minimal qu
 
 Once complete, we should be able to notice significant binary font file size savings.
 
+Noto Serif JP Variable Components and Template Radicals:
+
+https://docs.google.com/spreadsheets/d/1P2cBPx8msZ6FxWc82FZVzbAZGcHg2P9-VQ2f_zM37yQ/edit?usp=sharing
