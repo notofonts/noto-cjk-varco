@@ -24,14 +24,14 @@ jobs:
         run: ./export_and_build.sh
 
       - name: Storing Fontra Sources
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: NotoCJKVarCoFontraSources
           path: build/fontra
           retention-days: 5
 
       - name: Storing Font Artifacts
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: NotoCJKVarCoFonts
           path: build/fonts
