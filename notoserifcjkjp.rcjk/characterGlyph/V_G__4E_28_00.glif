@@ -8,6 +8,7 @@
       <point x="554" y="857"/>
       <point x="557" y="871" type="curve"/>
       <point x="477" y="880" type="line"/>
+      <point x="477" y="880" type="line"/>
       <point x="477" y="-120" type="line"/>
       <point x="486" y="-120" type="line" smooth="yes"/>
       <point x="502" y="-120"/>
@@ -111,13 +112,13 @@
         </dict>
         <dict>
           <key>defaultValue</key>
-          <integer>1</integer>
+          <integer>0</integer>
           <key>maxValue</key>
-          <integer>4</integer>
+          <integer>50</integer>
           <key>minValue</key>
-          <integer>1</integer>
+          <integer>0</integer>
           <key>name</key>
-          <string>serif_style4</string>
+          <string>TL_cut</string>
         </dict>
       </array>
       <key>robocjk.status</key>
@@ -482,6 +483,38 @@
           <true/>
           <key>sourceName</key>
           <string>weight=30</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>serif_style4=4</string>
+          <key>location</key>
+          <dict>
+            <key>TL_cut</key>
+            <integer>50</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>serif_style4=4</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>weight=160,serif_style4=4</string>
+          <key>location</key>
+          <dict>
+            <key>TL_cut</key>
+            <integer>50</integer>
+            <key>weight</key>
+            <integer>160</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>weight=160,serif_style4=4</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
