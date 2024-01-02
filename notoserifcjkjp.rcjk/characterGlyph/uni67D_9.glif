@@ -4,54 +4,6 @@
   <unicode hex="67D9"/>
   <outline>
     <contour>
-      <point x="450" y="531" type="line"/>
-      <point x="450" y="501" type="line"/>
-      <point x="886" y="501" type="line"/>
-      <point x="886" y="531" type="line"/>
-    </contour>
-    <contour>
-      <point x="450" y="313" type="line"/>
-      <point x="450" y="284" type="line"/>
-      <point x="886" y="284" type="line"/>
-      <point x="886" y="313" type="line"/>
-    </contour>
-    <contour>
-      <point x="643" y="749" type="line"/>
-      <point x="643" y="-73" type="line"/>
-      <point x="649" y="-73" type="line" smooth="yes"/>
-      <point x="672" y="-73"/>
-      <point x="688" y="-60"/>
-      <point x="688" y="-56" type="curve" smooth="yes"/>
-      <point x="688" y="749" type="line"/>
-    </contour>
-    <contour>
-      <point x="428" y="749" type="line"/>
-      <point x="428" y="209" type="line"/>
-      <point x="435" y="209" type="line" smooth="yes"/>
-      <point x="455" y="209"/>
-      <point x="472" y="221"/>
-      <point x="472" y="226" type="curve" smooth="yes"/>
-      <point x="472" y="719" type="line"/>
-      <point x="882" y="719" type="line"/>
-      <point x="882" y="749" type="line"/>
-      <point x="477" y="749" type="line"/>
-      <point x="428" y="774" type="line"/>
-    </contour>
-    <contour>
-      <point x="863" y="749" type="line"/>
-      <point x="863" y="219" type="line"/>
-      <point x="869" y="219" type="line" smooth="yes"/>
-      <point x="884" y="219"/>
-      <point x="906" y="232"/>
-      <point x="907" y="237" type="curve"/>
-      <point x="907" y="709" type="line"/>
-      <point x="927" y="713"/>
-      <point x="944" y="721"/>
-      <point x="951" y="729" type="curve"/>
-      <point x="883" y="782" type="line"/>
-      <point x="853" y="749" type="line"/>
-    </contour>
-    <contour>
       <point x="49" y="607" type="line"/>
       <point x="57" y="577" type="line"/>
       <point x="390" y="577" type="line" smooth="yes"/>
@@ -126,6 +78,36 @@
             <integer>0</integer>
           </dict>
         </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>B_H_moveV</key>
+            <integer>7</integer>
+            <key>T_H_moveV</key>
+            <integer>-9</integer>
+            <key>width</key>
+            <integer>524</integer>
+          </dict>
+          <key>name</key>
+          <string>T_2FF0_7532</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>0</integer>
+            <key>y</key>
+            <integer>0</integer>
+          </dict>
+        </dict>
       </array>
       <key>robocjk.status</key>
       <integer>0</integer>
@@ -142,6 +124,36 @@
               </dict>
               <key>name</key>
               <string>T_6728_2FF0</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>0</integer>
+                <key>y</key>
+                <integer>0</integer>
+              </dict>
+            </dict>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>B_H_moveV</key>
+                <integer>26</integer>
+                <key>T_H_moveV</key>
+                <integer>-9</integer>
+                <key>width</key>
+                <integer>520</integer>
+              </dict>
+              <key>name</key>
+              <string>T_2FF0_7532</string>
               <key>transform</key>
               <dict>
                 <key>rotation</key>
