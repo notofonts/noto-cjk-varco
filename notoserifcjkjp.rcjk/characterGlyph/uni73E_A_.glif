@@ -4,72 +4,6 @@
   <unicode hex="73EA"/>
   <outline>
     <contour>
-      <point x="406" y="659" type="line"/>
-      <point x="414" y="630" type="line"/>
-      <point x="913" y="630" type="line" smooth="yes"/>
-      <point x="927" y="630"/>
-      <point x="937" y="634"/>
-      <point x="939" y="645" type="curve"/>
-      <point x="910" y="673"/>
-      <point x="864" y="709"/>
-      <point x="864" y="709" type="curve"/>
-      <point x="823" y="659" type="line"/>
-    </contour>
-    <contour>
-      <point x="384" y="456" type="line"/>
-      <point x="392" y="427" type="line"/>
-      <point x="938" y="427" type="line" smooth="yes"/>
-      <point x="952" y="427"/>
-      <point x="961" y="432"/>
-      <point x="963" y="442" type="curve"/>
-      <point x="935" y="470"/>
-      <point x="888" y="506"/>
-      <point x="888" y="506" type="curve"/>
-      <point x="847" y="456" type="line"/>
-    </contour>
-    <contour>
-      <point x="391" y="220" type="line"/>
-      <point x="399" y="190" type="line"/>
-      <point x="912" y="190" type="line" smooth="yes"/>
-      <point x="926" y="190"/>
-      <point x="936" y="195"/>
-      <point x="939" y="206" type="curve"/>
-      <point x="909" y="234"/>
-      <point x="863" y="270"/>
-      <point x="863" y="270" type="curve"/>
-      <point x="822" y="220" type="line"/>
-    </contour>
-    <contour>
-      <point x="320" y="-12" type="line"/>
-      <point x="328" y="-41" type="line"/>
-      <point x="943" y="-41" type="line" smooth="yes"/>
-      <point x="957" y="-41"/>
-      <point x="966" y="-36"/>
-      <point x="968" y="-26" type="curve"/>
-      <point x="940" y="2"/>
-      <point x="894" y="39"/>
-      <point x="894" y="39" type="curve"/>
-      <point x="852" y="-12" type="line"/>
-    </contour>
-    <contour>
-      <point x="628" y="818" type="line"/>
-      <point x="628" y="439" type="line"/>
-      <point x="672" y="439" type="line"/>
-      <point x="672" y="780" type="line"/>
-      <point x="696" y="784"/>
-      <point x="706" y="794"/>
-      <point x="708" y="808" type="curve"/>
-    </contour>
-    <contour>
-      <point x="628" y="396" type="line"/>
-      <point x="628" y="-28" type="line"/>
-      <point x="672" y="-28" type="line"/>
-      <point x="672" y="362" type="line"/>
-      <point x="694" y="365"/>
-      <point x="702" y="373"/>
-      <point x="704" y="387" type="curve"/>
-    </contour>
-    <contour>
       <point x="50" y="744" type="line"/>
       <point x="58" y="714" type="line"/>
       <point x="392" y="714" type="line" smooth="yes"/>
@@ -115,11 +49,85 @@
   </outline>
   <lib>
     <dict>
+      <key>robocjk.deepComponents</key>
+      <array>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>H1_left_length</key>
+            <integer>24</integer>
+            <key>H2_left_length</key>
+            <integer>2</integer>
+            <key>H3_left_length</key>
+            <integer>15</integer>
+            <key>H4_left_length</key>
+            <integer>30</integer>
+            <key>width</key>
+            <integer>615</integer>
+          </dict>
+          <key>name</key>
+          <string>T_2FF0_572D</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>0</integer>
+            <key>y</key>
+            <integer>0</integer>
+          </dict>
+        </dict>
+      </array>
       <key>robocjk.status</key>
       <integer>0</integer>
       <key>robocjk.variationGlyphs</key>
       <array>
         <dict>
+          <key>deepComponents</key>
+          <array>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>H1_left_length</key>
+                <integer>34</integer>
+                <key>H2_left_length</key>
+                <integer>10</integer>
+                <key>H3_left_length</key>
+                <integer>46</integer>
+                <key>H4_left_length</key>
+                <integer>60</integer>
+                <key>width</key>
+                <integer>619</integer>
+              </dict>
+              <key>name</key>
+              <string>T_2FF0_572D</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>0</integer>
+                <key>y</key>
+                <integer>0</integer>
+              </dict>
+            </dict>
+          </array>
           <key>layerName</key>
           <string>wght=1</string>
           <key>location</key>
