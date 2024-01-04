@@ -24,27 +24,80 @@
       <point x="789" y="761" type="line"/>
       <point x="753" y="726" type="line"/>
     </contour>
-    <contour>
-      <point x="259" y="726" type="curve"/>
-      <point x="239" y="713" type="line"/>
-      <point x="327" y="335"/>
-      <point x="567" y="59"/>
-      <point x="901" y="-74" type="curve"/>
-      <point x="913" y="-51"/>
-      <point x="936" y="-39"/>
-      <point x="959" y="-41" type="curve"/>
-      <point x="963" y="-30" type="line"/>
-      <point x="615" y="90"/>
-      <point x="354" y="363"/>
-    </contour>
   </outline>
   <lib>
     <dict>
+      <key>robocjk.deepComponents</key>
+      <array>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>height</key>
+            <integer>795</integer>
+            <key>weight</key>
+            <integer>62</integer>
+            <key>width</key>
+            <integer>721</integer>
+          </dict>
+          <key>name</key>
+          <string>VG_31CF_00</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>1</integer>
+            <key>y</key>
+            <integer>-7</integer>
+          </dict>
+        </dict>
+      </array>
       <key>robocjk.status</key>
       <integer>0</integer>
       <key>robocjk.variationGlyphs</key>
       <array>
         <dict>
+          <key>deepComponents</key>
+          <array>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>height</key>
+                <integer>820</integer>
+                <key>weight</key>
+                <integer>167</integer>
+                <key>width</key>
+                <integer>718</integer>
+              </dict>
+              <key>name</key>
+              <string>VG_31CF_00</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>11</integer>
+                <key>y</key>
+                <integer>0</integer>
+              </dict>
+            </dict>
+          </array>
           <key>layerName</key>
           <string>wght=1</string>
           <key>location</key>
