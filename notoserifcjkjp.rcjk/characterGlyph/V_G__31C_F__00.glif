@@ -26,7 +26,7 @@
           <key>maxValue</key>
           <integer>750</integer>
           <key>minValue</key>
-          <integer>170</integer>
+          <integer>160</integer>
           <key>name</key>
           <string>width</string>
         </dict>
@@ -447,6 +447,57 @@
           <true/>
           <key>sourceName</key>
           <string>T_weight=10</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>width=160</string>
+          <key>location</key>
+          <dict>
+            <key>width</key>
+            <integer>160</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>width=160</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>width=160,weight=180</string>
+          <key>location</key>
+          <dict>
+            <key>weight</key>
+            <integer>180</integer>
+            <key>width</key>
+            <integer>160</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>width=160,weight=180</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>width=160,height=170,weight=180</string>
+          <key>location</key>
+          <dict>
+            <key>height</key>
+            <integer>170</integer>
+            <key>weight</key>
+            <integer>180</integer>
+            <key>width</key>
+            <integer>160</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>width=160,height=170,weight=180</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
