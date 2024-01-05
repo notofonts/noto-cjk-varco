@@ -178,54 +178,6 @@
       <point x="750" y="250" type="line"/>
       <point x="750" y="424" type="line"/>
     </contour>
-    <contour>
-      <point x="46" y="167" type="line"/>
-      <point x="55" y="137" type="line"/>
-      <point x="930" y="137" type="line" smooth="yes"/>
-      <point x="944" y="137"/>
-      <point x="953" y="142"/>
-      <point x="956" y="153" type="curve"/>
-      <point x="926" y="178"/>
-      <point x="881" y="211"/>
-      <point x="881" y="211" type="curve"/>
-      <point x="841" y="167" type="line"/>
-    </contour>
-    <contour>
-      <point x="430" y="167" type="line"/>
-      <point x="337" y="87"/>
-      <point x="191" y="16"/>
-      <point x="40" y="-29" type="curve"/>
-      <point x="49" y="-48" type="line"/>
-      <point x="217" y="-8"/>
-      <point x="377" y="59"/>
-      <point x="483" y="151" type="curve"/>
-      <point x="483" y="167" type="line"/>
-    </contour>
-    <contour>
-      <point x="528" y="167" type="curve"/>
-      <point x="513" y="154" type="line"/>
-      <point x="603" y="65"/>
-      <point x="776" y="-10"/>
-      <point x="919" y="-47" type="curve"/>
-      <point x="925" y="-26"/>
-      <point x="943" y="-12"/>
-      <point x="963" y="-10" type="curve"/>
-      <point x="964" y="2" type="line"/>
-      <point x="816" y="28"/>
-      <point x="620" y="92"/>
-    </contour>
-    <contour>
-      <point x="475" y="232" type="line"/>
-      <point x="475" y="-74" type="line"/>
-      <point x="484" y="-74" type="line" smooth="yes"/>
-      <point x="500" y="-74"/>
-      <point x="519" y="-62"/>
-      <point x="519" y="-55" type="curve" smooth="yes"/>
-      <point x="519" y="200" type="line"/>
-      <point x="538" y="204"/>
-      <point x="546" y="212"/>
-      <point x="548" y="223" type="curve"/>
-    </contour>
   </outline>
   <lib>
     <dict>
@@ -263,7 +215,7 @@
         </dict>
       </array>
       <key>robocjk.status</key>
-      <integer>0</integer>
+      <integer>1</integer>
       <key>robocjk.variationGlyphs</key>
       <array>
         <dict>
@@ -272,10 +224,12 @@
             <dict>
               <key>coord</key>
               <dict>
+                <key>BS_length</key>
+                <integer>7</integer>
                 <key>TS_length</key>
-                <integer>-5</integer>
+                <integer>-1</integer>
                 <key>height</key>
-                <integer>324</integer>
+                <integer>295</integer>
               </dict>
               <key>name</key>
               <string>T_2FF1_6728</string>
@@ -294,7 +248,7 @@
                 <key>x</key>
                 <integer>-2</integer>
                 <key>y</key>
-                <integer>3</integer>
+                <integer>2</integer>
               </dict>
             </dict>
           </array>
