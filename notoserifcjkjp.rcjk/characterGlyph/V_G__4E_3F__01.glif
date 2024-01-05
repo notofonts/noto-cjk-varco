@@ -44,7 +44,7 @@
           <key>defaultValue</key>
           <integer>52</integer>
           <key>maxValue</key>
-          <integer>180</integer>
+          <integer>190</integer>
           <key>minValue</key>
           <integer>52</integer>
           <key>name</key>
@@ -685,6 +685,74 @@
           <true/>
           <key>sourceName</key>
           <string>serif_width=-50</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>weight=190</string>
+          <key>location</key>
+          <dict>
+            <key>weight</key>
+            <integer>190</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>weight=190</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>height=130,weight=190</string>
+          <key>location</key>
+          <dict>
+            <key>height</key>
+            <integer>130</integer>
+            <key>weight</key>
+            <integer>190</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>height=130,weight=190</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>width=100,weight=190</string>
+          <key>location</key>
+          <dict>
+            <key>weight</key>
+            <integer>190</integer>
+            <key>width</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>width=100,weight=190</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>width=100,height=130,weight=190</string>
+          <key>location</key>
+          <dict>
+            <key>height</key>
+            <integer>130</integer>
+            <key>weight</key>
+            <integer>190</integer>
+            <key>width</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>width=100,height=130,weight=190</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
