@@ -76,54 +76,6 @@
       <point x="484" y="499"/>
       <point x="489" y="509" type="curve"/>
     </contour>
-    <contour>
-      <point x="48" y="213" type="line"/>
-      <point x="57" y="183" type="line"/>
-      <point x="929" y="183" type="line" smooth="yes"/>
-      <point x="943" y="183"/>
-      <point x="953" y="188"/>
-      <point x="956" y="199" type="curve"/>
-      <point x="924" y="227"/>
-      <point x="876" y="263"/>
-      <point x="876" y="263" type="curve"/>
-      <point x="834" y="213" type="line"/>
-    </contour>
-    <contour>
-      <point x="433" y="213" type="line"/>
-      <point x="345" y="113"/>
-      <point x="200" y="30"/>
-      <point x="40" y="-25" type="curve"/>
-      <point x="49" y="-43" type="line"/>
-      <point x="227" y="5"/>
-      <point x="385" y="86"/>
-      <point x="486" y="197" type="curve"/>
-      <point x="486" y="213" type="line"/>
-    </contour>
-    <contour>
-      <point x="533" y="213" type="curve"/>
-      <point x="517" y="201" type="line"/>
-      <point x="604" y="87"/>
-      <point x="767" y="-2"/>
-      <point x="920" y="-45" type="curve"/>
-      <point x="926" y="-24"/>
-      <point x="944" y="-10"/>
-      <point x="964" y="-8" type="curve"/>
-      <point x="965" y="3" type="line"/>
-      <point x="807" y="35"/>
-      <point x="622" y="113"/>
-    </contour>
-    <contour>
-      <point x="477" y="310" type="line"/>
-      <point x="477" y="-77" type="line"/>
-      <point x="486" y="-77" type="line" smooth="yes"/>
-      <point x="502" y="-77"/>
-      <point x="521" y="-65"/>
-      <point x="521" y="-58" type="curve" smooth="yes"/>
-      <point x="521" y="274" type="line"/>
-      <point x="546" y="278"/>
-      <point x="556" y="287"/>
-      <point x="558" y="301" type="curve"/>
-    </contour>
   </outline>
   <lib>
     <dict>
@@ -311,11 +263,11 @@
           <key>coord</key>
           <dict>
             <key>BS_length</key>
-            <integer>-70</integer>
+            <integer>11</integer>
             <key>TS_length</key>
-            <integer>14</integer>
+            <integer>-3</integer>
             <key>height</key>
-            <integer>556</integer>
+            <integer>380</integer>
           </dict>
           <key>name</key>
           <string>T_2FF1_6728</string>
@@ -334,7 +286,7 @@
             <key>x</key>
             <integer>0</integer>
             <key>y</key>
-            <integer>-63</integer>
+            <integer>7</integer>
           </dict>
         </dict>
       </array>
@@ -531,11 +483,11 @@
               <key>coord</key>
               <dict>
                 <key>BS_length</key>
-                <integer>-63</integer>
+                <integer>3</integer>
                 <key>TS_length</key>
-                <integer>21</integer>
+                <integer>9</integer>
                 <key>height</key>
-                <integer>567</integer>
+                <integer>387</integer>
               </dict>
               <key>name</key>
               <string>T_2FF1_6728</string>
@@ -554,7 +506,7 @@
                 <key>x</key>
                 <integer>0</integer>
                 <key>y</key>
-                <integer>-52</integer>
+                <integer>4</integer>
               </dict>
             </dict>
           </array>
