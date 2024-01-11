@@ -4,27 +4,6 @@
   <unicode hex="62BD"/>
   <outline>
     <contour>
-      <point x="640" y="822" type="line"/>
-      <point x="640" y="8" type="line"/>
-      <point x="685" y="8" type="line"/>
-      <point x="685" y="787" type="line"/>
-      <point x="706" y="790"/>
-      <point x="714" y="799"/>
-      <point x="716" y="813" type="curve"/>
-    </contour>
-    <contour>
-      <point x="441" y="334" type="line"/>
-      <point x="441" y="304" type="line"/>
-      <point x="886" y="304" type="line"/>
-      <point x="886" y="334" type="line"/>
-    </contour>
-    <contour>
-      <point x="441" y="25" type="line"/>
-      <point x="441" y="-5" type="line"/>
-      <point x="886" y="-5" type="line"/>
-      <point x="886" y="25" type="line"/>
-    </contour>
-    <contour>
       <point x="45" y="620" type="line"/>
       <point x="53" y="590" type="line"/>
       <point x="383" y="590" type="line" smooth="yes"/>
@@ -73,41 +52,72 @@
       <point x="249" y="363"/>
       <point x="103" y="316"/>
     </contour>
-    <contour>
-      <point x="415" y="614" type="line"/>
-      <point x="415" y="-73" type="line"/>
-      <point x="423" y="-73" type="line" smooth="yes"/>
-      <point x="443" y="-73"/>
-      <point x="459" y="-62"/>
-      <point x="459" y="-55" type="curve" smooth="yes"/>
-      <point x="459" y="584" type="line"/>
-      <point x="889" y="584" type="line"/>
-      <point x="889" y="614" type="line"/>
-      <point x="464" y="614" type="line"/>
-      <point x="415" y="640" type="line"/>
-    </contour>
-    <contour>
-      <point x="868" y="614" type="line"/>
-      <point x="868" y="-70" type="line"/>
-      <point x="874" y="-70" type="line" smooth="yes"/>
-      <point x="890" y="-70"/>
-      <point x="911" y="-56"/>
-      <point x="912" y="-50" type="curve"/>
-      <point x="912" y="575" type="line"/>
-      <point x="931" y="578"/>
-      <point x="949" y="586"/>
-      <point x="955" y="594" type="curve"/>
-      <point x="888" y="647" type="line"/>
-      <point x="858" y="614" type="line"/>
-    </contour>
   </outline>
   <lib>
     <dict>
+      <key>robocjk.deepComponents</key>
+      <array>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>width</key>
+            <real>534.68</real>
+          </dict>
+          <key>name</key>
+          <string>T_2FF0_7531</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>0</integer>
+            <key>y</key>
+            <integer>0</integer>
+          </dict>
+        </dict>
+      </array>
       <key>robocjk.status</key>
       <integer>0</integer>
       <key>robocjk.variationGlyphs</key>
       <array>
         <dict>
+          <key>deepComponents</key>
+          <array>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>width</key>
+                <real>554.68</real>
+              </dict>
+              <key>name</key>
+              <string>T_2FF0_7531</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>0</integer>
+                <key>y</key>
+                <integer>0</integer>
+              </dict>
+            </dict>
+          </array>
           <key>layerName</key>
           <string>wght=1</string>
           <key>location</key>
