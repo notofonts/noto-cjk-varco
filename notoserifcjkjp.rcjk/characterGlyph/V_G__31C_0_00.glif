@@ -44,7 +44,7 @@
           <key>defaultValue</key>
           <integer>0</integer>
           <key>maxValue</key>
-          <integer>100</integer>
+          <integer>120</integer>
           <key>minValue</key>
           <integer>0</integer>
           <key>name</key>
@@ -64,11 +64,11 @@
           <key>defaultValue</key>
           <integer>0</integer>
           <key>maxValue</key>
-          <integer>50</integer>
+          <integer>0</integer>
           <key>minValue</key>
-          <integer>-50</integer>
+          <integer>-20</integer>
           <key>name</key>
-          <string>B_width</string>
+          <string>R_weight</string>
         </dict>
       </array>
       <key>robocjk.status</key>
@@ -169,46 +169,31 @@
         </dict>
         <dict>
           <key>layerName</key>
-          <string>B_width=-50</string>
-          <key>location</key>
-          <dict>
-            <key>B_width</key>
-            <integer>-50</integer>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>B_width=-50</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
-          <string>B_width=50</string>
-          <key>location</key>
-          <dict>
-            <key>B_width</key>
-            <integer>50</integer>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>B_width=50</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
-          <string>R_moveV=100</string>
+          <string>R_moveV=120</string>
           <key>location</key>
           <dict>
             <key>R_moveV</key>
-            <integer>100</integer>
+            <integer>120</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>R_moveV=100</string>
+          <string>R_moveV=120</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>R_weight=-20</string>
+          <key>location</key>
+          <dict>
+            <key>R_weight</key>
+            <integer>-20</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>R_weight=-20</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
