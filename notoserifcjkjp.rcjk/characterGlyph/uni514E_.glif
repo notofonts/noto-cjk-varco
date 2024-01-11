@@ -37,19 +37,6 @@
       <point x="819" y="356" type="line"/>
     </contour>
     <contour>
-      <point x="817" y="834" type="line"/>
-      <point x="653" y="791"/>
-      <point x="349" y="745"/>
-      <point x="101" y="729" type="curve"/>
-      <point x="104" y="708" type="line"/>
-      <point x="358" y="715"/>
-      <point x="635" y="751"/>
-      <point x="825" y="785" type="curve"/>
-      <point x="846" y="775"/>
-      <point x="863" y="774"/>
-      <point x="871" y="782" type="curve"/>
-    </contour>
-    <contour>
       <point x="661" y="265" type="curve"/>
       <point x="650" y="256" type="line"/>
       <point x="697" y="220"/>
@@ -109,6 +96,54 @@
             <integer>-20</integer>
           </dict>
         </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>L_curveH</key>
+            <integer>27</integer>
+            <key>L_curveV</key>
+            <integer>0</integer>
+            <key>R_curveH</key>
+            <integer>0</integer>
+            <key>R_curveV</key>
+            <integer>1</integer>
+            <key>end_weightH</key>
+            <integer>0</integer>
+            <key>end_weightV</key>
+            <integer>-1</integer>
+            <key>height</key>
+            <integer>130</integer>
+            <key>serif_height</key>
+            <integer>-5</integer>
+            <key>serif_right_moveV</key>
+            <integer>10</integer>
+            <key>serif_width</key>
+            <integer>3</integer>
+            <key>weight</key>
+            <integer>56</integer>
+            <key>width</key>
+            <integer>763</integer>
+          </dict>
+          <key>name</key>
+          <string>VG_4E3F_01</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>203</integer>
+            <key>y</key>
+            <integer>1</integer>
+          </dict>
+        </dict>
       </array>
       <key>robocjk.status</key>
       <integer>0</integer>
@@ -151,6 +186,54 @@
                 <integer>324</integer>
                 <key>y</key>
                 <integer>-36</integer>
+              </dict>
+            </dict>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>L_curveH</key>
+                <integer>11</integer>
+                <key>L_curveV</key>
+                <integer>0</integer>
+                <key>R_curveH</key>
+                <integer>0</integer>
+                <key>R_curveV</key>
+                <integer>-1</integer>
+                <key>end_weightH</key>
+                <integer>1</integer>
+                <key>end_weightV</key>
+                <integer>-3</integer>
+                <key>height</key>
+                <integer>176</integer>
+                <key>serif_height</key>
+                <integer>17</integer>
+                <key>serif_right_moveV</key>
+                <integer>-11</integer>
+                <key>serif_width</key>
+                <integer>20</integer>
+                <key>weight</key>
+                <integer>120</integer>
+                <key>width</key>
+                <integer>741</integer>
+              </dict>
+              <key>name</key>
+              <string>VG_4E3F_01</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>154</integer>
+                <key>y</key>
+                <integer>25</integer>
               </dict>
             </dict>
           </array>

@@ -114,7 +114,7 @@
           <key>defaultValue</key>
           <integer>0</integer>
           <key>maxValue</key>
-          <integer>20</integer>
+          <integer>30</integer>
           <key>minValue</key>
           <integer>-50</integer>
           <key>name</key>
@@ -753,6 +753,21 @@
           <true/>
           <key>sourceName</key>
           <string>width=100,height=130,weight=190</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>serif_width=30</string>
+          <key>location</key>
+          <dict>
+            <key>serif_width</key>
+            <integer>30</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>serif_width=30</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
