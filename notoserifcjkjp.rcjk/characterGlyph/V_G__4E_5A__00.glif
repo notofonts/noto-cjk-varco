@@ -100,26 +100,21 @@
           <key>name</key>
           <string>v-thick</string>
         </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>44</integer>
+          <key>maxValue</key>
+          <integer>150</integer>
+          <key>minValue</key>
+          <integer>44</integer>
+          <key>name</key>
+          <string>weight</string>
+        </dict>
       </array>
       <key>robocjk.status</key>
       <integer>0</integer>
       <key>robocjk.variationGlyphs</key>
       <array>
-        <dict>
-          <key>layerName</key>
-          <string>wght=1</string>
-          <key>location</key>
-          <dict>
-            <key>wght</key>
-            <integer>1</integer>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>wght=1</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
         <dict>
           <key>layerName</key>
           <string>width=300</string>
@@ -405,6 +400,21 @@
           <true/>
           <key>sourceName</key>
           <string>wght=1,height=200</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>weight=150</string>
+          <key>location</key>
+          <dict>
+            <key>weight</key>
+            <integer>150</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>weight=150</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
