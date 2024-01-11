@@ -110,6 +110,16 @@
           <key>name</key>
           <string>weight</string>
         </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>20</integer>
+          <key>minValue</key>
+          <integer>-20</integer>
+          <key>name</key>
+          <string>tooth_moveH</string>
+        </dict>
       </array>
       <key>robocjk.status</key>
       <integer>0</integer>
@@ -413,6 +423,36 @@
           <true/>
           <key>sourceName</key>
           <string>wght=1,width=300,tooth=0,weight=150</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>tooth_moveH=-20</string>
+          <key>location</key>
+          <dict>
+            <key>tooth_moveH</key>
+            <integer>-20</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>tooth_moveH=-20</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>tooth_moveH=20</string>
+          <key>location</key>
+          <dict>
+            <key>tooth_moveH</key>
+            <integer>20</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>tooth_moveH=20</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
