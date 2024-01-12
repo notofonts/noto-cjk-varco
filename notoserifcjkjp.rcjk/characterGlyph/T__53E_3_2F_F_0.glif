@@ -41,9 +41,9 @@
           <key>defaultValue</key>
           <integer>0</integer>
           <key>maxValue</key>
-          <integer>50</integer>
+          <integer>100</integer>
           <key>minValue</key>
-          <integer>-50</integer>
+          <integer>-100</integer>
           <key>name</key>
           <string>R_S_bottom_length</string>
         </dict>
@@ -51,9 +51,9 @@
           <key>defaultValue</key>
           <integer>0</integer>
           <key>maxValue</key>
-          <integer>50</integer>
+          <integer>100</integer>
           <key>minValue</key>
-          <integer>-50</integer>
+          <integer>-100</integer>
           <key>name</key>
           <string>L_S_bottom_length</string>
         </dict>
@@ -1260,7 +1260,7 @@
                 <key>T_H_weight</key>
                 <integer>0</integer>
                 <key>height</key>
-                <integer>621</integer>
+                <integer>671</integer>
                 <key>weight</key>
                 <integer>44</integer>
                 <key>width</key>
@@ -1372,12 +1372,12 @@
           <key>location</key>
           <dict>
             <key>R_S_bottom_length</key>
-            <integer>50</integer>
+            <integer>100</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>R_S_bottom_length=50</string>
+          <string>R_S_bottom_length=100</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
@@ -1408,7 +1408,7 @@
                 <key>T_H_weight</key>
                 <integer>0</integer>
                 <key>height</key>
-                <integer>521</integer>
+                <integer>471</integer>
                 <key>weight</key>
                 <integer>44</integer>
                 <key>width</key>
@@ -1520,12 +1520,12 @@
           <key>location</key>
           <dict>
             <key>R_S_bottom_length</key>
-            <integer>-50</integer>
+            <integer>-100</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>R_S_bottom_length=-50</string>
+          <string>R_S_bottom_length=-100</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
@@ -1590,7 +1590,7 @@
                 <key>T_angle</key>
                 <integer>-3</integer>
                 <key>length</key>
-                <integer>594</integer>
+                <integer>544</integer>
                 <key>serif_height</key>
                 <integer>0</integer>
                 <key>serif_moveV</key>
@@ -1668,12 +1668,12 @@
           <key>location</key>
           <dict>
             <key>L_S_bottom_length</key>
-            <integer>-50</integer>
+            <integer>-100</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>L_S_bottom_length=-50</string>
+          <string>L_S_bottom_length=-100</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
@@ -1738,7 +1738,7 @@
                 <key>T_angle</key>
                 <integer>-3</integer>
                 <key>length</key>
-                <integer>694</integer>
+                <integer>744</integer>
                 <key>serif_height</key>
                 <integer>0</integer>
                 <key>serif_moveV</key>
