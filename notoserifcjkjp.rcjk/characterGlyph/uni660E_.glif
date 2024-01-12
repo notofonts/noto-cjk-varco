@@ -56,8 +56,10 @@
           <dict>
             <key>P_bottom_moveH</key>
             <integer>-30</integer>
+            <key>P_width</key>
+            <integer>0</integer>
             <key>width</key>
-            <integer>640</integer>
+            <integer>631</integer>
           </dict>
           <key>name</key>
           <string>T_2FF0_6708</string>
@@ -81,7 +83,7 @@
         </dict>
       </array>
       <key>robocjk.status</key>
-      <integer>0</integer>
+      <integer>1</integer>
       <key>robocjk.variationGlyphs</key>
       <array>
         <dict>
@@ -90,8 +92,12 @@
             <dict>
               <key>coord</key>
               <dict>
+                <key>G_length</key>
+                <integer>50</integer>
                 <key>P_bottom_moveH</key>
                 <integer>-46</integer>
+                <key>P_width</key>
+                <integer>40</integer>
                 <key>width</key>
                 <integer>597</integer>
               </dict>
