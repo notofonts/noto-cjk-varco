@@ -87,51 +87,6 @@
       <point x="253" y="423"/>
       <point x="371" y="539"/>
     </contour>
-    <contour>
-      <point x="160" y="718" type="line"/>
-      <point x="160" y="689" type="line"/>
-      <point x="887" y="689" type="line"/>
-      <point x="887" y="718" type="line"/>
-    </contour>
-    <contour>
-      <point x="475" y="834" type="line"/>
-      <point x="475" y="696" type="line"/>
-      <point x="519" y="696" type="line"/>
-      <point x="519" y="798" type="line"/>
-      <point x="543" y="801"/>
-      <point x="554" y="811"/>
-      <point x="556" y="825" type="curve"/>
-    </contour>
-    <contour>
-      <point x="157" y="765" type="line"/>
-      <point x="157" y="691"/>
-      <point x="117" y="621"/>
-      <point x="76" y="594" type="curve"/>
-      <point x="60" y="581"/>
-      <point x="50" y="564"/>
-      <point x="59" y="549" type="curve"/>
-      <point x="71" y="532"/>
-      <point x="103" y="540"/>
-      <point x="123" y="559" type="curve"/>
-      <point x="157" y="586"/>
-      <point x="197" y="657"/>
-      <point x="175" y="765" type="curve"/>
-    </contour>
-    <contour>
-      <point x="857" y="718" type="line"/>
-      <point x="842" y="678"/>
-      <point x="805" y="606"/>
-      <point x="780" y="566" type="curve"/>
-      <point x="794" y="558" type="line"/>
-      <point x="831" y="590"/>
-      <point x="883" y="643"/>
-      <point x="908" y="682" type="curve"/>
-      <point x="928" y="683"/>
-      <point x="940" y="684"/>
-      <point x="947" y="691" type="curve"/>
-      <point x="882" y="755" type="line"/>
-      <point x="846" y="718" type="line"/>
-    </contour>
   </outline>
   <lib>
     <dict>
@@ -179,7 +134,7 @@
         </dict>
       </array>
       <key>robocjk.status</key>
-      <integer>0</integer>
+      <integer>1</integer>
       <key>robocjk.variationGlyphs</key>
       <array>
         <dict>
@@ -191,9 +146,9 @@
                 <key>L_D_height</key>
                 <integer>6</integer>
                 <key>L_D_moveH</key>
-                <integer>-10</integer>
+                <integer>-3</integer>
                 <key>L_D_width</key>
-                <integer>-8</integer>
+                <integer>2</integer>
                 <key>R_G_length</key>
                 <integer>10</integer>
                 <key>R_G_moveH</key>
@@ -238,7 +193,7 @@
           <key>sourceName</key>
           <string>wght=1</string>
           <key>status</key>
-          <integer>0</integer>
+          <integer>1</integer>
         </dict>
       </array>
     </dict>
