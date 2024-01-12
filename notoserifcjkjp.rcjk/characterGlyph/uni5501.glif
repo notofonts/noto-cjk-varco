@@ -11,8 +11,16 @@
         <dict>
           <key>coord</key>
           <dict>
+            <key>B_H_moveV</key>
+            <integer>-3</integer>
+            <key>L_S_bottom_length</key>
+            <integer>-40</integer>
+            <key>R_S_bottom_length</key>
+            <integer>-15</integer>
+            <key>T_H_moveV</key>
+            <integer>-10</integer>
             <key>width</key>
-            <integer>303</integer>
+            <integer>300</integer>
           </dict>
           <key>name</key>
           <string>T_53E3_2FF0</string>
@@ -29,7 +37,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>0</integer>
+            <integer>4</integer>
             <key>y</key>
             <integer>0</integer>
           </dict>
@@ -361,8 +369,12 @@
               <dict>
                 <key>B_H_moveV</key>
                 <integer>-18</integer>
+                <key>L_S_bottom_length</key>
+                <integer>7</integer>
                 <key>R_S_bottom_length</key>
                 <integer>13</integer>
+                <key>T_H_moveV</key>
+                <integer>-4</integer>
                 <key>width</key>
                 <integer>287</integer>
               </dict>
