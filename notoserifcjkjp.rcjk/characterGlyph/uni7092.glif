@@ -4,65 +4,6 @@
   <unicode hex="7092"/>
   <outline>
     <contour>
-      <point x="656" y="825" type="line"/>
-      <point x="656" y="316" type="line" smooth="yes"/>
-      <point x="656" y="301"/>
-      <point x="651" y="295"/>
-      <point x="631" y="295" type="curve" smooth="yes"/>
-      <point x="611" y="295"/>
-      <point x="504" y="302"/>
-      <point x="504" y="302" type="curve"/>
-      <point x="504" y="286" type="line"/>
-      <point x="549" y="281"/>
-      <point x="576" y="275"/>
-      <point x="591" y="266" type="curve" smooth="yes"/>
-      <point x="605" y="258"/>
-      <point x="610" y="245"/>
-      <point x="613" y="232" type="curve"/>
-      <point x="693" y="239"/>
-      <point x="700" y="268"/>
-      <point x="700" y="311" type="curve" smooth="yes"/>
-      <point x="700" y="789" type="line"/>
-      <point x="724" y="793"/>
-      <point x="733" y="801"/>
-      <point x="736" y="815" type="curve"/>
-    </contour>
-    <contour>
-      <point x="858" y="376" type="line"/>
-      <point x="725" y="120"/>
-      <point x="545" y="22"/>
-      <point x="301" y="-50" type="curve"/>
-      <point x="306" y="-70" type="line"/>
-      <point x="567" y="-11"/>
-      <point x="752" y="85"/>
-      <point x="894" y="329" type="curve"/>
-      <point x="920" y="325"/>
-      <point x="929" y="328"/>
-      <point x="936" y="339" type="curve"/>
-    </contour>
-    <contour>
-      <point x="519" y="676" type="line"/>
-      <point x="485" y="546"/>
-      <point x="424" y="426"/>
-      <point x="360" y="350" type="curve"/>
-      <point x="374" y="339" type="line"/>
-      <point x="451" y="405"/>
-      <point x="519" y="511"/>
-      <point x="563" y="630" type="curve"/>
-      <point x="584" y="630"/>
-      <point x="595" y="638"/>
-      <point x="599" y="649" type="curve"/>
-    </contour>
-    <contour>
-      <point x="778" y="671" type="curve"/>
-      <point x="765" y="662" type="line"/>
-      <point x="828" y="605"/>
-      <point x="907" y="504"/>
-      <point x="922" y="430" type="curve"/>
-      <point x="980" y="385"/>
-      <point x="1014" y="534"/>
-    </contour>
-    <contour>
       <point x="364" y="664" type="line"/>
       <point x="341" y="622"/>
       <point x="289" y="544"/>
@@ -117,8 +58,12 @@
         <dict>
           <key>coord</key>
           <dict>
+            <key>B_P_bottom_moveH</key>
+            <integer>-60</integer>
+            <key>L_P_bottom_length</key>
+            <integer>32</integer>
             <key>width</key>
-            <integer>617</integer>
+            <integer>594</integer>
           </dict>
           <key>name</key>
           <string>T_2FF0_5C11</string>
@@ -142,7 +87,7 @@
         </dict>
       </array>
       <key>robocjk.status</key>
-      <integer>0</integer>
+      <integer>1</integer>
       <key>robocjk.variationGlyphs</key>
       <array>
         <dict>
@@ -151,6 +96,8 @@
             <dict>
               <key>coord</key>
               <dict>
+                <key>L_P_bottom_length</key>
+                <integer>40</integer>
                 <key>width</key>
                 <integer>617</integer>
               </dict>
@@ -187,7 +134,7 @@
           <key>sourceName</key>
           <string>wght=1</string>
           <key>status</key>
-          <integer>0</integer>
+          <integer>1</integer>
         </dict>
       </array>
     </dict>
