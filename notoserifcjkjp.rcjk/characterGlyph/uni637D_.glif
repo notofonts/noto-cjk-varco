@@ -92,55 +92,6 @@
       <point x="851" y="601"/>
       <point x="856" y="612" type="curve"/>
     </contour>
-    <contour>
-      <point x="45" y="622" type="line"/>
-      <point x="53" y="592" type="line"/>
-      <point x="369" y="592" type="line" smooth="yes"/>
-      <point x="382" y="592"/>
-      <point x="392" y="597"/>
-      <point x="394" y="608" type="curve"/>
-      <point x="368" y="634"/>
-      <point x="324" y="668"/>
-      <point x="324" y="668" type="curve"/>
-      <point x="287" y="622" type="line"/>
-    </contour>
-    <contour>
-      <point x="195" y="833" type="line"/>
-      <point x="195" y="12" type="line" smooth="yes"/>
-      <point x="195" y="-4"/>
-      <point x="190" y="-9"/>
-      <point x="172" y="-9" type="curve" smooth="yes"/>
-      <point x="155" y="-9"/>
-      <point x="65" y="-2"/>
-      <point x="65" y="-2" type="curve"/>
-      <point x="65" y="-19" type="line"/>
-      <point x="103" y="-23"/>
-      <point x="126" y="-28"/>
-      <point x="140" y="-37" type="curve" smooth="yes"/>
-      <point x="152" y="-45"/>
-      <point x="157" y="-59"/>
-      <point x="160" y="-73" type="curve"/>
-      <point x="232" y="-64"/>
-      <point x="239" y="-36"/>
-      <point x="239" y="7" type="curve" smooth="yes"/>
-      <point x="239" y="797" type="line"/>
-      <point x="263" y="800"/>
-      <point x="273" y="810"/>
-      <point x="276" y="824" type="curve"/>
-    </contour>
-    <contour>
-      <point x="38" y="342" type="curve"/>
-      <point x="69" y="279" type="line"/>
-      <point x="78" y="283"/>
-      <point x="85" y="293"/>
-      <point x="87" y="304" type="curve"/>
-      <point x="211" y="364"/>
-      <point x="308" y="417"/>
-      <point x="380" y="453" type="curve"/>
-      <point x="374" y="469" type="line"/>
-      <point x="233" y="413"/>
-      <point x="94" y="359"/>
-    </contour>
   </outline>
   <lib>
     <dict>
@@ -150,7 +101,11 @@
           <key>coord</key>
           <dict>
             <key>T_height</key>
-            <integer>-10</integer>
+            <integer>-3</integer>
+            <key>T_moveV</key>
+            <integer>40</integer>
+            <key>T_width</key>
+            <integer>-8</integer>
             <key>width</key>
             <integer>357</integer>
           </dict>
@@ -176,7 +131,7 @@
         </dict>
       </array>
       <key>robocjk.status</key>
-      <integer>0</integer>
+      <integer>1</integer>
       <key>robocjk.variationGlyphs</key>
       <array>
         <dict>
@@ -186,11 +141,11 @@
               <key>coord</key>
               <dict>
                 <key>T_height</key>
-                <integer>30</integer>
+                <integer>40</integer>
                 <key>T_moveV</key>
-                <integer>-25</integer>
+                <integer>5</integer>
                 <key>T_width</key>
-                <integer>0</integer>
+                <integer>-23</integer>
                 <key>width</key>
                 <integer>352</integer>
               </dict>
@@ -227,7 +182,7 @@
           <key>sourceName</key>
           <string>wght=1</string>
           <key>status</key>
-          <integer>0</integer>
+          <integer>1</integer>
         </dict>
       </array>
     </dict>
