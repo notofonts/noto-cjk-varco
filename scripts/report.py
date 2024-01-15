@@ -130,7 +130,7 @@ async def main(path):
 
 def export_csv_characters_colors_evolution(report, reportDir, project_name):
     evolution_character_glyphs_color_path = (
-        reportDir / "resources" / f"{project_name}_evolution_character_glyphs.csv"
+        reportDir / f"{project_name}_evolution_character_glyphs.csv"
     )
 
     fieldnames = ["dates", "red", "orange", "yellow", "blue", "green"]
@@ -164,7 +164,7 @@ def export_csv_characters_colors_evolution(report, reportDir, project_name):
 if __name__ == "__main__":
     prooferDir = pathlib.Path(__file__).resolve().parent
     repoDir = prooferDir.parent
-    reportDir = repoDir / "scripts"
+    reportDir = repoDir / "scripts" / "resources"
     reportDir.mkdir(parents=True, exist_ok=True)
 
     projects_names = ["notoserifcjkjp", "notosanscjksc"]
