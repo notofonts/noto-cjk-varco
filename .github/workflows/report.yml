@@ -36,14 +36,10 @@ jobs:
         uses: actions/upload-artifact@master
         with:
           name: reports
-          path: reports/resources
+          path: scripts/resources
 
       - name: Commit Evolution CSV
         uses: EndBug/add-and-commit@v6
         with:
-          add: 'reports/resources/*evolution*.csv'
+          add: 'scripts/resources/*evolution*.csv'
 
-      - name: Commit Checking files
-        uses: EndBug/add-and-commit@v6
-        with:
-          add: 'reports/resources/*' 
