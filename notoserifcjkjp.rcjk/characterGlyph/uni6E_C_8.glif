@@ -55,132 +55,6 @@
       <point x="209" y="455"/>
       <point x="232" y="576"/>
     </contour>
-    <contour>
-      <point x="303" y="721" type="line"/>
-      <point x="310" y="692" type="line"/>
-      <point x="933" y="692" type="line" smooth="yes"/>
-      <point x="946" y="692"/>
-      <point x="956" y="696"/>
-      <point x="959" y="707" type="curve"/>
-      <point x="929" y="735"/>
-      <point x="884" y="770"/>
-      <point x="884" y="770" type="curve"/>
-      <point x="844" y="721" type="line"/>
-    </contour>
-    <contour>
-      <point x="594" y="833" type="line"/>
-      <point x="594" y="696" type="line"/>
-      <point x="638" y="696" type="line"/>
-      <point x="638" y="799" type="line"/>
-      <point x="660" y="803"/>
-      <point x="669" y="812"/>
-      <point x="671" y="825" type="curve"/>
-    </contour>
-    <contour>
-      <point x="438" y="484" type="line"/>
-      <point x="438" y="454" type="line"/>
-      <point x="794" y="454" type="line"/>
-      <point x="794" y="484" type="line"/>
-    </contour>
-    <contour>
-      <point x="771" y="620" type="line"/>
-      <point x="771" y="412" type="line"/>
-      <point x="777" y="412" type="line" smooth="yes"/>
-      <point x="792" y="412"/>
-      <point x="815" y="424"/>
-      <point x="816" y="430" type="curve"/>
-      <point x="816" y="583" type="line"/>
-      <point x="832" y="586"/>
-      <point x="848" y="594"/>
-      <point x="854" y="601" type="curve"/>
-      <point x="790" y="649" type="line"/>
-      <point x="762" y="620" type="line"/>
-    </contour>
-    <contour>
-      <point x="416" y="620" type="line"/>
-      <point x="416" y="403" type="line"/>
-      <point x="423" y="403" type="line" smooth="yes"/>
-      <point x="440" y="403"/>
-      <point x="460" y="414"/>
-      <point x="460" y="418" type="curve" smooth="yes"/>
-      <point x="460" y="590" type="line"/>
-      <point x="805" y="590" type="line"/>
-      <point x="805" y="620" type="line"/>
-      <point x="465" y="620" type="line"/>
-      <point x="416" y="644" type="line"/>
-    </contour>
-    <contour>
-      <point x="497" y="123" type="line"/>
-      <point x="497" y="94" type="line"/>
-      <point x="734" y="94" type="line"/>
-      <point x="734" y="123" type="line"/>
-    </contour>
-    <contour>
-      <point x="713" y="257" type="line"/>
-      <point x="713" y="49" type="line"/>
-      <point x="719" y="49" type="line" smooth="yes"/>
-      <point x="734" y="49"/>
-      <point x="757" y="61"/>
-      <point x="758" y="67" type="curve"/>
-      <point x="758" y="221" type="line"/>
-      <point x="774" y="224"/>
-      <point x="790" y="232"/>
-      <point x="796" y="238" type="curve"/>
-      <point x="732" y="287" type="line"/>
-      <point x="704" y="257" type="line"/>
-    </contour>
-    <contour>
-      <point x="475" y="257" type="line"/>
-      <point x="475" y="33" type="line"/>
-      <point x="482" y="33" type="line" smooth="yes"/>
-      <point x="500" y="33"/>
-      <point x="519" y="43"/>
-      <point x="519" y="47" type="curve" smooth="yes"/>
-      <point x="519" y="228" type="line"/>
-      <point x="737" y="228" type="line"/>
-      <point x="737" y="257" type="line"/>
-      <point x="524" y="257" type="line"/>
-      <point x="475" y="281" type="line"/>
-    </contour>
-    <contour>
-      <point x="318" y="361" type="line"/>
-      <point x="318" y="-71" type="line"/>
-      <point x="326" y="-71" type="line" smooth="yes"/>
-      <point x="345" y="-71"/>
-      <point x="363" y="-60"/>
-      <point x="363" y="-55" type="curve" smooth="yes"/>
-      <point x="363" y="331" type="line"/>
-      <point x="893" y="331" type="line"/>
-      <point x="893" y="361" type="line"/>
-      <point x="368" y="361" type="line"/>
-      <point x="318" y="386" type="line"/>
-    </contour>
-    <contour>
-      <point x="870" y="361" type="line"/>
-      <point x="870" y="8" type="line" smooth="yes"/>
-      <point x="870" y="-7"/>
-      <point x="865" y="-13"/>
-      <point x="845" y="-13" type="curve" smooth="yes"/>
-      <point x="823" y="-13"/>
-      <point x="718" y="-6"/>
-      <point x="718" y="-6" type="curve"/>
-      <point x="718" y="-22" type="line"/>
-      <point x="762" y="-26"/>
-      <point x="790" y="-32"/>
-      <point x="805" y="-40" type="curve" smooth="yes"/>
-      <point x="819" y="-47"/>
-      <point x="824" y="-60"/>
-      <point x="827" y="-73" type="curve"/>
-      <point x="905" y="-65"/>
-      <point x="914" y="-37"/>
-      <point x="914" y="3" type="curve" smooth="yes"/>
-      <point x="914" y="321" type="line"/>
-      <point x="934" y="324"/>
-      <point x="952" y="333"/>
-      <point x="958" y="340" type="curve"/>
-      <point x="886" y="393" type="line"/>
-      <point x="860" y="361" type="line"/>
-    </contour>
   </outline>
   <lib>
     <dict>
@@ -840,13 +714,13 @@
                 <key>serif_top_moveH</key>
                 <integer>-1</integer>
                 <key>serif_width</key>
-                <integer>1</integer>
+                <integer>30</integer>
                 <key>thickness</key>
                 <real>29.4312957602588</real>
                 <key>weight</key>
                 <integer>28</integer>
                 <key>width</key>
-                <integer>266</integer>
+                <integer>677</integer>
               </dict>
               <key>name</key>
               <string>VG_4E00_00</string>
@@ -863,9 +737,9 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>570</integer>
+                <integer>313</integer>
                 <key>y</key>
-                <integer>175</integer>
+                <integer>297</integer>
               </dict>
             </dict>
             <dict>
@@ -920,7 +794,7 @@
                 <key>TR_serif_right_height</key>
                 <real>-14.23</real>
                 <key>TR_serif_right_moveV</key>
-                <integer>4</integer>
+                <integer>3</integer>
                 <key>TR_serif_right_width</key>
                 <real>-18.79</real>
                 <key>TR_serif_top_height</key>
@@ -938,7 +812,7 @@
                 <key>weight</key>
                 <integer>138</integer>
                 <key>width</key>
-                <integer>177</integer>
+                <integer>337</integer>
               </dict>
               <key>name</key>
               <string>VG_31D5_00</string>
@@ -972,7 +846,7 @@
                 <key>serif_height</key>
                 <integer>0</integer>
                 <key>serif_moveV</key>
-                <real>-44.27</real>
+                <real>-52.27</real>
                 <key>serif_style2</key>
                 <integer>1</integer>
                 <key>serif_style3</key>
@@ -980,7 +854,7 @@
                 <key>serif_width</key>
                 <integer>-4</integer>
                 <key>weight</key>
-                <integer>106</integer>
+                <integer>136</integer>
               </dict>
               <key>name</key>
               <string>VG_4E28_00</string>
@@ -1018,7 +892,7 @@
                 <key>weight</key>
                 <integer>28</integer>
                 <key>width</key>
-                <integer>107</integer>
+                <integer>267</integer>
               </dict>
               <key>name</key>
               <string>VG_4E00_01</string>
@@ -1037,7 +911,49 @@
                 <key>x</key>
                 <integer>487</integer>
                 <key>y</key>
-                <integer>93</integer>
+                <integer>88</integer>
+              </dict>
+            </dict>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>B_curve</key>
+                <integer>0</integer>
+                <key>T_angle</key>
+                <integer>-3</integer>
+                <key>length</key>
+                <integer>154</integer>
+                <key>serif_height</key>
+                <integer>-9</integer>
+                <key>serif_moveV</key>
+                <integer>2</integer>
+                <key>serif_style2</key>
+                <integer>1</integer>
+                <key>serif_style3</key>
+                <integer>1</integer>
+                <key>serif_width</key>
+                <integer>-13</integer>
+                <key>weight</key>
+                <integer>145</integer>
+              </dict>
+              <key>name</key>
+              <string>VG_4E28_00</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>79</integer>
+                <key>y</key>
+                <integer>-23</integer>
               </dict>
             </dict>
           </array>
