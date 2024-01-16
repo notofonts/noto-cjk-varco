@@ -35,8 +35,8 @@ jobs:
       - name: Storing report artifacts
         uses: actions/upload-artifact@master
         with:
-          name: reports_Hanzi
-          path: reports/Hanzi
+          name: reports
+          path: reports/resources
 
       - name: Commit Evolution CSV
         uses: EndBug/add-and-commit@v6
