@@ -51,70 +51,6 @@ async def main(path):
             else:
                 empty_glyphs.add(name)
 
-    print(
-        len(green_glyphs),
-        "green_glyphs",
-        "".join([chr(int(x[3:], 16)) for x in sorted(list(green_glyphs))]),
-        "\n",
-    )
-    print(
-        len(blue_glyphs),
-        "blue_glyphs",
-        "".join([chr(int(x[3:], 16)) for x in sorted(list(blue_glyphs))]),
-        "\n",
-    )
-    print(
-        len(yellow_glyphs),
-        "yellow_glyphs",
-        "".join([chr(int(x[3:], 16)) for x in sorted(list(yellow_glyphs))]),
-        "\n",
-    )
-    print(
-        len(orange_glyphs),
-        "orange_glyphs",
-        "".join([chr(int(x[3:], 16)) for x in sorted(list(orange_glyphs))]),
-        "\n",
-    )
-    print(
-        len(red_glyphs),
-        "red_glyphs",
-        "".join([chr(int(x[3:], 16)) for x in sorted(list(red_glyphs))]),
-        "\n",
-    )
-    print("---\n")
-    print(
-        len(fully_made_of_components),
-        "fully_made_of_components",
-        "".join([chr(int(x[3:], 16)) for x in sorted(list(fully_made_of_components))]),
-        "\n",
-    )
-    print(
-        len(mix_contours_components),
-        "mix_contours_components",
-        "".join([chr(int(x[3:], 16)) for x in sorted(list(mix_contours_components))]),
-        "\n",
-    )
-    print(
-        len(fully_made_of_contours),
-        "fully_made_of_contours",
-        "".join([chr(int(x[3:], 16)) for x in sorted(list(fully_made_of_contours))]),
-        "\n",
-    )
-    print(
-        len(empty_glyphs),
-        "empty_glyphs",
-        "".join([chr(int(x[3:], 16)) for x in sorted(list(empty_glyphs))]),
-        "\n",
-    )
-
-    print(
-        "total unicode names",
-        len(fully_made_of_components)
-        + len(mix_contours_components)
-        + len(fully_made_of_contours)
-        + len(empty_glyphs),
-    )
-
     return dict(
         green_glyphs=green_glyphs,
         blue_glyphs=blue_glyphs,
@@ -161,6 +97,40 @@ def export_csv_characters_colors_evolution(report, reportDir, project_name):
                 writer.writerow(row)
 
 
+def _glyphnames_to_chars(glyphnames_list):
+    return "".join([chr(int(x[3:], 16)) for x in sorted(list(glyphnames_list))])
+
+
+def export_txt_report_file(report, reportDir, project_name):
+    evolution_character_glyphs_color_path = (
+        reportDir / f"{project_name}_evolution_character_glyphs.txt"
+    )
+
+    txt = "COLORS\n\n\n"
+    txt += f"{len(report['green_glyphs'])} green glyphs\n"
+    txt += f"{_glyphnames_to_chars(report['green_glyphs'])}\n\n"
+    txt += f"{len(report['blue_glyphs'])} blue glyphs\n"
+    txt += f"{_glyphnames_to_chars(report['blue_glyphs'])}\n\n"
+    txt += f"{len(report['yellow_glyphs'])} yellow glyphs\n"
+    txt += f"{_glyphnames_to_chars(report['yellow_glyphs'])}\n\n"
+    txt += f"{len(report['orange_glyphs'])} orange glyphs\n"
+    txt += f"{_glyphnames_to_chars(report['orange_glyphs'])}\n\n"
+    txt += f"{len(report['red_glyphs'])} red glyphs\n"
+    txt += f"{_glyphnames_to_chars(report['red_glyphs'])}\n\n\n"
+    txt += "STRUCTURES\n\n\n"
+    txt += f"{len(report['fully_made_of_components'])} fully made of components\n"
+    txt += f"{_glyphnames_to_chars(report['mix_contours_components'])}\n\n"
+    txt += f"{len(report['mix_contours_components'])} mix contours / components\n"
+    txt += f"{_glyphnames_to_chars(report['fully_made_of_components'])}\n\n"
+    txt += f"{len(report['fully_made_of_contours'])} fully made of contours\n"
+    txt += f"{_glyphnames_to_chars(report['fully_made_of_contours'])}\n\n"
+    txt += f"{len(report['empty_glyphs'])} empty glyphs\n"
+    txt += f"{_glyphnames_to_chars(report['empty_glyphs'])}\n\n"
+
+    with open(evolution_character_glyphs_color_path, "w", encoding="utf-8") as file:
+        file.write(txt)
+
+
 if __name__ == "__main__":
     prooferDir = pathlib.Path(__file__).resolve().parent
     repoDir = prooferDir.parent
@@ -175,3 +145,5 @@ if __name__ == "__main__":
         report = asyncio.run(main(path))
 
         export_csv_characters_colors_evolution(report, reportDir, project_name)
+
+        export_txt_report_file(report, reportDir, project_name)
