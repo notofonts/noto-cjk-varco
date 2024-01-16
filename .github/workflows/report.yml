@@ -1,0 +1,49 @@
+name: reports
+
+on:
+  # push:
+  #   branches: [ master ]
+  schedule:
+    - cron: '0 0 * * *'  # once a day
+  workflow_dispatch:  # allow manual trigger
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Set up Python 3.10
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Make reports
+        run: |
+          python scripts/report.py
+
+      - name: Make diagram
+        run: |
+          python scripts/diagram.py
+
+      - name: Storing report artifacts
+        uses: actions/upload-artifact@master
+        with:
+          name: reports_Hanzi
+          path: reports/Hanzi
+
+      - name: Commit Evolution CSV
+        uses: EndBug/add-and-commit@v6
+        with:
+          add: 'reports/resources/*evolution*.csv'
+
+      - name: Commit Checking files
+        uses: EndBug/add-and-commit@v6
+        with:
+          add: 'reports/resources/*' 
