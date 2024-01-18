@@ -26,27 +26,6 @@
       <point x="397" y="548"/>
     </contour>
     <contour>
-      <point x="732" y="755" type="line"/>
-      <point x="743" y="755" type="line"/>
-      <point x="624" y="542"/>
-      <point x="368" y="396"/>
-      <point x="45" y="323" type="curve"/>
-      <point x="53" y="305" type="line"/>
-      <point x="400" y="369"/>
-      <point x="643" y="511"/>
-      <point x="784" y="720" type="curve"/>
-      <point x="810" y="721"/>
-      <point x="821" y="722"/>
-      <point x="830" y="731" type="curve"/>
-      <point x="772" y="788" type="line"/>
-    </contour>
-    <contour>
-      <point x="771" y="755" type="line"/>
-      <point x="157" y="755" type="line"/>
-      <point x="166" y="725" type="line"/>
-      <point x="771" y="725" type="line"/>
-    </contour>
-    <contour>
       <point x="773" y="271" type="curve"/>
       <point x="732" y="220" type="line"/>
       <point x="140" y="220" type="line"/>
@@ -109,7 +88,7 @@
         </dict>
       </array>
       <key>robocjk.status</key>
-      <integer>0</integer>
+      <integer>1</integer>
       <key>robocjk.variationGlyphs</key>
       <array>
         <dict>
@@ -126,6 +105,8 @@
                 <integer>0</integer>
                 <key>height</key>
                 <integer>503</integer>
+                <key>serif_size</key>
+                <integer>-10</integer>
                 <key>weight</key>
                 <integer>169</integer>
                 <key>width</key>

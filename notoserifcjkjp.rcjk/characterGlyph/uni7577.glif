@@ -4,48 +4,6 @@
   <unicode hex="7577"/>
   <outline>
     <contour>
-      <point x="395" y="772" type="line"/>
-      <point x="404" y="743" type="line"/>
-      <point x="609" y="743" type="line"/>
-      <point x="609" y="772" type="line"/>
-    </contour>
-    <contour>
-      <point x="671" y="772" type="line"/>
-      <point x="680" y="743" type="line"/>
-      <point x="894" y="743" type="line"/>
-      <point x="894" y="772" type="line"/>
-    </contour>
-    <contour>
-      <point x="585" y="772" type="line"/>
-      <point x="563" y="643"/>
-      <point x="500" y="518"/>
-      <point x="385" y="438" type="curve"/>
-      <point x="395" y="423" type="line"/>
-      <point x="529" y="498"/>
-      <point x="593" y="616"/>
-      <point x="627" y="740" type="curve"/>
-      <point x="648" y="741"/>
-      <point x="659" y="743"/>
-      <point x="666" y="752" type="curve"/>
-      <point x="609" y="803" type="line"/>
-      <point x="576" y="772" type="line"/>
-    </contour>
-    <contour>
-      <point x="875" y="772" type="line"/>
-      <point x="839" y="630"/>
-      <point x="751" y="509"/>
-      <point x="600" y="436" type="curve"/>
-      <point x="609" y="420" type="line"/>
-      <point x="779" y="487"/>
-      <point x="869" y="602"/>
-      <point x="916" y="739" type="curve"/>
-      <point x="938" y="741"/>
-      <point x="949" y="743"/>
-      <point x="957" y="751" type="curve"/>
-      <point x="898" y="804" type="line"/>
-      <point x="865" y="772" type="line"/>
-    </contour>
-    <contour>
       <point x="434" y="679" type="curve"/>
       <point x="423" y="668" type="line"/>
       <point x="487" y="630"/>
@@ -55,27 +13,6 @@
       <point x="664" y="599"/>
     </contour>
     <contour>
-      <point x="385" y="359" type="line"/>
-      <point x="394" y="329" type="line"/>
-      <point x="595" y="329" type="line"/>
-      <point x="595" y="359" type="line"/>
-    </contour>
-    <contour>
-      <point x="574" y="359" type="line"/>
-      <point x="548" y="190"/>
-      <point x="476" y="39"/>
-      <point x="320" y="-57" type="curve"/>
-      <point x="330" y="-73" type="line"/>
-      <point x="505" y="17"/>
-      <point x="578" y="164"/>
-      <point x="615" y="325" type="curve"/>
-      <point x="636" y="326"/>
-      <point x="646" y="329"/>
-      <point x="654" y="337" type="curve"/>
-      <point x="597" y="389" type="line"/>
-      <point x="565" y="359" type="line"/>
-    </contour>
-    <contour>
       <point x="409" y="253" type="curve"/>
       <point x="399" y="241" type="line"/>
       <point x="473" y="202"/>
@@ -83,27 +20,6 @@
       <point x="598" y="58" type="curve"/>
       <point x="659" y="27"/>
       <point x="668" y="168"/>
-    </contour>
-    <contour>
-      <point x="647" y="359" type="line"/>
-      <point x="656" y="329" type="line"/>
-      <point x="894" y="329" type="line"/>
-      <point x="894" y="359" type="line"/>
-    </contour>
-    <contour>
-      <point x="871" y="359" type="line"/>
-      <point x="837" y="170"/>
-      <point x="750" y="27"/>
-      <point x="547" y="-58" type="curve"/>
-      <point x="556" y="-74" type="line"/>
-      <point x="778" y="1"/>
-      <point x="868" y="142"/>
-      <point x="914" y="324" type="curve"/>
-      <point x="936" y="326"/>
-      <point x="946" y="328"/>
-      <point x="954" y="336" type="curve"/>
-      <point x="894" y="390" type="line"/>
-      <point x="862" y="359" type="line"/>
     </contour>
     <contour>
       <point x="678" y="668" type="curve"/>
@@ -331,7 +247,7 @@
         </dict>
       </array>
       <key>robocjk.status</key>
-      <integer>0</integer>
+      <integer>1</integer>
       <key>robocjk.variationGlyphs</key>
       <array>
         <dict>
@@ -347,11 +263,11 @@
                 <key>curveH</key>
                 <integer>10</integer>
                 <key>curveV</key>
-                <integer>13</integer>
+                <integer>3</integer>
                 <key>height</key>
                 <integer>418</integer>
                 <key>serif_size</key>
-                <integer>-11</integer>
+                <integer>-12</integer>
                 <key>weight</key>
                 <integer>130</integer>
                 <key>width</key>
@@ -387,11 +303,13 @@
                 <key>curveH</key>
                 <integer>2</integer>
                 <key>curveV</key>
-                <integer>20</integer>
+                <integer>10</integer>
                 <key>height</key>
                 <integer>410</integer>
+                <key>serif_size</key>
+                <integer>-10</integer>
                 <key>weight</key>
-                <integer>132</integer>
+                <integer>131</integer>
                 <key>width</key>
                 <integer>323</integer>
               </dict>
@@ -425,11 +343,13 @@
                 <key>curveH</key>
                 <integer>10</integer>
                 <key>curveV</key>
-                <integer>22</integer>
+                <integer>13</integer>
                 <key>height</key>
                 <integer>468</integer>
+                <key>serif_size</key>
+                <integer>-10</integer>
                 <key>weight</key>
-                <integer>132</integer>
+                <integer>130</integer>
                 <key>width</key>
                 <integer>329</integer>
               </dict>
@@ -461,11 +381,13 @@
                 <key>H_weight</key>
                 <integer>-2</integer>
                 <key>curveH</key>
-                <integer>6</integer>
+                <integer>13</integer>
                 <key>curveV</key>
-                <integer>30</integer>
+                <integer>20</integer>
                 <key>height</key>
                 <integer>470</integer>
+                <key>serif_size</key>
+                <integer>-10</integer>
                 <key>weight</key>
                 <integer>136</integer>
                 <key>width</key>
@@ -504,7 +426,7 @@
           <key>sourceName</key>
           <string>wght=1</string>
           <key>status</key>
-          <integer>0</integer>
+          <integer>1</integer>
         </dict>
       </array>
     </dict>

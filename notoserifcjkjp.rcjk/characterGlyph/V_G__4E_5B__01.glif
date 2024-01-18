@@ -54,7 +54,7 @@
           <key>maxValue</key>
           <integer>180</integer>
           <key>minValue</key>
-          <integer>55</integer>
+          <integer>45</integer>
           <key>name</key>
           <string>weight</string>
         </dict>
@@ -377,6 +377,38 @@
           <true/>
           <key>sourceName</key>
           <string>serif_size=30</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>weight=180,serif_size=-30</string>
+          <key>location</key>
+          <dict>
+            <key>serif_size</key>
+            <integer>-30</integer>
+            <key>weight</key>
+            <integer>180</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>weight=180,serif_size=-30</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>weight=45</string>
+          <key>location</key>
+          <dict>
+            <key>weight</key>
+            <integer>45</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>weight=45</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
