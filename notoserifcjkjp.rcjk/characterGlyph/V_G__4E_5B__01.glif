@@ -7,7 +7,7 @@
       <point x="754" y="416"/>
       <point x="502" y="95"/>
       <point x="72" y="-71" type="curve"/>
-      <point x="81" y="-89" type="line"/>
+      <point x="79" y="-89" type="line"/>
       <point x="557" y="69"/>
       <point x="786" y="391"/>
       <point x="910" y="768" type="curve"/>
@@ -34,7 +34,7 @@
           <key>maxValue</key>
           <integer>880</integer>
           <key>minValue</key>
-          <integer>200</integer>
+          <integer>150</integer>
           <key>name</key>
           <string>width</string>
         </dict>
@@ -67,6 +67,26 @@
           <integer>100</integer>
           <key>name</key>
           <string>H_length</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>-100</integer>
+          <key>name</key>
+          <string>curveH</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>-100</integer>
+          <key>name</key>
+          <string>curveV</string>
         </dict>
       </array>
       <key>robocjk.status</key>
@@ -183,6 +203,81 @@
           <true/>
           <key>sourceName</key>
           <string>H_length=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>curveH=-100</string>
+          <key>location</key>
+          <dict>
+            <key>curveH</key>
+            <integer>-100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>curveH=-100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>curveH=100</string>
+          <key>location</key>
+          <dict>
+            <key>curveH</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>curveH=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>curveV=-100</string>
+          <key>location</key>
+          <dict>
+            <key>curveV</key>
+            <integer>-100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>curveV=-100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>curveV=100</string>
+          <key>location</key>
+          <dict>
+            <key>curveV</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>curveV=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>width=150</string>
+          <key>location</key>
+          <dict>
+            <key>width</key>
+            <integer>150</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>width=150</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
