@@ -4,27 +4,6 @@
   <unicode hex="57DC"/>
   <outline>
     <contour>
-      <point x="478" y="326" type="line"/>
-      <point x="478" y="-33" type="line"/>
-      <point x="522" y="-33" type="line"/>
-      <point x="522" y="289" type="line"/>
-      <point x="546" y="293"/>
-      <point x="557" y="302"/>
-      <point x="559" y="316" type="curve"/>
-    </contour>
-    <contour>
-      <point x="148" y="191" type="line"/>
-      <point x="156" y="162" type="line"/>
-      <point x="853" y="162" type="line" smooth="yes"/>
-      <point x="867" y="162"/>
-      <point x="877" y="167"/>
-      <point x="880" y="177" type="curve"/>
-      <point x="849" y="206"/>
-      <point x="801" y="243"/>
-      <point x="801" y="243" type="curve"/>
-      <point x="759" y="191" type="line"/>
-    </contour>
-    <contour>
       <point x="499" y="675" type="line"/>
       <point x="506" y="645" type="line"/>
       <point x="928" y="645" type="line" smooth="yes"/>
@@ -35,18 +14,6 @@
       <point x="878" y="725"/>
       <point x="878" y="725" type="curve"/>
       <point x="837" y="675" type="line"/>
-    </contour>
-    <contour>
-      <point x="49" y="-21" type="line"/>
-      <point x="58" y="-50" type="line"/>
-      <point x="925" y="-50" type="line" smooth="yes"/>
-      <point x="939" y="-50"/>
-      <point x="949" y="-45"/>
-      <point x="952" y="-34" type="curve"/>
-      <point x="920" y="-5"/>
-      <point x="870" y="34"/>
-      <point x="870" y="34" type="curve"/>
-      <point x="826" y="-21" type="line"/>
     </contour>
     <contour>
       <point x="676" y="832" type="line"/>
@@ -115,9 +82,39 @@
             <integer>0</integer>
           </dict>
         </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>S_top_length</key>
+            <integer>-4</integer>
+            <key>T_H_right_length</key>
+            <integer>0</integer>
+            <key>height</key>
+            <integer>381</integer>
+          </dict>
+          <key>name</key>
+          <string>T_2FF1_571F</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>0</integer>
+            <key>y</key>
+            <integer>-19</integer>
+          </dict>
+        </dict>
       </array>
       <key>robocjk.status</key>
-      <integer>0</integer>
+      <integer>1</integer>
       <key>robocjk.variationGlyphs</key>
       <array>
         <dict>
@@ -149,6 +146,34 @@
                 <integer>0</integer>
               </dict>
             </dict>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>T_H_right_length</key>
+                <integer>-2</integer>
+                <key>height</key>
+                <integer>386</integer>
+              </dict>
+              <key>name</key>
+              <string>T_2FF1_571F</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>0</integer>
+                <key>y</key>
+                <integer>-18</integer>
+              </dict>
+            </dict>
           </array>
           <key>layerName</key>
           <string>wght=1</string>
@@ -162,7 +187,7 @@
           <key>sourceName</key>
           <string>wght=1</string>
           <key>status</key>
-          <integer>0</integer>
+          <integer>1</integer>
         </dict>
       </array>
     </dict>

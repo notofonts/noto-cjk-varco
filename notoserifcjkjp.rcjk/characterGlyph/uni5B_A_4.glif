@@ -4,15 +4,6 @@
   <unicode hex="5BA4"/>
   <outline>
     <contour>
-      <point x="477" y="314" type="line"/>
-      <point x="477" y="-27" type="line"/>
-      <point x="521" y="-27" type="line"/>
-      <point x="521" y="280" type="line"/>
-      <point x="543" y="284"/>
-      <point x="552" y="293"/>
-      <point x="554" y="305" type="curve"/>
-    </contour>
-    <contour>
       <point x="166" y="564" type="line"/>
       <point x="174" y="534" type="line"/>
       <point x="826" y="534" type="line" smooth="yes"/>
@@ -23,30 +14,6 @@
       <point x="781" y="606"/>
       <point x="781" y="606" type="curve"/>
       <point x="744" y="564" type="line"/>
-    </contour>
-    <contour>
-      <point x="143" y="179" type="line"/>
-      <point x="151" y="150" type="line"/>
-      <point x="836" y="150" type="line" smooth="yes"/>
-      <point x="850" y="150"/>
-      <point x="859" y="155"/>
-      <point x="862" y="166" type="curve"/>
-      <point x="832" y="193"/>
-      <point x="785" y="229"/>
-      <point x="785" y="229" type="curve"/>
-      <point x="744" y="179" type="line"/>
-    </contour>
-    <contour>
-      <point x="46" y="-11" type="line"/>
-      <point x="55" y="-40" type="line"/>
-      <point x="927" y="-40" type="line" smooth="yes"/>
-      <point x="941" y="-40"/>
-      <point x="951" y="-35"/>
-      <point x="953" y="-25" type="curve"/>
-      <point x="921" y="4"/>
-      <point x="871" y="41"/>
-      <point x="871" y="41" type="curve"/>
-      <point x="828" y="-11" type="line"/>
     </contour>
     <contour>
       <point x="618" y="500" type="curve"/>
@@ -127,6 +94,36 @@
             <integer>0</integer>
           </dict>
         </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>S_top_length</key>
+            <integer>10</integer>
+            <key>T_H_right_length</key>
+            <integer>-15</integer>
+            <key>height</key>
+            <integer>343</integer>
+          </dict>
+          <key>name</key>
+          <string>T_2FF1_571F</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>0</integer>
+            <key>y</key>
+            <integer>-8</integer>
+          </dict>
+        </dict>
       </array>
       <key>robocjk.status</key>
       <integer>1</integer>
@@ -173,6 +170,36 @@
                 <integer>0</integer>
                 <key>y</key>
                 <integer>0</integer>
+              </dict>
+            </dict>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>T_H_left_length</key>
+                <integer>-10</integer>
+                <key>T_H_right_length</key>
+                <integer>-10</integer>
+                <key>height</key>
+                <integer>371</integer>
+              </dict>
+              <key>name</key>
+              <string>T_2FF1_571F</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>0</integer>
+                <key>y</key>
+                <integer>-23</integer>
               </dict>
             </dict>
           </array>
