@@ -4,48 +4,6 @@
   <unicode hex="53E0"/>
   <outline>
     <contour>
-      <point x="217" y="805" type="line"/>
-      <point x="226" y="775" type="line"/>
-      <point x="718" y="775" type="line"/>
-      <point x="718" y="805" type="line"/>
-    </contour>
-    <contour>
-      <point x="98" y="586" type="line"/>
-      <point x="106" y="557" type="line"/>
-      <point x="430" y="557" type="line"/>
-      <point x="430" y="586" type="line"/>
-    </contour>
-    <contour>
-      <point x="702" y="805" type="line"/>
-      <point x="597" y="706"/>
-      <point x="380" y="644"/>
-      <point x="171" y="616" type="curve"/>
-      <point x="177" y="598" type="line"/>
-      <point x="405" y="617"/>
-      <point x="615" y="671"/>
-      <point x="743" y="772" type="curve"/>
-      <point x="768" y="773"/>
-      <point x="780" y="775"/>
-      <point x="789" y="783" type="curve"/>
-      <point x="731" y="837" type="line"/>
-      <point x="692" y="805" type="line"/>
-    </contour>
-    <contour>
-      <point x="416" y="586" type="line"/>
-      <point x="350" y="499"/>
-      <point x="211" y="428"/>
-      <point x="65" y="390" type="curve"/>
-      <point x="75" y="373" type="line"/>
-      <point x="236" y="405"/>
-      <point x="371" y="468"/>
-      <point x="452" y="556" type="curve"/>
-      <point x="476" y="556"/>
-      <point x="488" y="558"/>
-      <point x="497" y="565" type="curve"/>
-      <point x="441" y="617" type="line"/>
-      <point x="406" y="586" type="line"/>
-    </contour>
-    <contour>
       <point x="277" y="749" type="curve"/>
       <point x="274" y="729" type="line"/>
       <point x="484" y="699"/>
@@ -62,27 +20,6 @@
       <point x="415" y="397" type="curve"/>
       <point x="468" y="382"/>
       <point x="479" y="486"/>
-    </contour>
-    <contour>
-      <point x="530" y="586" type="line"/>
-      <point x="539" y="557" type="line"/>
-      <point x="857" y="557" type="line"/>
-      <point x="857" y="586" type="line"/>
-    </contour>
-    <contour>
-      <point x="842" y="586" type="line"/>
-      <point x="785" y="500"/>
-      <point x="660" y="437"/>
-      <point x="520" y="405" type="curve"/>
-      <point x="528" y="387" type="line"/>
-      <point x="684" y="413"/>
-      <point x="809" y="469"/>
-      <point x="882" y="555" type="curve"/>
-      <point x="905" y="556"/>
-      <point x="916" y="558"/>
-      <point x="925" y="565" type="curve"/>
-      <point x="868" y="617" type="line"/>
-      <point x="832" y="586" type="line"/>
     </contour>
     <contour>
       <point x="578" y="533" type="curve"/>
@@ -224,7 +161,7 @@
           <key>coord</key>
           <dict>
             <key>H_length</key>
-            <integer>307</integer>
+            <integer>302</integer>
             <key>H_weight</key>
             <integer>-1</integer>
             <key>curveH</key>
@@ -233,10 +170,12 @@
             <integer>2</integer>
             <key>height</key>
             <integer>224</integer>
+            <key>serif_size</key>
+            <integer>0</integer>
             <key>weight</key>
-            <integer>55</integer>
+            <integer>49</integer>
             <key>width</key>
-            <integer>417</integer>
+            <integer>412</integer>
           </dict>
           <key>name</key>
           <string>VG_4E5B_01</string>
@@ -253,7 +192,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>-449</integer>
+            <integer>-453</integer>
             <key>y</key>
             <integer>-220</integer>
           </dict>
@@ -262,7 +201,7 @@
           <key>coord</key>
           <dict>
             <key>H_length</key>
-            <integer>302</integer>
+            <integer>300</integer>
             <key>H_weight</key>
             <integer>-1</integer>
             <key>curveH</key>
@@ -272,9 +211,9 @@
             <key>height</key>
             <integer>209</integer>
             <key>weight</key>
-            <integer>55</integer>
+            <integer>52</integer>
             <key>width</key>
-            <integer>389</integer>
+            <integer>386</integer>
           </dict>
           <key>name</key>
           <string>VG_4E5B_01</string>
@@ -291,14 +230,14 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>-21</integer>
+            <integer>-23</integer>
             <key>y</key>
             <integer>-220</integer>
           </dict>
         </dict>
       </array>
       <key>robocjk.status</key>
-      <integer>0</integer>
+      <integer>1</integer>
       <key>robocjk.variationGlyphs</key>
       <array>
         <dict>
@@ -317,8 +256,10 @@
                 <integer>10</integer>
                 <key>height</key>
                 <integer>186</integer>
+                <key>serif_size</key>
+                <integer>-7</integer>
                 <key>weight</key>
-                <integer>148</integer>
+                <integer>153</integer>
                 <key>width</key>
                 <integer>622</integer>
               </dict>
@@ -337,7 +278,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>-171</integer>
+                <integer>-170</integer>
                 <key>y</key>
                 <integer>-10</integer>
               </dict>
@@ -355,10 +296,12 @@
                 <integer>-9</integer>
                 <key>height</key>
                 <integer>233</integer>
+                <key>serif_size</key>
+                <integer>-10</integer>
                 <key>weight</key>
-                <integer>138</integer>
+                <integer>146</integer>
                 <key>width</key>
-                <integer>423</integer>
+                <integer>425</integer>
               </dict>
               <key>name</key>
               <string>VG_4E5B_01</string>
@@ -375,7 +318,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>-480</integer>
+                <integer>-478</integer>
                 <key>y</key>
                 <integer>-221</integer>
               </dict>
@@ -384,19 +327,21 @@
               <key>coord</key>
               <dict>
                 <key>H_length</key>
-                <integer>289</integer>
+                <integer>297</integer>
                 <key>H_weight</key>
                 <integer>-2</integer>
                 <key>curveH</key>
-                <integer>17</integer>
+                <integer>29</integer>
                 <key>curveV</key>
-                <integer>-19</integer>
+                <integer>-24</integer>
                 <key>height</key>
                 <integer>201</integer>
+                <key>serif_size</key>
+                <integer>-12</integer>
                 <key>weight</key>
-                <integer>143</integer>
+                <integer>154</integer>
                 <key>width</key>
-                <integer>353</integer>
+                <integer>360</integer>
               </dict>
               <key>name</key>
               <string>VG_4E5B_01</string>
@@ -413,7 +358,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>-30</integer>
+                <integer>-26</integer>
                 <key>y</key>
                 <integer>-221</integer>
               </dict>
@@ -431,7 +376,7 @@
           <key>sourceName</key>
           <string>wght=1</string>
           <key>status</key>
-          <integer>0</integer>
+          <integer>1</integer>
         </dict>
       </array>
     </dict>
