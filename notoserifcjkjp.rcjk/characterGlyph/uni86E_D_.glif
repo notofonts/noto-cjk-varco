@@ -88,8 +88,16 @@
         <dict>
           <key>coord</key>
           <dict>
+            <key>B_H_moveV</key>
+            <integer>0</integer>
+            <key>D_height</key>
+            <integer>-20</integer>
+            <key>D_width</key>
+            <integer>-3</integer>
+            <key>M_H_moveV</key>
+            <integer>-19</integer>
             <key>width</key>
-            <integer>394</integer>
+            <integer>388</integer>
           </dict>
           <key>name</key>
           <string>T_866B_2FF0</string>
@@ -113,7 +121,7 @@
         </dict>
       </array>
       <key>robocjk.status</key>
-      <integer>0</integer>
+      <integer>1</integer>
       <key>robocjk.variationGlyphs</key>
       <array>
         <dict>
@@ -122,8 +130,12 @@
             <dict>
               <key>coord</key>
               <dict>
+                <key>D_height</key>
+                <integer>-10</integer>
+                <key>M_H_moveV</key>
+                <integer>-29</integer>
                 <key>width</key>
-                <integer>411</integer>
+                <integer>400</integer>
               </dict>
               <key>name</key>
               <string>T_866B_2FF0</string>
@@ -158,7 +170,7 @@
           <key>sourceName</key>
           <string>wght=1</string>
           <key>status</key>
-          <integer>0</integer>
+          <integer>1</integer>
         </dict>
       </array>
     </dict>
