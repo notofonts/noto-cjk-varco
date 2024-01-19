@@ -41,12 +41,16 @@
         <dict>
           <key>coord</key>
           <dict>
+            <key>B_H_moveV</key>
+            <integer>6</integer>
             <key>D_height</key>
             <integer>-12</integer>
             <key>D_moveV</key>
             <integer>12</integer>
             <key>D_width</key>
             <integer>-4</integer>
+            <key>T_right_moveV</key>
+            <integer>2</integer>
             <key>width</key>
             <integer>384</integer>
           </dict>
@@ -109,8 +113,18 @@
             <dict>
               <key>coord</key>
               <dict>
+                <key>B_H_moveV</key>
+                <integer>40</integer>
+                <key>D_moveV</key>
+                <integer>20</integer>
+                <key>D_width</key>
+                <integer>-3</integer>
+                <key>M_H_moveV</key>
+                <integer>0</integer>
+                <key>T_right_moveV</key>
+                <integer>-16</integer>
                 <key>width</key>
-                <integer>408</integer>
+                <integer>405</integer>
               </dict>
               <key>name</key>
               <string>T_866B_2FF0</string>
