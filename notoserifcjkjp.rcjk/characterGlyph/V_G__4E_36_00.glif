@@ -48,7 +48,7 @@
           <key>maxValue</key>
           <integer>180</integer>
           <key>minValue</key>
-          <integer>60</integer>
+          <integer>50</integer>
           <key>name</key>
           <string>weight</string>
         </dict>
@@ -276,6 +276,57 @@
           <true/>
           <key>sourceName</key>
           <string>L_curveV=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>weight=50</string>
+          <key>location</key>
+          <dict>
+            <key>weight</key>
+            <integer>50</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>weight=50</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>width=80,height=100,weight=50</string>
+          <key>location</key>
+          <dict>
+            <key>height</key>
+            <integer>100</integer>
+            <key>weight</key>
+            <integer>50</integer>
+            <key>width</key>
+            <integer>80</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>width=80,height=100,weight=50</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>width=80,weight=50</string>
+          <key>location</key>
+          <dict>
+            <key>weight</key>
+            <integer>50</integer>
+            <key>width</key>
+            <integer>80</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>width=80,weight=50</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
