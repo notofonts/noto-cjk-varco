@@ -80,53 +80,80 @@
       <point x="626" y="776"/>
       <point x="631" y="787" type="curve"/>
     </contour>
-    <contour>
-      <point x="84" y="657" type="line"/>
-      <point x="84" y="21" type="line"/>
-      <point x="93" y="21" type="line" smooth="yes"/>
-      <point x="109" y="21"/>
-      <point x="128" y="33"/>
-      <point x="128" y="40" type="curve" smooth="yes"/>
-      <point x="128" y="621" type="line"/>
-      <point x="153" y="624"/>
-      <point x="162" y="633"/>
-      <point x="165" y="647" type="curve"/>
-    </contour>
-    <contour>
-      <point x="326" y="660" type="line"/>
-      <point x="326" y="46" type="line"/>
-      <point x="335" y="46" type="line" smooth="yes"/>
-      <point x="352" y="46"/>
-      <point x="370" y="58"/>
-      <point x="370" y="66" type="curve" smooth="yes"/>
-      <point x="370" y="624" type="line"/>
-      <point x="395" y="627"/>
-      <point x="404" y="636"/>
-      <point x="407" y="650" type="curve"/>
-    </contour>
-    <contour>
-      <point x="205" y="801" type="line"/>
-      <point x="205" y="135" type="line"/>
-      <point x="249" y="135" type="line"/>
-      <point x="249" y="766" type="line"/>
-      <point x="271" y="769"/>
-      <point x="279" y="778"/>
-      <point x="281" y="792" type="curve"/>
-    </contour>
-    <contour>
-      <point x="103" y="146" type="line"/>
-      <point x="103" y="116" type="line"/>
-      <point x="355" y="116" type="line"/>
-      <point x="355" y="146" type="line"/>
-    </contour>
   </outline>
   <lib>
     <dict>
+      <key>robocjk.deepComponents</key>
+      <array>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>B_H_moveV</key>
+            <integer>0</integer>
+            <key>R_S_bottom_length</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>322</integer>
+          </dict>
+          <key>name</key>
+          <string>T_5C71_2FF0</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>0</integer>
+            <key>y</key>
+            <integer>0</integer>
+          </dict>
+        </dict>
+      </array>
       <key>robocjk.status</key>
-      <integer>0</integer>
+      <integer>1</integer>
       <key>robocjk.variationGlyphs</key>
       <array>
         <dict>
+          <key>deepComponents</key>
+          <array>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>B_H_moveV</key>
+                <integer>-20</integer>
+                <key>R_S_bottom_length</key>
+                <integer>0</integer>
+                <key>width</key>
+                <integer>335</integer>
+              </dict>
+              <key>name</key>
+              <string>T_5C71_2FF0</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>0</integer>
+                <key>y</key>
+                <integer>0</integer>
+              </dict>
+            </dict>
+          </array>
           <key>layerName</key>
           <string>wght=1</string>
           <key>location</key>
@@ -139,7 +166,7 @@
           <key>sourceName</key>
           <string>wght=1</string>
           <key>status</key>
-          <integer>0</integer>
+          <integer>1</integer>
         </dict>
       </array>
     </dict>
