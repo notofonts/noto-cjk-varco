@@ -4,45 +4,6 @@
   <unicode hex="5D12"/>
   <outline>
     <contour>
-      <point x="171" y="658" type="line"/>
-      <point x="171" y="629" type="line"/>
-      <point x="828" y="629" type="line"/>
-      <point x="828" y="658" type="line"/>
-    </contour>
-    <contour>
-      <point x="475" y="833" type="line"/>
-      <point x="475" y="640" type="line"/>
-      <point x="519" y="640" type="line"/>
-      <point x="519" y="797" type="line"/>
-      <point x="543" y="800"/>
-      <point x="554" y="810"/>
-      <point x="556" y="824" type="curve"/>
-    </contour>
-    <contour>
-      <point x="149" y="801" type="line"/>
-      <point x="149" y="568" type="line"/>
-      <point x="158" y="568" type="line" smooth="yes"/>
-      <point x="174" y="568"/>
-      <point x="193" y="579"/>
-      <point x="193" y="586" type="curve" smooth="yes"/>
-      <point x="193" y="764" type="line"/>
-      <point x="218" y="768"/>
-      <point x="228" y="777"/>
-      <point x="231" y="792" type="curve"/>
-    </contour>
-    <contour>
-      <point x="805" y="801" type="line"/>
-      <point x="805" y="581" type="line"/>
-      <point x="814" y="581" type="line" smooth="yes"/>
-      <point x="830" y="581"/>
-      <point x="849" y="593"/>
-      <point x="849" y="600" type="curve" smooth="yes"/>
-      <point x="849" y="764" type="line"/>
-      <point x="874" y="768"/>
-      <point x="884" y="777"/>
-      <point x="887" y="792" type="curve"/>
-    </contour>
-    <contour>
       <point x="302" y="382" type="curve"/>
       <point x="292" y="372" type="line"/>
       <point x="335" y="345"/>
@@ -134,11 +95,81 @@
   </outline>
   <lib>
     <dict>
+      <key>robocjk.deepComponents</key>
+      <array>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>L_S_bottom_length</key>
+            <integer>13</integer>
+            <key>R_S_bottom_length</key>
+            <integer>10</integer>
+            <key>height</key>
+            <real>246.3</real>
+            <key>width</key>
+            <integer>-24</integer>
+          </dict>
+          <key>name</key>
+          <string>T_5C71_2FF1</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>0</integer>
+            <key>y</key>
+            <integer>8</integer>
+          </dict>
+        </dict>
+      </array>
       <key>robocjk.status</key>
       <integer>0</integer>
       <key>robocjk.variationGlyphs</key>
       <array>
         <dict>
+          <key>deepComponents</key>
+          <array>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>L_S_bottom_length</key>
+                <integer>20</integer>
+                <key>R_S_bottom_length</key>
+                <integer>10</integer>
+                <key>height</key>
+                <real>231.3</real>
+                <key>width</key>
+                <integer>0</integer>
+              </dict>
+              <key>name</key>
+              <string>T_5C71_2FF1</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>0</integer>
+                <key>y</key>
+                <integer>10</integer>
+              </dict>
+            </dict>
+          </array>
           <key>layerName</key>
           <string>wght=1</string>
           <key>location</key>
