@@ -140,6 +140,16 @@
           <key>name</key>
           <string>serif_right_moveV</string>
         </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>50</integer>
+          <key>minValue</key>
+          <integer>-50</integer>
+          <key>name</key>
+          <string>serif_moveH</string>
+        </dict>
       </array>
       <key>robocjk.status</key>
       <integer>0</integer>
@@ -785,6 +795,36 @@
           <true/>
           <key>sourceName</key>
           <string>serif_width=30,serif_right_moveV=-50</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>serif_moveH=50</string>
+          <key>location</key>
+          <dict>
+            <key>serif_moveH</key>
+            <integer>50</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>serif_moveH=50</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>serif_moveH=-50</string>
+          <key>location</key>
+          <dict>
+            <key>serif_moveH</key>
+            <integer>-50</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>serif_moveH=-50</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
