@@ -36,7 +36,7 @@
           <key>maxValue</key>
           <integer>950</integer>
           <key>minValue</key>
-          <integer>130</integer>
+          <integer>100</integer>
           <key>name</key>
           <string>height</string>
         </dict>
@@ -825,6 +825,21 @@
           <true/>
           <key>sourceName</key>
           <string>serif_moveH=-50</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>height=100</string>
+          <key>location</key>
+          <dict>
+            <key>height</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>height=100</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
