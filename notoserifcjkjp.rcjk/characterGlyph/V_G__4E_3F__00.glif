@@ -118,7 +118,7 @@
           <key>maxValue</key>
           <integer>50</integer>
           <key>minValue</key>
-          <integer>0</integer>
+          <integer>-50</integer>
           <key>name</key>
           <string>P_curve_weightV</string>
         </dict>
@@ -602,6 +602,21 @@
           <true/>
           <key>sourceName</key>
           <string>P_bottom_moveV=50</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>P_curve_weightV=-50</string>
+          <key>location</key>
+          <dict>
+            <key>P_curve_weightV</key>
+            <integer>-50</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>P_curve_weightV=-50</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
