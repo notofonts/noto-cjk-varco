@@ -20,7 +20,7 @@ jobs:
           pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Export Fontra sources and TTF
+      - name: Export Fontra and UFO sources and build TTF
         run: ./export_and_build.sh
 
       - name: Storing Fontra Sources
@@ -28,6 +28,13 @@ jobs:
         with:
           name: NotoCJKVarCoFontraSources
           path: build/fontra
+          retention-days: 5
+
+      - name: Storing UFO Sources
+        uses: actions/upload-artifact@v4
+        with:
+          name: NotoCJKVarCoUFOSources
+          path: build/ufo
           retention-days: 5
 
       - name: Storing Font Artifacts
