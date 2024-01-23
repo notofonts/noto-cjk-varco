@@ -20,7 +20,7 @@ jobs:
           pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Export Fontra sources and TTF
+      - name: Export Fontra and UFO sources and build TTF
         run: ./export_and_build.sh
 
       - name: Storing Fontra Sources
