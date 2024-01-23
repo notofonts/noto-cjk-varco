@@ -30,6 +30,13 @@ jobs:
           path: build/fontra
           retention-days: 5
 
+      - name: Storing UFO Sources
+        uses: actions/upload-artifact@v4
+        with:
+          name: NotoCJKVarCoUFOSources
+          path: build/ufo
+          retention-days: 5
+
       - name: Storing Font Artifacts
         uses: actions/upload-artifact@v4
         with:

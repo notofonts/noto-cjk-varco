@@ -6,10 +6,14 @@ set -x  # echo commands
 
 mkdir -p build
 mkdir -p build/fontra
+mkdir -p build/ufo
 mkdir -p build/fonts
 
 fontra-copy notosanscjksc.rcjk build/fontra/notosanscjksc.fontra
 fontra-copy notoserifcjkjp.rcjk build/fontra/notoserifcjkjp.fontra
+
+fontra-copy notosanscjksc.rcjk build/ufo/notosanscjksc.designspace
+fontra-copy notoserifcjkjp.rcjk build/ufo/notoserifcjkjp.designspace
 
 fontra-compile notosanscjksc.rcjk build/fonts/notosanscjksc-glyf1.ttf
 fontra-compile notoserifcjkjp.rcjk build/fonts/notoserifcjkjp-glyf1.ttf
