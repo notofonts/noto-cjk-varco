@@ -35,18 +35,6 @@
       <point x="323" y="735" type="line"/>
     </contour>
     <contour>
-      <point x="102" y="464" type="line"/>
-      <point x="102" y="434" type="line"/>
-      <point x="320" y="434" type="line"/>
-      <point x="320" y="464" type="line"/>
-    </contour>
-    <contour>
-      <point x="105" y="187" type="line"/>
-      <point x="105" y="158" type="line"/>
-      <point x="323" y="158" type="line"/>
-      <point x="323" y="187" type="line"/>
-    </contour>
-    <contour>
       <point x="486" y="762" type="line"/>
       <point x="486" y="733" type="line"/>
       <point x="923" y="733" type="line" smooth="yes"/>
@@ -109,11 +97,69 @@
   </outline>
   <lib>
     <dict>
+      <key>robocjk.deepComponents</key>
+      <array>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>width</key>
+            <real>300.558</real>
+          </dict>
+          <key>name</key>
+          <string>T_65E5_2FF0</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>0</integer>
+            <key>y</key>
+            <integer>0</integer>
+          </dict>
+        </dict>
+      </array>
       <key>robocjk.status</key>
       <integer>0</integer>
       <key>robocjk.variationGlyphs</key>
       <array>
         <dict>
+          <key>deepComponents</key>
+          <array>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>width</key>
+                <integer>302</integer>
+              </dict>
+              <key>name</key>
+              <string>T_65E5_2FF0</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>0</integer>
+                <key>y</key>
+                <integer>0</integer>
+              </dict>
+            </dict>
+          </array>
           <key>layerName</key>
           <string>wght=1</string>
           <key>location</key>
