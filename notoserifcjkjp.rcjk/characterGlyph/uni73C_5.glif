@@ -3,49 +3,6 @@
   <advance width="1000"/>
   <unicode hex="73C5"/>
   <outline>
-    <contour>
-      <point x="48" y="722" type="line"/>
-      <point x="56" y="693" type="line"/>
-      <point x="368" y="693" type="line" smooth="yes"/>
-      <point x="380" y="693"/>
-      <point x="390" y="697"/>
-      <point x="393" y="708" type="curve"/>
-      <point x="364" y="736"/>
-      <point x="317" y="772"/>
-      <point x="317" y="772" type="curve"/>
-      <point x="276" y="722" type="line"/>
-    </contour>
-    <contour>
-      <point x="55" y="449" type="line"/>
-      <point x="63" y="420" type="line"/>
-      <point x="350" y="420" type="line" smooth="yes"/>
-      <point x="364" y="420"/>
-      <point x="372" y="425"/>
-      <point x="375" y="435" type="curve"/>
-      <point x="349" y="462"/>
-      <point x="306" y="498"/>
-      <point x="306" y="498" type="curve"/>
-      <point x="269" y="449" type="line"/>
-    </contour>
-    <contour>
-      <point x="32" y="101" type="curve"/>
-      <point x="63" y="40" type="line"/>
-      <point x="71" y="44"/>
-      <point x="79" y="53"/>
-      <point x="81" y="65" type="curve"/>
-      <point x="210" y="120"/>
-      <point x="310" y="169"/>
-      <point x="385" y="203" type="curve"/>
-      <point x="380" y="219" type="line"/>
-      <point x="234" y="167"/>
-      <point x="91" y="116"/>
-    </contour>
-    <contour>
-      <point x="183" y="722" type="line"/>
-      <point x="183" y="134" type="line"/>
-      <point x="228" y="148" type="line"/>
-      <point x="228" y="722" type="line"/>
-    </contour>
   </outline>
   <lib>
     <dict>
@@ -88,8 +45,10 @@
             <integer>0</integer>
             <key>T_right_moveV</key>
             <integer>0</integer>
+            <key>height</key>
+            <integer>-15</integer>
             <key>width</key>
-            <integer>362</integer>
+            <integer>358</integer>
           </dict>
           <key>name</key>
           <string>T_738B_2FF0</string>
@@ -108,12 +67,12 @@
             <key>x</key>
             <integer>0</integer>
             <key>y</key>
-            <integer>0</integer>
+            <integer>-23</integer>
           </dict>
         </dict>
       </array>
       <key>robocjk.status</key>
-      <integer>1</integer>
+      <integer>4</integer>
       <key>robocjk.variationGlyphs</key>
       <array>
         <dict>
@@ -153,11 +112,11 @@
               <key>coord</key>
               <dict>
                 <key>T_right_moveH</key>
-                <integer>0</integer>
+                <integer>-20</integer>
                 <key>T_right_moveV</key>
                 <integer>0</integer>
                 <key>width</key>
-                <integer>373</integer>
+                <integer>363</integer>
               </dict>
               <key>name</key>
               <string>T_738B_2FF0</string>
@@ -174,14 +133,14 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>0</integer>
+                <integer>-7</integer>
                 <key>y</key>
-                <integer>0</integer>
+                <integer>-10</integer>
               </dict>
             </dict>
           </array>
           <key>layerName</key>
-          <string>wght=1</string>
+          <string></string>
           <key>location</key>
           <dict>
             <key>wght</key>
@@ -192,7 +151,7 @@
           <key>sourceName</key>
           <string>wght=1</string>
           <key>status</key>
-          <integer>0</integer>
+          <integer>4</integer>
         </dict>
       </array>
     </dict>
