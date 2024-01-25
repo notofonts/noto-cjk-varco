@@ -159,6 +159,12 @@
         <dict>
           <key>coord</key>
           <dict>
+            <key>2S_distance</key>
+            <integer>40</integer>
+            <key>LS_bottom_length</key>
+            <integer>7</integer>
+            <key>RS_bottom_length</key>
+            <integer>7</integer>
             <key>height</key>
             <integer>228</integer>
           </dict>
@@ -179,7 +185,7 @@
             <key>x</key>
             <integer>0</integer>
             <key>y</key>
-            <integer>0</integer>
+            <integer>4</integer>
           </dict>
         </dict>
       </array>
@@ -193,8 +199,10 @@
             <dict>
               <key>coord</key>
               <dict>
+                <key>2S_distance</key>
+                <integer>14</integer>
                 <key>height</key>
-                <integer>228</integer>
+                <integer>222</integer>
               </dict>
               <key>name</key>
               <string>T_8279_2FF1</string>

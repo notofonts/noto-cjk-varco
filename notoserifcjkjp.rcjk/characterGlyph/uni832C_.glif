@@ -122,6 +122,10 @@
         <dict>
           <key>coord</key>
           <dict>
+            <key>2S_distance</key>
+            <integer>30</integer>
+            <key>LS_bottom_length</key>
+            <integer>-1</integer>
             <key>height</key>
             <integer>228</integer>
           </dict>
@@ -142,7 +146,7 @@
             <key>x</key>
             <integer>0</integer>
             <key>y</key>
-            <integer>0</integer>
+            <integer>5</integer>
           </dict>
         </dict>
       </array>
@@ -156,6 +160,8 @@
             <dict>
               <key>coord</key>
               <dict>
+                <key>2S_distance</key>
+                <integer>20</integer>
                 <key>height</key>
                 <integer>228</integer>
               </dict>
