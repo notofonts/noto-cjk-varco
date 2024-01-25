@@ -3,50 +3,6 @@
   <advance width="1000"/>
   <unicode hex="81F3"/>
   <outline>
-    <contour>
-      <point x="67" y="761" type="line"/>
-      <point x="76" y="731" type="line"/>
-      <point x="913" y="731" type="line" smooth="yes"/>
-      <point x="927" y="731"/>
-      <point x="937" y="736"/>
-      <point x="939" y="747" type="curve"/>
-      <point x="908" y="775"/>
-      <point x="859" y="814"/>
-      <point x="859" y="814" type="curve"/>
-      <point x="816" y="761" type="line"/>
-    </contour>
-    <contour>
-      <point x="100" y="488" type="curve"/>
-      <point x="128" y="420" type="line"/>
-      <point x="138" y="422"/>
-      <point x="148" y="429"/>
-      <point x="154" y="439" type="curve"/>
-      <point x="438" y="460"/>
-      <point x="649" y="481"/>
-      <point x="813" y="500" type="curve"/>
-      <point x="811" y="521" type="line"/>
-      <point x="513" y="503"/>
-      <point x="227" y="489"/>
-    </contour>
-    <contour>
-      <point x="608" y="657" type="curve"/>
-      <point x="597" y="645" type="line"/>
-      <point x="693" y="589"/>
-      <point x="826" y="483"/>
-      <point x="866" y="400" type="curve"/>
-      <point x="936" y="364"/>
-      <point x="942" y="525"/>
-    </contour>
-    <contour>
-      <point x="434" y="753" type="line"/>
-      <point x="401" y="671"/>
-      <point x="333" y="541"/>
-      <point x="287" y="473" type="curve"/>
-      <point x="317" y="473" type="line"/>
-      <point x="370" y="538"/>
-      <point x="447" y="660"/>
-      <point x="495" y="753" type="curve"/>
-    </contour>
   </outline>
   <lib>
     <dict>
@@ -250,7 +206,7 @@
         </dict>
       </array>
       <key>robocjk.status</key>
-      <integer>1</integer>
+      <integer>4</integer>
       <key>robocjk.variationGlyphs</key>
       <array>
         <dict>
@@ -334,15 +290,15 @@
               <key>coord</key>
               <dict>
                 <key>L_curveH</key>
-                <integer>-3</integer>
+                <integer>0</integer>
                 <key>L_curveV</key>
-                <integer>2</integer>
+                <integer>-2</integer>
                 <key>R_curveH</key>
                 <integer>-16</integer>
                 <key>R_curveV</key>
-                <integer>-20</integer>
+                <integer>-10</integer>
                 <key>end_weightH</key>
-                <integer>10</integer>
+                <integer>2</integer>
                 <key>end_weightV</key>
                 <integer>0</integer>
                 <key>height</key>
@@ -352,11 +308,11 @@
                 <key>serif_moveH</key>
                 <integer>0</integer>
                 <key>serif_right_moveV</key>
-                <integer>29</integer>
+                <integer>30</integer>
                 <key>serif_width</key>
                 <integer>0</integer>
                 <key>weight</key>
-                <integer>190</integer>
+                <integer>220</integer>
                 <key>width</key>
                 <integer>152</integer>
               </dict>
@@ -375,9 +331,9 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>-276</integer>
+                <integer>-275</integer>
                 <key>y</key>
-                <integer>-86</integer>
+                <integer>-84</integer>
               </dict>
             </dict>
             <dict>
@@ -454,7 +410,7 @@
             </dict>
           </array>
           <key>layerName</key>
-          <string>wght=1</string>
+          <string></string>
           <key>location</key>
           <dict>
             <key>wght</key>
@@ -465,7 +421,7 @@
           <key>sourceName</key>
           <string>wght=1</string>
           <key>status</key>
-          <integer>0</integer>
+          <integer>4</integer>
         </dict>
       </array>
     </dict>
