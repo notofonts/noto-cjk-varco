@@ -178,7 +178,7 @@
             <key>serif_bottom_point_moveH</key>
             <integer>0</integer>
             <key>serif_height</key>
-            <integer>-31</integer>
+            <integer>-26</integer>
             <key>serif_right_curve</key>
             <integer>0</integer>
             <key>serif_right_moveV</key>
@@ -186,11 +186,11 @@
             <key>serif_top_moveH</key>
             <integer>0</integer>
             <key>serif_width</key>
-            <integer>-54</integer>
+            <integer>-51</integer>
             <key>weight</key>
             <integer>29</integer>
             <key>width</key>
-            <integer>599</integer>
+            <integer>489</integer>
           </dict>
           <key>name</key>
           <string>VG_4E00_00</string>
@@ -209,7 +209,7 @@
             <key>x</key>
             <integer>369</integer>
             <key>y</key>
-            <integer>128</integer>
+            <integer>130</integer>
           </dict>
         </dict>
         <dict>
@@ -382,7 +382,7 @@
             <key>serif_bottom_point_moveH</key>
             <integer>0</integer>
             <key>serif_height</key>
-            <integer>-18</integer>
+            <integer>-29</integer>
             <key>serif_right_curve</key>
             <integer>0</integer>
             <key>serif_right_moveV</key>
@@ -390,11 +390,11 @@
             <key>serif_top_moveH</key>
             <integer>0</integer>
             <key>serif_width</key>
-            <integer>-36</integer>
+            <integer>-46</integer>
             <key>weight</key>
             <integer>29</integer>
             <key>width</key>
-            <integer>903</integer>
+            <integer>664</integer>
           </dict>
           <key>name</key>
           <string>VG_4E00_00</string>
@@ -411,20 +411,20 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>202</integer>
+            <integer>282</integer>
             <key>y</key>
-            <integer>-443</integer>
+            <integer>-446</integer>
           </dict>
         </dict>
         <dict>
           <key>coord</key>
           <dict>
             <key>G_length</key>
-            <real>122.410875</real>
+            <real>102.411</real>
             <key>G_weight</key>
             <real>3.4375</real>
             <key>G_width</key>
-            <real>17.6884375</real>
+            <real>5.69</real>
             <key>H_length</key>
             <real>496.2115625</real>
             <key>H_weight</key>
@@ -508,9 +508,9 @@
             <key>ML_point_moveH</key>
             <integer>0</integer>
             <key>ML_point_moveV</key>
-            <real>0.7187500000000001</real>
+            <integer>0</integer>
             <key>R_curve</key>
-            <real>37.890625</real>
+            <integer>0</integer>
             <key>R_curve_bottom</key>
             <integer>2</integer>
             <key>R_curve_top</key>
@@ -518,7 +518,7 @@
             <key>TB_curve</key>
             <integer>0</integer>
             <key>TL_curve</key>
-            <real>34.09437500000001</real>
+            <integer>0</integer>
             <key>TL_curve_bottom</key>
             <integer>5</integer>
             <key>TL_curve_top</key>
@@ -540,11 +540,11 @@
             <key>T_weight</key>
             <integer>0</integer>
             <key>height</key>
-            <real>188.627889634601</real>
+            <real>181.63</real>
             <key>weight</key>
             <integer>57</integer>
             <key>width</key>
-            <integer>100</integer>
+            <integer>64</integer>
           </dict>
           <key>name</key>
           <string>VG_4E36_03</string>
@@ -572,17 +572,17 @@
             <key>B_curve</key>
             <integer>0</integer>
             <key>length</key>
-            <real>130.79093749999998</real>
+            <real>140.79</real>
             <key>serif_height</key>
             <integer>-2</integer>
             <key>serif_moveV</key>
-            <integer>-1</integer>
+            <integer>2</integer>
             <key>serif_style2</key>
             <integer>1</integer>
             <key>serif_style3</key>
             <integer>1</integer>
             <key>serif_width</key>
-            <integer>1</integer>
+            <integer>-3</integer>
             <key>weight</key>
             <integer>44</integer>
           </dict>
@@ -601,9 +601,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <real>94.71875</real>
+            <integer>103</integer>
             <key>y</key>
-            <real>-65.90625</real>
+            <integer>-47</integer>
           </dict>
         </dict>
       </array>
@@ -873,25 +873,53 @@
             <dict>
               <key>coord</key>
               <dict>
-                <key>L_D_height</key>
+                <key>G_length</key>
+                <real>112.39870129870131</real>
+                <key>G_weight</key>
+                <real>80.14285714285714</real>
+                <key>G_width</key>
+                <real>47.767792207792205</real>
+                <key>H_length</key>
+                <real>689.3658166650869</real>
+                <key>H_weight</key>
+                <integer>28</integer>
+                <key>TR_height</key>
+                <real>-0.012987012987012991</real>
+                <key>TR_width</key>
+                <real>-0.01298701298701288</real>
+                <key>bottom_point1_mH</key>
                 <integer>0</integer>
-                <key>L_D_moveH</key>
+                <key>bottom_point1_mV</key>
                 <integer>0</integer>
-                <key>L_D_moveV</key>
+                <key>bottom_point2_mH</key>
                 <integer>0</integer>
-                <key>L_D_width</key>
+                <key>bottom_point2_mV</key>
                 <integer>0</integer>
-                <key>R_G_length</key>
+                <key>left_point1_mH</key>
                 <integer>0</integer>
-                <key>R_G_moveH</key>
+                <key>left_point2_mH</key>
                 <integer>0</integer>
-                <key>R_G_width</key>
+                <key>leftbottom_curve</key>
                 <integer>0</integer>
-                <key>height</key>
-                <integer>284</integer>
+                <key>right_point1_mH</key>
+                <integer>0</integer>
+                <key>right_point1_mV</key>
+                <integer>0</integer>
+                <key>right_point2_mH</key>
+                <integer>0</integer>
+                <key>right_point2_mV</key>
+                <integer>0</integer>
+                <key>rightbottom_curve</key>
+                <integer>0</integer>
+                <key>rightmiddle_curve</key>
+                <integer>0</integer>
+                <key>top_point_mH</key>
+                <integer>0</integer>
+                <key>top_point_mV</key>
+                <integer>0</integer>
               </dict>
               <key>name</key>
-              <string>T_5B80_2FF1</string>
+              <string>VG_4E5B_00</string>
               <key>transform</key>
               <dict>
                 <key>rotation</key>
@@ -905,9 +933,131 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>150</integer>
+                <real>137.05194805194805</real>
                 <key>y</key>
+                <real>186.06493506493507</real>
+              </dict>
+            </dict>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>BL_curve_bottom</key>
+                <real>0.025974025974025983</real>
+                <key>BL_curve_top</key>
+                <real>-9.87012987012987</real>
+                <key>BL_point_mH</key>
+                <integer>1</integer>
+                <key>BL_point_mV</key>
+                <integer>-4</integer>
+                <key>BR_curve</key>
+                <integer>-24</integer>
+                <key>BR_point_mH</key>
+                <integer>5</integer>
+                <key>BR_point_mV</key>
+                <integer>1</integer>
+                <key>ML_point_mH</key>
+                <integer>2</integer>
+                <key>ML_point_mV</key>
+                <real>4.935064935064935</real>
+                <key>ML_point_moveH</key>
                 <integer>0</integer>
+                <key>ML_point_moveV</key>
+                <integer>0</integer>
+                <key>R_curve</key>
+                <integer>0</integer>
+                <key>R_curve_bottom</key>
+                <real>-2.9350649350649354</real>
+                <key>R_curve_top</key>
+                <real>12.896103896103895</real>
+                <key>TB_curve</key>
+                <integer>0</integer>
+                <key>TL_curve</key>
+                <integer>0</integer>
+                <key>TL_curve_bottom</key>
+                <integer>5</integer>
+                <key>TL_curve_top</key>
+                <real>8.935064935064936</real>
+                <key>TL_point_moveH</key>
+                <integer>-1</integer>
+                <key>TL_point_moveV</key>
+                <integer>-1</integer>
+                <key>TL_weightV</key>
+                <integer>0</integer>
+                <key>TR_curve</key>
+                <integer>23</integer>
+                <key>T_cut_angle</key>
+                <integer>0</integer>
+                <key>T_point1_moveH</key>
+                <integer>0</integer>
+                <key>T_point1_moveV</key>
+                <integer>-1</integer>
+                <key>T_weight</key>
+                <integer>0</integer>
+                <key>height</key>
+                <real>191.32</real>
+                <key>weight</key>
+                <real>133.4846233766234</real>
+                <key>width</key>
+                <real>85.119</real>
+              </dict>
+              <key>name</key>
+              <string>VG_4E36_03</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>12</integer>
+                <key>y</key>
+                <integer>180</integer>
+              </dict>
+            </dict>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>B_curve</key>
+                <real>7.01314908022956e-15</real>
+                <key>length</key>
+                <real>144.2690909090909</real>
+                <key>serif_height</key>
+                <integer>-6</integer>
+                <key>serif_moveV</key>
+                <integer>5</integer>
+                <key>serif_style2</key>
+                <integer>1</integer>
+                <key>serif_style3</key>
+                <integer>1</integer>
+                <key>serif_width</key>
+                <integer>-9</integer>
+                <key>weight</key>
+                <real>149.95064935064934</real>
+              </dict>
+              <key>name</key>
+              <string>VG_4E28_00</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <real>96.01298701298701</real>
+                <key>y</key>
+                <real>-23.051948051948052</real>
               </dict>
             </dict>
           </array>
