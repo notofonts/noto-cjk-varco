@@ -12,7 +12,7 @@
           <key>coord</key>
           <dict>
             <key>width</key>
-            <integer>378</integer>
+            <integer>496</integer>
           </dict>
           <key>name</key>
           <string>T_79BE_2FF0</string>
@@ -34,9 +34,51 @@
             <integer>0</integer>
           </dict>
         </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>BL_S_length</key>
+            <integer>20</integer>
+            <key>BR_S_length</key>
+            <integer>3</integer>
+            <key>B_H_moveV</key>
+            <integer>30</integer>
+            <key>TL_cut</key>
+            <integer>0</integer>
+            <key>TL_serif</key>
+            <integer>0</integer>
+            <key>TR_serif</key>
+            <integer>0</integer>
+            <key>V_weight</key>
+            <integer>0</integer>
+            <key>height</key>
+            <integer>758</integer>
+            <key>width</key>
+            <real>412.34</real>
+          </dict>
+          <key>name</key>
+          <string>VG_53E3_00</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>465</integer>
+            <key>y</key>
+            <integer>43</integer>
+          </dict>
+        </dict>
       </array>
       <key>robocjk.status</key>
-      <integer>1</integer>
+      <integer>4</integer>
       <key>robocjk.variationGlyphs</key>
       <array>
         <dict>
@@ -46,7 +88,7 @@
               <key>coord</key>
               <dict>
                 <key>width</key>
-                <integer>378</integer>
+                <integer>479</integer>
               </dict>
               <key>name</key>
               <string>T_79BE_2FF0</string>
@@ -66,6 +108,48 @@
                 <integer>0</integer>
                 <key>y</key>
                 <integer>0</integer>
+              </dict>
+            </dict>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>BL_S_length</key>
+                <integer>0</integer>
+                <key>BR_S_length</key>
+                <integer>-7</integer>
+                <key>B_H_moveV</key>
+                <integer>30</integer>
+                <key>TL_cut</key>
+                <integer>0</integer>
+                <key>TL_serif</key>
+                <integer>0</integer>
+                <key>TR_serif</key>
+                <integer>-10</integer>
+                <key>V_weight</key>
+                <integer>0</integer>
+                <key>height</key>
+                <integer>752</integer>
+                <key>width</key>
+                <real>354.34</real>
+              </dict>
+              <key>name</key>
+              <string>VG_53E3_00</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>480</integer>
+                <key>y</key>
+                <integer>36</integer>
               </dict>
             </dict>
           </array>
