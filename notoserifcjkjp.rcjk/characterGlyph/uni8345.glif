@@ -38,39 +38,6 @@
       <point x="635" y="427" type="curve"/>
       <point x="599" y="386" type="line"/>
     </contour>
-    <contour>
-      <point x="245" y="34" type="line"/>
-      <point x="245" y="4" type="line"/>
-      <point x="756" y="4" type="line"/>
-      <point x="756" y="34" type="line"/>
-    </contour>
-    <contour>
-      <point x="224" y="250" type="line"/>
-      <point x="224" y="-74" type="line"/>
-      <point x="231" y="-74" type="line" smooth="yes"/>
-      <point x="249" y="-74"/>
-      <point x="268" y="-63"/>
-      <point x="268" y="-58" type="curve" smooth="yes"/>
-      <point x="268" y="221" type="line"/>
-      <point x="763" y="221" type="line"/>
-      <point x="763" y="250" type="line"/>
-      <point x="273" y="250" type="line"/>
-      <point x="224" y="275" type="line"/>
-    </contour>
-    <contour>
-      <point x="732" y="250" type="line"/>
-      <point x="732" y="-65" type="line"/>
-      <point x="738" y="-65" type="line" smooth="yes"/>
-      <point x="753" y="-65"/>
-      <point x="775" y="-53"/>
-      <point x="776" y="-47" type="curve"/>
-      <point x="776" y="211" type="line"/>
-      <point x="796" y="215"/>
-      <point x="813" y="223"/>
-      <point x="820" y="231" type="curve"/>
-      <point x="752" y="283" type="line"/>
-      <point x="722" y="250" type="line"/>
-    </contour>
   </outline>
   <lib>
     <dict>
@@ -106,6 +73,42 @@
             <integer>0</integer>
             <key>y</key>
             <integer>3</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>BL_S_length</key>
+            <integer>30</integer>
+            <key>BR_S_length</key>
+            <integer>24</integer>
+            <key>TL_serif</key>
+            <integer>0</integer>
+            <key>TR_serif</key>
+            <integer>0</integer>
+            <key>height</key>
+            <integer>368</integer>
+            <key>width</key>
+            <integer>626</integer>
+          </dict>
+          <key>name</key>
+          <string>VG_53E3_00</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>137</integer>
+            <key>y</key>
+            <integer>28</integer>
           </dict>
         </dict>
       </array>
@@ -146,6 +149,44 @@
                 <integer>0</integer>
                 <key>y</key>
                 <integer>0</integer>
+              </dict>
+            </dict>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>BL_S_length</key>
+                <integer>13</integer>
+                <key>BR_S_length</key>
+                <integer>12</integer>
+                <key>TL_serif</key>
+                <integer>0</integer>
+                <key>TR_serif</key>
+                <integer>-14</integer>
+                <key>V_weight</key>
+                <integer>5</integer>
+                <key>height</key>
+                <integer>375</integer>
+                <key>width</key>
+                <integer>631</integer>
+              </dict>
+              <key>name</key>
+              <string>VG_53E3_00</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>127</integer>
+                <key>y</key>
+                <integer>18</integer>
               </dict>
             </dict>
           </array>
