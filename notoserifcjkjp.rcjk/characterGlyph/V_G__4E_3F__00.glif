@@ -48,7 +48,7 @@
           <key>maxValue</key>
           <integer>300</integer>
           <key>minValue</key>
-          <integer>-300</integer>
+          <integer>-380</integer>
           <key>name</key>
           <string>S_top_length</string>
         </dict>
@@ -617,6 +617,21 @@
           <true/>
           <key>sourceName</key>
           <string>P_curve_weightV=-50</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>S_top_length=-380</string>
+          <key>location</key>
+          <dict>
+            <key>S_top_length</key>
+            <integer>-380</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>S_top_length=-380</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
