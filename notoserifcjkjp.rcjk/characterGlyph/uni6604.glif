@@ -3,66 +3,6 @@
   <advance width="1000"/>
   <unicode hex="6604"/>
   <outline>
-    <contour>
-      <point x="486" y="762" type="line"/>
-      <point x="486" y="733" type="line"/>
-      <point x="923" y="733" type="line" smooth="yes"/>
-      <point x="937" y="733"/>
-      <point x="946" y="738"/>
-      <point x="949" y="749" type="curve"/>
-      <point x="921" y="775"/>
-      <point x="877" y="812"/>
-      <point x="877" y="812" type="curve"/>
-      <point x="838" y="762" type="line"/>
-    </contour>
-    <contour>
-      <point x="476" y="519" type="line"/>
-      <point x="476" y="490" type="line"/>
-      <point x="854" y="490" type="line"/>
-      <point x="854" y="519" type="line"/>
-    </contour>
-    <contour>
-      <point x="549" y="519" type="curve"/>
-      <point x="529" y="509" type="line"/>
-      <point x="577" y="236"/>
-      <point x="703" y="39"/>
-      <point x="919" y="-66" type="curve"/>
-      <point x="930" y="-45"/>
-      <point x="948" y="-33"/>
-      <point x="968" y="-33" type="curve"/>
-      <point x="971" y="-24" type="line"/>
-      <point x="744" y="66"/>
-      <point x="600" y="261"/>
-    </contour>
-    <contour>
-      <point x="452" y="762" type="line"/>
-      <point x="452" y="542" type="line" smooth="yes"/>
-      <point x="452" y="318"/>
-      <point x="435" y="98"/>
-      <point x="298" y="-59" type="curve"/>
-      <point x="313" y="-72" type="line"/>
-      <point x="477" y="79"/>
-      <point x="496" y="314"/>
-      <point x="497" y="542" type="curve" smooth="yes"/>
-      <point x="497" y="762" type="line"/>
-      <point x="506" y="762" type="line"/>
-      <point x="452" y="790" type="line"/>
-    </contour>
-    <contour>
-      <point x="835" y="519" type="line"/>
-      <point x="778" y="277"/>
-      <point x="648" y="61"/>
-      <point x="415" y="-56" type="curve"/>
-      <point x="426" y="-71" type="line"/>
-      <point x="687" y="41"/>
-      <point x="813" y="251"/>
-      <point x="881" y="484" type="curve"/>
-      <point x="902" y="486"/>
-      <point x="913" y="489"/>
-      <point x="921" y="497" type="curve"/>
-      <point x="860" y="554" type="line"/>
-      <point x="826" y="519" type="line"/>
-    </contour>
   </outline>
   <lib>
     <dict>
@@ -76,6 +16,32 @@
           </dict>
           <key>name</key>
           <string>T_65E5_2FF0</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>0</integer>
+            <key>y</key>
+            <integer>0</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>width</key>
+            <integer>655</integer>
+          </dict>
+          <key>name</key>
+          <string>T_2FF0_53CD</string>
           <key>transform</key>
           <dict>
             <key>rotation</key>
@@ -128,9 +94,35 @@
                 <integer>0</integer>
               </dict>
             </dict>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>width</key>
+                <integer>655</integer>
+              </dict>
+              <key>name</key>
+              <string>T_2FF0_53CD</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>0</integer>
+                <key>y</key>
+                <integer>0</integer>
+              </dict>
+            </dict>
           </array>
           <key>layerName</key>
-          <string>wght=1</string>
+          <string></string>
           <key>location</key>
           <dict>
             <key>wght</key>
