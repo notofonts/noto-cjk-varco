@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="uni932F" format="2">
+<glyph name="uni5536" format="2">
   <advance width="1000"/>
-  <unicode hex="932F"/>
+  <unicode hex="5536"/>
   <outline>
   </outline>
   <lib>
@@ -12,7 +12,7 @@
           <key>coord</key>
           <dict>
             <key>width</key>
-            <integer>558</integer>
+            <integer>624</integer>
           </dict>
           <key>name</key>
           <string>T_2FF0_6614</string>
@@ -37,17 +37,19 @@
         <dict>
           <key>coord</key>
           <dict>
-            <key>BT_right_moveH</key>
-            <integer>0</integer>
-            <key>BT_right_moveV</key>
-            <integer>0</integer>
-            <key>TR_D_length</key>
+            <key>B_H_moveV</key>
+            <integer>20</integer>
+            <key>L_S_bottom_length</key>
+            <integer>-20</integer>
+            <key>R_S_bottom_length</key>
+            <integer>-10</integer>
+            <key>T_H_moveV</key>
             <integer>0</integer>
             <key>width</key>
-            <integer>434</integer>
+            <integer>283</integer>
           </dict>
           <key>name</key>
-          <string>T_91D1_2FF0</string>
+          <string>T_53E3_2FF0</string>
           <key>transform</key>
           <dict>
             <key>rotation</key>
@@ -78,7 +80,7 @@
               <key>coord</key>
               <dict>
                 <key>width</key>
-                <integer>566</integer>
+                <integer>633</integer>
               </dict>
               <key>name</key>
               <string>T_2FF0_6614</string>
@@ -103,17 +105,19 @@
             <dict>
               <key>coord</key>
               <dict>
-                <key>BT_right_moveH</key>
+                <key>B_H_moveV</key>
                 <integer>0</integer>
-                <key>BT_right_moveV</key>
+                <key>L_S_bottom_length</key>
                 <integer>0</integer>
-                <key>TR_D_length</key>
+                <key>R_S_bottom_length</key>
                 <integer>0</integer>
+                <key>T_H_moveV</key>
+                <integer>20</integer>
                 <key>width</key>
-                <integer>426</integer>
+                <integer>283</integer>
               </dict>
               <key>name</key>
-              <string>T_91D1_2FF0</string>
+              <string>T_53E3_2FF0</string>
               <key>transform</key>
               <dict>
                 <key>rotation</key>
