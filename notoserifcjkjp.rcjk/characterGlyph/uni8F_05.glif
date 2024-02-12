@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="uni8F23" format="2">
+<glyph name="uni8F05" format="2">
   <advance width="1000"/>
-  <unicode hex="8F23"/>
+  <unicode hex="8F05"/>
   <outline>
   </outline>
   <lib>
@@ -12,7 +12,7 @@
           <key>coord</key>
           <dict>
             <key>width</key>
-            <integer>397</integer>
+            <integer>427</integer>
           </dict>
           <key>name</key>
           <string>T_2FF0_8ECA</string>
@@ -34,9 +34,39 @@
             <integer>0</integer>
           </dict>
         </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>ML_P_length</key>
+            <integer>-40</integer>
+            <key>T_P_top_moveH</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>564</integer>
+          </dict>
+          <key>name</key>
+          <string>T_2FF0_5404</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>0</integer>
+            <key>y</key>
+            <integer>0</integer>
+          </dict>
+        </dict>
       </array>
       <key>robocjk.status</key>
-      <integer>1</integer>
+      <integer>4</integer>
       <key>robocjk.variationGlyphs</key>
       <array>
         <dict>
@@ -46,10 +76,40 @@
               <key>coord</key>
               <dict>
                 <key>width</key>
-                <integer>397</integer>
+                <integer>437</integer>
               </dict>
               <key>name</key>
               <string>T_2FF0_8ECA</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>0</integer>
+                <key>y</key>
+                <integer>0</integer>
+              </dict>
+            </dict>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>ML_P_length</key>
+                <integer>0</integer>
+                <key>T_P_top_moveH</key>
+                <integer>0</integer>
+                <key>width</key>
+                <integer>564</integer>
+              </dict>
+              <key>name</key>
+              <string>T_2FF0_5404</string>
               <key>transform</key>
               <dict>
                 <key>rotation</key>
