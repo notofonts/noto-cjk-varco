@@ -11,10 +11,18 @@
         <dict>
           <key>coord</key>
           <dict>
+            <key>D_moveH</key>
+            <integer>-12</integer>
+            <key>D_moveV</key>
+            <integer>10</integer>
+            <key>D_width</key>
+            <integer>19</integer>
             <key>H_left_length</key>
+            <integer>-10</integer>
+            <key>H_moveV</key>
             <integer>0</integer>
             <key>width</key>
-            <integer>548</integer>
+            <integer>446</integer>
           </dict>
           <key>name</key>
           <string>T_2FF0_5BF8</string>
@@ -36,9 +44,77 @@
             <integer>0</integer>
           </dict>
         </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>P_height</key>
+            <integer>-12</integer>
+            <key>S_moveH</key>
+            <integer>6</integer>
+            <key>S_top_moveV</key>
+            <integer>5</integer>
+            <key>width</key>
+            <integer>259</integer>
+          </dict>
+          <key>name</key>
+          <string>T_4EBB_2FF0</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>298</integer>
+            <key>y</key>
+            <integer>0</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>H_moveV</key>
+            <integer>0</integer>
+            <key>H_width</key>
+            <integer>12</integer>
+            <key>T_height</key>
+            <integer>20</integer>
+            <key>T_moveV</key>
+            <integer>21</integer>
+            <key>T_width</key>
+            <integer>-18</integer>
+            <key>width</key>
+            <integer>356</integer>
+          </dict>
+          <key>name</key>
+          <string>T_624C_2FF0</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>0</integer>
+            <key>y</key>
+            <integer>0</integer>
+          </dict>
+        </dict>
       </array>
       <key>robocjk.status</key>
-      <integer>1</integer>
+      <integer>4</integer>
       <key>robocjk.variationGlyphs</key>
       <array>
         <dict>
@@ -47,13 +123,87 @@
             <dict>
               <key>coord</key>
               <dict>
+                <key>D_moveH</key>
+                <integer>-10</integer>
+                <key>D_moveV</key>
+                <integer>3</integer>
                 <key>H_left_length</key>
-                <integer>0</integer>
+                <integer>11</integer>
+                <key>H_moveV</key>
+                <integer>9</integer>
                 <key>width</key>
-                <integer>548</integer>
+                <integer>428</integer>
               </dict>
               <key>name</key>
               <string>T_2FF0_5BF8</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>0</integer>
+                <key>y</key>
+                <integer>0</integer>
+              </dict>
+            </dict>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>P_height</key>
+                <integer>0</integer>
+                <key>S_moveH</key>
+                <integer>8</integer>
+                <key>S_top_moveV</key>
+                <integer>-13</integer>
+                <key>width</key>
+                <integer>279</integer>
+              </dict>
+              <key>name</key>
+              <string>T_4EBB_2FF0</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>283</integer>
+                <key>y</key>
+                <integer>0</integer>
+              </dict>
+            </dict>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>H_moveV</key>
+                <integer>0</integer>
+                <key>H_width</key>
+                <integer>-6</integer>
+                <key>T_height</key>
+                <integer>20</integer>
+                <key>T_moveV</key>
+                <integer>21</integer>
+                <key>T_width</key>
+                <integer>-18</integer>
+                <key>width</key>
+                <integer>340</integer>
+              </dict>
+              <key>name</key>
+              <string>T_624C_2FF0</string>
               <key>transform</key>
               <dict>
                 <key>rotation</key>
