@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="uni6CBD" format="2">
+<glyph name="uni5CB5" format="2">
   <advance width="1000"/>
-  <unicode hex="6CBD"/>
+  <unicode hex="5CB5"/>
   <outline>
   </outline>
   <lib>
@@ -12,9 +12,9 @@
           <key>coord</key>
           <dict>
             <key>T_H_left_length</key>
-            <integer>-10</integer>
+            <integer>-5</integer>
             <key>width</key>
-            <integer>635</integer>
+            <integer>535</integer>
           </dict>
           <key>name</key>
           <string>T_2FF0_53E4</string>
@@ -36,9 +36,41 @@
             <integer>0</integer>
           </dict>
         </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>B_H_moveV</key>
+            <integer>0</integer>
+            <key>L_S_bottom_length</key>
+            <integer>0</integer>
+            <key>R_S_bottom_length</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>342</integer>
+          </dict>
+          <key>name</key>
+          <string>T_5C71_2FF0</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>0</integer>
+            <key>y</key>
+            <integer>-1</integer>
+          </dict>
+        </dict>
       </array>
       <key>robocjk.status</key>
-      <integer>1</integer>
+      <integer>4</integer>
       <key>robocjk.variationGlyphs</key>
       <array>
         <dict>
@@ -48,9 +80,9 @@
               <key>coord</key>
               <dict>
                 <key>T_H_left_length</key>
-                <integer>-19</integer>
+                <integer>-7</integer>
                 <key>width</key>
-                <integer>644</integer>
+                <integer>534</integer>
               </dict>
               <key>name</key>
               <string>T_2FF0_53E4</string>
@@ -70,6 +102,38 @@
                 <integer>0</integer>
                 <key>y</key>
                 <integer>0</integer>
+              </dict>
+            </dict>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>B_H_moveV</key>
+                <integer>0</integer>
+                <key>L_S_bottom_length</key>
+                <integer>0</integer>
+                <key>R_S_bottom_length</key>
+                <integer>0</integer>
+                <key>width</key>
+                <integer>356</integer>
+              </dict>
+              <key>name</key>
+              <string>T_5C71_2FF0</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>0</integer>
+                <key>y</key>
+                <integer>-1</integer>
               </dict>
             </dict>
           </array>
