@@ -92,16 +92,6 @@
           <key>name</key>
           <string>L_curveV</string>
         </dict>
-        <dict>
-          <key>defaultValue</key>
-          <integer>0</integer>
-          <key>maxValue</key>
-          <integer>50</integer>
-          <key>minValue</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>L_D_moveV</string>
-        </dict>
       </array>
       <key>robocjk.status</key>
       <integer>0</integer>
@@ -354,21 +344,6 @@
           <true/>
           <key>sourceName</key>
           <string>height=100,weight=180</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
-          <string>L_D_moveV=50</string>
-          <key>location</key>
-          <dict>
-            <key>L_D_moveV</key>
-            <integer>50</integer>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>L_D_moveV=50</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
