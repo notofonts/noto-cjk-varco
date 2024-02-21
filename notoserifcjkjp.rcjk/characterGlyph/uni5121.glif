@@ -41,8 +41,12 @@
         <dict>
           <key>coord</key>
           <dict>
+            <key>BL_S_length</key>
+            <integer>6</integer>
+            <key>BR_S_length</key>
+            <integer>5</integer>
             <key>height</key>
-            <integer>400</integer>
+            <integer>405</integer>
             <key>width</key>
             <integer>516</integer>
           </dict>
@@ -63,20 +67,20 @@
             <key>x</key>
             <integer>220</integer>
             <key>y</key>
-            <integer>468</integer>
+            <integer>463</integer>
           </dict>
         </dict>
         <dict>
           <key>coord</key>
           <dict>
             <key>BL_S_length</key>
-            <integer>10</integer>
+            <integer>6</integer>
             <key>BR_S_length</key>
-            <integer>5</integer>
+            <integer>-5</integer>
             <key>height</key>
             <integer>459</integer>
             <key>width</key>
-            <integer>350</integer>
+            <integer>322</integer>
           </dict>
           <key>name</key>
           <string>VG_7530_00</string>
@@ -102,13 +106,13 @@
           <key>coord</key>
           <dict>
             <key>BL_S_length</key>
-            <integer>10</integer>
+            <integer>1</integer>
             <key>BR_S_length</key>
             <integer>5</integer>
             <key>height</key>
-            <integer>476</integer>
+            <integer>457</integer>
             <key>width</key>
-            <integer>409</integer>
+            <integer>332</integer>
           </dict>
           <key>name</key>
           <string>VG_7530_00</string>
@@ -125,9 +129,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>404</integer>
+            <integer>487</integer>
             <key>y</key>
-            <integer>-8</integer>
+            <integer>-5</integer>
           </dict>
         </dict>
       </array>
@@ -172,15 +176,15 @@
               <key>coord</key>
               <dict>
                 <key>BL_S_length</key>
-                <integer>7</integer>
+                <integer>0</integer>
                 <key>BR_S_length</key>
                 <integer>5</integer>
                 <key>V_weight</key>
                 <integer>14</integer>
                 <key>height</key>
-                <integer>388</integer>
+                <integer>415</integer>
                 <key>width</key>
-                <integer>499</integer>
+                <integer>474</integer>
               </dict>
               <key>name</key>
               <string>VG_7530_00</string>
@@ -197,9 +201,9 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>240</integer>
+                <integer>263</integer>
                 <key>y</key>
-                <integer>481</integer>
+                <integer>462</integer>
               </dict>
             </dict>
             <dict>
@@ -265,7 +269,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>436</integer>
+                <integer>536</integer>
                 <key>y</key>
                 <integer>-4</integer>
               </dict>
