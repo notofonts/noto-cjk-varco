@@ -76,58 +76,6 @@
       <point x="696" y="685"/>
       <point x="699" y="696" type="curve"/>
     </contour>
-    <contour>
-      <point x="90" y="206" type="curve" smooth="yes"/>
-      <point x="79" y="206"/>
-      <point x="47" y="206"/>
-      <point x="47" y="206" type="curve"/>
-      <point x="47" y="183" type="line"/>
-      <point x="68" y="180"/>
-      <point x="82" y="179"/>
-      <point x="95" y="170" type="curve" smooth="yes"/>
-      <point x="114" y="156"/>
-      <point x="121" y="80"/>
-      <point x="109" y="-22" type="curve"/>
-      <point x="108" y="-52"/>
-      <point x="114" y="-73"/>
-      <point x="131" y="-73" type="curve" smooth="yes"/>
-      <point x="158" y="-73"/>
-      <point x="171" y="-49"/>
-      <point x="172" y="-9" type="curve" smooth="yes"/>
-      <point x="176" y="71"/>
-      <point x="155" y="124"/>
-      <point x="154" y="165" type="curve" smooth="yes"/>
-      <point x="154" y="189"/>
-      <point x="160" y="219"/>
-      <point x="168" y="247" type="curve" smooth="yes"/>
-      <point x="180" y="292"/>
-      <point x="258" y="517"/>
-      <point x="298" y="639" type="curve"/>
-      <point x="278" y="644" type="line"/>
-      <point x="127" y="261"/>
-      <point x="127" y="261"/>
-      <point x="111" y="227" type="curve"/>
-      <point x="104" y="207"/>
-      <point x="100" y="206"/>
-    </contour>
-    <contour>
-      <point x="105" y="827" type="curve"/>
-      <point x="95" y="817" type="line"/>
-      <point x="139" y="791"/>
-      <point x="194" y="743"/>
-      <point x="213" y="703" type="curve"/>
-      <point x="272" y="675"/>
-      <point x="295" y="794"/>
-    </contour>
-    <contour>
-      <point x="50" y="586" type="curve"/>
-      <point x="40" y="576" type="line"/>
-      <point x="82" y="555"/>
-      <point x="130" y="511"/>
-      <point x="145" y="474" type="curve"/>
-      <point x="204" y="444"/>
-      <point x="229" y="565"/>
-    </contour>
   </outline>
   <lib>
     <dict>
@@ -171,6 +119,32 @@
             <integer>0</integer>
           </dict>
         </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>width</key>
+            <integer>252</integer>
+          </dict>
+          <key>name</key>
+          <string>T_6C35_2FF0</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>0</integer>
+            <key>y</key>
+            <integer>0</integer>
+          </dict>
+        </dict>
       </array>
       <key>robocjk.status</key>
       <integer>1</integer>
@@ -209,6 +183,32 @@
                 <integer>0</integer>
                 <key>x</key>
                 <integer>240</integer>
+                <key>y</key>
+                <integer>0</integer>
+              </dict>
+            </dict>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>width</key>
+                <integer>252</integer>
+              </dict>
+              <key>name</key>
+              <string>T_6C35_2FF0</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>0</integer>
                 <key>y</key>
                 <integer>0</integer>
               </dict>

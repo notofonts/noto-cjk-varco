@@ -97,58 +97,6 @@
       <point x="331" y="552" type="line"/>
     </contour>
     <contour>
-      <point x="100" y="202" type="curve" smooth="yes"/>
-      <point x="89" y="202"/>
-      <point x="56" y="202"/>
-      <point x="56" y="202" type="curve"/>
-      <point x="56" y="179" type="line"/>
-      <point x="77" y="177"/>
-      <point x="91" y="175"/>
-      <point x="104" y="166" type="curve" smooth="yes"/>
-      <point x="125" y="152"/>
-      <point x="131" y="78"/>
-      <point x="119" y="-24" type="curve"/>
-      <point x="119" y="-53"/>
-      <point x="126" y="-73"/>
-      <point x="142" y="-73" type="curve" smooth="yes"/>
-      <point x="170" y="-73"/>
-      <point x="183" y="-50"/>
-      <point x="185" y="-10" type="curve" smooth="yes"/>
-      <point x="189" y="69"/>
-      <point x="166" y="120"/>
-      <point x="166" y="162" type="curve" smooth="yes"/>
-      <point x="166" y="185"/>
-      <point x="171" y="215"/>
-      <point x="180" y="244" type="curve" smooth="yes"/>
-      <point x="195" y="289"/>
-      <point x="281" y="518"/>
-      <point x="324" y="641" type="curve"/>
-      <point x="304" y="646" type="line"/>
-      <point x="138" y="257"/>
-      <point x="138" y="257"/>
-      <point x="122" y="223" type="curve" smooth="yes"/>
-      <point x="113" y="203"/>
-      <point x="110" y="202"/>
-    </contour>
-    <contour>
-      <point x="101" y="823" type="curve"/>
-      <point x="91" y="813" type="line"/>
-      <point x="136" y="786"/>
-      <point x="192" y="734"/>
-      <point x="211" y="693" type="curve"/>
-      <point x="270" y="663"/>
-      <point x="294" y="783"/>
-    </contour>
-    <contour>
-      <point x="46" y="586" type="curve"/>
-      <point x="37" y="576" type="line"/>
-      <point x="81" y="553"/>
-      <point x="133" y="506"/>
-      <point x="149" y="468" type="curve"/>
-      <point x="208" y="438"/>
-      <point x="231" y="560"/>
-    </contour>
-    <contour>
       <point x="379" y="661" type="line"/>
       <point x="379" y="631" type="line"/>
       <point x="881" y="631" type="line"/>
@@ -190,11 +138,69 @@
   </outline>
   <lib>
     <dict>
+      <key>robocjk.deepComponents</key>
+      <array>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>width</key>
+            <integer>279</integer>
+          </dict>
+          <key>name</key>
+          <string>T_6C35_2FF0</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>0</integer>
+            <key>y</key>
+            <integer>0</integer>
+          </dict>
+        </dict>
+      </array>
       <key>robocjk.status</key>
       <integer>0</integer>
       <key>robocjk.variationGlyphs</key>
       <array>
         <dict>
+          <key>deepComponents</key>
+          <array>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>width</key>
+                <integer>279</integer>
+              </dict>
+              <key>name</key>
+              <string>T_6C35_2FF0</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>0</integer>
+                <key>y</key>
+                <integer>0</integer>
+              </dict>
+            </dict>
+          </array>
           <key>layerName</key>
           <string>wght=1</string>
           <key>location</key>
