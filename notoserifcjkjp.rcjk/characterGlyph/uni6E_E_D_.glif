@@ -109,6 +109,8 @@
         <dict>
           <key>coord</key>
           <dict>
+            <key>BT_end_moveV</key>
+            <integer>10</integer>
             <key>width</key>
             <integer>282</integer>
           </dict>
@@ -134,7 +136,7 @@
         </dict>
       </array>
       <key>robocjk.status</key>
-      <integer>0</integer>
+      <integer>1</integer>
       <key>robocjk.variationGlyphs</key>
       <array>
         <dict>
@@ -143,8 +145,10 @@
             <dict>
               <key>coord</key>
               <dict>
+                <key>BT_end_moveV</key>
+                <integer>-2</integer>
                 <key>width</key>
-                <integer>282</integer>
+                <integer>292</integer>
               </dict>
               <key>name</key>
               <string>T_6C35_2FF0</string>
@@ -179,7 +183,7 @@
           <key>sourceName</key>
           <string>wght=1</string>
           <key>status</key>
-          <integer>0</integer>
+          <integer>1</integer>
         </dict>
       </array>
     </dict>
