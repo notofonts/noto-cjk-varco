@@ -4,11 +4,6 @@
   <unicode hex="6F30"/>
   <outline>
     <contour>
-      <point x="95" y="206" type="curve" smooth="yes"/>
-      <point x="84" y="206"/>
-      <point x="-58.136075921713854" y="-675.5443036868554"/>
-    </contour>
-    <contour>
       <point x="333" y="804" type="line"/>
       <point x="333" y="575" type="line"/>
       <point x="342" y="575" type="line" smooth="yes"/>
@@ -210,7 +205,7 @@
         </dict>
       </array>
       <key>robocjk.status</key>
-      <integer>0</integer>
+      <integer>1</integer>
       <key>robocjk.variationGlyphs</key>
       <array>
         <dict>
@@ -219,6 +214,10 @@
             <dict>
               <key>coord</key>
               <dict>
+                <key>BT_end_moveH</key>
+                <integer>20</integer>
+                <key>BT_end_moveV</key>
+                <integer>50</integer>
                 <key>width</key>
                 <integer>251</integer>
               </dict>
@@ -255,7 +254,7 @@
           <key>sourceName</key>
           <string>wght=1</string>
           <key>status</key>
-          <integer>0</integer>
+          <integer>1</integer>
         </dict>
       </array>
     </dict>

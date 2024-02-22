@@ -33,7 +33,7 @@
           <key>maxValue</key>
           <integer>80</integer>
           <key>minValue</key>
-          <integer>-100</integer>
+          <integer>-120</integer>
           <key>name</key>
           <string>BT_end_moveV</string>
         </dict>
@@ -836,7 +836,7 @@
                 <key>R_end_moveH</key>
                 <integer>-135</integer>
                 <key>R_end_moveV</key>
-                <integer>-181</integer>
+                <integer>-200</integer>
                 <key>weight</key>
                 <integer>70</integer>
               </dict>
@@ -942,12 +942,12 @@
           <key>location</key>
           <dict>
             <key>BT_end_moveV</key>
-            <integer>-100</integer>
+            <integer>-120</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>BT_end_moveV=-100</string>
+          <string>BT_end_moveV=-120</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
