@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="uni5F81" format="2">
+<glyph name="uni9266" format="2">
   <advance width="1000"/>
-  <unicode hex="5F81"/>
+  <unicode hex="9266"/>
   <outline>
   </outline>
   <lib>
@@ -11,13 +11,17 @@
         <dict>
           <key>coord</key>
           <dict>
-            <key>S_moveH</key>
+            <key>BT_right_moveH</key>
             <integer>0</integer>
+            <key>BT_right_moveV</key>
+            <integer>0</integer>
+            <key>TR_D_length</key>
+            <integer>20</integer>
             <key>width</key>
-            <integer>316</integer>
+            <integer>423</integer>
           </dict>
           <key>name</key>
-          <string>T_5F73_2FF0</string>
+          <string>T_91D1_2FF0</string>
           <key>transform</key>
           <dict>
             <key>rotation</key>
@@ -42,7 +46,7 @@
             <key>T_H_left_length</key>
             <integer>0</integer>
             <key>width</key>
-            <integer>674</integer>
+            <integer>565</integer>
           </dict>
           <key>name</key>
           <string>T_2FF0_6B63</string>
@@ -75,13 +79,17 @@
             <dict>
               <key>coord</key>
               <dict>
-                <key>S_moveH</key>
-                <integer>-2</integer>
+                <key>BT_right_moveH</key>
+                <integer>0</integer>
+                <key>BT_right_moveV</key>
+                <integer>0</integer>
+                <key>TR_D_length</key>
+                <integer>20</integer>
                 <key>width</key>
-                <integer>316</integer>
+                <integer>433</integer>
               </dict>
               <key>name</key>
-              <string>T_5F73_2FF0</string>
+              <string>T_91D1_2FF0</string>
               <key>transform</key>
               <dict>
                 <key>rotation</key>
@@ -106,7 +114,7 @@
                 <key>T_H_left_length</key>
                 <integer>0</integer>
                 <key>width</key>
-                <integer>685</integer>
+                <integer>565</integer>
               </dict>
               <key>name</key>
               <string>T_2FF0_6B63</string>
@@ -141,7 +149,7 @@
           <key>sourceName</key>
           <string>wght=1</string>
           <key>status</key>
-          <integer>0</integer>
+          <integer>4</integer>
         </dict>
       </array>
     </dict>
