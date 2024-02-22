@@ -61,6 +61,46 @@
           <key>name</key>
           <string>R_end_moveH</string>
         </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>0</integer>
+          <key>minValue</key>
+          <integer>-200</integer>
+          <key>name</key>
+          <string>R_end_moveV</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>B_moveV</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>30</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>L_end_moveH</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>0</integer>
+          <key>minValue</key>
+          <integer>-30</integer>
+          <key>name</key>
+          <string>B_weight</string>
+        </dict>
       </array>
       <key>robocjk.status</key>
       <integer>0</integer>
@@ -93,6 +133,83 @@
           <true/>
           <key>sourceName</key>
           <string>R_end_moveH=-200</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>R_end_moveV=-200</string>
+          <key>location</key>
+          <dict>
+            <key>R_end_moveV</key>
+            <integer>-200</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>R_end_moveV=-200</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>R_end_moveH=-200,R_end_moveV=-200</string>
+          <key>location</key>
+          <dict>
+            <key>R_end_moveH</key>
+            <integer>-200</integer>
+            <key>R_end_moveV</key>
+            <integer>-200</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>R_end_moveH=-200,R_end_moveV=-200</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>B_moveV=100</string>
+          <key>location</key>
+          <dict>
+            <key>B_moveV</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>B_moveV=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>B_weight=-30</string>
+          <key>location</key>
+          <dict>
+            <key>B_weight</key>
+            <integer>-30</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>B_weight=-30</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>L_end_moveH=30</string>
+          <key>location</key>
+          <dict>
+            <key>L_end_moveH</key>
+            <integer>30</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>L_end_moveH=30</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
