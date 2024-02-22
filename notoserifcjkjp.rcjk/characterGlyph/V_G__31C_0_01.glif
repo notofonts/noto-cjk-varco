@@ -213,6 +213,59 @@
           <key>status</key>
           <integer>0</integer>
         </dict>
+        <dict>
+          <key>layerName</key>
+          <string>weight=170,R_end_moveH=-200</string>
+          <key>location</key>
+          <dict>
+            <key>R_end_moveH</key>
+            <integer>-200</integer>
+            <key>weight</key>
+            <integer>170</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>weight=170,R_end_moveH=-200</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>weight=170,R_end_moveV=-200</string>
+          <key>location</key>
+          <dict>
+            <key>R_end_moveV</key>
+            <integer>-200</integer>
+            <key>weight</key>
+            <integer>170</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>weight=170,R_end_moveV=-200</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>weight=170,R_end_moveH=-200,R_end_moveV=-200</string>
+          <key>location</key>
+          <dict>
+            <key>R_end_moveH</key>
+            <integer>-200</integer>
+            <key>R_end_moveV</key>
+            <integer>-200</integer>
+            <key>weight</key>
+            <integer>170</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>weight=170,R_end_moveH=-200,R_end_moveV=-200</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
       </array>
     </dict>
   </lib>
