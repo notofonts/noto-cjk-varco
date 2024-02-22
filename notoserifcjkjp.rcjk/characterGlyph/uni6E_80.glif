@@ -138,6 +138,8 @@
         <dict>
           <key>coord</key>
           <dict>
+            <key>BT_end_moveV</key>
+            <integer>10</integer>
             <key>width</key>
             <integer>277</integer>
           </dict>
@@ -206,8 +208,12 @@
             <dict>
               <key>coord</key>
               <dict>
+                <key>BT_end_moveH</key>
+                <integer>-10</integer>
+                <key>BT_end_moveV</key>
+                <integer>-15</integer>
                 <key>width</key>
-                <integer>277</integer>
+                <integer>267</integer>
               </dict>
               <key>name</key>
               <string>T_6C35_2FF0</string>
