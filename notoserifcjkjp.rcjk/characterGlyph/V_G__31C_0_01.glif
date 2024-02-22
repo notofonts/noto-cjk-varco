@@ -101,6 +101,16 @@
           <key>name</key>
           <string>B_weight</string>
         </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>50</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>L_end_moveV</string>
+        </dict>
       </array>
       <key>robocjk.status</key>
       <integer>0</integer>
@@ -215,7 +225,7 @@
         </dict>
         <dict>
           <key>layerName</key>
-          <string></string>
+          <string>weight=170,R_end_moveH=-230</string>
           <key>location</key>
           <dict>
             <key>R_end_moveH</key>
@@ -249,11 +259,11 @@
         </dict>
         <dict>
           <key>layerName</key>
-          <string>weight=170,R_end_moveH=-200,R_end_moveV=-200</string>
+          <string>weight=170,R_end_moveH=-230,R_end_moveV=-200</string>
           <key>location</key>
           <dict>
             <key>R_end_moveH</key>
-            <integer>-200</integer>
+            <integer>-230</integer>
             <key>R_end_moveV</key>
             <integer>-200</integer>
             <key>weight</key>
@@ -262,7 +272,22 @@
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>weight=170,R_end_moveH=-200,R_end_moveV=-200</string>
+          <string>weight=170,R_end_moveH=-230,R_end_moveV=-200</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>L_end_moveV=50</string>
+          <key>location</key>
+          <dict>
+            <key>L_end_moveV</key>
+            <integer>50</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>L_end_moveV=50</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
