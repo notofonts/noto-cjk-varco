@@ -283,22 +283,26 @@
         <dict>
           <key>coord</key>
           <dict>
+            <key>B_moveH</key>
+            <integer>10</integer>
+            <key>B_moveV</key>
+            <integer>-4</integer>
             <key>L_curveH</key>
-            <integer>29</integer>
+            <integer>9</integer>
             <key>L_curveV</key>
-            <integer>29</integer>
+            <integer>11</integer>
             <key>R_curveH</key>
-            <integer>36</integer>
+            <integer>14</integer>
             <key>R_curveV</key>
-            <integer>20</integer>
+            <integer>3</integer>
             <key>T_weight</key>
             <integer>2</integer>
             <key>height</key>
-            <integer>774</integer>
+            <integer>790</integer>
             <key>weight</key>
             <integer>62</integer>
             <key>width</key>
-            <integer>345</integer>
+            <integer>359</integer>
           </dict>
           <key>name</key>
           <string>VG_31CF_00</string>
@@ -324,19 +328,19 @@
           <key>coord</key>
           <dict>
             <key>H_length</key>
-            <integer>313</integer>
+            <integer>308</integer>
             <key>curveH</key>
-            <integer>12</integer>
+            <integer>3</integer>
             <key>curveV</key>
-            <integer>22</integer>
+            <integer>12</integer>
             <key>height</key>
-            <integer>824</integer>
+            <integer>829</integer>
             <key>serif_size</key>
             <integer>-4</integer>
             <key>weight</key>
             <integer>54</integer>
             <key>width</key>
-            <integer>473</integer>
+            <integer>468</integer>
           </dict>
           <key>name</key>
           <string>VG_4E5B_01</string>
@@ -355,7 +359,7 @@
             <key>x</key>
             <integer>10</integer>
             <key>y</key>
-            <integer>-80</integer>
+            <integer>-82</integer>
           </dict>
         </dict>
       </array>
@@ -522,17 +526,17 @@
               <key>coord</key>
               <dict>
                 <key>B_moveH</key>
-                <integer>-13</integer>
+                <integer>27</integer>
                 <key>B_moveV</key>
-                <integer>10</integer>
+                <integer>0</integer>
                 <key>L_curveH</key>
-                <integer>16</integer>
+                <integer>0</integer>
                 <key>L_curveV</key>
                 <integer>0</integer>
                 <key>R_curveH</key>
-                <integer>16</integer>
+                <integer>5</integer>
                 <key>R_curveV</key>
-                <integer>20</integer>
+                <integer>0</integer>
                 <key>height</key>
                 <integer>819</integer>
                 <key>weight</key>
@@ -555,7 +559,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>364</integer>
+                <integer>363</integer>
                 <key>y</key>
                 <integer>0</integer>
               </dict>
@@ -564,7 +568,7 @@
               <key>coord</key>
               <dict>
                 <key>H_length</key>
-                <integer>294</integer>
+                <integer>285</integer>
                 <key>H_weight</key>
                 <integer>-2</integer>
                 <key>curveH</key>
@@ -572,11 +576,13 @@
                 <key>curveV</key>
                 <integer>6</integer>
                 <key>height</key>
-                <integer>856</integer>
+                <integer>853</integer>
+                <key>serif_size</key>
+                <integer>-4</integer>
                 <key>weight</key>
-                <integer>159</integer>
+                <integer>149</integer>
                 <key>width</key>
-                <integer>435</integer>
+                <integer>428</integer>
               </dict>
               <key>name</key>
               <string>VG_4E5B_01</string>
@@ -593,9 +599,9 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>-8</integer>
+                <integer>-17</integer>
                 <key>y</key>
-                <integer>-75</integer>
+                <integer>-76</integer>
               </dict>
             </dict>
           </array>
