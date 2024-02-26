@@ -103,58 +103,6 @@
       <point x="654" y="437" type="line"/>
     </contour>
     <contour>
-      <point x="101" y="162" type="curve" smooth="yes"/>
-      <point x="90" y="162"/>
-      <point x="56" y="162"/>
-      <point x="56" y="162" type="curve"/>
-      <point x="56" y="138" type="line"/>
-      <point x="76" y="137"/>
-      <point x="90" y="135"/>
-      <point x="102" y="126" type="curve"/>
-      <point x="122" y="114"/>
-      <point x="128" y="58"/>
-      <point x="118" y="-31" type="curve"/>
-      <point x="118" y="-57"/>
-      <point x="125" y="-73"/>
-      <point x="139" y="-73" type="curve" smooth="yes"/>
-      <point x="164" y="-73"/>
-      <point x="176" y="-52"/>
-      <point x="178" y="-18" type="curve" smooth="yes"/>
-      <point x="181" y="46"/>
-      <point x="162" y="89"/>
-      <point x="162" y="123" type="curve" smooth="yes"/>
-      <point x="161" y="146"/>
-      <point x="169" y="172"/>
-      <point x="178" y="200" type="curve"/>
-      <point x="192" y="237"/>
-      <point x="281" y="436"/>
-      <point x="320" y="534" type="curve"/>
-      <point x="302" y="540" type="line"/>
-      <point x="139" y="211"/>
-      <point x="139" y="211"/>
-      <point x="122" y="180" type="curve" smooth="yes"/>
-      <point x="113" y="162"/>
-      <point x="110" y="162"/>
-    </contour>
-    <contour>
-      <point x="120" y="637" type="curve"/>
-      <point x="110" y="628" type="line"/>
-      <point x="154" y="604"/>
-      <point x="205" y="557"/>
-      <point x="219" y="517" type="curve"/>
-      <point x="271" y="489"/>
-      <point x="294" y="599"/>
-    </contour>
-    <contour>
-      <point x="50" y="481" type="curve"/>
-      <point x="40" y="470" type="line"/>
-      <point x="86" y="448"/>
-      <point x="138" y="403"/>
-      <point x="153" y="364" type="curve"/>
-      <point x="206" y="335"/>
-      <point x="225" y="450"/>
-    </contour>
-    <contour>
       <point x="267" y="183" type="line"/>
       <point x="276" y="154" type="line"/>
       <point x="935" y="154" type="line" smooth="yes"/>
@@ -239,6 +187,38 @@
             <integer>5</integer>
           </dict>
         </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>BT_end_moveH</key>
+            <integer>-10</integer>
+            <key>BT_end_moveV</key>
+            <integer>40</integer>
+            <key>height</key>
+            <real>703.46</real>
+            <key>width</key>
+            <integer>273</integer>
+          </dict>
+          <key>name</key>
+          <string>T_6C35_2FF0</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>-4</integer>
+            <key>y</key>
+            <integer>-199</integer>
+          </dict>
+        </dict>
       </array>
       <key>robocjk.status</key>
       <integer>1</integer>
@@ -277,6 +257,38 @@
                 <integer>0</integer>
                 <key>y</key>
                 <integer>0</integer>
+              </dict>
+            </dict>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>BT_end_moveH</key>
+                <integer>-26</integer>
+                <key>BT_end_moveV</key>
+                <integer>3</integer>
+                <key>height</key>
+                <real>692.46</real>
+                <key>width</key>
+                <integer>288</integer>
+              </dict>
+              <key>name</key>
+              <string>T_6C35_2FF0</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>-4</integer>
+                <key>y</key>
+                <integer>-209</integer>
               </dict>
             </dict>
           </array>
