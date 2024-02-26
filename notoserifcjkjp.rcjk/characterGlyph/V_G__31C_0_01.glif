@@ -155,7 +155,7 @@
             <integer>-200</integer>
           </dict>
           <key>on</key>
-          <true/>
+          <false/>
           <key>sourceName</key>
           <string>R_end_moveV=-200</string>
           <key>status</key>
@@ -172,7 +172,7 @@
             <integer>-200</integer>
           </dict>
           <key>on</key>
-          <true/>
+          <false/>
           <key>sourceName</key>
           <string>R_end_moveH=-230,R_end_moveV=-200</string>
           <key>status</key>
@@ -251,7 +251,7 @@
             <integer>170</integer>
           </dict>
           <key>on</key>
-          <true/>
+          <false/>
           <key>sourceName</key>
           <string>weight=170,R_end_moveV=-200</string>
           <key>status</key>
@@ -270,7 +270,7 @@
             <integer>170</integer>
           </dict>
           <key>on</key>
-          <true/>
+          <false/>
           <key>sourceName</key>
           <string>weight=170,R_end_moveH=-230,R_end_moveV=-200</string>
           <key>status</key>
@@ -310,105 +310,86 @@
         </dict>
         <dict>
           <key>layerName</key>
-          <string>R_end_moveV=-200,B_moveV=100</string>
+          <string>R_end_moveV=-260</string>
+          <key>location</key>
+          <dict>
+            <key>R_end_moveV</key>
+            <integer>-260</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>R_end_moveV=-260</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>R_end_moveH=-230,R_end_moveV=-260</string>
+          <key>location</key>
+          <dict>
+            <key>R_end_moveH</key>
+            <integer>-230</integer>
+            <key>R_end_moveV</key>
+            <integer>-260</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>R_end_moveH=-230,R_end_moveV=-260</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>weight=170,R_end_moveV=-260</string>
+          <key>location</key>
+          <dict>
+            <key>R_end_moveV</key>
+            <integer>-260</integer>
+            <key>weight</key>
+            <integer>170</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>weight=170,R_end_moveV=-260</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>weight=170,R_end_moveH=-230,R_end_moveV=-260</string>
+          <key>location</key>
+          <dict>
+            <key>R_end_moveH</key>
+            <integer>-230</integer>
+            <key>R_end_moveV</key>
+            <integer>-260</integer>
+            <key>weight</key>
+            <integer>170</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>weight=170,R_end_moveH=-230,R_end_moveV=-260</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>R_end_moveV=-260,B_moveV=100</string>
           <key>location</key>
           <dict>
             <key>B_moveV</key>
             <integer>100</integer>
             <key>R_end_moveV</key>
-            <integer>-200</integer>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>R_end_moveV=-200,B_moveV=100</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
-          <string>R_end_moveV=-260</string>
-          <key>location</key>
-          <dict>
-            <key>R_end_moveV</key>
             <integer>-260</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>R_end_moveV=-260</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
-          <string>R_end_moveH=-230,R_end_moveV=-260</string>
-          <key>location</key>
-          <dict>
-            <key>R_end_moveH</key>
-            <integer>-230</integer>
-            <key>R_end_moveV</key>
-            <integer>-260</integer>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>R_end_moveH=-230,R_end_moveV=-260</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
-          <string>weight=170,R_end_moveV=-260</string>
-          <key>location</key>
-          <dict>
-            <key>R_end_moveV</key>
-            <integer>-260</integer>
-            <key>weight</key>
-            <integer>170</integer>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>weight=170,R_end_moveV=-260</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
-          <string>wght=1,weight=170,R_end_moveV=-260</string>
-          <key>location</key>
-          <dict>
-            <key>R_end_moveV</key>
-            <integer>-260</integer>
-            <key>weight</key>
-            <integer>170</integer>
-            <key>wght</key>
-            <integer>1</integer>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>wght=1,weight=170,R_end_moveV=-260</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
-          <string>weight=170,R_end_moveH=-230,R_end_moveV=-260</string>
-          <key>location</key>
-          <dict>
-            <key>R_end_moveH</key>
-            <integer>-230</integer>
-            <key>R_end_moveV</key>
-            <integer>-260</integer>
-            <key>weight</key>
-            <integer>170</integer>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>weight=170,R_end_moveH=-230,R_end_moveV=-260</string>
+          <string>R_end_moveV=-260,B_moveV=100</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
