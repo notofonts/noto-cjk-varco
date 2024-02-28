@@ -11,8 +11,10 @@
         <dict>
           <key>coord</key>
           <dict>
+            <key>T_H_left_length</key>
+            <integer>10</integer>
             <key>width</key>
-            <integer>593</integer>
+            <integer>662</integer>
           </dict>
           <key>name</key>
           <string>T_2FF0_672A</string>
@@ -34,9 +36,37 @@
             <integer>0</integer>
           </dict>
         </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>D_end_moveH</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>399</integer>
+          </dict>
+          <key>name</key>
+          <string>T_79BE_2FF0</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>0</integer>
+            <key>y</key>
+            <integer>0</integer>
+          </dict>
+        </dict>
       </array>
       <key>robocjk.status</key>
-      <integer>1</integer>
+      <integer>4</integer>
       <key>robocjk.variationGlyphs</key>
       <array>
         <dict>
@@ -46,10 +76,38 @@
               <key>coord</key>
               <dict>
                 <key>width</key>
-                <integer>593</integer>
+                <integer>653</integer>
               </dict>
               <key>name</key>
               <string>T_2FF0_672A</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>0</integer>
+                <key>y</key>
+                <integer>0</integer>
+              </dict>
+            </dict>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>D_end_moveH</key>
+                <integer>11</integer>
+                <key>width</key>
+                <integer>398</integer>
+              </dict>
+              <key>name</key>
+              <string>T_79BE_2FF0</string>
               <key>transform</key>
               <dict>
                 <key>rotation</key>
