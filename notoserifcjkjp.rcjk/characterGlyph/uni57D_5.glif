@@ -3,46 +3,6 @@
   <advance width="1000"/>
   <unicode hex="57D5"/>
   <outline>
-    <contour>
-      <point x="44" y="545" type="line"/>
-      <point x="52" y="515" type="line"/>
-      <point x="354" y="515" type="line" smooth="yes"/>
-      <point x="368" y="515"/>
-      <point x="377" y="520"/>
-      <point x="379" y="531" type="curve"/>
-      <point x="352" y="558"/>
-      <point x="306" y="593"/>
-      <point x="306" y="593" type="curve"/>
-      <point x="268" y="545" type="line"/>
-    </contour>
-    <contour>
-      <point x="177" y="800" type="line"/>
-      <point x="177" y="151" type="line"/>
-      <point x="222" y="165" type="line"/>
-      <point x="222" y="763" type="line"/>
-      <point x="246" y="766"/>
-      <point x="255" y="776"/>
-      <point x="258" y="790" type="curve"/>
-    </contour>
-    <contour>
-      <point x="36" y="120" type="curve"/>
-      <point x="75" y="57" type="line"/>
-      <point x="84" y="61"/>
-      <point x="91" y="71"/>
-      <point x="93" y="83" type="curve"/>
-      <point x="223" y="150"/>
-      <point x="324" y="207"/>
-      <point x="397" y="247" type="curve"/>
-      <point x="391" y="262" type="line"/>
-      <point x="242" y="200"/>
-      <point x="96" y="139"/>
-    </contour>
-    <contour>
-      <point x="630" y="357" type="line"/>
-      <point x="630" y="-23" type="line"/>
-      <point x="674" y="-23" type="line"/>
-      <point x="674" y="357" type="line"/>
-    </contour>
   </outline>
   <lib>
     <dict>
@@ -74,9 +34,41 @@
             <integer>0</integer>
           </dict>
         </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>B_T_moveV</key>
+            <integer>0</integer>
+            <key>B_T_right_length</key>
+            <integer>15</integer>
+            <key>height</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>341</integer>
+          </dict>
+          <key>name</key>
+          <string>T_571F_2FF0</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>0</integer>
+            <key>y</key>
+            <integer>0</integer>
+          </dict>
+        </dict>
       </array>
       <key>robocjk.status</key>
-      <integer>1</integer>
+      <integer>4</integer>
       <key>robocjk.variationGlyphs</key>
       <array>
         <dict>
@@ -108,9 +100,41 @@
                 <integer>0</integer>
               </dict>
             </dict>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>B_T_moveV</key>
+                <integer>0</integer>
+                <key>B_T_right_length</key>
+                <integer>25</integer>
+                <key>height</key>
+                <integer>0</integer>
+                <key>width</key>
+                <integer>358</integer>
+              </dict>
+              <key>name</key>
+              <string>T_571F_2FF0</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>0</integer>
+                <key>y</key>
+                <integer>-6</integer>
+              </dict>
+            </dict>
           </array>
           <key>layerName</key>
-          <string>wght=1</string>
+          <string></string>
           <key>location</key>
           <dict>
             <key>wght</key>
