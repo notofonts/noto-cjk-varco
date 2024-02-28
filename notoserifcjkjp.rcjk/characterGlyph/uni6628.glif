@@ -11,8 +11,14 @@
         <dict>
           <key>coord</key>
           <dict>
+            <key>P_height</key>
+            <integer>-30</integer>
+            <key>P_moveH</key>
+            <integer>-25</integer>
+            <key>P_width</key>
+            <integer>-30</integer>
             <key>width</key>
-            <integer>671</integer>
+            <integer>621</integer>
           </dict>
           <key>name</key>
           <string>T_2FF0_4E4D</string>
@@ -34,6 +40,32 @@
             <integer>0</integer>
           </dict>
         </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>width</key>
+            <integer>295</integer>
+          </dict>
+          <key>name</key>
+          <string>T_65E5_2FF0</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>0</integer>
+            <key>y</key>
+            <integer>-22</integer>
+          </dict>
+        </dict>
       </array>
       <key>robocjk.status</key>
       <integer>4</integer>
@@ -45,8 +77,12 @@
             <dict>
               <key>coord</key>
               <dict>
+                <key>P_moveH</key>
+                <integer>-20</integer>
+                <key>P_width</key>
+                <integer>-19</integer>
                 <key>width</key>
-                <integer>671</integer>
+                <integer>591</integer>
               </dict>
               <key>name</key>
               <string>T_2FF0_4E4D</string>
@@ -66,6 +102,32 @@
                 <integer>0</integer>
                 <key>y</key>
                 <integer>0</integer>
+              </dict>
+            </dict>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>width</key>
+                <integer>315</integer>
+              </dict>
+              <key>name</key>
+              <string>T_65E5_2FF0</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>0</integer>
+                <key>y</key>
+                <integer>-22</integer>
               </dict>
             </dict>
           </array>
