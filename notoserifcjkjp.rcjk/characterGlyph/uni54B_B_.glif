@@ -45,6 +45,10 @@
         <dict>
           <key>coord</key>
           <dict>
+            <key>H_left_length</key>
+            <integer>38</integer>
+            <key>P_bottom_moveH</key>
+            <integer>45</integer>
             <key>width</key>
             <integer>538</integer>
           </dict>
@@ -143,6 +147,8 @@
             <dict>
               <key>coord</key>
               <dict>
+                <key>P_bottom_moveH</key>
+                <integer>80</integer>
                 <key>width</key>
                 <integer>557</integer>
               </dict>
@@ -169,12 +175,14 @@
             <dict>
               <key>coord</key>
               <dict>
+                <key>P_height</key>
+                <integer>20</integer>
                 <key>S_moveH</key>
-                <integer>0</integer>
+                <integer>-10</integer>
                 <key>S_top_moveV</key>
-                <integer>0</integer>
+                <integer>-20</integer>
                 <key>width</key>
-                <integer>232</integer>
+                <integer>242</integer>
               </dict>
               <key>name</key>
               <string>T_4EBB_2FF0</string>
@@ -191,7 +199,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>274</integer>
+                <integer>304</integer>
                 <key>y</key>
                 <integer>0</integer>
               </dict>
