@@ -12,15 +12,17 @@
           <key>coord</key>
           <dict>
             <key>D_moveH</key>
-            <integer>-9</integer>
+            <integer>11</integer>
             <key>D_moveV</key>
-            <integer>10</integer>
+            <integer>20</integer>
             <key>D_width</key>
             <integer>10</integer>
             <key>H_left_length</key>
             <integer>0</integer>
+            <key>H_moveV</key>
+            <integer>24</integer>
             <key>width</key>
-            <integer>448</integer>
+            <integer>444</integer>
           </dict>
           <key>name</key>
           <string>T_2FF0_5BF8</string>
@@ -48,9 +50,9 @@
             <key>S_moveH</key>
             <integer>12</integer>
             <key>S_top_moveV</key>
-            <integer>-1</integer>
+            <integer>19</integer>
             <key>width</key>
-            <integer>279</integer>
+            <integer>309</integer>
           </dict>
           <key>name</key>
           <string>T_4EBB_2FF0</string>
@@ -67,7 +69,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>264</integer>
+            <integer>234</integer>
             <key>y</key>
             <integer>0</integer>
           </dict>
@@ -120,11 +122,11 @@
                 <key>D_moveH</key>
                 <integer>3</integer>
                 <key>D_moveV</key>
-                <integer>0</integer>
+                <integer>23</integer>
                 <key>H_left_length</key>
-                <integer>-20</integer>
+                <integer>-4</integer>
                 <key>H_moveV</key>
-                <integer>18</integer>
+                <integer>44</integer>
                 <key>width</key>
                 <integer>441</integer>
               </dict>
@@ -151,10 +153,12 @@
             <dict>
               <key>coord</key>
               <dict>
+                <key>P_height</key>
+                <integer>-80</integer>
                 <key>S_moveH</key>
-                <integer>1</integer>
+                <integer>-9</integer>
                 <key>S_top_moveV</key>
-                <integer>-11</integer>
+                <integer>9</integer>
                 <key>width</key>
                 <integer>279</integer>
               </dict>
@@ -173,7 +177,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>297</integer>
+                <integer>309</integer>
                 <key>y</key>
                 <integer>0</integer>
               </dict>
