@@ -3,32 +3,110 @@
   <advance width="1000"/>
   <unicode hex="53E3"/>
   <outline>
-    <contour>
-      <point x="148" y="719" type="line"/>
-      <point x="148" y="-41" type="line"/>
-      <point x="178" y="-41" type="line"/>
-      <point x="178" y="690" type="line"/>
-      <point x="827" y="690" type="line"/>
-      <point x="827" y="-33" type="line"/>
-      <point x="857" y="-33" type="line"/>
-      <point x="857" y="719" type="line"/>
-    </contour>
-    <contour>
-      <point x="158" y="79" type="line"/>
-      <point x="158" y="49" type="line"/>
-      <point x="856" y="49" type="line"/>
-      <point x="856" y="79" type="line"/>
-    </contour>
   </outline>
   <lib>
     <dict>
+      <key>robocjk.deepComponents</key>
+      <array>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>B_H_moveV</key>
+            <integer>0</integer>
+            <key>B_H_weight</key>
+            <integer>1</integer>
+            <key>L_S_bottom_length</key>
+            <integer>90</integer>
+            <key>L_S_weight</key>
+            <integer>0</integer>
+            <key>R_S_bottom_length</key>
+            <integer>82</integer>
+            <key>R_S_weight</key>
+            <integer>0</integer>
+            <key>T_H_weight</key>
+            <integer>0</integer>
+            <key>height</key>
+            <integer>670</integer>
+            <key>weight</key>
+            <integer>30</integer>
+            <key>width</key>
+            <integer>709</integer>
+          </dict>
+          <key>name</key>
+          <string>VG_53E3_00</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>148</integer>
+            <key>y</key>
+            <integer>-161</integer>
+          </dict>
+        </dict>
+      </array>
       <key>robocjk.status</key>
-      <integer>0</integer>
+      <integer>4</integer>
       <key>robocjk.variationGlyphs</key>
       <array>
         <dict>
+          <key>deepComponents</key>
+          <array>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>B_H_moveV</key>
+                <integer>0</integer>
+                <key>B_H_weight</key>
+                <integer>1</integer>
+                <key>L_S_bottom_length</key>
+                <integer>79</integer>
+                <key>L_S_weight</key>
+                <integer>-8</integer>
+                <key>R_S_bottom_length</key>
+                <integer>79</integer>
+                <key>R_S_weight</key>
+                <integer>0</integer>
+                <key>T_H_weight</key>
+                <integer>-1</integer>
+                <key>height</key>
+                <integer>760</integer>
+                <key>weight</key>
+                <integer>160</integer>
+                <key>width</key>
+                <integer>813</integer>
+              </dict>
+              <key>name</key>
+              <string>VG_53E3_00</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>94</integer>
+                <key>y</key>
+                <integer>-119</integer>
+              </dict>
+            </dict>
+          </array>
           <key>layerName</key>
-          <string>wght=1</string>
+          <string></string>
           <key>location</key>
           <dict>
             <key>wght</key>
@@ -39,7 +117,7 @@
           <key>sourceName</key>
           <string>wght=1</string>
           <key>status</key>
-          <integer>0</integer>
+          <integer>4</integer>
         </dict>
       </array>
     </dict>
