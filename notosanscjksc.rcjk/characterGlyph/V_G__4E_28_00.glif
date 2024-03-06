@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="VG_4E00_00" format="2">
+<glyph name="VG_4E28_00" format="2">
   <advance width="1000"/>
   <outline>
     <contour>
-      <point x="0" y="390" type="line"/>
-      <point x="0" y="380" type="line"/>
-      <point x="1000" y="380" type="line"/>
-      <point x="1000" y="390" type="line"/>
+      <point x="500" y="880" type="line"/>
+      <point x="500" y="-120" type="line"/>
+      <point x="510" y="-120" type="line"/>
+      <point x="510" y="880" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -31,7 +31,7 @@
           <key>minValue</key>
           <integer>10</integer>
           <key>name</key>
-          <string>width</string>
+          <string>height</string>
         </dict>
       </array>
       <key>robocjk.status</key>
@@ -55,16 +55,16 @@
         </dict>
         <dict>
           <key>layerName</key>
-          <string>width=10</string>
+          <string>height=10</string>
           <key>location</key>
           <dict>
-            <key>width</key>
+            <key>height</key>
             <integer>10</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>width=10</string>
+          <string>height=10</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
