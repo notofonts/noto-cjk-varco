@@ -3,38 +3,102 @@
   <advance width="1000"/>
   <unicode hex="65E5"/>
   <outline>
-    <contour>
-      <point x="199" y="755" type="line"/>
-      <point x="199" y="-60" type="line"/>
-      <point x="229" y="-60" type="line"/>
-      <point x="229" y="725" type="line"/>
-      <point x="782" y="725" type="line"/>
-      <point x="782" y="-52" type="line"/>
-      <point x="812" y="-52" type="line"/>
-      <point x="812" y="755" type="line"/>
-    </contour>
-    <contour>
-      <point x="217" y="398" type="line"/>
-      <point x="217" y="369" type="line"/>
-      <point x="795" y="369" type="line"/>
-      <point x="795" y="398" type="line"/>
-    </contour>
-    <contour>
-      <point x="215" y="34" type="line"/>
-      <point x="215" y="5" type="line"/>
-      <point x="798" y="5" type="line"/>
-      <point x="798" y="34" type="line"/>
-    </contour>
   </outline>
   <lib>
     <dict>
+      <key>robocjk.deepComponents</key>
+      <array>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>H_weight</key>
+            <integer>0</integer>
+            <key>L_S_bottom_length</key>
+            <integer>65</integer>
+            <key>M_H_moveV</key>
+            <integer>3</integer>
+            <key>M_H_weight</key>
+            <integer>0</integer>
+            <key>R_S_bottom_length</key>
+            <integer>57</integer>
+            <key>height</key>
+            <integer>750</integer>
+            <key>weight</key>
+            <integer>30</integer>
+            <key>width</key>
+            <integer>613</integer>
+          </dict>
+          <key>name</key>
+          <string>VG_65E5_00</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>199</integer>
+            <key>y</key>
+            <integer>125</integer>
+          </dict>
+        </dict>
+      </array>
       <key>robocjk.status</key>
-      <integer>0</integer>
+      <integer>4</integer>
       <key>robocjk.variationGlyphs</key>
       <array>
         <dict>
+          <key>deepComponents</key>
+          <array>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>H_weight</key>
+                <integer>-10</integer>
+                <key>L_S_bottom_length</key>
+                <integer>65</integer>
+                <key>M_H_moveV</key>
+                <integer>5</integer>
+                <key>M_H_weight</key>
+                <integer>0</integer>
+                <key>R_S_bottom_length</key>
+                <integer>67</integer>
+                <key>height</key>
+                <integer>816</integer>
+                <key>weight</key>
+                <integer>154</integer>
+                <key>width</key>
+                <integer>723</integer>
+              </dict>
+              <key>name</key>
+              <string>VG_65E5_00</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>141</integer>
+                <key>y</key>
+                <integer>103</integer>
+              </dict>
+            </dict>
+          </array>
           <key>layerName</key>
-          <string>wght=1</string>
+          <string></string>
           <key>location</key>
           <dict>
             <key>wght</key>
@@ -45,7 +109,7 @@
           <key>sourceName</key>
           <string>wght=1</string>
           <key>status</key>
-          <integer>0</integer>
+          <integer>4</integer>
         </dict>
       </array>
     </dict>
