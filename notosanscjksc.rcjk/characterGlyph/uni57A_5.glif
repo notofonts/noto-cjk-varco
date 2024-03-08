@@ -49,18 +49,6 @@
       <point x="591" y="674"/>
       <point x="655" y="818" type="curve"/>
     </contour>
-    <contour>
-      <point x="48" y="581" type="line"/>
-      <point x="48" y="552" type="line"/>
-      <point x="335" y="552" type="line"/>
-      <point x="335" y="581" type="line"/>
-    </contour>
-    <contour>
-      <point x="182" y="821" type="line"/>
-      <point x="182" y="186" type="line"/>
-      <point x="212" y="186" type="line"/>
-      <point x="212" y="821" type="line"/>
-    </contour>
   </outline>
   <lib>
     <dict>
@@ -69,15 +57,15 @@
         <dict>
           <key>coord</key>
           <dict>
-            <key>R_moveV</key>
-            <integer>100</integer>
-            <key>weight</key>
-            <integer>30</integer>
+            <key>B_T_moveV</key>
+            <integer>32</integer>
+            <key>M_H_moveV</key>
+            <integer>4</integer>
             <key>width</key>
-            <integer>310</integer>
+            <integer>325</integer>
           </dict>
           <key>name</key>
-          <string>VG_31C0_00</string>
+          <string>T_571F_2FF0</string>
           <key>transform</key>
           <dict>
             <key>rotation</key>
@@ -91,9 +79,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>-43</integer>
+            <integer>0</integer>
             <key>y</key>
-            <integer>-142</integer>
+            <integer>0</integer>
           </dict>
         </dict>
       </array>
@@ -107,15 +95,17 @@
             <dict>
               <key>coord</key>
               <dict>
-                <key>R_moveV</key>
-                <integer>120</integer>
-                <key>weight</key>
-                <integer>145</integer>
+                <key>B_T_moveV</key>
+                <integer>40</integer>
+                <key>B_T_right_moveV</key>
+                <integer>-15</integer>
+                <key>M_H_moveV</key>
+                <integer>10</integer>
                 <key>width</key>
-                <integer>305</integer>
+                <integer>317</integer>
               </dict>
               <key>name</key>
-              <string>VG_31C0_00</string>
+              <string>T_571F_2FF0</string>
               <key>transform</key>
               <dict>
                 <key>rotation</key>
@@ -129,9 +119,9 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>-12</integer>
+                <integer>4</integer>
                 <key>y</key>
-                <integer>-191</integer>
+                <integer>0</integer>
               </dict>
             </dict>
           </array>
