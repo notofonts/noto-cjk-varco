@@ -1,41 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="uni6C41" format="2">
+<glyph name="T_2FF0_5341" format="2">
   <advance width="1000"/>
-  <unicode hex="6C41"/>
   <outline>
-    <contour>
-      <point x="98" y="798" type="line"/>
-      <point x="165" y="766"/>
-      <point x="247" y="717"/>
-      <point x="290" y="685" type="curve"/>
-      <point x="307" y="711" type="line"/>
-      <point x="264" y="742"/>
-      <point x="182" y="788"/>
-      <point x="115" y="819" type="curve"/>
-    </contour>
-    <contour>
-      <point x="49" y="524" type="line"/>
-      <point x="118" y="498"/>
-      <point x="203" y="457"/>
-      <point x="249" y="429" type="curve"/>
-      <point x="263" y="457" type="line"/>
-      <point x="219" y="484"/>
-      <point x="133" y="523"/>
-      <point x="65" y="548" type="curve"/>
-    </contour>
-    <contour>
-      <point x="81" y="-35" type="curve"/>
-      <point x="106" y="-56" type="line"/>
-      <point x="164" y="33"/>
-      <point x="240" y="169"/>
-      <point x="293" y="275" type="curve"/>
-      <point x="272" y="294" type="line"/>
-      <point x="216" y="182"/>
-      <point x="135" y="43"/>
-    </contour>
   </outline>
   <lib>
     <dict>
+      <key>robocjk.axes</key>
+      <array>
+        <dict>
+          <key>defaultValue</key>
+          <integer>100</integer>
+          <key>maxValue</key>
+          <integer>631</integer>
+          <key>minValue</key>
+          <integer>100</integer>
+          <key>name</key>
+          <string>width</string>
+        </dict>
+      </array>
       <key>robocjk.deepComponents</key>
       <array>
         <dict>
@@ -44,7 +26,7 @@
             <key>weight</key>
             <integer>29</integer>
             <key>width</key>
-            <integer>631</integer>
+            <integer>411</integer>
           </dict>
           <key>name</key>
           <string>VG_4E00_00</string>
@@ -61,9 +43,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>321</integer>
+            <integer>540</integer>
             <key>y</key>
-            <integer>56</integer>
+            <integer>86</integer>
           </dict>
         </dict>
         <dict>
@@ -89,14 +71,14 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>111</integer>
+            <integer>235</integer>
             <key>y</key>
             <integer>-51</integer>
           </dict>
         </dict>
       </array>
       <key>robocjk.status</key>
-      <integer>1</integer>
+      <integer>0</integer>
       <key>robocjk.variationGlyphs</key>
       <array>
         <dict>
@@ -106,9 +88,9 @@
               <key>coord</key>
               <dict>
                 <key>weight</key>
-                <integer>152</integer>
+                <integer>131</integer>
                 <key>width</key>
-                <integer>649</integer>
+                <integer>428</integer>
               </dict>
               <key>name</key>
               <string>VG_4E00_00</string>
@@ -125,18 +107,18 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>328</integer>
+                <integer>546</integer>
                 <key>y</key>
-                <integer>8</integer>
+                <integer>40</integer>
               </dict>
             </dict>
             <dict>
               <key>coord</key>
               <dict>
                 <key>height</key>
-                <integer>945</integer>
+                <integer>950</integer>
                 <key>weight</key>
-                <integer>157</integer>
+                <integer>142</integer>
               </dict>
               <key>name</key>
               <string>VG_4E28_00</string>
@@ -153,25 +135,25 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>83</integer>
+                <integer>196</integer>
                 <key>y</key>
-                <integer>-30</integer>
+                <integer>-25</integer>
               </dict>
             </dict>
           </array>
           <key>layerName</key>
-          <string>wght=1</string>
+          <string></string>
           <key>location</key>
           <dict>
             <key>wght</key>
-            <real>1.0</real>
+            <integer>1</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
           <string>wght=1</string>
           <key>status</key>
-          <integer>1</integer>
+          <integer>0</integer>
         </dict>
       </array>
     </dict>
