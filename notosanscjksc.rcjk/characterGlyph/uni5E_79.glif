@@ -4,42 +4,6 @@
   <unicode hex="5E79"/>
   <outline>
     <contour>
-      <point x="262" y="829" type="line"/>
-      <point x="262" y="547" type="line"/>
-      <point x="291" y="547" type="line"/>
-      <point x="291" y="829" type="line"/>
-    </contour>
-    <contour>
-      <point x="262" y="275" type="line"/>
-      <point x="262" y="-69" type="line"/>
-      <point x="291" y="-69" type="line"/>
-      <point x="291" y="275" type="line"/>
-    </contour>
-    <contour>
-      <point x="133" y="399" type="line"/>
-      <point x="416" y="399" type="line"/>
-      <point x="416" y="286" type="line"/>
-      <point x="133" y="286" type="line"/>
-    </contour>
-    <contour>
-      <point x="133" y="539" type="line"/>
-      <point x="416" y="539" type="line"/>
-      <point x="416" y="428" type="line"/>
-      <point x="133" y="428" type="line"/>
-    </contour>
-    <contour>
-      <point x="103" y="569" type="line"/>
-      <point x="103" y="257" type="line"/>
-      <point x="445" y="257" type="line"/>
-      <point x="445" y="569" type="line"/>
-    </contour>
-    <contour>
-      <point x="62" y="700" type="line"/>
-      <point x="62" y="670" type="line"/>
-      <point x="481" y="670" type="line"/>
-      <point x="481" y="700" type="line"/>
-    </contour>
-    <contour>
       <point x="695" y="454" type="line"/>
       <point x="695" y="-71" type="line"/>
       <point x="724" y="-71" type="line"/>
@@ -47,7 +11,6 @@
     </contour>
     <contour>
       <point x="530" y="467" type="line"/>
-      <point x="530" y="437" type="line"/>
       <point x="893" y="437" type="line"/>
       <point x="893" y="467" type="line"/>
     </contour>
@@ -56,12 +19,6 @@
       <point x="489" y="203" type="line"/>
       <point x="926" y="203" type="line"/>
       <point x="926" y="232" type="line"/>
-    </contour>
-    <contour>
-      <point x="50" y="155" type="line"/>
-      <point x="50" y="126" type="line"/>
-      <point x="492" y="126" type="line"/>
-      <point x="492" y="155" type="line"/>
     </contour>
     <contour>
       <point x="721" y="848" type="line"/>
@@ -90,11 +47,69 @@
   </outline>
   <lib>
     <dict>
+      <key>robocjk.deepComponents</key>
+      <array>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>width</key>
+            <integer>438</integer>
+          </dict>
+          <key>name</key>
+          <string>T_2099D_2FF0</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>0</integer>
+            <key>y</key>
+            <integer>0</integer>
+          </dict>
+        </dict>
+      </array>
       <key>robocjk.status</key>
       <integer>0</integer>
       <key>robocjk.variationGlyphs</key>
       <array>
         <dict>
+          <key>deepComponents</key>
+          <array>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>width</key>
+                <integer>438</integer>
+              </dict>
+              <key>name</key>
+              <string>T_2099D_2FF0</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>-3</integer>
+                <key>y</key>
+                <integer>0</integer>
+              </dict>
+            </dict>
+          </array>
           <key>layerName</key>
           <string>wght=1</string>
           <key>location</key>
