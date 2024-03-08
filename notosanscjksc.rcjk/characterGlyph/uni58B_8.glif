@@ -73,9 +73,6 @@
       <point x="864" y="-70" type="line"/>
       <point x="864" y="266" type="line"/>
     </contour>
-    <contour>
-      <point x="212" y="169" type="line"/>
-    </contour>
   </outline>
   <lib>
     <dict>
@@ -85,11 +82,13 @@
           <key>coord</key>
           <dict>
             <key>B_T_moveV</key>
-            <integer>32</integer>
+            <integer>4</integer>
+            <key>B_T_right_moveV</key>
+            <integer>39</integer>
             <key>M_H_moveV</key>
             <integer>4</integer>
             <key>width</key>
-            <integer>325</integer>
+            <integer>278</integer>
           </dict>
           <key>name</key>
           <string>T_571F_2FF0</string>
@@ -123,13 +122,15 @@
               <key>coord</key>
               <dict>
                 <key>B_T_moveV</key>
-                <integer>40</integer>
+                <integer>0</integer>
+                <key>B_T_right_moveH</key>
+                <integer>10</integer>
                 <key>B_T_right_moveV</key>
-                <integer>-15</integer>
+                <integer>50</integer>
                 <key>M_H_moveV</key>
                 <integer>10</integer>
                 <key>width</key>
-                <integer>317</integer>
+                <integer>267</integer>
               </dict>
               <key>name</key>
               <string>T_571F_2FF0</string>
