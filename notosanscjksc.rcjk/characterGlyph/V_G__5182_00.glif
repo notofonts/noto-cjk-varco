@@ -55,6 +55,36 @@
           <key>name</key>
           <string>height</string>
         </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>1000</integer>
+          <key>maxValue</key>
+          <integer>1000</integer>
+          <key>minValue</key>
+          <integer>200</integer>
+          <key>name</key>
+          <string>width</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>-100</integer>
+          <key>name</key>
+          <string>T_H_weight</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>-100</integer>
+          <key>name</key>
+          <string>L_S_weight</string>
+        </dict>
       </array>
       <key>robocjk.status</key>
       <integer>0</integer>
@@ -77,7 +107,7 @@
         </dict>
         <dict>
           <key>layerName</key>
-          <string>weight=30,height=100</string>
+          <string>height=200</string>
           <key>location</key>
           <dict>
             <key>height</key>
@@ -86,7 +116,99 @@
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>weight=30,height=100</string>
+          <string>height=200</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>width=200</string>
+          <key>location</key>
+          <dict>
+            <key>width</key>
+            <integer>200</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>width=200</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>height=200,width=200</string>
+          <key>location</key>
+          <dict>
+            <key>height</key>
+            <integer>200</integer>
+            <key>width</key>
+            <integer>200</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>height=200,width=200</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>T_H_weight=100</string>
+          <key>location</key>
+          <dict>
+            <key>T_H_weight</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>T_H_weight=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>T_H_weight=-100</string>
+          <key>location</key>
+          <dict>
+            <key>T_H_weight</key>
+            <integer>-100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>T_H_weight=-100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>L_S_weight=100</string>
+          <key>location</key>
+          <dict>
+            <key>L_S_weight</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>L_S_weight=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>L_S_weight=-100</string>
+          <key>location</key>
+          <dict>
+            <key>L_S_weight</key>
+            <integer>-100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>L_S_weight=-100</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
