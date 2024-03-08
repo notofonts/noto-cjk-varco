@@ -4,28 +4,6 @@
   <unicode hex="3645"/>
   <outline>
     <contour>
-      <point x="60" y="581" type="line"/>
-      <point x="60" y="552" type="line"/>
-      <point x="338" y="552" type="line"/>
-      <point x="338" y="581" type="line"/>
-    </contour>
-    <contour>
-      <point x="192" y="821" type="line"/>
-      <point x="192" y="151" type="line"/>
-      <point x="222" y="151" type="line"/>
-      <point x="222" y="821" type="line"/>
-    </contour>
-    <contour>
-      <point x="45" y="108" type="curve"/>
-      <point x="56" y="78" type="line"/>
-      <point x="138" y="110"/>
-      <point x="248" y="153"/>
-      <point x="353" y="194" type="curve"/>
-      <point x="348" y="222" type="line"/>
-      <point x="235" y="179"/>
-      <point x="122" y="134"/>
-    </contour>
-    <contour>
       <point x="437" y="757" type="line"/>
       <point x="844" y="757" type="line"/>
       <point x="844" y="509" type="line"/>
@@ -76,11 +54,79 @@
   </outline>
   <lib>
     <dict>
+      <key>robocjk.deepComponents</key>
+      <array>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>B_T_moveV</key>
+            <integer>32</integer>
+            <key>M_H_moveV</key>
+            <integer>4</integer>
+            <key>width</key>
+            <integer>325</integer>
+          </dict>
+          <key>name</key>
+          <string>T_571F_2FF0</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>0</integer>
+            <key>y</key>
+            <integer>0</integer>
+          </dict>
+        </dict>
+      </array>
       <key>robocjk.status</key>
       <integer>0</integer>
       <key>robocjk.variationGlyphs</key>
       <array>
         <dict>
+          <key>deepComponents</key>
+          <array>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>B_T_moveV</key>
+                <integer>40</integer>
+                <key>B_T_right_moveV</key>
+                <integer>-15</integer>
+                <key>M_H_moveV</key>
+                <integer>10</integer>
+                <key>width</key>
+                <integer>317</integer>
+              </dict>
+              <key>name</key>
+              <string>T_571F_2FF0</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>4</integer>
+                <key>y</key>
+                <integer>0</integer>
+              </dict>
+            </dict>
+          </array>
           <key>layerName</key>
           <string>wght=1</string>
           <key>location</key>

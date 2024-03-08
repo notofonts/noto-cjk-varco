@@ -39,6 +39,10 @@
         <dict>
           <key>coord</key>
           <dict>
+            <key>B_T_moveV</key>
+            <integer>32</integer>
+            <key>M_H_moveV</key>
+            <integer>4</integer>
             <key>width</key>
             <integer>325</integer>
           </dict>
@@ -101,8 +105,14 @@
             <dict>
               <key>coord</key>
               <dict>
+                <key>B_T_moveV</key>
+                <integer>40</integer>
+                <key>B_T_right_moveV</key>
+                <integer>-15</integer>
+                <key>M_H_moveV</key>
+                <integer>10</integer>
                 <key>width</key>
-                <integer>315</integer>
+                <integer>317</integer>
               </dict>
               <key>name</key>
               <string>T_571F_2FF0</string>
