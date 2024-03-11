@@ -25,8 +25,64 @@
   </outline>
   <lib>
     <dict>
+      <key>robocjk.axes</key>
+      <array>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>0</integer>
+          <key>minValue</key>
+          <integer>-15</integer>
+          <key>name</key>
+          <string>G_height</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>29</integer>
+          <key>maxValue</key>
+          <integer>160</integer>
+          <key>minValue</key>
+          <integer>29</integer>
+          <key>name</key>
+          <string>weight</string>
+        </dict>
+      </array>
       <key>robocjk.status</key>
       <integer>0</integer>
+      <key>robocjk.variationGlyphs</key>
+      <array>
+        <dict>
+          <key>layerName</key>
+          <string>G_height=-15</string>
+          <key>location</key>
+          <dict>
+            <key>G_height</key>
+            <integer>-15</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>G_height=-15</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>weight=160</string>
+          <key>location</key>
+          <dict>
+            <key>weight</key>
+            <integer>160</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>weight=160</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+      </array>
     </dict>
   </lib>
 </glyph>
