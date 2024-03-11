@@ -74,21 +74,6 @@
       <array>
         <dict>
           <key>layerName</key>
-          <string>G_height=-15</string>
-          <key>location</key>
-          <dict>
-            <key>G_height</key>
-            <integer>-15</integer>
-          </dict>
-          <key>on</key>
-          <false/>
-          <key>sourceName</key>
-          <string>G_height=-15</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
           <string>weight=160</string>
           <key>location</key>
           <dict>
@@ -114,23 +99,6 @@
           <true/>
           <key>sourceName</key>
           <string>G_width=120</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
-          <string>G_height=-15,G_width=120</string>
-          <key>location</key>
-          <dict>
-            <key>G_height</key>
-            <integer>-15</integer>
-            <key>G_width</key>
-            <integer>120</integer>
-          </dict>
-          <key>on</key>
-          <false/>
-          <key>sourceName</key>
-          <string>G_height=-15,G_width=120</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
@@ -215,18 +183,18 @@
         </dict>
         <dict>
           <key>layerName</key>
-          <string>weight=160,G_weight=-30</string>
+          <string>weight=160,G_weight=-40</string>
           <key>location</key>
           <dict>
             <key>G_weight</key>
-            <integer>-30</integer>
+            <integer>-40</integer>
             <key>weight</key>
             <integer>160</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>weight=160,G_weight=-30</string>
+          <string>weight=160,G_weight=-40</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
