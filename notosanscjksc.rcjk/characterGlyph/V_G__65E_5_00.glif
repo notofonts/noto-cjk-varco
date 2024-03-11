@@ -43,7 +43,7 @@
           <key>maxValue</key>
           <integer>50</integer>
           <key>minValue</key>
-          <integer>-50</integer>
+          <integer>-60</integer>
           <key>name</key>
           <string>H_weight</string>
         </dict>
@@ -456,7 +456,7 @@
                 <key>B_H_moveV</key>
                 <integer>0</integer>
                 <key>B_H_weight</key>
-                <integer>-60</integer>
+                <integer>-70</integer>
                 <key>L_S_bottom_length</key>
                 <integer>0</integer>
                 <key>L_S_weight</key>
@@ -466,7 +466,7 @@
                 <key>R_S_weight</key>
                 <integer>-10</integer>
                 <key>T_H_weight</key>
-                <integer>-60</integer>
+                <integer>-70</integer>
                 <key>height</key>
                 <integer>1000</integer>
                 <key>weight</key>
@@ -498,7 +498,7 @@
               <key>coord</key>
               <dict>
                 <key>weight</key>
-                <integer>-40</integer>
+                <integer>-50</integer>
                 <key>width</key>
                 <integer>1000</integer>
               </dict>
@@ -519,7 +519,7 @@
                 <key>x</key>
                 <integer>0</integer>
                 <key>y</key>
-                <integer>20</integer>
+                <integer>25</integer>
               </dict>
             </dict>
           </array>
@@ -528,12 +528,12 @@
           <key>location</key>
           <dict>
             <key>H_weight</key>
-            <integer>-50</integer>
+            <integer>-60</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>H_weight=-50</string>
+          <string>H_weight=-60</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
