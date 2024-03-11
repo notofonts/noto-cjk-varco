@@ -4,24 +4,6 @@
   <unicode hex="6691"/>
   <outline>
     <contour>
-      <point x="198" y="643" type="line"/>
-      <point x="785" y="643" type="line"/>
-      <point x="785" y="560" type="line"/>
-      <point x="198" y="560" type="line"/>
-    </contour>
-    <contour>
-      <point x="198" y="754" type="line"/>
-      <point x="785" y="754" type="line"/>
-      <point x="785" y="672" type="line"/>
-      <point x="198" y="672" type="line"/>
-    </contour>
-    <contour>
-      <point x="169" y="783" type="line"/>
-      <point x="169" y="530" type="line"/>
-      <point x="815" y="530" type="line"/>
-      <point x="815" y="783" type="line"/>
-    </contour>
-    <contour>
       <point x="69" y="339" type="line"/>
       <point x="69" y="310" type="line"/>
       <point x="929" y="310" type="line"/>
@@ -62,7 +44,7 @@
             <key>H_weight</key>
             <integer>0</integer>
             <key>L_S_bottom_length</key>
-            <integer>49</integer>
+            <integer>36</integer>
             <key>M_H_moveV</key>
             <integer>3</integer>
             <key>M_H_right_length</key>
@@ -70,13 +52,13 @@
             <key>M_H_weight</key>
             <integer>0</integer>
             <key>R_S_bottom_length</key>
-            <integer>48</integer>
+            <integer>35</integer>
             <key>height</key>
-            <integer>340</integer>
+            <integer>270</integer>
             <key>weight</key>
             <integer>30</integer>
             <key>width</key>
-            <integer>609</integer>
+            <integer>583</integer>
           </dict>
           <key>name</key>
           <string>VG_65E5_00</string>
@@ -93,9 +75,51 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>194</integer>
+            <integer>246</integer>
             <key>y</key>
-            <integer>102</integer>
+            <integer>84</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>H_weight</key>
+            <integer>0</integer>
+            <key>L_S_bottom_length</key>
+            <integer>0</integer>
+            <key>M_H_moveV</key>
+            <integer>1</integer>
+            <key>M_H_right_length</key>
+            <integer>0</integer>
+            <key>M_H_weight</key>
+            <integer>0</integer>
+            <key>R_S_bottom_length</key>
+            <integer>0</integer>
+            <key>height</key>
+            <integer>253</integer>
+            <key>weight</key>
+            <integer>29</integer>
+            <key>width</key>
+            <integer>647</integer>
+          </dict>
+          <key>name</key>
+          <string>VG_65E5_00</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>168</integer>
+            <key>y</key>
+            <integer>650</integer>
           </dict>
         </dict>
       </array>
@@ -110,9 +134,9 @@
               <key>coord</key>
               <dict>
                 <key>H_weight</key>
-                <integer>-41</integer>
+                <integer>-52</integer>
                 <key>L_S_bottom_length</key>
-                <integer>35</integer>
+                <integer>15</integer>
                 <key>M_H_moveV</key>
                 <integer>3</integer>
                 <key>M_H_right_length</key>
@@ -120,13 +144,13 @@
                 <key>M_H_weight</key>
                 <integer>0</integer>
                 <key>R_S_bottom_length</key>
-                <integer>31</integer>
+                <integer>16</integer>
                 <key>height</key>
-                <integer>390</integer>
+                <integer>300</integer>
                 <key>weight</key>
-                <integer>149</integer>
+                <integer>142</integer>
                 <key>width</key>
-                <integer>668</integer>
+                <integer>652</integer>
               </dict>
               <key>name</key>
               <string>VG_65E5_00</string>
@@ -143,9 +167,51 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>174</integer>
+                <integer>208</integer>
                 <key>y</key>
-                <integer>60</integer>
+                <integer>43</integer>
+              </dict>
+            </dict>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>H_weight</key>
+                <integer>-21</integer>
+                <key>L_S_bottom_length</key>
+                <integer>0</integer>
+                <key>M_H_moveV</key>
+                <integer>0</integer>
+                <key>M_H_right_length</key>
+                <integer>0</integer>
+                <key>M_H_weight</key>
+                <integer>-50</integer>
+                <key>R_S_bottom_length</key>
+                <integer>0</integer>
+                <key>height</key>
+                <integer>307</integer>
+                <key>weight</key>
+                <integer>132</integer>
+                <key>width</key>
+                <integer>702</integer>
+              </dict>
+              <key>name</key>
+              <string>VG_65E5_00</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>143</integer>
+                <key>y</key>
+                <integer>638</integer>
               </dict>
             </dict>
           </array>
