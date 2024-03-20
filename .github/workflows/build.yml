@@ -37,9 +37,16 @@ jobs:
           path: build/ufo
           retention-days: 5
 
-      - name: Storing Font Artifacts
+      - name: Storing TTF VarCo Artifacts
         uses: actions/upload-artifact@v4
         with:
-          name: NotoCJKVarCoFonts
-          path: build/fonts
+          name: NotoCJKVariableVarCoFonts
+          path: build/ttf-varco
+          retention-days: 5
+
+      - name: Storing TTF Artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: NotoCJKVariableFonts
+          path: build/ttf
           retention-days: 5

@@ -1,0 +1,22 @@
+steps:
+- action: input
+  source: notoserifcjkjp.rcjk
+  steps:
+  - action: subset
+    glyphNamesFile: notoserifcjkjp-glyphnames.txt
+
+- action: set-font-info
+  fontInfo:
+    familyName: Noto Serif CJK JP Variable Components
+    versionMajor: 0
+    versionMinor: 1
+
+- action: compile-fontmake
+  destination: ttf/notoserifcjkjp.ttf
+  steps:
+  - action: decompose-composites
+    onlyVariableComposites: true
+  - action: drop-unreachable-glyphs
+
+- action: compile-varc
+  destination: ttf-varco/notoserifcjkjp-glyf-1.ttf
