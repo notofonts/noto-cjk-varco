@@ -1,45 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="uni830C" format="2">
+<glyph name="uni673E" format="2">
   <advance width="1000"/>
-  <unicode hex="830C"/>
+  <unicode hex="673E"/>
   <outline>
-    <contour>
-      <point x="608" y="584" type="line"/>
-      <point x="608" y="-38" type="line"/>
-      <point x="637" y="-38" type="line"/>
-      <point x="637" y="584" type="line"/>
-    </contour>
-    <contour>
-      <point x="309" y="364" type="line"/>
-      <point x="309" y="334" type="line"/>
-      <point x="945" y="334" type="line"/>
-      <point x="945" y="364" type="line"/>
-    </contour>
-    <contour>
-      <point x="334" y="-20" type="line"/>
-      <point x="334" y="-50" type="line"/>
-      <point x="926" y="-50" type="line"/>
-      <point x="926" y="-20" type="line"/>
-    </contour>
-    <contour>
-      <point x="289" y="586" type="line"/>
-      <point x="234" y="462"/>
-      <point x="140" y="345"/>
-      <point x="42" y="270" type="curve"/>
-      <point x="49" y="265"/>
-      <point x="59" y="252"/>
-      <point x="63" y="246" type="curve"/>
-      <point x="162" y="327"/>
-      <point x="258" y="447"/>
-      <point x="318" y="578" type="curve"/>
-    </contour>
-    <contour>
-      <point x="196" y="413" type="line"/>
-      <point x="196" y="-69" type="line"/>
-      <point x="226" y="-69" type="line"/>
-      <point x="226" y="441" type="line"/>
-      <point x="226" y="442" type="line"/>
-    </contour>
   </outline>
   <lib>
     <dict>
@@ -48,11 +11,15 @@
         <dict>
           <key>coord</key>
           <dict>
-            <key>height</key>
-            <integer>227</integer>
+            <key>T_H_left_length</key>
+            <integer>-40</integer>
+            <key>T_H_moveV</key>
+            <integer>-28</integer>
+            <key>width</key>
+            <integer>476</integer>
           </dict>
           <key>name</key>
-          <string>T_8279_2FF1</string>
+          <string>T_2FF0_4E01</string>
           <key>transform</key>
           <dict>
             <key>rotation</key>
@@ -82,13 +49,15 @@
             <dict>
               <key>coord</key>
               <dict>
-                <key>H_weight</key>
-                <integer>20</integer>
-                <key>height</key>
-                <integer>226</integer>
+                <key>T_H_left_length</key>
+                <integer>-50</integer>
+                <key>T_H_moveV</key>
+                <integer>-8</integer>
+                <key>width</key>
+                <integer>503</integer>
               </dict>
               <key>name</key>
-              <string>T_8279_2FF1</string>
+              <string>T_2FF0_4E01</string>
               <key>transform</key>
               <dict>
                 <key>rotation</key>
@@ -109,11 +78,11 @@
             </dict>
           </array>
           <key>layerName</key>
-          <string>wght=1</string>
+          <string></string>
           <key>location</key>
           <dict>
             <key>wght</key>
-            <real>1.0</real>
+            <integer>1</integer>
           </dict>
           <key>on</key>
           <true/>
