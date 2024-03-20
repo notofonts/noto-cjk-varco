@@ -1,36 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="uni82DC" format="2">
+<glyph name="uni8A0F" format="2">
   <advance width="1000"/>
-  <unicode hex="82DC"/>
+  <unicode hex="8A0F"/>
   <outline>
-    <contour>
-      <point x="198" y="22" type="line"/>
-      <point x="198" y="-8" type="line"/>
-      <point x="803" y="-8" type="line"/>
-      <point x="803" y="22" type="line"/>
-    </contour>
-    <contour>
-      <point x="198" y="380" type="line"/>
-      <point x="198" y="351" type="line"/>
-      <point x="803" y="351" type="line"/>
-      <point x="803" y="380" type="line"/>
-    </contour>
-    <contour>
-      <point x="198" y="203" type="line"/>
-      <point x="198" y="174" type="line"/>
-      <point x="803" y="174" type="line"/>
-      <point x="803" y="203" type="line"/>
-    </contour>
-    <contour>
-      <point x="184" y="555" type="line"/>
-      <point x="184" y="-67" type="line"/>
-      <point x="214" y="-67" type="line"/>
-      <point x="214" y="525" type="line"/>
-      <point x="786" y="525" type="line"/>
-      <point x="786" y="-67" type="line"/>
-      <point x="816" y="-67" type="line"/>
-      <point x="816" y="555" type="line"/>
-    </contour>
   </outline>
   <lib>
     <dict>
@@ -39,11 +11,15 @@
         <dict>
           <key>coord</key>
           <dict>
-            <key>height</key>
-            <integer>246</integer>
+            <key>M_H_left_length</key>
+            <integer>0</integer>
+            <key>T_H_left_length</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>520</integer>
           </dict>
           <key>name</key>
-          <string>T_8279_2FF1</string>
+          <string>T_2FF0_4E8E</string>
           <key>transform</key>
           <dict>
             <key>rotation</key>
@@ -73,17 +49,15 @@
             <dict>
               <key>coord</key>
               <dict>
-                <key>2S_distance</key>
-                <integer>10</integer>
-                <key>H_weight</key>
-                <integer>10</integer>
-                <key>S_bottom_length</key>
-                <integer>-10</integer>
-                <key>height</key>
-                <integer>247</integer>
+                <key>M_H_left_length</key>
+                <integer>0</integer>
+                <key>T_H_left_length</key>
+                <integer>0</integer>
+                <key>width</key>
+                <integer>490</integer>
               </dict>
               <key>name</key>
-              <string>T_8279_2FF1</string>
+              <string>T_2FF0_4E8E</string>
               <key>transform</key>
               <dict>
                 <key>rotation</key>
@@ -104,11 +78,11 @@
             </dict>
           </array>
           <key>layerName</key>
-          <string>wght=1</string>
+          <string></string>
           <key>location</key>
           <dict>
             <key>wght</key>
-            <real>1.0</real>
+            <integer>1</integer>
           </dict>
           <key>on</key>
           <true/>
