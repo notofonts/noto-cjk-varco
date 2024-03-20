@@ -125,6 +125,16 @@
           <key>name</key>
           <string>L_S_bottom_length</string>
         </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>1</integer>
+          <key>maxValue</key>
+          <integer>2</integer>
+          <key>minValue</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>L_S_style2</string>
+        </dict>
       </array>
       <key>robocjk.status</key>
       <integer>0</integer>
@@ -388,6 +398,72 @@
           <true/>
           <key>sourceName</key>
           <string>L_S_bottom_length=-500</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>L_S_style2=2</string>
+          <key>location</key>
+          <dict>
+            <key>L_S_style2</key>
+            <integer>2</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>L_S_style2=2</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>weight=160,L_S_style2=2</string>
+          <key>location</key>
+          <dict>
+            <key>L_S_style2</key>
+            <integer>2</integer>
+            <key>weight</key>
+            <integer>160</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>weight=160,L_S_style2=2</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>height=200,L_S_style2=2</string>
+          <key>location</key>
+          <dict>
+            <key>L_S_style2</key>
+            <integer>2</integer>
+            <key>height</key>
+            <integer>200</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>height=200,L_S_style2=2</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>T_H_weight=-100,L_S_style2=2</string>
+          <key>location</key>
+          <dict>
+            <key>L_S_style2</key>
+            <integer>2</integer>
+            <key>T_H_weight</key>
+            <integer>-100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>T_H_weight=-100,L_S_style2=2</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
