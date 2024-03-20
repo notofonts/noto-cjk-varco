@@ -40,13 +40,13 @@ jobs:
       - name: Storing TTF VarCo Artifacts
         uses: actions/upload-artifact@v4
         with:
-          name: NotoCJKVarCoFonts
+          name: NotoCJKVariableVarCoFonts
           path: build/ttf-varco
           retention-days: 5
 
       - name: Storing TTF Artifacts
         uses: actions/upload-artifact@v4
         with:
-          name: NotoCJKVarCoFonts
+          name: NotoCJKVariableFonts
           path: build/ttf
           retention-days: 5
