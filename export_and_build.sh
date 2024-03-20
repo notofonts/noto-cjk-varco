@@ -16,8 +16,5 @@ fontra-copy notoserifcjkjp.rcjk build/fontra/notoserifcjkjp.fontra
 fontra-copy notosanscjksc.rcjk build/ufo/notosanscjksc.designspace
 fontra-copy notoserifcjkjp.rcjk build/ufo/notoserifcjkjp.designspace
 
-fontra-compile notosanscjksc.rcjk build/ttf-varco/notosanscjksc-glyf1.ttf
-fontra-compile notoserifcjkjp.rcjk build/ttf-varco/notoserifcjkjp-glyf1.ttf
-
-fontra-workflow notosanscjksc.yaml --output-dir build/ttf
-fontra-workflow notoserifcjkjp.yaml --output-dir build/ttf
+fontra-workflow notosanscjksc.yaml --output-dir build
+fontra-workflow notoserifcjkjp.yaml --output-dir build
