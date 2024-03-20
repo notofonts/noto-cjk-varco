@@ -1,0 +1,17 @@
+steps:
+- action: input
+  source: notosanscjksc.rcjk
+  steps:
+  - action: subset
+    glyphNamesFile: notosanscjksc-glyphnames.txt
+  - action: decompose-composites
+    onlyVariableComposites: true
+  - action: drop-unreachable-glyphs
+  - action: set-font-info
+    fontInfo:
+      familyName: Noto Sans CJK SC Variable Components
+      versionMajor: 0
+      versionMinor: 1
+
+- action: compile-fontmake
+  destination: notosanscjksc.ttf
