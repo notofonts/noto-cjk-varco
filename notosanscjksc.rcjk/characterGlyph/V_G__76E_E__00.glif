@@ -125,6 +125,26 @@
           <key>name</key>
           <string>MB_H_moveV</string>
         </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>L_S_bottom_length</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>R_S_bottom_length</string>
+        </dict>
       </array>
       <key>robocjk.status</key>
       <integer>0</integer>
@@ -324,6 +344,81 @@
           <true/>
           <key>sourceName</key>
           <string>MT_H_moveV=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>MT_H_moveV=-100</string>
+          <key>location</key>
+          <dict>
+            <key>MT_H_moveV</key>
+            <integer>-100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>MT_H_moveV=-100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>MB_H_moveV=100</string>
+          <key>location</key>
+          <dict>
+            <key>MB_H_moveV</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>MB_H_moveV=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>MB_H_moveV=-100</string>
+          <key>location</key>
+          <dict>
+            <key>MB_H_moveV</key>
+            <integer>-100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>MB_H_moveV=-100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>L_S_bottom_length=100</string>
+          <key>location</key>
+          <dict>
+            <key>L_S_bottom_length</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>L_S_bottom_length=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>R_S_bottom_length=100</string>
+          <key>location</key>
+          <dict>
+            <key>R_S_bottom_length</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>R_S_bottom_length=100</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
