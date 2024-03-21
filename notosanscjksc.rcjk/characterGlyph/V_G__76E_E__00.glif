@@ -15,10 +15,10 @@
       <point x="986" y="234" type="line"/>
     </contour>
     <contour>
-      <point x="17" y="-91" type="line"/>
+      <point x="17" y="-90" type="line"/>
       <point x="17" y="-120" type="line"/>
       <point x="986" y="-120" type="line"/>
-      <point x="986" y="-91" type="line"/>
+      <point x="986" y="-90" type="line"/>
     </contour>
     <contour>
       <point x="0" y="880" type="line"/>
@@ -55,6 +55,76 @@
           <key>name</key>
           <string>height</string>
         </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>1000</integer>
+          <key>maxValue</key>
+          <integer>1000</integer>
+          <key>minValue</key>
+          <integer>60</integer>
+          <key>name</key>
+          <string>width</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>-100</integer>
+          <key>name</key>
+          <string>L_S_weight</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>-100</integer>
+          <key>name</key>
+          <string>R_S_weight</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>-100</integer>
+          <key>name</key>
+          <string>4H_weight</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>-100</integer>
+          <key>name</key>
+          <string>M_2H_weight</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>-100</integer>
+          <key>name</key>
+          <string>MT_H_moveV</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>-100</integer>
+          <key>name</key>
+          <string>MB_H_moveV</string>
+        </dict>
       </array>
       <key>robocjk.status</key>
       <integer>0</integer>
@@ -87,6 +157,38 @@
           <true/>
           <key>sourceName</key>
           <string>height=200</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>width=60</string>
+          <key>location</key>
+          <dict>
+            <key>width</key>
+            <integer>60</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>width=60</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>height=200,width=60</string>
+          <key>location</key>
+          <dict>
+            <key>height</key>
+            <integer>200</integer>
+            <key>width</key>
+            <integer>60</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>height=200,width=60</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
