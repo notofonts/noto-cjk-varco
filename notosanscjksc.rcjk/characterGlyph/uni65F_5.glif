@@ -12,7 +12,9 @@
           <key>coord</key>
           <dict>
             <key>height</key>
-            <integer>678</integer>
+            <real>446.322177383981</real>
+            <key>width</key>
+            <integer>40</integer>
           </dict>
           <key>name</key>
           <string>T_2FF1_5C71</string>
@@ -34,6 +36,48 @@
             <integer>0</integer>
           </dict>
         </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>H_weight</key>
+            <integer>0</integer>
+            <key>L_S_bottom_length</key>
+            <integer>0</integer>
+            <key>M_H_moveV</key>
+            <integer>1</integer>
+            <key>M_H_right_length</key>
+            <integer>0</integer>
+            <key>M_H_weight</key>
+            <integer>0</integer>
+            <key>R_S_bottom_length</key>
+            <integer>0</integer>
+            <key>height</key>
+            <integer>361</integer>
+            <key>weight</key>
+            <integer>29</integer>
+            <key>width</key>
+            <integer>629</integer>
+          </dict>
+          <key>name</key>
+          <string>VG_65E5_00</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>182</integer>
+            <key>y</key>
+            <integer>536</integer>
+          </dict>
+        </dict>
       </array>
       <key>robocjk.status</key>
       <integer>0</integer>
@@ -45,8 +89,10 @@
             <dict>
               <key>coord</key>
               <dict>
+                <key>LR_S_top_length</key>
+                <integer>-10</integer>
                 <key>height</key>
-                <integer>678</integer>
+                <real>456.32</real>
               </dict>
               <key>name</key>
               <string>T_2FF1_5C71</string>
@@ -66,6 +112,48 @@
                 <integer>0</integer>
                 <key>y</key>
                 <integer>0</integer>
+              </dict>
+            </dict>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>H_weight</key>
+                <integer>-27</integer>
+                <key>L_S_bottom_length</key>
+                <integer>0</integer>
+                <key>M_H_moveV</key>
+                <integer>0</integer>
+                <key>M_H_right_length</key>
+                <integer>0</integer>
+                <key>M_H_weight</key>
+                <integer>-6</integer>
+                <key>R_S_bottom_length</key>
+                <integer>0</integer>
+                <key>height</key>
+                <integer>427</integer>
+                <key>weight</key>
+                <integer>148</integer>
+                <key>width</key>
+                <integer>704</integer>
+              </dict>
+              <key>name</key>
+              <string>VG_65E5_00</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>149</integer>
+                <key>y</key>
+                <integer>518</integer>
               </dict>
             </dict>
           </array>
