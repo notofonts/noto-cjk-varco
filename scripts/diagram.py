@@ -137,7 +137,7 @@ def make_page(
         # draw diagonal line
         stroke(1)
         strokeWidth(1)
-        line((0, 0), (xWidth, yHeight))
+        line((0, 0), (xWidth, 1000*ystep))
 
         # draw deadline date
         with savedState():
@@ -192,11 +192,17 @@ if __name__ == "__main__":
         last_line = colorEvolutionCGText[-1].strip().split(",")
         number_of_glyphs = sum([int(x) for x in last_line[1:]])
 
+        if project_name == "notoserifcjkjp":
+            number_of_days_untile_deadline = 62
+            ends_date = "2024-03-11"
+        else:
+            number_of_days_untile_deadline = 70
+            ends_date = "2024-05-15"
         make_page(
             colorEvolutionCGText,
-            number_of_days_untile_deadline=62,
+            number_of_days_untile_deadline=number_of_days_untile_deadline,
             number_of_glyphs=number_of_glyphs,
-            ends_date="2024-03-11",
+            ends_date=ends_date,
             title=f"{project_name} CG",
         )
 
