@@ -3,34 +3,6 @@
   <advance width="1000"/>
   <unicode hex="62BB"/>
   <outline>
-    <contour>
-      <point x="421" y="659" type="line"/>
-      <point x="421" y="153" type="line"/>
-      <point x="450" y="153" type="line"/>
-      <point x="450" y="629" type="line"/>
-      <point x="879" y="629" type="line"/>
-      <point x="879" y="158" type="line"/>
-      <point x="909" y="158" type="line"/>
-      <point x="909" y="659" type="line"/>
-    </contour>
-    <contour>
-      <point x="435" y="448" type="line"/>
-      <point x="435" y="419" type="line"/>
-      <point x="895" y="419" type="line"/>
-      <point x="895" y="448" type="line"/>
-    </contour>
-    <contour>
-      <point x="435" y="232" type="line"/>
-      <point x="435" y="203" type="line"/>
-      <point x="895" y="203" type="line"/>
-      <point x="895" y="232" type="line"/>
-    </contour>
-    <contour>
-      <point x="645" y="830" type="line"/>
-      <point x="645" y="-69" type="line"/>
-      <point x="674" y="-69" type="line"/>
-      <point x="674" y="830" type="line"/>
-    </contour>
   </outline>
   <lib>
     <dict>
@@ -66,9 +38,35 @@
             <integer>0</integer>
           </dict>
         </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>width</key>
+            <real>492.97</real>
+          </dict>
+          <key>name</key>
+          <string>T_2FF0_7533</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>0</integer>
+            <key>y</key>
+            <integer>0</integer>
+          </dict>
+        </dict>
       </array>
       <key>robocjk.status</key>
-      <integer>0</integer>
+      <integer>4</integer>
       <key>robocjk.variationGlyphs</key>
       <array>
         <dict>
@@ -106,9 +104,35 @@
                 <integer>0</integer>
               </dict>
             </dict>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>width</key>
+                <real>512.966481667614</real>
+              </dict>
+              <key>name</key>
+              <string>T_2FF0_7533</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>0</integer>
+                <key>y</key>
+                <integer>0</integer>
+              </dict>
+            </dict>
           </array>
           <key>layerName</key>
-          <string>wght=1</string>
+          <string></string>
           <key>location</key>
           <dict>
             <key>wght</key>
@@ -119,7 +143,7 @@
           <key>sourceName</key>
           <string>wght=1</string>
           <key>status</key>
-          <integer>0</integer>
+          <integer>4</integer>
         </dict>
       </array>
     </dict>
