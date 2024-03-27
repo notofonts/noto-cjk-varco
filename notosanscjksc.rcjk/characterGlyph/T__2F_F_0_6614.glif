@@ -9,9 +9,9 @@
       <array>
         <dict>
           <key>defaultValue</key>
-          <integer>601</integer>
+          <integer>694</integer>
           <key>maxValue</key>
-          <integer>601</integer>
+          <integer>694</integer>
           <key>minValue</key>
           <integer>510</integer>
           <key>name</key>
@@ -20,6 +20,34 @@
       </array>
       <key>robocjk.deepComponents</key>
       <array>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>weight</key>
+            <integer>29</integer>
+            <key>width</key>
+            <integer>694</integer>
+          </dict>
+          <key>name</key>
+          <string>VG_4E00_00</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>268</integer>
+            <key>y</key>
+            <integer>83</integer>
+          </dict>
+        </dict>
         <dict>
           <key>coord</key>
           <dict>
@@ -43,37 +71,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>344</integer>
+            <integer>316</integer>
             <key>y</key>
-            <integer>76</integer>
-          </dict>
-        </dict>
-        <dict>
-          <key>coord</key>
-          <dict>
-            <key>weight</key>
-            <integer>29</integer>
-            <key>width</key>
-            <integer>551</integer>
-          </dict>
-          <key>name</key>
-          <string>VG_4E00_00</string>
-          <key>transform</key>
-          <dict>
-            <key>rotation</key>
-            <integer>0</integer>
-            <key>scalex</key>
-            <integer>1</integer>
-            <key>scaley</key>
-            <integer>1</integer>
-            <key>tcenterx</key>
-            <integer>0</integer>
-            <key>tcentery</key>
-            <integer>0</integer>
-            <key>x</key>
-            <integer>376</integer>
-            <key>y</key>
-            <integer>274</integer>
+            <integer>287</integer>
           </dict>
         </dict>
         <dict>
@@ -99,35 +99,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>17</integer>
-            <key>y</key>
-            <integer>-49</integer>
-          </dict>
-        </dict>
-        <dict>
-          <key>coord</key>
-          <dict>
-            <key>height</key>
-            <integer>360</integer>
-            <key>weight</key>
-            <integer>30</integer>
-          </dict>
-          <key>name</key>
-          <string>VG_4E28_00</string>
-          <key>transform</key>
-          <dict>
-            <key>rotation</key>
-            <integer>0</integer>
-            <key>scalex</key>
-            <integer>1</integer>
-            <key>scaley</key>
-            <integer>1</integer>
-            <key>tcenterx</key>
-            <integer>0</integer>
-            <key>tcentery</key>
-            <integer>0</integer>
-            <key>x</key>
-            <integer>251</integer>
+            <integer>-36</integer>
             <key>y</key>
             <integer>-49</integer>
           </dict>
@@ -139,6 +111,8 @@
             <integer>-1</integer>
             <key>L_S_bottom_length</key>
             <integer>52</integer>
+            <key>L_S_weight</key>
+            <integer>0</integer>
             <key>M_H_moveV</key>
             <integer>2</integer>
             <key>M_H_right_length</key>
@@ -148,11 +122,11 @@
             <key>R_S_bottom_length</key>
             <integer>52</integer>
             <key>height</key>
-            <integer>370</integer>
+            <integer>379</integer>
             <key>weight</key>
             <integer>30</integer>
             <key>width</key>
-            <integer>426</integer>
+            <integer>474</integer>
           </dict>
           <key>name</key>
           <string>VG_65E5_00</string>
@@ -169,9 +143,37 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>440</integer>
+            <integer>387</integer>
             <key>y</key>
-            <integer>102</integer>
+            <integer>100</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>height</key>
+            <integer>360</integer>
+            <key>weight</key>
+            <integer>30</integer>
+          </dict>
+          <key>name</key>
+          <string>VG_4E28_00</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>231</integer>
+            <key>y</key>
+            <integer>-49</integer>
           </dict>
         </dict>
       </array>
@@ -186,9 +188,9 @@
               <key>coord</key>
               <dict>
                 <key>weight</key>
-                <integer>129</integer>
+                <integer>130</integer>
                 <key>width</key>
-                <integer>616</integer>
+                <integer>671</integer>
               </dict>
               <key>name</key>
               <string>VG_4E00_00</string>
@@ -205,18 +207,18 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>354</integer>
+                <integer>307</integer>
                 <key>y</key>
-                <integer>39</integer>
+                <integer>34</integer>
               </dict>
             </dict>
             <dict>
               <key>coord</key>
               <dict>
                 <key>weight</key>
-                <integer>126</integer>
+                <integer>123</integer>
                 <key>width</key>
-                <integer>571</integer>
+                <integer>617</integer>
               </dict>
               <key>name</key>
               <string>VG_4E00_00</string>
@@ -233,37 +235,9 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>375</integer>
+                <integer>340</integer>
                 <key>y</key>
-                <integer>242</integer>
-              </dict>
-            </dict>
-            <dict>
-              <key>coord</key>
-              <dict>
-                <key>height</key>
-                <integer>380</integer>
-                <key>weight</key>
-                <integer>145</integer>
-              </dict>
-              <key>name</key>
-              <string>VG_4E28_00</string>
-              <key>transform</key>
-              <dict>
-                <key>rotation</key>
-                <integer>0</integer>
-                <key>scalex</key>
-                <integer>1</integer>
-                <key>scaley</key>
-                <integer>1</integer>
-                <key>tcenterx</key>
-                <integer>0</integer>
-                <key>tcentery</key>
-                <integer>0</integer>
-                <key>x</key>
-                <integer>199</integer>
-                <key>y</key>
-                <integer>-26</integer>
+                <integer>240</integer>
               </dict>
             </dict>
             <dict>
@@ -272,7 +246,7 @@
                 <key>height</key>
                 <integer>360</integer>
                 <key>weight</key>
-                <integer>143</integer>
+                <integer>141</integer>
               </dict>
               <key>name</key>
               <string>VG_4E28_00</string>
@@ -289,7 +263,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>-30</integer>
+                <integer>-50</integer>
                 <key>y</key>
                 <integer>-26</integer>
               </dict>
@@ -298,25 +272,25 @@
               <key>coord</key>
               <dict>
                 <key>H_weight</key>
-                <integer>-35</integer>
+                <integer>-30</integer>
                 <key>L_S_bottom_length</key>
                 <integer>33</integer>
                 <key>L_S_weight</key>
                 <integer>-8</integer>
                 <key>M_H_moveV</key>
-                <integer>1</integer>
+                <real>0.9560439560439561</real>
                 <key>M_H_right_length</key>
                 <integer>0</integer>
                 <key>M_H_weight</key>
-                <integer>-5</integer>
+                <integer>-8</integer>
                 <key>R_S_bottom_length</key>
                 <integer>33</integer>
                 <key>height</key>
                 <integer>437</integer>
                 <key>weight</key>
-                <integer>151</integer>
+                <integer>147</integer>
                 <key>width</key>
-                <integer>495</integer>
+                <real>515.75</real>
               </dict>
               <key>name</key>
               <string>VG_65E5_00</string>
@@ -333,9 +307,37 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>422</integer>
+                <integer>394</integer>
                 <key>y</key>
-                <integer>59</integer>
+                <integer>53</integer>
+              </dict>
+            </dict>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>height</key>
+                <integer>380</integer>
+                <key>weight</key>
+                <integer>144</integer>
+              </dict>
+              <key>name</key>
+              <string>VG_4E28_00</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>197</integer>
+                <key>y</key>
+                <integer>-26</integer>
               </dict>
             </dict>
           </array>
@@ -443,34 +445,6 @@
             <dict>
               <key>coord</key>
               <dict>
-                <key>height</key>
-                <integer>360</integer>
-                <key>weight</key>
-                <integer>30</integer>
-              </dict>
-              <key>name</key>
-              <string>VG_4E28_00</string>
-              <key>transform</key>
-              <dict>
-                <key>rotation</key>
-                <integer>0</integer>
-                <key>scalex</key>
-                <integer>1</integer>
-                <key>scaley</key>
-                <integer>1</integer>
-                <key>tcenterx</key>
-                <integer>0</integer>
-                <key>tcentery</key>
-                <integer>0</integer>
-                <key>x</key>
-                <integer>299</integer>
-                <key>y</key>
-                <integer>-49</integer>
-              </dict>
-            </dict>
-            <dict>
-              <key>coord</key>
-              <dict>
                 <key>H_weight</key>
                 <integer>-1</integer>
                 <key>L_S_bottom_length</key>
@@ -508,6 +482,34 @@
                 <integer>505</integer>
                 <key>y</key>
                 <integer>102</integer>
+              </dict>
+            </dict>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>height</key>
+                <integer>360</integer>
+                <key>weight</key>
+                <integer>30</integer>
+              </dict>
+              <key>name</key>
+              <string>VG_4E28_00</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>299</integer>
+                <key>y</key>
+                <integer>-49</integer>
               </dict>
             </dict>
           </array>
@@ -588,34 +590,6 @@
               <key>coord</key>
               <dict>
                 <key>height</key>
-                <integer>380</integer>
-                <key>weight</key>
-                <integer>124</integer>
-              </dict>
-              <key>name</key>
-              <string>VG_4E28_00</string>
-              <key>transform</key>
-              <dict>
-                <key>rotation</key>
-                <integer>0</integer>
-                <key>scalex</key>
-                <integer>1</integer>
-                <key>scaley</key>
-                <integer>1</integer>
-                <key>tcenterx</key>
-                <integer>0</integer>
-                <key>tcentery</key>
-                <integer>0</integer>
-                <key>x</key>
-                <integer>242</integer>
-                <key>y</key>
-                <integer>-26</integer>
-              </dict>
-            </dict>
-            <dict>
-              <key>coord</key>
-              <dict>
-                <key>height</key>
                 <integer>360</integer>
                 <key>weight</key>
                 <integer>121</integer>
@@ -682,6 +656,34 @@
                 <integer>505</integer>
                 <key>y</key>
                 <integer>59</integer>
+              </dict>
+            </dict>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>height</key>
+                <integer>380</integer>
+                <key>weight</key>
+                <integer>124</integer>
+              </dict>
+              <key>name</key>
+              <string>VG_4E28_00</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>242</integer>
+                <key>y</key>
+                <integer>-26</integer>
               </dict>
             </dict>
           </array>
