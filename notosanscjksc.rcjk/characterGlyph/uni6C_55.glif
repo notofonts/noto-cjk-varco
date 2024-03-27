@@ -33,30 +33,100 @@
       <point x="185" y="789"/>
       <point x="117" y="818" type="curve"/>
     </contour>
-    <contour>
-      <point x="882" y="601" type="line"/>
-      <point x="882" y="29" type="line"/>
-      <point x="648" y="29" type="line"/>
-      <point x="648" y="816" type="line"/>
-      <point x="618" y="816" type="line"/>
-      <point x="618" y="29" type="line"/>
-      <point x="391" y="29" type="line"/>
-      <point x="391" y="600" type="line"/>
-      <point x="362" y="600" type="line"/>
-      <point x="362" y="0" type="line"/>
-      <point x="882" y="0" type="line"/>
-      <point x="882" y="-69" type="line"/>
-      <point x="911" y="-69" type="line"/>
-      <point x="911" y="601" type="line"/>
-    </contour>
   </outline>
   <lib>
     <dict>
+      <key>robocjk.deepComponents</key>
+      <array>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>H_slant</key>
+            <integer>0</integer>
+            <key>H_weight</key>
+            <integer>0</integer>
+            <key>LR_S_top_length</key>
+            <integer>-214</integer>
+            <key>M_S_moveH</key>
+            <integer>-2</integer>
+            <key>R_S_bottom_length</key>
+            <integer>74</integer>
+            <key>height</key>
+            <integer>814</integer>
+            <key>weight</key>
+            <integer>29</integer>
+            <key>width</key>
+            <integer>553</integer>
+          </dict>
+          <key>name</key>
+          <string>VG_5C71_00</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>311</integer>
+            <key>y</key>
+            <integer>71</integer>
+          </dict>
+        </dict>
+      </array>
       <key>robocjk.status</key>
-      <integer>0</integer>
+      <integer>1</integer>
       <key>robocjk.variationGlyphs</key>
       <array>
         <dict>
+          <key>deepComponents</key>
+          <array>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>H_slant</key>
+                <integer>0</integer>
+                <key>H_weight</key>
+                <integer>-10</integer>
+                <key>LR_S_top_length</key>
+                <integer>-228</integer>
+                <key>M_S_moveH</key>
+                <integer>0</integer>
+                <key>R_S_bottom_length</key>
+                <integer>53</integer>
+                <key>height</key>
+                <integer>890</integer>
+                <key>weight</key>
+                <integer>144</integer>
+                <key>width</key>
+                <integer>596</integer>
+              </dict>
+              <key>name</key>
+              <string>VG_5C71_00</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>296</integer>
+                <key>y</key>
+                <integer>28</integer>
+              </dict>
+            </dict>
+          </array>
           <key>layerName</key>
           <string>wght=1</string>
           <key>location</key>

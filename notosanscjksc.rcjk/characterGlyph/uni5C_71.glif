@@ -3,36 +3,102 @@
   <advance width="1000"/>
   <unicode hex="5C71"/>
   <outline>
-    <contour>
-      <point x="484" y="816" type="line"/>
-      <point x="484" y="22" type="line"/>
-      <point x="514" y="22" type="line"/>
-      <point x="514" y="816" type="line"/>
-    </contour>
-    <contour>
-      <point x="846" y="629" type="line"/>
-      <point x="846" y="-64" type="line"/>
-      <point x="875" y="-64" type="line"/>
-      <point x="875" y="629" type="line"/>
-    </contour>
-    <contour>
-      <point x="123" y="630" type="line"/>
-      <point x="123" y="13" type="line"/>
-      <point x="866" y="13" type="line"/>
-      <point x="866" y="42" type="line"/>
-      <point x="153" y="42" type="line"/>
-      <point x="153" y="630" type="line"/>
-    </contour>
   </outline>
   <lib>
     <dict>
+      <key>robocjk.deepComponents</key>
+      <array>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>H_slant</key>
+            <integer>0</integer>
+            <key>H_weight</key>
+            <integer>0</integer>
+            <key>LR_S_top_length</key>
+            <integer>-185</integer>
+            <key>M_S_moveH</key>
+            <integer>-2</integer>
+            <key>R_S_bottom_length</key>
+            <integer>74</integer>
+            <key>height</key>
+            <integer>804</integer>
+            <key>weight</key>
+            <integer>29</integer>
+            <key>width</key>
+            <integer>753</integer>
+          </dict>
+          <key>name</key>
+          <string>VG_5C71_00</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>73</integer>
+            <key>y</key>
+            <integer>81</integer>
+          </dict>
+        </dict>
+      </array>
       <key>robocjk.status</key>
-      <integer>0</integer>
+      <integer>4</integer>
       <key>robocjk.variationGlyphs</key>
       <array>
         <dict>
+          <key>deepComponents</key>
+          <array>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>H_slant</key>
+                <integer>0</integer>
+                <key>H_weight</key>
+                <integer>-6</integer>
+                <key>LR_S_top_length</key>
+                <integer>-213</integer>
+                <key>M_S_moveH</key>
+                <integer>0</integer>
+                <key>R_S_bottom_length</key>
+                <integer>74</integer>
+                <key>height</key>
+                <integer>870</integer>
+                <key>weight</key>
+                <integer>150</integer>
+                <key>width</key>
+                <integer>835</integer>
+              </dict>
+              <key>name</key>
+              <string>VG_5C71_00</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>37</integer>
+                <key>y</key>
+                <integer>48</integer>
+              </dict>
+            </dict>
+          </array>
           <key>layerName</key>
-          <string>wght=1</string>
+          <string></string>
           <key>location</key>
           <dict>
             <key>wght</key>
@@ -43,7 +109,7 @@
           <key>sourceName</key>
           <string>wght=1</string>
           <key>status</key>
-          <integer>0</integer>
+          <integer>4</integer>
         </dict>
       </array>
     </dict>
