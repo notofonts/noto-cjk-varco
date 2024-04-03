@@ -107,6 +107,36 @@
           <key>name</key>
           <string>H_weight</string>
         </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>268</integer>
+          <key>maxValue</key>
+          <integer>268</integer>
+          <key>minValue</key>
+          <integer>120</integer>
+          <key>name</key>
+          <string>G_length</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>40</integer>
+          <key>minValue</key>
+          <integer>-40</integer>
+          <key>name</key>
+          <string>G_weight</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>300</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>P_moveV</string>
+        </dict>
       </array>
       <key>robocjk.status</key>
       <integer>0</integer>
@@ -256,6 +286,66 @@
           <true/>
           <key>sourceName</key>
           <string>H_weight=-50</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>G_length=120</string>
+          <key>location</key>
+          <dict>
+            <key>G_length</key>
+            <integer>120</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>G_length=120</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>G_weight=-40</string>
+          <key>location</key>
+          <dict>
+            <key>G_weight</key>
+            <integer>-40</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>G_weight=-40</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>G_weight=40</string>
+          <key>location</key>
+          <dict>
+            <key>G_weight</key>
+            <integer>40</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>G_weight=40</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>P_moveV=300</string>
+          <key>location</key>
+          <dict>
+            <key>P_moveV</key>
+            <integer>300</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>P_moveV=300</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
