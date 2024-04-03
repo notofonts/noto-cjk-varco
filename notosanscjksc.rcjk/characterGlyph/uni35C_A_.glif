@@ -3,72 +3,298 @@
   <advance width="1000"/>
   <unicode hex="35CA"/>
   <outline>
-    <contour>
-      <point x="142" y="741" type="line"/>
-      <point x="393" y="741" type="line"/>
-      <point x="393" y="481" type="line"/>
-      <point x="142" y="481" type="line"/>
-    </contour>
-    <contour>
-      <point x="113" y="770" type="line"/>
-      <point x="113" y="452" type="line"/>
-      <point x="423" y="452" type="line"/>
-      <point x="423" y="770" type="line"/>
-    </contour>
-    <contour>
-      <point x="84" y="318" type="line"/>
-      <point x="84" y="-67" type="line"/>
-      <point x="114" y="-67" type="line"/>
-      <point x="114" y="288" type="line"/>
-      <point x="414" y="288" type="line"/>
-      <point x="414" y="-61" type="line"/>
-      <point x="443" y="-61" type="line"/>
-      <point x="443" y="318" type="line"/>
-    </contour>
-    <contour>
-      <point x="99" y="14" type="line"/>
-      <point x="99" y="-16" type="line"/>
-      <point x="430" y="-16" type="line"/>
-      <point x="430" y="14" type="line"/>
-    </contour>
-    <contour>
-      <point x="572" y="743" type="line"/>
-      <point x="852" y="743" type="line"/>
-      <point x="852" y="483" type="line"/>
-      <point x="572" y="483" type="line"/>
-    </contour>
-    <contour>
-      <point x="542" y="772" type="line"/>
-      <point x="542" y="454" type="line"/>
-      <point x="881" y="454" type="line"/>
-      <point x="881" y="772" type="line"/>
-    </contour>
-    <contour>
-      <point x="520" y="320" type="line"/>
-      <point x="520" y="-65" type="line"/>
-      <point x="549" y="-65" type="line"/>
-      <point x="549" y="290" type="line"/>
-      <point x="875" y="290" type="line"/>
-      <point x="875" y="-59" type="line"/>
-      <point x="905" y="-59" type="line"/>
-      <point x="905" y="320" type="line"/>
-    </contour>
-    <contour>
-      <point x="536" y="16" type="line"/>
-      <point x="536" y="-14" type="line"/>
-      <point x="894" y="-14" type="line"/>
-      <point x="894" y="16" type="line"/>
-    </contour>
   </outline>
   <lib>
     <dict>
+      <key>robocjk.deepComponents</key>
+      <array>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>B_H_length</key>
+            <integer>0</integer>
+            <key>B_H_moveV</key>
+            <integer>0</integer>
+            <key>B_H_weight</key>
+            <integer>0</integer>
+            <key>L_S_bottom_length</key>
+            <integer>0</integer>
+            <key>L_S_weight</key>
+            <integer>0</integer>
+            <key>R_S_bottom_length</key>
+            <integer>0</integer>
+            <key>R_S_weight</key>
+            <integer>0</integer>
+            <key>T_H_weight</key>
+            <integer>0</integer>
+            <key>height</key>
+            <integer>320</integer>
+            <key>weight</key>
+            <integer>30</integer>
+            <key>width</key>
+            <integer>310</integer>
+          </dict>
+          <key>name</key>
+          <string>VG_53E3_00</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>113</integer>
+            <key>y</key>
+            <integer>-109</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>B_H_length</key>
+            <integer>0</integer>
+            <key>B_H_moveV</key>
+            <integer>0</integer>
+            <key>B_H_weight</key>
+            <integer>0</integer>
+            <key>L_S_bottom_length</key>
+            <integer>0</integer>
+            <key>L_S_weight</key>
+            <integer>0</integer>
+            <key>R_S_bottom_length</key>
+            <integer>0</integer>
+            <key>R_S_weight</key>
+            <integer>0</integer>
+            <key>T_H_weight</key>
+            <integer>0</integer>
+            <key>height</key>
+            <integer>320</integer>
+            <key>weight</key>
+            <integer>30</integer>
+            <key>width</key>
+            <integer>343</integer>
+          </dict>
+          <key>name</key>
+          <string>VG_53E3_00</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>540</integer>
+            <key>y</key>
+            <integer>-109</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>B_H_length</key>
+            <integer>0</integer>
+            <key>B_H_moveV</key>
+            <integer>0</integer>
+            <key>B_H_weight</key>
+            <integer>0</integer>
+            <key>L_S_bottom_length</key>
+            <integer>51</integer>
+            <key>L_S_weight</key>
+            <integer>0</integer>
+            <key>R_S_bottom_length</key>
+            <integer>46</integer>
+            <key>R_S_weight</key>
+            <integer>0</integer>
+            <key>T_H_weight</key>
+            <integer>0</integer>
+            <key>height</key>
+            <integer>333</integer>
+            <key>weight</key>
+            <integer>30</integer>
+            <key>width</key>
+            <integer>359</integer>
+          </dict>
+          <key>name</key>
+          <string>VG_53E3_00</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>85</integer>
+            <key>y</key>
+            <integer>-562</integer>
+          </dict>
+        </dict>
+      </array>
       <key>robocjk.status</key>
       <integer>0</integer>
       <key>robocjk.variationGlyphs</key>
       <array>
         <dict>
+          <key>deepComponents</key>
+          <array>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>B_H_length</key>
+                <integer>0</integer>
+                <key>B_H_moveV</key>
+                <integer>0</integer>
+                <key>B_H_weight</key>
+                <integer>-13</integer>
+                <key>L_S_bottom_length</key>
+                <integer>0</integer>
+                <key>L_S_weight</key>
+                <integer>0</integer>
+                <key>R_S_bottom_length</key>
+                <integer>0</integer>
+                <key>R_S_weight</key>
+                <integer>0</integer>
+                <key>T_H_weight</key>
+                <integer>-13</integer>
+                <key>height</key>
+                <integer>367</integer>
+                <key>weight</key>
+                <integer>140</integer>
+                <key>width</key>
+                <integer>359</integer>
+              </dict>
+              <key>name</key>
+              <string>VG_53E3_00</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>89</integer>
+                <key>y</key>
+                <integer>-80</integer>
+              </dict>
+            </dict>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>B_H_length</key>
+                <integer>0</integer>
+                <key>B_H_moveV</key>
+                <integer>0</integer>
+                <key>B_H_weight</key>
+                <integer>-13</integer>
+                <key>L_S_bottom_length</key>
+                <integer>0</integer>
+                <key>L_S_weight</key>
+                <integer>0</integer>
+                <key>R_S_bottom_length</key>
+                <integer>0</integer>
+                <key>R_S_weight</key>
+                <integer>0</integer>
+                <key>T_H_weight</key>
+                <integer>-13</integer>
+                <key>height</key>
+                <integer>367</integer>
+                <key>weight</key>
+                <integer>140</integer>
+                <key>width</key>
+                <integer>375</integer>
+              </dict>
+              <key>name</key>
+              <string>VG_53E3_00</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>533</integer>
+                <key>y</key>
+                <integer>-80</integer>
+              </dict>
+            </dict>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>B_H_length</key>
+                <integer>0</integer>
+                <key>B_H_moveV</key>
+                <integer>0</integer>
+                <key>B_H_weight</key>
+                <integer>-13</integer>
+                <key>L_S_bottom_length</key>
+                <integer>55</integer>
+                <key>L_S_weight</key>
+                <integer>0</integer>
+                <key>R_S_bottom_length</key>
+                <integer>47</integer>
+                <key>R_S_weight</key>
+                <integer>0</integer>
+                <key>T_H_weight</key>
+                <integer>-13</integer>
+                <key>height</key>
+                <integer>403</integer>
+                <key>weight</key>
+                <integer>140</integer>
+                <key>width</key>
+                <integer>393</integer>
+              </dict>
+              <key>name</key>
+              <string>VG_53E3_00</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>67</integer>
+                <key>y</key>
+                <integer>-518</integer>
+              </dict>
+            </dict>
+          </array>
           <key>layerName</key>
-          <string>wght=1</string>
+          <string></string>
           <key>location</key>
           <dict>
             <key>wght</key>
