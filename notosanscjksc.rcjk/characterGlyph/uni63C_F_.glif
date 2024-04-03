@@ -3,52 +3,6 @@
   <advance width="1000"/>
   <unicode hex="63CF"/>
   <outline>
-    <contour>
-      <point x="356" y="673" type="line"/>
-      <point x="356" y="644" type="line"/>
-      <point x="943" y="644" type="line"/>
-      <point x="943" y="673" type="line"/>
-    </contour>
-    <contour>
-      <point x="520" y="830" type="line"/>
-      <point x="520" y="495" type="line"/>
-      <point x="549" y="495" type="line"/>
-      <point x="549" y="830" type="line"/>
-    </contour>
-    <contour>
-      <point x="769" y="830" type="line"/>
-      <point x="769" y="495" type="line"/>
-      <point x="798" y="495" type="line"/>
-      <point x="798" y="830" type="line"/>
-    </contour>
-    <contour>
-      <point x="411" y="437" type="line"/>
-      <point x="411" y="-73" type="line"/>
-      <point x="440" y="-73" type="line"/>
-      <point x="440" y="408" type="line"/>
-      <point x="872" y="408" type="line"/>
-      <point x="872" y="-68" type="line"/>
-      <point x="902" y="-68" type="line"/>
-      <point x="902" y="437" type="line"/>
-    </contour>
-    <contour>
-      <point x="425" y="227" type="line"/>
-      <point x="425" y="197" type="line"/>
-      <point x="888" y="197" type="line"/>
-      <point x="888" y="227" type="line"/>
-    </contour>
-    <contour>
-      <point x="425" y="12" type="line"/>
-      <point x="425" y="-17" type="line"/>
-      <point x="888" y="-17" type="line"/>
-      <point x="888" y="12" type="line"/>
-    </contour>
-    <contour>
-      <point x="641" y="429" type="line"/>
-      <point x="641" y="-3" type="line"/>
-      <point x="671" y="-3" type="line"/>
-      <point x="671" y="429" type="line"/>
-    </contour>
   </outline>
   <lib>
     <dict>
@@ -84,9 +38,35 @@
             <integer>0</integer>
           </dict>
         </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>width</key>
+            <integer>590</integer>
+          </dict>
+          <key>name</key>
+          <string>T_2FF0_82D7</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>0</integer>
+            <key>y</key>
+            <integer>0</integer>
+          </dict>
+        </dict>
       </array>
       <key>robocjk.status</key>
-      <integer>0</integer>
+      <integer>4</integer>
       <key>robocjk.variationGlyphs</key>
       <array>
         <dict>
@@ -124,9 +104,35 @@
                 <integer>0</integer>
               </dict>
             </dict>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>width</key>
+                <integer>596</integer>
+              </dict>
+              <key>name</key>
+              <string>T_2FF0_82D7</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>0</integer>
+                <key>y</key>
+                <integer>0</integer>
+              </dict>
+            </dict>
           </array>
           <key>layerName</key>
-          <string>wght=1</string>
+          <string></string>
           <key>location</key>
           <dict>
             <key>wght</key>
@@ -137,7 +143,7 @@
           <key>sourceName</key>
           <string>wght=1</string>
           <key>status</key>
-          <integer>0</integer>
+          <integer>4</integer>
         </dict>
       </array>
     </dict>
