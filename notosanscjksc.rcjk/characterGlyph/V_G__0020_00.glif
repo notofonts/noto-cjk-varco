@@ -49,16 +49,6 @@
       <array>
         <dict>
           <key>defaultValue</key>
-          <integer>220</integer>
-          <key>maxValue</key>
-          <integer>220</integer>
-          <key>minValue</key>
-          <integer>93</integer>
-          <key>name</key>
-          <string>width</string>
-        </dict>
-        <dict>
-          <key>defaultValue</key>
           <integer>25</integer>
           <key>maxValue</key>
           <integer>160</integer>
@@ -89,13 +79,33 @@
         </dict>
         <dict>
           <key>defaultValue</key>
-          <integer>900</integer>
+          <integer>711</integer>
           <key>maxValue</key>
-          <integer>900</integer>
+          <integer>711</integer>
           <key>minValue</key>
-          <integer>300</integer>
+          <integer>100</integer>
           <key>name</key>
-          <string>height</string>
+          <string>H_width</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>700</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>G_moveV</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>0</integer>
+          <key>minValue</key>
+          <integer>-50</integer>
+          <key>name</key>
+          <string>H_weight</string>
         </dict>
       </array>
       <key>robocjk.status</key>
@@ -134,65 +144,6 @@
         </dict>
         <dict>
           <key>layerName</key>
-          <string>wght=1,width=93,weight=160</string>
-          <key>location</key>
-          <dict>
-            <key>weight</key>
-            <integer>160</integer>
-            <key>wght</key>
-            <integer>1</integer>
-            <key>width</key>
-            <integer>93</integer>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>wght=1,width=93,weight=160</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
-          <string>wght=1,weight=160,P_bottom_moveV=300</string>
-          <key>location</key>
-          <dict>
-            <key>P_bottom_moveV</key>
-            <integer>300</integer>
-            <key>weight</key>
-            <integer>160</integer>
-            <key>wght</key>
-            <integer>1</integer>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>wght=1,weight=160,P_bottom_moveV=300</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
-          <string>wght=1,width=93,weight=160,P_bottom_moveV=300</string>
-          <key>location</key>
-          <dict>
-            <key>P_bottom_moveV</key>
-            <integer>300</integer>
-            <key>weight</key>
-            <integer>160</integer>
-            <key>wght</key>
-            <integer>1</integer>
-            <key>width</key>
-            <integer>93</integer>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>wght=1,width=93,weight=160,P_bottom_moveV=300</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
           <string>P_width=93</string>
           <key>location</key>
           <dict>
@@ -203,6 +154,108 @@
           <true/>
           <key>sourceName</key>
           <string>P_width=93</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>weight=160,P_bottom_moveV=300</string>
+          <key>location</key>
+          <dict>
+            <key>P_bottom_moveV</key>
+            <integer>300</integer>
+            <key>weight</key>
+            <integer>160</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>weight=160,P_bottom_moveV=300</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>wght=1,weight=160,P_bottom_moveV=300,P_width=93</string>
+          <key>location</key>
+          <dict>
+            <key>P_bottom_moveV</key>
+            <integer>300</integer>
+            <key>P_width</key>
+            <integer>93</integer>
+            <key>weight</key>
+            <integer>160</integer>
+            <key>wght</key>
+            <integer>1</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>wght=1,weight=160,P_bottom_moveV=300,P_width=93</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>wght=1,weight=160,P_width=93</string>
+          <key>location</key>
+          <dict>
+            <key>P_width</key>
+            <integer>93</integer>
+            <key>weight</key>
+            <integer>160</integer>
+            <key>wght</key>
+            <integer>1</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>wght=1,weight=160,P_width=93</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>H_width=100</string>
+          <key>location</key>
+          <dict>
+            <key>H_width</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>H_width=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>G_moveV=700</string>
+          <key>location</key>
+          <dict>
+            <key>G_moveV</key>
+            <integer>700</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>G_moveV=700</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>H_weight=-50</string>
+          <key>location</key>
+          <dict>
+            <key>H_weight</key>
+            <integer>-50</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>H_weight=-50</string>
           <key>status</key>
           <integer>0</integer>
         </dict>

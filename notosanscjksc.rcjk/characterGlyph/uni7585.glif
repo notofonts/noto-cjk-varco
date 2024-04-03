@@ -4,34 +4,6 @@
   <unicode hex="7585"/>
   <outline>
     <contour>
-      <point x="101" y="746" type="line"/>
-      <point x="101" y="717" type="line"/>
-      <point x="331" y="717" type="line"/>
-      <point x="331" y="166" type="line"/>
-      <point x="101" y="166" type="line"/>
-      <point x="101" y="136" type="line"/>
-      <point x="361" y="136" type="line"/>
-      <point x="361" y="746" type="line"/>
-    </contour>
-    <contour>
-      <point x="84" y="746" type="line"/>
-      <point x="84" y="40" type="line"/>
-      <point x="113" y="40" type="line"/>
-      <point x="113" y="746" type="line"/>
-    </contour>
-    <contour>
-      <point x="100" y="463" type="line"/>
-      <point x="100" y="433" type="line"/>
-      <point x="348" y="433" type="line"/>
-      <point x="348" y="463" type="line"/>
-    </contour>
-    <contour>
-      <point x="206" y="739" type="line"/>
-      <point x="206" y="152" type="line"/>
-      <point x="235" y="152" type="line"/>
-      <point x="235" y="739" type="line"/>
-    </contour>
-    <contour>
       <point x="403" y="788" type="line"/>
       <point x="403" y="759" type="line"/>
       <point x="928" y="759" type="line"/>
@@ -100,11 +72,69 @@
   </outline>
   <lib>
     <dict>
+      <key>robocjk.deepComponents</key>
+      <array>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>width</key>
+            <integer>274</integer>
+          </dict>
+          <key>name</key>
+          <string>T_7530_2FF0</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>0</integer>
+            <key>y</key>
+            <integer>0</integer>
+          </dict>
+        </dict>
+      </array>
       <key>robocjk.status</key>
-      <integer>0</integer>
+      <integer>1</integer>
       <key>robocjk.variationGlyphs</key>
       <array>
         <dict>
+          <key>deepComponents</key>
+          <array>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>width</key>
+                <integer>264</integer>
+              </dict>
+              <key>name</key>
+              <string>T_7530_2FF0</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>0</integer>
+                <key>y</key>
+                <integer>0</integer>
+              </dict>
+            </dict>
+          </array>
           <key>layerName</key>
           <string>wght=1</string>
           <key>location</key>
@@ -117,7 +147,7 @@
           <key>sourceName</key>
           <string>wght=1</string>
           <key>status</key>
-          <integer>0</integer>
+          <integer>1</integer>
         </dict>
       </array>
     </dict>
