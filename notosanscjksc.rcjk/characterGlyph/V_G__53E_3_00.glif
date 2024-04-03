@@ -123,6 +123,16 @@
           <key>name</key>
           <string>B_H_moveV</string>
         </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>0</integer>
+          <key>minValue</key>
+          <integer>-500</integer>
+          <key>name</key>
+          <string>B_H_length</string>
+        </dict>
       </array>
       <key>robocjk.status</key>
       <integer>0</integer>
@@ -367,6 +377,21 @@
           <true/>
           <key>sourceName</key>
           <string>B_H_moveV=-300</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>B_H_length=-500</string>
+          <key>location</key>
+          <dict>
+            <key>B_H_length</key>
+            <integer>-500</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>B_H_length=-500</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
