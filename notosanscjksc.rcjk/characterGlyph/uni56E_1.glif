@@ -10,22 +10,6 @@
       <point x="813" y="537" type="line"/>
     </contour>
     <contour>
-      <point x="91" y="780" type="line"/>
-      <point x="91" y="-71" type="line"/>
-      <point x="121" y="-71" type="line"/>
-      <point x="121" y="751" type="line"/>
-      <point x="880" y="751" type="line"/>
-      <point x="880" y="-71" type="line"/>
-      <point x="910" y="-71" type="line"/>
-      <point x="910" y="780" type="line"/>
-    </contour>
-    <contour>
-      <point x="109" y="8" type="line"/>
-      <point x="109" y="-21" type="line"/>
-      <point x="895" y="-21" type="line"/>
-      <point x="895" y="8" type="line"/>
-    </contour>
-    <contour>
       <point x="658" y="526" type="line"/>
       <point x="603" y="277"/>
       <point x="452" y="150"/>
@@ -60,11 +44,105 @@
   </outline>
   <lib>
     <dict>
+      <key>robocjk.deepComponents</key>
+      <array>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>B_H_moveV</key>
+            <integer>0</integer>
+            <key>B_H_weight</key>
+            <integer>1</integer>
+            <key>L_S_bottom_length</key>
+            <integer>50</integer>
+            <key>L_S_weight</key>
+            <integer>0</integer>
+            <key>R_S_bottom_length</key>
+            <integer>46</integer>
+            <key>R_S_weight</key>
+            <integer>0</integer>
+            <key>T_H_weight</key>
+            <integer>0</integer>
+            <key>height</key>
+            <integer>804</integer>
+            <key>weight</key>
+            <integer>30</integer>
+            <key>width</key>
+            <integer>813</integer>
+          </dict>
+          <key>name</key>
+          <string>VG_53E3_00</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>95</integer>
+            <key>y</key>
+            <integer>-98</integer>
+          </dict>
+        </dict>
+      </array>
       <key>robocjk.status</key>
       <integer>0</integer>
       <key>robocjk.variationGlyphs</key>
       <array>
         <dict>
+          <key>deepComponents</key>
+          <array>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>B_H_moveV</key>
+                <integer>0</integer>
+                <key>B_H_weight</key>
+                <integer>-17</integer>
+                <key>L_S_bottom_length</key>
+                <integer>40</integer>
+                <key>L_S_weight</key>
+                <integer>-8</integer>
+                <key>R_S_bottom_length</key>
+                <integer>40</integer>
+                <key>R_S_weight</key>
+                <integer>0</integer>
+                <key>T_H_weight</key>
+                <integer>-15</integer>
+                <key>height</key>
+                <integer>866</integer>
+                <key>weight</key>
+                <integer>152</integer>
+                <key>width</key>
+                <integer>864</integer>
+              </dict>
+              <key>name</key>
+              <string>VG_53E3_00</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>69</integer>
+                <key>y</key>
+                <integer>-64</integer>
+              </dict>
+            </dict>
+          </array>
           <key>layerName</key>
           <string>wght=1</string>
           <key>location</key>
