@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="uni39FD" format="2">
+<glyph name="uni738B" format="2">
   <advance width="1000"/>
-  <unicode hex="39FD"/>
+  <unicode hex="738B"/>
   <outline>
   </outline>
   <lib>
@@ -11,17 +11,13 @@
         <dict>
           <key>coord</key>
           <dict>
-            <key>B_T_right_moveH</key>
-            <integer>-20</integer>
-            <key>B_T_right_moveV</key>
-            <integer>0</integer>
-            <key>T_H_right_length</key>
-            <integer>-17</integer>
+            <key>weight</key>
+            <integer>29</integer>
             <key>width</key>
-            <integer>311</integer>
+            <integer>729</integer>
           </dict>
           <key>name</key>
-          <string>T_624C_2FF0</string>
+          <string>VG_4E00_00</string>
           <key>transform</key>
           <dict>
             <key>rotation</key>
@@ -35,19 +31,21 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>0</integer>
+            <integer>152</integer>
             <key>y</key>
-            <integer>0</integer>
+            <integer>-3</integer>
           </dict>
         </dict>
         <dict>
           <key>coord</key>
           <dict>
-            <key>width</key>
-            <integer>523</integer>
+            <key>height</key>
+            <integer>839</integer>
+            <key>weight</key>
+            <integer>30</integer>
           </dict>
           <key>name</key>
-          <string>T_2FF0_56FA</string>
+          <string>VG_4E28_00</string>
           <key>transform</key>
           <dict>
             <key>rotation</key>
@@ -61,14 +59,42 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>0</integer>
+            <integer>-17</integer>
             <key>y</key>
+            <integer>-54</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>weight</key>
+            <integer>29</integer>
+            <key>width</key>
+            <integer>883</integer>
+          </dict>
+          <key>name</key>
+          <string>VG_4E00_00</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
             <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>59</integer>
+            <key>y</key>
+            <integer>-403</integer>
           </dict>
         </dict>
       </array>
       <key>robocjk.status</key>
-      <integer>4</integer>
+      <integer>0</integer>
       <key>robocjk.variationGlyphs</key>
       <array>
         <dict>
@@ -77,17 +103,13 @@
             <dict>
               <key>coord</key>
               <dict>
-                <key>B_T_right_moveH</key>
-                <integer>-10</integer>
-                <key>B_T_right_moveV</key>
-                <integer>10</integer>
-                <key>T_H_right_length</key>
-                <integer>-20</integer>
+                <key>weight</key>
+                <integer>143</integer>
                 <key>width</key>
-                <integer>303</integer>
+                <integer>729</integer>
               </dict>
               <key>name</key>
-              <string>T_624C_2FF0</string>
+              <string>VG_4E00_00</string>
               <key>transform</key>
               <dict>
                 <key>rotation</key>
@@ -101,19 +123,21 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>0</integer>
+                <integer>140</integer>
                 <key>y</key>
-                <integer>0</integer>
+                <integer>-63</integer>
               </dict>
             </dict>
             <dict>
               <key>coord</key>
               <dict>
-                <key>width</key>
-                <integer>539</integer>
+                <key>height</key>
+                <integer>870</integer>
+                <key>weight</key>
+                <integer>157</integer>
               </dict>
               <key>name</key>
-              <string>T_2FF0_56FA</string>
+              <string>VG_4E28_00</string>
               <key>transform</key>
               <dict>
                 <key>rotation</key>
@@ -127,9 +151,37 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>0</integer>
+                <integer>-80</integer>
                 <key>y</key>
+                <integer>-26</integer>
+              </dict>
+            </dict>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>weight</key>
+                <integer>143</integer>
+                <key>width</key>
+                <integer>919</integer>
+              </dict>
+              <key>name</key>
+              <string>VG_4E00_00</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
                 <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>42</integer>
+                <key>y</key>
+                <integer>-434</integer>
               </dict>
             </dict>
           </array>
@@ -138,14 +190,14 @@
           <key>location</key>
           <dict>
             <key>wght</key>
-            <real>1.0</real>
+            <integer>1</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
           <string>wght=1</string>
           <key>status</key>
-          <integer>4</integer>
+          <integer>0</integer>
         </dict>
       </array>
     </dict>
