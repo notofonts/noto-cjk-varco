@@ -16,5 +16,5 @@ fontra-copy notoserifcjkjp.rcjk build/fontra/notoserifcjkjp.fontra
 fontra-copy notosanscjksc.rcjk build/ufo/notosanscjksc.designspace
 fontra-copy notoserifcjkjp.rcjk build/ufo/notoserifcjkjp.designspace
 
-fontra-workflow notosanscjksc.yaml --output-dir build
-fontra-workflow notoserifcjkjp.yaml --output-dir build
+fontra-workflow notosanscjksc.yaml --output-dir build --continue-on-error
+fontra-workflow notoserifcjkjp.yaml --output-dir build --continue-on-error
