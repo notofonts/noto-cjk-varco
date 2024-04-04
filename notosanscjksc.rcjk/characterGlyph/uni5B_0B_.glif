@@ -4,60 +4,6 @@
   <unicode hex="5B0B"/>
   <outline>
     <contour>
-      <point x="386" y="125" type="line"/>
-      <point x="386" y="93" type="line"/>
-      <point x="952" y="93" type="line"/>
-      <point x="952" y="125" type="line"/>
-    </contour>
-    <contour>
-      <point x="458" y="355" type="line"/>
-      <point x="867" y="355" type="line"/>
-      <point x="867" y="243" type="line"/>
-      <point x="458" y="243" type="line"/>
-    </contour>
-    <contour>
-      <point x="458" y="494" type="line"/>
-      <point x="867" y="494" type="line"/>
-      <point x="867" y="384" type="line"/>
-      <point x="458" y="384" type="line"/>
-    </contour>
-    <contour>
-      <point x="429" y="523" type="line"/>
-      <point x="429" y="214" type="line"/>
-      <point x="894" y="214" type="line"/>
-      <point x="894" y="523" type="line"/>
-    </contour>
-    <contour>
-      <point x="645" y="512" type="line"/>
-      <point x="645" y="-70" type="line"/>
-      <point x="675" y="-70" type="line"/>
-      <point x="675" y="512" type="line"/>
-    </contour>
-    <contour>
-      <point x="439" y="767" type="line"/>
-      <point x="594" y="767" type="line"/>
-      <point x="594" y="624" type="line"/>
-      <point x="439" y="624" type="line"/>
-    </contour>
-    <contour>
-      <point x="411" y="796" type="line"/>
-      <point x="411" y="595" type="line"/>
-      <point x="623" y="595" type="line"/>
-      <point x="623" y="796" type="line"/>
-    </contour>
-    <contour>
-      <point x="725" y="767" type="line"/>
-      <point x="889" y="767" type="line"/>
-      <point x="889" y="624" type="line"/>
-      <point x="725" y="624" type="line"/>
-    </contour>
-    <contour>
-      <point x="698" y="796" type="line"/>
-      <point x="698" y="595" type="line"/>
-      <point x="917" y="595" type="line"/>
-      <point x="917" y="796" type="line"/>
-    </contour>
-    <contour>
       <point x="49" y="619" type="line"/>
       <point x="49" y="589" type="line"/>
       <point x="355" y="589" type="line"/>
@@ -103,11 +49,69 @@
   </outline>
   <lib>
     <dict>
+      <key>robocjk.deepComponents</key>
+      <array>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>width</key>
+            <real>576.19</real>
+          </dict>
+          <key>name</key>
+          <string>T_2FF0_55AE</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>0</integer>
+            <key>y</key>
+            <integer>0</integer>
+          </dict>
+        </dict>
+      </array>
       <key>robocjk.status</key>
-      <integer>0</integer>
+      <integer>1</integer>
       <key>robocjk.variationGlyphs</key>
       <array>
         <dict>
+          <key>deepComponents</key>
+          <array>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>width</key>
+                <real>576.19</real>
+              </dict>
+              <key>name</key>
+              <string>T_2FF0_55AE</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>0</integer>
+                <key>y</key>
+                <integer>0</integer>
+              </dict>
+            </dict>
+          </array>
           <key>layerName</key>
           <string>wght=1</string>
           <key>location</key>
