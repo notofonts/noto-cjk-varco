@@ -2,7 +2,7 @@ steps:
 - action: input
   source: notoserifcjkjp.rcjk
   steps:
-  - action: subset
+  - action: subset-glyphs
     glyphNamesFile: notoserifcjkjp-glyphnames.txt
 
 - action: set-font-info
