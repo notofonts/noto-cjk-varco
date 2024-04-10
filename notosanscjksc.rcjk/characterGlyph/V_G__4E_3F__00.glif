@@ -22,6 +22,8 @@
       <key>robocjk.axes</key>
       <array>
         <dict>
+          <key>customData</key>
+          <dict/>
           <key>defaultValue</key>
           <integer>220</integer>
           <key>maxValue</key>
@@ -32,6 +34,8 @@
           <string>width</string>
         </dict>
         <dict>
+          <key>customData</key>
+          <dict/>
           <key>defaultValue</key>
           <integer>25</integer>
           <key>maxValue</key>
@@ -42,6 +46,8 @@
           <string>weight</string>
         </dict>
         <dict>
+          <key>customData</key>
+          <dict/>
           <key>defaultValue</key>
           <integer>0</integer>
           <key>maxValue</key>
@@ -50,6 +56,30 @@
           <integer>0</integer>
           <key>name</key>
           <string>P_bottom_moveV</string>
+        </dict>
+        <dict>
+          <key>customData</key>
+          <dict/>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>P_bottom_weightV</string>
+        </dict>
+        <dict>
+          <key>customData</key>
+          <dict/>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>0</integer>
+          <key>minValue</key>
+          <integer>-100</integer>
+          <key>name</key>
+          <string>P_bottom_weightH</string>
         </dict>
       </array>
       <key>robocjk.status</key>
@@ -157,6 +187,21 @@
           <true/>
           <key>sourceName</key>
           <string>wght=1,width=93,weight=160,P_bottom_moveV=300</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>P_bottom_weightV=100</string>
+          <key>location</key>
+          <dict>
+            <key>P_bottom_weightV</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>P_bottom_weightV=100</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
