@@ -39,40 +39,174 @@
       <point x="804" y="89"/>
       <point x="634" y="254"/>
     </contour>
-    <contour>
-      <point x="96" y="703" type="line"/>
-      <point x="96" y="518" type="line"/>
-      <point x="126" y="518" type="line"/>
-      <point x="126" y="673" type="line"/>
-      <point x="878" y="673" type="line"/>
-      <point x="878" y="518" type="line"/>
-      <point x="908" y="518" type="line"/>
-      <point x="908" y="703" type="line"/>
-    </contour>
-    <contour>
-      <point x="448" y="821" type="line"/>
-      <point x="473" y="778"/>
-      <point x="499" y="720"/>
-      <point x="510" y="685" type="curve"/>
-      <point x="539" y="694" type="line"/>
-      <point x="528" y="729"/>
-      <point x="501" y="786"/>
-      <point x="476" y="828" type="curve"/>
-    </contour>
   </outline>
   <lib>
     <dict>
+      <key>robocjk.deepComponents</key>
+      <array>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>T_weightH</key>
+            <integer>0</integer>
+            <key>T_weightV</key>
+            <integer>0</integer>
+            <key>length</key>
+            <real>139.81</real>
+            <key>weight</key>
+            <integer>28</integer>
+            <key>width</key>
+            <real>2.53</real>
+          </dict>
+          <key>name</key>
+          <string>VG_4E36_00</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>18</integer>
+            <key>y</key>
+            <integer>5</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>L_S_end_length</key>
+            <integer>0</integer>
+            <key>L_S_weight</key>
+            <integer>0</integer>
+            <key>R_S_end_length</key>
+            <integer>0</integer>
+            <key>R_S_weight</key>
+            <integer>0</integer>
+            <key>T_H_weight</key>
+            <integer>0</integer>
+            <key>height</key>
+            <integer>186</integer>
+            <key>weight</key>
+            <integer>30</integer>
+            <key>width</key>
+            <integer>815</integer>
+          </dict>
+          <key>name</key>
+          <string>VG_5196_00</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>95</integer>
+            <key>y</key>
+            <integer>-177</integer>
+          </dict>
+        </dict>
+      </array>
       <key>robocjk.status</key>
       <integer>0</integer>
       <key>robocjk.variationGlyphs</key>
       <array>
         <dict>
+          <key>deepComponents</key>
+          <array>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>T_weightH</key>
+                <integer>-6</integer>
+                <key>T_weightV</key>
+                <integer>-3</integer>
+                <key>length</key>
+                <real>142.81</real>
+                <key>weight</key>
+                <real>161.79</real>
+                <key>width</key>
+                <real>-37.47</real>
+              </dict>
+              <key>name</key>
+              <string>VG_4E36_00</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>50</integer>
+                <key>y</key>
+                <integer>18</integer>
+              </dict>
+            </dict>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>L_S_end_length</key>
+                <integer>0</integer>
+                <key>L_S_weight</key>
+                <integer>0</integer>
+                <key>R_S_end_length</key>
+                <integer>0</integer>
+                <key>R_S_weight</key>
+                <integer>0</integer>
+                <key>T_H_weight</key>
+                <integer>-3</integer>
+                <key>height</key>
+                <integer>254</integer>
+                <key>weight</key>
+                <integer>145</integer>
+                <key>width</key>
+                <integer>889</integer>
+              </dict>
+              <key>name</key>
+              <string>VG_5196_00</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>60</integer>
+                <key>y</key>
+                <integer>-149</integer>
+              </dict>
+            </dict>
+          </array>
           <key>layerName</key>
           <string>wght=1</string>
           <key>location</key>
           <dict>
             <key>wght</key>
-            <real>1.0</real>
+            <integer>1</integer>
           </dict>
           <key>on</key>
           <true/>
