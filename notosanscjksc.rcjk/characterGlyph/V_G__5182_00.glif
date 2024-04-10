@@ -36,6 +36,8 @@
       <key>robocjk.axes</key>
       <array>
         <dict>
+          <key>customData</key>
+          <dict/>
           <key>defaultValue</key>
           <integer>30</integer>
           <key>maxValue</key>
@@ -46,6 +48,8 @@
           <string>weight</string>
         </dict>
         <dict>
+          <key>customData</key>
+          <dict/>
           <key>defaultValue</key>
           <integer>1000</integer>
           <key>maxValue</key>
@@ -56,6 +60,8 @@
           <string>height</string>
         </dict>
         <dict>
+          <key>customData</key>
+          <dict/>
           <key>defaultValue</key>
           <integer>1000</integer>
           <key>maxValue</key>
@@ -66,6 +72,8 @@
           <string>width</string>
         </dict>
         <dict>
+          <key>customData</key>
+          <dict/>
           <key>defaultValue</key>
           <integer>0</integer>
           <key>maxValue</key>
@@ -76,6 +84,8 @@
           <string>T_H_weight</string>
         </dict>
         <dict>
+          <key>customData</key>
+          <dict/>
           <key>defaultValue</key>
           <integer>0</integer>
           <key>maxValue</key>
@@ -86,16 +96,20 @@
           <string>L_S_weight</string>
         </dict>
         <dict>
+          <key>customData</key>
+          <dict/>
           <key>defaultValue</key>
           <integer>237</integer>
           <key>maxValue</key>
           <integer>237</integer>
           <key>minValue</key>
-          <integer>120</integer>
+          <integer>80</integer>
           <key>name</key>
           <string>G_length</string>
         </dict>
         <dict>
+          <key>customData</key>
+          <dict/>
           <key>defaultValue</key>
           <integer>0</integer>
           <key>maxValue</key>
@@ -106,6 +120,8 @@
           <string>G_weight</string>
         </dict>
         <dict>
+          <key>customData</key>
+          <dict/>
           <key>defaultValue</key>
           <integer>0</integer>
           <key>maxValue</key>
@@ -116,6 +132,8 @@
           <string>G_moveV</string>
         </dict>
         <dict>
+          <key>customData</key>
+          <dict/>
           <key>defaultValue</key>
           <integer>0</integer>
           <key>maxValue</key>
@@ -126,6 +144,8 @@
           <string>L_S_bottom_length</string>
         </dict>
         <dict>
+          <key>customData</key>
+          <dict/>
           <key>defaultValue</key>
           <integer>1</integer>
           <key>maxValue</key>
@@ -464,6 +484,38 @@
           <true/>
           <key>sourceName</key>
           <string>T_H_weight=-100,L_S_style2=2</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>G_length=80</string>
+          <key>location</key>
+          <dict>
+            <key>G_length</key>
+            <integer>80</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>G_length=80</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>weight=160,G_length=80</string>
+          <key>location</key>
+          <dict>
+            <key>G_length</key>
+            <integer>80</integer>
+            <key>weight</key>
+            <integer>160</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>weight=160,G_length=80</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
