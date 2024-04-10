@@ -39,8 +39,10 @@
         <dict>
           <key>coord</key>
           <dict>
+            <key>B_width</key>
+            <integer>-10</integer>
             <key>S_bottom_length</key>
-            <integer>30</integer>
+            <integer>20</integer>
             <key>height</key>
             <real>227.285826628758</real>
           </dict>
@@ -61,7 +63,7 @@
             <key>x</key>
             <integer>0</integer>
             <key>y</key>
-            <integer>0</integer>
+            <integer>-160</integer>
           </dict>
         </dict>
       </array>
@@ -105,10 +107,14 @@
             <dict>
               <key>coord</key>
               <dict>
+                <key>B_width</key>
+                <integer>-10</integer>
                 <key>H_weight</key>
-                <integer>20</integer>
+                <integer>6</integer>
                 <key>S_bottom_length</key>
-                <integer>79</integer>
+                <integer>39</integer>
+                <key>T_D_width</key>
+                <integer>10</integer>
                 <key>height</key>
                 <real>220.870606738854</real>
               </dict>
@@ -129,7 +135,7 @@
                 <key>x</key>
                 <integer>0</integer>
                 <key>y</key>
-                <integer>0</integer>
+                <integer>-183</integer>
               </dict>
             </dict>
           </array>
