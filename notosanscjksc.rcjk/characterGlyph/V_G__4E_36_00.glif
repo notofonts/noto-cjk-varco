@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="VG_4E36_00" format="2">
+  <advance width="1000"/>
+  <outline>
+    <contour>
+      <point x="431" y="815" type="line"/>
+      <point x="474" y="732"/>
+      <point x="522" y="624"/>
+      <point x="546" y="561" type="curve"/>
+      <point x="570" y="571" type="line"/>
+      <point x="546" y="632"/>
+      <point x="497.7592862543395" y="740.6745499557305"/>
+      <point x="456" y="823" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>robocjk.axes</key>
+      <array>
+        <dict>
+          <key>customData</key>
+          <dict/>
+          <key>defaultValue</key>
+          <integer>25</integer>
+          <key>maxValue</key>
+          <integer>170</integer>
+          <key>minValue</key>
+          <integer>25</integer>
+          <key>name</key>
+          <string>weight</string>
+        </dict>
+      </array>
+      <key>robocjk.status</key>
+      <integer>0</integer>
+      <key>robocjk.variationGlyphs</key>
+      <array>
+        <dict>
+          <key>layerName</key>
+          <string>weight=170</string>
+          <key>location</key>
+          <dict>
+            <key>weight</key>
+            <integer>170</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>weight=170</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>
