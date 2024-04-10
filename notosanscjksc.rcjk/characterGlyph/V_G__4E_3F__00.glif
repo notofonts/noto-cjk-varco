@@ -27,7 +27,7 @@
           <key>defaultValue</key>
           <integer>220</integer>
           <key>maxValue</key>
-          <integer>220</integer>
+          <integer>250</integer>
           <key>minValue</key>
           <integer>93</integer>
           <key>name</key>
@@ -244,6 +244,21 @@
           <true/>
           <key>sourceName</key>
           <string>P_top_length=-350</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>width=250</string>
+          <key>location</key>
+          <dict>
+            <key>width</key>
+            <integer>250</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>width=250</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
