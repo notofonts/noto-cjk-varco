@@ -4,28 +4,10 @@
   <unicode hex="834E"/>
   <outline>
     <contour>
-      <point x="483" y="310" type="line"/>
-      <point x="483" y="-25" type="line"/>
-      <point x="513" y="-25" type="line"/>
-      <point x="513" y="310" type="line"/>
-    </contour>
-    <contour>
       <point x="97" y="568" type="line"/>
       <point x="97" y="538" type="line"/>
       <point x="905" y="538" type="line"/>
       <point x="905" y="568" type="line"/>
-    </contour>
-    <contour>
-      <point x="60" y="-9" type="line"/>
-      <point x="60" y="-38" type="line"/>
-      <point x="943" y="-38" type="line"/>
-      <point x="943" y="-9" type="line"/>
-    </contour>
-    <contour>
-      <point x="163" y="194" type="line"/>
-      <point x="163" y="165" type="line"/>
-      <point x="829" y="165" type="line"/>
-      <point x="829" y="194" type="line"/>
     </contour>
     <contour>
       <point x="634" y="474" type="line"/>
@@ -98,6 +80,34 @@
             <integer>0</integer>
           </dict>
         </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>T_H_length</key>
+            <integer>-100</integer>
+            <key>height</key>
+            <real>350.998971629061</real>
+          </dict>
+          <key>name</key>
+          <string>T_2FF1_571F</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>0</integer>
+            <key>y</key>
+            <integer>0</integer>
+          </dict>
+        </dict>
       </array>
       <key>robocjk.status</key>
       <integer>1</integer>
@@ -118,6 +128,38 @@
               </dict>
               <key>name</key>
               <string>T_8279_2FF1</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>0</integer>
+                <key>y</key>
+                <integer>0</integer>
+              </dict>
+            </dict>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>H_weight</key>
+                <integer>10</integer>
+                <key>S_top_length</key>
+                <real>41.4675458229992</real>
+                <key>T_H_length</key>
+                <real>-25.660879559615296</real>
+                <key>height</key>
+                <integer>324</integer>
+              </dict>
+              <key>name</key>
+              <string>T_2FF1_571F</string>
               <key>transform</key>
               <dict>
                 <key>rotation</key>
