@@ -99,6 +99,30 @@
           <key>name</key>
           <string>P_width</string>
         </dict>
+        <dict>
+          <key>customData</key>
+          <dict/>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>P_bottom_weightV</string>
+        </dict>
+        <dict>
+          <key>customData</key>
+          <dict/>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>0</integer>
+          <key>minValue</key>
+          <integer>-100</integer>
+          <key>name</key>
+          <string>P_bottom_weightH</string>
+        </dict>
       </array>
       <key>robocjk.status</key>
       <integer>0</integer>
@@ -265,6 +289,36 @@
           <true/>
           <key>sourceName</key>
           <string>wght=1,weight=160,P_width=93</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>P_bottom_weightV=100</string>
+          <key>location</key>
+          <dict>
+            <key>P_bottom_weightV</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>P_bottom_weightV=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>P_bottom_weightH=-100</string>
+          <key>location</key>
+          <dict>
+            <key>P_bottom_weightH</key>
+            <integer>-100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>P_bottom_weightH=-100</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
