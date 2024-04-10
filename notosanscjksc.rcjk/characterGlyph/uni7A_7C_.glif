@@ -40,16 +40,6 @@
       <point x="625" y="187"/>
     </contour>
     <contour>
-      <point x="89" y="707" type="line"/>
-      <point x="89" y="563" type="line"/>
-      <point x="120" y="563" type="line"/>
-      <point x="120" y="677" type="line"/>
-      <point x="882" y="677" type="line"/>
-      <point x="882" y="563" type="line"/>
-      <point x="913" y="563" type="line"/>
-      <point x="913" y="707" type="line"/>
-    </contour>
-    <contour>
       <point x="371" y="625" type="line"/>
       <point x="305" y="554"/>
       <point x="207" y="491"/>
@@ -69,30 +59,84 @@
       <point x="705" y="578"/>
       <point x="617" y="620" type="curve"/>
     </contour>
-    <contour>
-      <point x="447" y="820" type="line"/>
-      <point x="474" y="789"/>
-      <point x="503" y="746"/>
-      <point x="516" y="719" type="curve"/>
-      <point x="542" y="731" type="line"/>
-      <point x="529" y="758"/>
-      <point x="500" y="799"/>
-      <point x="473" y="830" type="curve"/>
-    </contour>
   </outline>
   <lib>
     <dict>
+      <key>robocjk.deepComponents</key>
+      <array>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>S_bottom_length</key>
+            <integer>30</integer>
+            <key>height</key>
+            <real>227.285826628758</real>
+          </dict>
+          <key>name</key>
+          <string>T_5B80_2FF1</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>0</integer>
+            <key>y</key>
+            <integer>0</integer>
+          </dict>
+        </dict>
+      </array>
       <key>robocjk.status</key>
       <integer>0</integer>
       <key>robocjk.variationGlyphs</key>
       <array>
         <dict>
+          <key>deepComponents</key>
+          <array>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>H_weight</key>
+                <integer>20</integer>
+                <key>S_bottom_length</key>
+                <integer>79</integer>
+                <key>height</key>
+                <real>220.870606738854</real>
+              </dict>
+              <key>name</key>
+              <string>T_5B80_2FF1</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>0</integer>
+                <key>y</key>
+                <integer>0</integer>
+              </dict>
+            </dict>
+          </array>
           <key>layerName</key>
           <string>wght=1</string>
           <key>location</key>
           <dict>
             <key>wght</key>
-            <real>1.0</real>
+            <integer>1</integer>
           </dict>
           <key>on</key>
           <true/>

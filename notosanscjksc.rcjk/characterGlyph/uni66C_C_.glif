@@ -74,16 +74,6 @@
       <point x="512" y="142" type="line"/>
     </contour>
     <contour>
-      <point x="121" y="370" type="line"/>
-      <point x="121" y="251" type="line"/>
-      <point x="150" y="251" type="line"/>
-      <point x="150" y="340" type="line"/>
-      <point x="855" y="340" type="line"/>
-      <point x="855" y="251" type="line"/>
-      <point x="884" y="251" type="line"/>
-      <point x="884" y="370" type="line"/>
-    </contour>
-    <contour>
       <point x="396" y="306" type="line"/>
       <point x="314" y="256"/>
       <point x="201" y="206"/>
@@ -102,16 +92,6 @@
       <point x="823" y="220"/>
       <point x="701" y="273"/>
       <point x="602" y="307" type="curve"/>
-    </contour>
-    <contour>
-      <point x="464" y="444" type="line"/>
-      <point x="484" y="414"/>
-      <point x="507" y="374"/>
-      <point x="517" y="347" type="curve"/>
-      <point x="544" y="359" type="line"/>
-      <point x="534" y="383"/>
-      <point x="512" y="424"/>
-      <point x="491" y="453" type="curve"/>
     </contour>
     <contour>
       <point x="148" y="621" type="line"/>
@@ -168,6 +148,34 @@
             <integer>485</integer>
           </dict>
         </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>S_bottom_length</key>
+            <integer>30</integer>
+            <key>height</key>
+            <real>227.285826628758</real>
+          </dict>
+          <key>name</key>
+          <string>T_5B80_2FF1</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>0</integer>
+            <key>y</key>
+            <integer>-300</integer>
+          </dict>
+        </dict>
       </array>
       <key>robocjk.status</key>
       <integer>0</integer>
@@ -206,6 +214,36 @@
                 <integer>318</integer>
                 <key>y</key>
                 <integer>494</integer>
+              </dict>
+            </dict>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>H_weight</key>
+                <integer>20</integer>
+                <key>S_bottom_length</key>
+                <integer>79</integer>
+                <key>height</key>
+                <real>220.870606738854</real>
+              </dict>
+              <key>name</key>
+              <string>T_5B80_2FF1</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>0</integer>
+                <key>y</key>
+                <integer>-300</integer>
               </dict>
             </dict>
           </array>

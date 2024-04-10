@@ -22,16 +22,6 @@
       <point x="920" y="325" type="line"/>
     </contour>
     <contour>
-      <point x="89" y="733" type="line"/>
-      <point x="89" y="608" type="line"/>
-      <point x="119" y="608" type="line"/>
-      <point x="119" y="705" type="line"/>
-      <point x="882" y="705" type="line"/>
-      <point x="882" y="608" type="line"/>
-      <point x="912" y="608" type="line"/>
-      <point x="912" y="733" type="line"/>
-    </contour>
-    <contour>
       <point x="381" y="670" type="line"/>
       <point x="315" y="608"/>
       <point x="214" y="556"/>
@@ -50,16 +40,6 @@
       <point x="820" y="572"/>
       <point x="702" y="629"/>
       <point x="606" y="667" type="curve"/>
-    </contour>
-    <contour>
-      <point x="457" y="824" type="line"/>
-      <point x="480" y="790"/>
-      <point x="506" y="743"/>
-      <point x="518" y="713" type="curve"/>
-      <point x="545" y="724" type="line"/>
-      <point x="534" y="753"/>
-      <point x="508" y="799"/>
-      <point x="484" y="833" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -94,6 +74,34 @@
             <integer>0</integer>
             <key>y</key>
             <integer>5</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>S_bottom_length</key>
+            <integer>30</integer>
+            <key>height</key>
+            <real>227.285826628758</real>
+          </dict>
+          <key>name</key>
+          <string>T_5B80_2FF1</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>0</integer>
+            <key>y</key>
+            <integer>0</integer>
           </dict>
         </dict>
       </array>
@@ -136,13 +144,43 @@
                 <integer>-5</integer>
               </dict>
             </dict>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>H_weight</key>
+                <integer>20</integer>
+                <key>S_bottom_length</key>
+                <integer>79</integer>
+                <key>height</key>
+                <real>220.870606738854</real>
+              </dict>
+              <key>name</key>
+              <string>T_5B80_2FF1</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>0</integer>
+                <key>y</key>
+                <integer>0</integer>
+              </dict>
+            </dict>
           </array>
           <key>layerName</key>
           <string>wght=1</string>
           <key>location</key>
           <dict>
             <key>wght</key>
-            <real>1.0</real>
+            <integer>1</integer>
           </dict>
           <key>on</key>
           <true/>

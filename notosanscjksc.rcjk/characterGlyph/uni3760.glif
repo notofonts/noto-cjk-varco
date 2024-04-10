@@ -25,26 +25,6 @@
       <point x="742" y="76"/>
       <point x="647" y="120" type="curve"/>
     </contour>
-    <contour>
-      <point x="90" y="726" type="line"/>
-      <point x="90" y="578" type="line"/>
-      <point x="120" y="578" type="line"/>
-      <point x="120" y="697" type="line"/>
-      <point x="879" y="697" type="line"/>
-      <point x="879" y="578" type="line"/>
-      <point x="909" y="578" type="line"/>
-      <point x="909" y="726" type="line"/>
-    </contour>
-    <contour>
-      <point x="450" y="824" type="line"/>
-      <point x="475" y="788"/>
-      <point x="501" y="740"/>
-      <point x="513" y="710" type="curve"/>
-      <point x="540" y="720" type="line"/>
-      <point x="529" y="750"/>
-      <point x="502" y="798"/>
-      <point x="477" y="833" type="curve"/>
-    </contour>
   </outline>
   <lib>
     <dict>
@@ -130,9 +110,9 @@
           <key>coord</key>
           <dict>
             <key>S_bottom_length</key>
-            <integer>40</integer>
+            <integer>10</integer>
             <key>height</key>
-            <real>227.29</real>
+            <real>247.29</real>
           </dict>
           <key>name</key>
           <string>T_5B80_2FF1</string>
@@ -241,10 +221,12 @@
             <dict>
               <key>coord</key>
               <dict>
-                <key>S_bottom_length</key>
+                <key>H_weight</key>
                 <integer>20</integer>
+                <key>S_bottom_length</key>
+                <integer>40</integer>
                 <key>height</key>
-                <real>240.87</real>
+                <real>225.87</real>
               </dict>
               <key>name</key>
               <string>T_5B80_2FF1</string>

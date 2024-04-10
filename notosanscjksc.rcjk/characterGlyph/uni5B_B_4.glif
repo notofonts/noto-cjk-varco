@@ -10,16 +10,6 @@
       <point x="939" y="242" type="line"/>
     </contour>
     <contour>
-      <point x="81" y="742" type="line"/>
-      <point x="81" y="581" type="line"/>
-      <point x="110" y="581" type="line"/>
-      <point x="110" y="713" type="line"/>
-      <point x="892" y="713" type="line"/>
-      <point x="892" y="581" type="line"/>
-      <point x="921" y="581" type="line"/>
-      <point x="921" y="742" type="line"/>
-    </contour>
-    <contour>
       <point x="210" y="105" type="line"/>
       <point x="467" y="58"/>
       <point x="705" y="-5"/>
@@ -40,16 +30,6 @@
       <point x="414" y="-41"/>
       <point x="647" y="47"/>
       <point x="736" y="222" type="curve"/>
-    </contour>
-    <contour>
-      <point x="455" y="833" type="line"/>
-      <point x="480" y="797"/>
-      <point x="506" y="749"/>
-      <point x="517" y="717" type="curve"/>
-      <point x="544" y="728" type="line"/>
-      <point x="533" y="760"/>
-      <point x="507" y="808"/>
-      <point x="480" y="843" type="curve"/>
     </contour>
     <contour>
       <point x="210" y="105" type="curve"/>
@@ -111,10 +91,12 @@
         <dict>
           <key>coord</key>
           <dict>
+            <key>B_width</key>
+            <integer>0</integer>
             <key>S_bottom_length</key>
-            <integer>40</integer>
+            <integer>26</integer>
             <key>height</key>
-            <real>227.29</real>
+            <real>237.29</real>
           </dict>
           <key>name</key>
           <string>T_5B80_2FF1</string>
@@ -133,7 +115,7 @@
             <key>x</key>
             <integer>0</integer>
             <key>y</key>
-            <integer>0</integer>
+            <integer>10</integer>
           </dict>
         </dict>
       </array>
@@ -189,10 +171,14 @@
             <dict>
               <key>coord</key>
               <dict>
-                <key>S_bottom_length</key>
+                <key>B_width</key>
+                <integer>0</integer>
+                <key>H_weight</key>
                 <integer>20</integer>
+                <key>S_bottom_length</key>
+                <integer>56</integer>
                 <key>height</key>
-                <real>240.87</real>
+                <real>230.87</real>
               </dict>
               <key>name</key>
               <string>T_5B80_2FF1</string>
@@ -211,7 +197,7 @@
                 <key>x</key>
                 <integer>0</integer>
                 <key>y</key>
-                <integer>0</integer>
+                <integer>10</integer>
               </dict>
             </dict>
           </array>
@@ -220,7 +206,7 @@
           <key>location</key>
           <dict>
             <key>wght</key>
-            <real>1.0</real>
+            <integer>1</integer>
           </dict>
           <key>on</key>
           <true/>
