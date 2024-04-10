@@ -1,36 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="uni4EA9" format="2">
+<glyph name="uni4303" format="2">
   <advance width="1000"/>
-  <unicode hex="4EA9"/>
+  <unicode hex="4303"/>
   <outline>
-    <contour>
-      <point x="167" y="272" type="line"/>
-      <point x="167" y="242" type="line"/>
-      <point x="833" y="242" type="line"/>
-      <point x="833" y="272" type="line"/>
-    </contour>
-    <contour>
-      <point x="166" y="17" type="line"/>
-      <point x="166" y="-13" type="line"/>
-      <point x="832" y="-13" type="line"/>
-      <point x="832" y="17" type="line"/>
-    </contour>
-    <contour>
-      <point x="150" y="515" type="line"/>
-      <point x="150" y="-70" type="line"/>
-      <point x="180" y="-70" type="line"/>
-      <point x="180" y="485" type="line"/>
-      <point x="815" y="485" type="line"/>
-      <point x="815" y="-65" type="line"/>
-      <point x="844" y="-65" type="line"/>
-      <point x="844" y="515" type="line"/>
-    </contour>
-    <contour>
-      <point x="485" y="504" type="line"/>
-      <point x="485" y="5" type="line"/>
-      <point x="515" y="5" type="line"/>
-      <point x="515" y="504" type="line"/>
-    </contour>
   </outline>
   <lib>
     <dict>
@@ -39,15 +11,11 @@
         <dict>
           <key>coord</key>
           <dict>
-            <key>H_moveV</key>
-            <integer>-15</integer>
-            <key>T_D_width</key>
-            <real>21.0693851237005</real>
-            <key>height</key>
-            <real>170.83</real>
+            <key>width</key>
+            <integer>154</integer>
           </dict>
           <key>name</key>
-          <string>T_4EA0_2FF1</string>
+          <string>T_2FF0_5202</string>
           <key>transform</key>
           <dict>
             <key>rotation</key>
@@ -63,12 +31,12 @@
             <key>x</key>
             <integer>0</integer>
             <key>y</key>
-            <integer>10</integer>
+            <integer>0</integer>
           </dict>
         </dict>
       </array>
       <key>robocjk.status</key>
-      <integer>0</integer>
+      <integer>1</integer>
       <key>robocjk.variationGlyphs</key>
       <array>
         <dict>
@@ -77,15 +45,11 @@
             <dict>
               <key>coord</key>
               <dict>
-                <key>H_weight</key>
-                <integer>10</integer>
-                <key>T_D_width</key>
-                <real>-7.56</real>
-                <key>height</key>
-                <real>171.83</real>
+                <key>width</key>
+                <integer>156</integer>
               </dict>
               <key>name</key>
-              <string>T_4EA0_2FF1</string>
+              <string>T_2FF0_5202</string>
               <key>transform</key>
               <dict>
                 <key>rotation</key>
@@ -106,18 +70,18 @@
             </dict>
           </array>
           <key>layerName</key>
-          <string>wght=1</string>
+          <string></string>
           <key>location</key>
           <dict>
             <key>wght</key>
-            <real>1.0</real>
+            <integer>1</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
           <string>wght=1</string>
           <key>status</key>
-          <integer>0</integer>
+          <integer>1</integer>
         </dict>
       </array>
     </dict>
