@@ -2,8 +2,8 @@ steps:
 - action: input
   source: notosanscjksc.rcjk
   steps:
-  - action: subset-glyphs
-    glyphNamesFile: notosanscjksc-glyphnames.txt
+  - action: subset-by-development-status
+    statuses: [4]
 
 - action: set-font-info
   fontInfo:
