@@ -3,25 +3,6 @@
   <advance width="1000"/>
   <unicode hex="500B"/>
   <outline>
-    <contour>
-      <point x="260" y="824" type="line"/>
-      <point x="206" y="664"/>
-      <point x="120" y="506"/>
-      <point x="24" y="402" type="curve"/>
-      <point x="31" y="396"/>
-      <point x="42" y="384"/>
-      <point x="46" y="378" type="curve"/>
-      <point x="142" y="490"/>
-      <point x="231" y="649"/>
-      <point x="288" y="817" type="curve"/>
-    </contour>
-    <contour>
-      <point x="175" y="609" type="line"/>
-      <point x="175" y="-72" type="line"/>
-      <point x="204" y="-72" type="line"/>
-      <point x="204" y="636" type="line"/>
-      <point x="203" y="637" type="line"/>
-    </contour>
   </outline>
   <lib>
     <dict>
@@ -53,9 +34,37 @@
             <integer>0</integer>
           </dict>
         </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>S_moveH</key>
+            <integer>20</integer>
+            <key>width</key>
+            <real>252.390686297134</real>
+          </dict>
+          <key>name</key>
+          <string>T_4EBB_2FF0</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>0</integer>
+            <key>y</key>
+            <integer>0</integer>
+          </dict>
+        </dict>
       </array>
       <key>robocjk.status</key>
-      <integer>1</integer>
+      <integer>4</integer>
       <key>robocjk.variationGlyphs</key>
       <array>
         <dict>
@@ -87,20 +96,48 @@
                 <integer>0</integer>
               </dict>
             </dict>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>S_moveH</key>
+                <integer>0</integer>
+                <key>width</key>
+                <real>272.391</real>
+              </dict>
+              <key>name</key>
+              <string>T_4EBB_2FF0</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>0</integer>
+                <key>y</key>
+                <integer>0</integer>
+              </dict>
+            </dict>
           </array>
           <key>layerName</key>
-          <string>wght=1</string>
+          <string></string>
           <key>location</key>
           <dict>
             <key>wght</key>
-            <real>1.0</real>
+            <integer>1</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
           <string>wght=1</string>
           <key>status</key>
-          <integer>0</integer>
+          <integer>4</integer>
         </dict>
       </array>
     </dict>
