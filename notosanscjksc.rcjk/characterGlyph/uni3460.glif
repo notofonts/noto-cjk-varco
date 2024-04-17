@@ -66,33 +66,76 @@
       <point x="508" y="331" type="line"/>
       <point x="508" y="825" type="line"/>
     </contour>
-    <contour>
-      <point x="256" y="822" type="line"/>
-      <point x="203" y="659"/>
-      <point x="118" y="498"/>
-      <point x="24" y="392" type="curve"/>
-      <point x="31" y="386"/>
-      <point x="41" y="375"/>
-      <point x="45" y="369" type="curve"/>
-      <point x="141" y="482"/>
-      <point x="228" y="644"/>
-      <point x="284" y="816" type="curve"/>
-    </contour>
-    <contour>
-      <point x="174" y="606" type="line"/>
-      <point x="174" y="-71" type="line"/>
-      <point x="203" y="-71" type="line"/>
-      <point x="203" y="632" type="line"/>
-      <point x="202" y="634" type="line"/>
-    </contour>
   </outline>
   <lib>
     <dict>
+      <key>robocjk.deepComponents</key>
+      <array>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>S_moveH</key>
+            <integer>20</integer>
+            <key>width</key>
+            <integer>247</integer>
+          </dict>
+          <key>name</key>
+          <string>T_4EBB_2FF0</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>0</integer>
+            <key>y</key>
+            <integer>0</integer>
+          </dict>
+        </dict>
+      </array>
       <key>robocjk.status</key>
-      <integer>0</integer>
+      <integer>1</integer>
       <key>robocjk.variationGlyphs</key>
       <array>
         <dict>
+          <key>deepComponents</key>
+          <array>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>S_moveH</key>
+                <integer>20</integer>
+                <key>width</key>
+                <integer>247</integer>
+              </dict>
+              <key>name</key>
+              <string>T_4EBB_2FF0</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>0</integer>
+                <key>y</key>
+                <integer>0</integer>
+              </dict>
+            </dict>
+          </array>
           <key>layerName</key>
           <string>wght=1</string>
           <key>location</key>
@@ -105,7 +148,7 @@
           <key>sourceName</key>
           <string>wght=1</string>
           <key>status</key>
-          <integer>0</integer>
+          <integer>1</integer>
         </dict>
       </array>
     </dict>

@@ -55,10 +55,12 @@
             <integer>0</integer>
             <key>T_weightV</key>
             <integer>1</integer>
+            <key>curveH</key>
+            <integer>2</integer>
             <key>length</key>
-            <integer>249</integer>
+            <integer>250</integer>
             <key>weight</key>
-            <integer>28</integer>
+            <integer>29</integer>
             <key>width</key>
             <integer>-43</integer>
           </dict>
@@ -77,9 +79,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>-161</integer>
+            <integer>-162</integer>
             <key>y</key>
-            <integer>-602</integer>
+            <integer>-601</integer>
           </dict>
         </dict>
       </array>
@@ -129,16 +131,24 @@
             <dict>
               <key>coord</key>
               <dict>
+                <key>BR_point_moveH</key>
+                <integer>0</integer>
+                <key>BR_point_moveV</key>
+                <integer>0</integer>
+                <key>B_weightH</key>
+                <integer>-1</integer>
+                <key>B_weightV</key>
+                <integer>15</integer>
                 <key>T_weightH</key>
-                <integer>0</integer>
+                <integer>-2</integer>
                 <key>T_weightV</key>
-                <integer>0</integer>
+                <integer>12</integer>
                 <key>length</key>
-                <integer>265</integer>
+                <integer>264</integer>
                 <key>weight</key>
-                <integer>25</integer>
+                <integer>84</integer>
                 <key>width</key>
-                <integer>0</integer>
+                <integer>-70</integer>
               </dict>
               <key>name</key>
               <string>VG_4E36_00</string>
@@ -155,9 +165,9 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>-196</integer>
+                <integer>-168</integer>
                 <key>y</key>
-                <integer>-602</integer>
+                <integer>-600</integer>
               </dict>
             </dict>
           </array>
