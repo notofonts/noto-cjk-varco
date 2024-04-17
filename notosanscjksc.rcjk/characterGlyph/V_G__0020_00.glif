@@ -42,18 +42,6 @@
       <point x="951" y="-2" type="curve" smooth="yes"/>
       <point x="951" y="830" type="line"/>
     </contour>
-    <contour>
-      <point x="238" y="445" type="move"/>
-      <point x="238" y="283"/>
-      <point x="226" y="66"/>
-      <point x="112" y="-94" type="curve"/>
-      <point x="119" y="-98"/>
-      <point x="130" y="-108"/>
-      <point x="135" y="-114" type="curve"/>
-      <point x="252" y="50"/>
-      <point x="267" y="279"/>
-      <point x="267" y="445" type="curve"/>
-    </contour>
   </outline>
   <lib>
     <dict>
@@ -75,7 +63,7 @@
           <key>maxValue</key>
           <integer>300</integer>
           <key>minValue</key>
-          <integer>0</integer>
+          <integer>-50</integer>
           <key>name</key>
           <string>P_bottom_moveV</string>
         </dict>
@@ -93,7 +81,7 @@
           <key>defaultValue</key>
           <integer>711</integer>
           <key>maxValue</key>
-          <integer>711</integer>
+          <integer>911</integer>
           <key>minValue</key>
           <integer>100</integer>
           <key>name</key>
@@ -178,6 +166,16 @@
           <integer>-20</integer>
           <key>name</key>
           <string>L_S_weight</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>-100</integer>
+          <key>name</key>
+          <string>P_bottom_curveH</string>
         </dict>
       </array>
       <key>robocjk.status</key>
@@ -497,6 +495,66 @@
           <true/>
           <key>sourceName</key>
           <string>L_S_weight=-20</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>P_bottom_moveV=-50</string>
+          <key>location</key>
+          <dict>
+            <key>P_bottom_moveV</key>
+            <integer>-50</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>P_bottom_moveV=-50</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>P_bottom_curveH=100</string>
+          <key>location</key>
+          <dict>
+            <key>P_bottom_curveH</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>P_bottom_curveH=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>P_bottom_curveH=-100</string>
+          <key>location</key>
+          <dict>
+            <key>P_bottom_curveH</key>
+            <integer>-100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>P_bottom_curveH=-100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>H_width=911</string>
+          <key>location</key>
+          <dict>
+            <key>H_width</key>
+            <integer>911</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>H_width=911</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
