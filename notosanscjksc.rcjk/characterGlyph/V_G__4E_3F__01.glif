@@ -5,12 +5,12 @@
     <contour>
       <point x="924" y="793" type="line"/>
       <point x="706" y="470"/>
-      <point x="389" y="201"/>
-      <point x="20" y="38" type="curve"/>
-      <point x="28" y="32"/>
-      <point x="36" y="22"/>
-      <point x="41" y="15" type="curve"/>
-      <point x="407" y="181"/>
+      <point x="390" y="199"/>
+      <point x="21" y="36" type="curve"/>
+      <point x="29" y="30"/>
+      <point x="37" y="20"/>
+      <point x="42" y="13" type="curve"/>
+      <point x="408" y="179"/>
       <point x="722" y="446"/>
       <point x="951" y="780" type="curve"/>
     </contour>
@@ -19,16 +19,6 @@
     <dict>
       <key>robocjk.axes</key>
       <array>
-        <dict>
-          <key>defaultValue</key>
-          <integer>780</integer>
-          <key>maxValue</key>
-          <integer>780</integer>
-          <key>minValue</key>
-          <integer>130</integer>
-          <key>name</key>
-          <string>length</string>
-        </dict>
         <dict>
           <key>defaultValue</key>
           <integer>30</integer>
@@ -41,13 +31,23 @@
         </dict>
         <dict>
           <key>defaultValue</key>
-          <integer>0</integer>
+          <integer>930</integer>
           <key>maxValue</key>
-          <integer>0</integer>
+          <integer>930</integer>
           <key>minValue</key>
-          <integer>-400</integer>
+          <integer>130</integer>
           <key>name</key>
           <string>width</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>780</integer>
+          <key>maxValue</key>
+          <integer>780</integer>
+          <key>minValue</key>
+          <integer>130</integer>
+          <key>name</key>
+          <string>height</string>
         </dict>
       </array>
       <key>robocjk.status</key>
@@ -56,21 +56,6 @@
       <array>
         <dict>
           <key>layerName</key>
-          <string>length=130</string>
-          <key>location</key>
-          <dict>
-            <key>length</key>
-            <integer>130</integer>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>length=130</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
           <string>weight=170</string>
           <key>location</key>
           <dict>
@@ -81,91 +66,6 @@
           <true/>
           <key>sourceName</key>
           <string>weight=170</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
-          <string>length=130,weight=170</string>
-          <key>location</key>
-          <dict>
-            <key>length</key>
-            <integer>130</integer>
-            <key>weight</key>
-            <integer>170</integer>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>length=130,weight=170</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
-          <string>width=-400</string>
-          <key>location</key>
-          <dict>
-            <key>width</key>
-            <integer>-400</integer>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>width=-400</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
-          <string>length=130,width=-100</string>
-          <key>location</key>
-          <dict>
-            <key>length</key>
-            <integer>130</integer>
-            <key>width</key>
-            <integer>-100</integer>
-          </dict>
-          <key>on</key>
-          <false/>
-          <key>sourceName</key>
-          <string>length=130,width=-100</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
-          <string>length=130,weight=170,width=-100</string>
-          <key>location</key>
-          <dict>
-            <key>length</key>
-            <integer>130</integer>
-            <key>weight</key>
-            <integer>170</integer>
-            <key>width</key>
-            <integer>-100</integer>
-          </dict>
-          <key>on</key>
-          <false/>
-          <key>sourceName</key>
-          <string>length=130,weight=170,width=-100</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
-          <string>length=130,width=-400</string>
-          <key>location</key>
-          <dict>
-            <key>length</key>
-            <integer>130</integer>
-            <key>width</key>
-            <integer>-400</integer>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>length=130,width=-400</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
