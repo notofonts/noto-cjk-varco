@@ -10,7 +10,12 @@
       <array>
         <dict>
           <key>coord</key>
-          <dict/>
+          <dict>
+            <key>H_moveV</key>
+            <integer>12</integer>
+            <key>L_S_moveH</key>
+            <integer>20</integer>
+          </dict>
           <key>name</key>
           <string>T_5E7F_2FF8</string>
           <key>transform</key>
@@ -45,11 +50,11 @@
             <key>T_H_weight</key>
             <integer>-1</integer>
             <key>height</key>
-            <integer>780</integer>
+            <integer>580</integer>
             <key>weight</key>
             <integer>30</integer>
             <key>width</key>
-            <integer>557</integer>
+            <integer>437</integer>
           </dict>
           <key>name</key>
           <string>VG_5196_00</string>
@@ -66,9 +71,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>224</integer>
+            <integer>355</integer>
             <key>y</key>
-            <integer>-112</integer>
+            <integer>-315</integer>
           </dict>
         </dict>
         <dict>
@@ -77,7 +82,7 @@
             <key>weight</key>
             <integer>29</integer>
             <key>width</key>
-            <integer>883</integer>
+            <integer>743</integer>
           </dict>
           <key>name</key>
           <string>VG_4E00_00</string>
@@ -94,7 +99,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>59</integer>
+            <integer>189</integer>
             <key>y</key>
             <integer>-404</integer>
           </dict>
@@ -105,7 +110,7 @@
             <key>weight</key>
             <integer>29</integer>
             <key>width</key>
-            <integer>523</integer>
+            <integer>423</integer>
           </dict>
           <key>name</key>
           <string>VG_4E00_00</string>
@@ -122,9 +127,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>239</integer>
+            <integer>361</integer>
             <key>y</key>
-            <integer>-151</integer>
+            <integer>-219</integer>
           </dict>
         </dict>
         <dict>
@@ -133,7 +138,7 @@
             <key>weight</key>
             <integer>29</integer>
             <key>width</key>
-            <integer>523</integer>
+            <integer>423</integer>
           </dict>
           <key>name</key>
           <string>VG_4E00_00</string>
@@ -150,14 +155,14 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>239</integer>
+            <integer>361</integer>
             <key>y</key>
-            <integer>108</integer>
+            <integer>-23</integer>
           </dict>
         </dict>
       </array>
       <key>robocjk.status</key>
-      <integer>1</integer>
+      <integer>4</integer>
       <key>robocjk.variationGlyphs</key>
       <array>
         <dict>
@@ -165,7 +170,10 @@
           <array>
             <dict>
               <key>coord</key>
-              <dict/>
+              <dict>
+                <key>H_moveV</key>
+                <integer>12</integer>
+              </dict>
               <key>name</key>
               <string>T_5E7F_2FF8</string>
               <key>transform</key>
@@ -198,13 +206,13 @@
                 <key>R_S_weight</key>
                 <integer>0</integer>
                 <key>T_H_weight</key>
-                <integer>-12</integer>
+                <integer>-15</integer>
                 <key>height</key>
-                <integer>780</integer>
+                <integer>580</integer>
                 <key>weight</key>
-                <integer>152</integer>
+                <integer>141</integer>
                 <key>width</key>
-                <integer>637</integer>
+                <integer>517</integer>
               </dict>
               <key>name</key>
               <string>VG_5196_00</string>
@@ -221,18 +229,18 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>193</integer>
+                <integer>324</integer>
                 <key>y</key>
-                <integer>-76</integer>
+                <integer>-299</integer>
               </dict>
             </dict>
             <dict>
               <key>coord</key>
               <dict>
                 <key>weight</key>
-                <integer>142</integer>
+                <integer>125</integer>
                 <key>width</key>
-                <integer>910</integer>
+                <integer>710</integer>
               </dict>
               <key>name</key>
               <string>VG_4E00_00</string>
@@ -249,18 +257,18 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>46</integer>
+                <integer>230</integer>
                 <key>y</key>
-                <integer>-435</integer>
+                <integer>-458</integer>
               </dict>
             </dict>
             <dict>
               <key>coord</key>
               <dict>
                 <key>weight</key>
-                <integer>140</integer>
+                <integer>120</integer>
                 <key>width</key>
-                <integer>443</integer>
+                <integer>343</integer>
               </dict>
               <key>name</key>
               <string>VG_4E00_00</string>
@@ -277,18 +285,18 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>276</integer>
+                <integer>398</integer>
                 <key>y</key>
-                <integer>-189</integer>
+                <integer>-277</integer>
               </dict>
             </dict>
             <dict>
               <key>coord</key>
               <dict>
                 <key>weight</key>
-                <integer>134</integer>
+                <integer>114</integer>
                 <key>width</key>
-                <integer>446</integer>
+                <integer>346</integer>
               </dict>
               <key>name</key>
               <string>VG_4E00_00</string>
@@ -305,9 +313,9 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>276</integer>
+                <integer>398</integer>
                 <key>y</key>
-                <integer>51</integer>
+                <integer>-100</integer>
               </dict>
             </dict>
           </array>
@@ -323,7 +331,7 @@
           <key>sourceName</key>
           <string>wght=1</string>
           <key>status</key>
-          <integer>1</integer>
+          <integer>4</integer>
         </dict>
       </array>
     </dict>
