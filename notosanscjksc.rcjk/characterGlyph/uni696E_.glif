@@ -4,58 +4,6 @@
   <unicode hex="696E"/>
   <outline>
     <contour>
-      <point x="427" y="696" type="line"/>
-      <point x="427" y="667" type="line"/>
-      <point x="793" y="667" type="line"/>
-      <point x="793" y="696" type="line"/>
-    </contour>
-    <contour>
-      <point x="517" y="191" type="line"/>
-      <point x="517" y="162" type="line"/>
-      <point x="857" y="162" type="line"/>
-      <point x="857" y="191" type="line"/>
-    </contour>
-    <contour>
-      <point x="517" y="8" type="line"/>
-      <point x="517" y="-21" type="line"/>
-      <point x="857" y="-21" type="line"/>
-      <point x="857" y="8" type="line"/>
-    </contour>
-    <contour>
-      <point x="382" y="506" type="line"/>
-      <point x="382" y="476" type="line"/>
-      <point x="948" y="476" type="line"/>
-      <point x="948" y="506" type="line"/>
-    </contour>
-    <contour>
-      <point x="610" y="831" type="line"/>
-      <point x="610" y="491" type="line"/>
-      <point x="639" y="491" type="line"/>
-      <point x="639" y="831" type="line"/>
-    </contour>
-    <contour>
-      <point x="501" y="352" type="line"/>
-      <point x="501" y="-66" type="line"/>
-      <point x="530" y="-66" type="line"/>
-      <point x="530" y="323" type="line"/>
-      <point x="842" y="323" type="line"/>
-      <point x="842" y="-63" type="line"/>
-      <point x="871" y="-63" type="line"/>
-      <point x="871" y="352" type="line"/>
-    </contour>
-    <contour>
-      <point x="878" y="769" type="line"/>
-      <point x="759" y="550"/>
-      <point x="561" y="375"/>
-      <point x="332" y="268" type="curve"/>
-      <point x="340" y="261"/>
-      <point x="352" y="249"/>
-      <point x="357" y="243" type="curve"/>
-      <point x="581" y="357"/>
-      <point x="779" y="530"/>
-      <point x="906" y="759" type="curve"/>
-    </contour>
-    <contour>
       <point x="59" y="631" type="line"/>
       <point x="59" y="602" type="line"/>
       <point x="351" y="602" type="line"/>
@@ -92,11 +40,73 @@
   </outline>
   <lib>
     <dict>
+      <key>robocjk.deepComponents</key>
+      <array>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>P_bottom_moveH</key>
+            <integer>-20</integer>
+            <key>width</key>
+            <real>585.950246919278</real>
+          </dict>
+          <key>name</key>
+          <string>T_2FF0_8005</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>0</integer>
+            <key>y</key>
+            <integer>0</integer>
+          </dict>
+        </dict>
+      </array>
       <key>robocjk.status</key>
-      <integer>0</integer>
+      <integer>1</integer>
       <key>robocjk.variationGlyphs</key>
       <array>
         <dict>
+          <key>deepComponents</key>
+          <array>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>P_bottom_moveH</key>
+                <integer>-20</integer>
+                <key>width</key>
+                <real>585.950246919278</real>
+              </dict>
+              <key>name</key>
+              <string>T_2FF0_8005</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>-10</integer>
+                <key>y</key>
+                <integer>0</integer>
+              </dict>
+            </dict>
+          </array>
           <key>layerName</key>
           <string>wght=1</string>
           <key>location</key>
@@ -109,7 +119,7 @@
           <key>sourceName</key>
           <string>wght=1</string>
           <key>status</key>
-          <integer>0</integer>
+          <integer>1</integer>
         </dict>
       </array>
     </dict>
