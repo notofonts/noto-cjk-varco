@@ -75,8 +75,10 @@
         <dict>
           <key>coord</key>
           <dict>
+            <key>T_slant</key>
+            <integer>20</integer>
             <key>height</key>
-            <integer>669</integer>
+            <integer>659</integer>
             <key>weight</key>
             <integer>30</integer>
           </dict>
@@ -97,7 +99,7 @@
             <key>x</key>
             <integer>-295</integer>
             <key>y</key>
-            <integer>-279</integer>
+            <integer>-289</integer>
           </dict>
         </dict>
       </array>
@@ -153,8 +155,10 @@
             <dict>
               <key>coord</key>
               <dict>
+                <key>T_slant</key>
+                <integer>20</integer>
                 <key>height</key>
-                <integer>719</integer>
+                <integer>709</integer>
                 <key>weight</key>
                 <integer>145</integer>
               </dict>
@@ -175,7 +179,7 @@
                 <key>x</key>
                 <integer>-345</integer>
                 <key>y</key>
-                <integer>-253</integer>
+                <integer>-263</integer>
               </dict>
             </dict>
           </array>
@@ -241,8 +245,10 @@
             <dict>
               <key>coord</key>
               <dict>
+                <key>T_slant</key>
+                <integer>20</integer>
                 <key>height</key>
-                <integer>639</integer>
+                <integer>629</integer>
                 <key>weight</key>
                 <integer>30</integer>
               </dict>
@@ -263,7 +269,7 @@
                 <key>x</key>
                 <integer>-345</integer>
                 <key>y</key>
-                <integer>-309</integer>
+                <integer>-319</integer>
               </dict>
             </dict>
           </array>
@@ -329,8 +335,10 @@
             <dict>
               <key>coord</key>
               <dict>
+                <key>T_slant</key>
+                <integer>20</integer>
                 <key>height</key>
-                <integer>734</integer>
+                <integer>724</integer>
                 <key>weight</key>
                 <integer>135</integer>
               </dict>
@@ -351,7 +359,7 @@
                 <key>x</key>
                 <integer>-395</integer>
                 <key>y</key>
-                <integer>-242</integer>
+                <integer>-252</integer>
               </dict>
             </dict>
           </array>
@@ -419,8 +427,10 @@
             <dict>
               <key>coord</key>
               <dict>
+                <key>T_slant</key>
+                <integer>40</integer>
                 <key>height</key>
-                <integer>754</integer>
+                <integer>734</integer>
                 <key>weight</key>
                 <integer>30</integer>
               </dict>
@@ -441,7 +451,7 @@
                 <key>x</key>
                 <integer>-245</integer>
                 <key>y</key>
-                <integer>-194</integer>
+                <integer>-214</integer>
               </dict>
             </dict>
           </array>
@@ -456,6 +466,98 @@
           <true/>
           <key>sourceName</key>
           <string>S_moveH=50</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>deepComponents</key>
+          <array>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>bottom_weightH</key>
+                <integer>0</integer>
+                <key>bottom_weightV</key>
+                <integer>6</integer>
+                <key>curveH</key>
+                <integer>6</integer>
+                <key>curveV</key>
+                <integer>0</integer>
+                <key>height</key>
+                <integer>448</integer>
+                <key>top_weightH</key>
+                <integer>1</integer>
+                <key>top_weightV</key>
+                <integer>-2</integer>
+                <key>weight</key>
+                <integer>30</integer>
+                <key>width</key>
+                <integer>249</integer>
+              </dict>
+              <key>name</key>
+              <string>VG_4E3F_01</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>-666</integer>
+                <key>y</key>
+                <integer>35</integer>
+              </dict>
+            </dict>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>T_slant</key>
+                <integer>40</integer>
+                <key>height</key>
+                <integer>725</integer>
+                <key>weight</key>
+                <integer>30</integer>
+              </dict>
+              <key>name</key>
+              <string>VG_4E28_00</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>-295</integer>
+                <key>y</key>
+                <integer>-223</integer>
+              </dict>
+            </dict>
+          </array>
+          <key>layerName</key>
+          <string></string>
+          <key>location</key>
+          <dict>
+            <key>S_moveH</key>
+            <integer>50</integer>
+            <key>width</key>
+            <integer>247</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>width=247,S_moveH=50</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
