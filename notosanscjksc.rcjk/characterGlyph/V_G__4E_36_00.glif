@@ -31,7 +31,7 @@
           <key>defaultValue</key>
           <integer>265</integer>
           <key>maxValue</key>
-          <integer>295</integer>
+          <integer>325</integer>
           <key>minValue</key>
           <integer>90</integer>
           <key>name</key>
@@ -73,7 +73,7 @@
           <key>maxValue</key>
           <integer>30</integer>
           <key>minValue</key>
-          <integer>0</integer>
+          <integer>-30</integer>
           <key>name</key>
           <string>curveH</string>
         </dict>
@@ -83,7 +83,7 @@
           <key>maxValue</key>
           <integer>30</integer>
           <key>minValue</key>
-          <integer>0</integer>
+          <integer>-30</integer>
           <key>name</key>
           <string>curveV</string>
         </dict>
@@ -491,6 +491,68 @@
           <true/>
           <key>sourceName</key>
           <string>weight=175,length=90,width=200</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>curveH=-30</string>
+          <key>location</key>
+          <dict>
+            <key>curveH</key>
+            <integer>-30</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>curveH=-30</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>curveV=-30</string>
+          <key>location</key>
+          <dict>
+            <key>curveV</key>
+            <integer>-30</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>curveV=-30</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>length=325</string>
+          <key>location</key>
+          <dict>
+            <key>length</key>
+            <integer>325</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>length=325</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>weight=175,length=325</string>
+          <key>location</key>
+          <dict>
+            <key>length</key>
+            <integer>325</integer>
+            <key>weight</key>
+            <integer>175</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>weight=175,length=325</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
