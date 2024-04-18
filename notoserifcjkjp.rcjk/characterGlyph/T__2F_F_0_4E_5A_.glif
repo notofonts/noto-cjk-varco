@@ -17,6 +17,16 @@
           <key>name</key>
           <string>width</string>
         </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>50</integer>
+          <key>minValue</key>
+          <integer>-50</integer>
+          <key>name</key>
+          <string>height</string>
+        </dict>
       </array>
       <key>robocjk.deepComponents</key>
       <array>
@@ -228,6 +238,122 @@
           <true/>
           <key>sourceName</key>
           <string>wght=1,width=332</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>deepComponents</key>
+          <array>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>barb</key>
+                <integer>1</integer>
+                <key>h-thick</key>
+                <real>3.14179976626413</real>
+                <key>height</key>
+                <real>897.32</real>
+                <key>tooth</key>
+                <real>93.8157382158161</real>
+                <key>tooth_moveH</key>
+                <integer>0</integer>
+                <key>v-thick</key>
+                <real>3.0229840280483</real>
+                <key>weight</key>
+                <integer>44</integer>
+                <key>width</key>
+                <real>429.940786910791</real>
+              </dict>
+              <key>name</key>
+              <string>VG_4E5A_00</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>289</integer>
+                <key>y</key>
+                <integer>-51</integer>
+              </dict>
+            </dict>
+          </array>
+          <key>layerName</key>
+          <string></string>
+          <key>location</key>
+          <dict>
+            <key>height</key>
+            <integer>50</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>height=50</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>deepComponents</key>
+          <array>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>barb</key>
+                <integer>1</integer>
+                <key>h-thick</key>
+                <real>3.14179976626413</real>
+                <key>height</key>
+                <real>797.32</real>
+                <key>tooth</key>
+                <real>93.8157382158161</real>
+                <key>tooth_moveH</key>
+                <integer>0</integer>
+                <key>v-thick</key>
+                <real>3.0229840280483</real>
+                <key>weight</key>
+                <integer>44</integer>
+                <key>width</key>
+                <real>429.940786910791</real>
+              </dict>
+              <key>name</key>
+              <string>VG_4E5A_00</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>289</integer>
+                <key>y</key>
+                <integer>49</integer>
+              </dict>
+            </dict>
+          </array>
+          <key>layerName</key>
+          <string></string>
+          <key>location</key>
+          <dict>
+            <key>height</key>
+            <integer>-50</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>height=-50</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
