@@ -11,6 +11,8 @@
         <dict>
           <key>coord</key>
           <dict>
+            <key>T_H_left_length</key>
+            <integer>2</integer>
             <key>width</key>
             <integer>681</integer>
           </dict>
@@ -40,7 +42,7 @@
             <key>B_H_moveV</key>
             <integer>0</integer>
             <key>L_S_bottom_length</key>
-            <integer>0</integer>
+            <integer>-8</integer>
             <key>R_S_bottom_length</key>
             <integer>0</integer>
             <key>T_H_moveV</key>
@@ -65,7 +67,7 @@
             <key>x</key>
             <integer>0</integer>
             <key>y</key>
-            <integer>0</integer>
+            <integer>-20</integer>
           </dict>
         </dict>
       </array>
@@ -81,6 +83,8 @@
               <dict>
                 <key>B_H_left_length</key>
                 <integer>-67</integer>
+                <key>M_H_left_length</key>
+                <integer>-60</integer>
                 <key>T_H_left_length</key>
                 <integer>-30</integer>
                 <key>width</key>
@@ -110,11 +114,11 @@
               <key>coord</key>
               <dict>
                 <key>B_H_moveV</key>
-                <integer>0</integer>
+                <integer>58</integer>
                 <key>L_S_bottom_length</key>
-                <integer>0</integer>
+                <integer>-45</integer>
                 <key>R_S_bottom_length</key>
-                <integer>0</integer>
+                <integer>-52</integer>
                 <key>T_H_moveV</key>
                 <integer>0</integer>
                 <key>width</key>
@@ -137,7 +141,7 @@
                 <key>x</key>
                 <integer>0</integer>
                 <key>y</key>
-                <integer>0</integer>
+                <integer>-10</integer>
               </dict>
             </dict>
           </array>
