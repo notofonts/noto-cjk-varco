@@ -41,10 +41,12 @@
         <dict>
           <key>coord</key>
           <dict>
+            <key>P_height</key>
+            <integer>-5</integer>
             <key>S_moveH</key>
             <integer>4</integer>
             <key>S_top_moveV</key>
-            <integer>-5</integer>
+            <integer>5</integer>
             <key>width</key>
             <integer>314</integer>
           </dict>
@@ -109,10 +111,12 @@
             <dict>
               <key>coord</key>
               <dict>
+                <key>P_height</key>
+                <integer>20</integer>
                 <key>S_moveH</key>
                 <integer>4</integer>
                 <key>S_top_moveV</key>
-                <integer>-5</integer>
+                <integer>25</integer>
                 <key>width</key>
                 <integer>308</integer>
               </dict>
@@ -142,7 +146,7 @@
           <key>location</key>
           <dict>
             <key>wght</key>
-            <real>1.0</real>
+            <integer>1</integer>
           </dict>
           <key>on</key>
           <true/>
