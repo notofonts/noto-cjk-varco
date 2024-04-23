@@ -3,40 +3,6 @@
   <advance width="1000"/>
   <unicode hex="6906"/>
   <outline>
-    <contour>
-      <point x="60" y="631" type="line"/>
-      <point x="60" y="602" type="line"/>
-      <point x="361" y="602" type="line"/>
-      <point x="361" y="631" type="line"/>
-    </contour>
-    <contour>
-      <point x="207" y="831" type="line"/>
-      <point x="207" y="-68" type="line"/>
-      <point x="236" y="-68" type="line"/>
-      <point x="236" y="831" type="line"/>
-    </contour>
-    <contour>
-      <point x="205" y="623" type="line"/>
-      <point x="173" y="465"/>
-      <point x="96" y="275"/>
-      <point x="26" y="181" type="curve"/>
-      <point x="34" y="177"/>
-      <point x="43" y="166"/>
-      <point x="48" y="158" type="curve"/>
-      <point x="121" y="257"/>
-      <point x="197" y="457"/>
-      <point x="231" y="616" type="curve"/>
-    </contour>
-    <contour>
-      <point x="232" y="546" type="curve"/>
-      <point x="214" y="531" type="line"/>
-      <point x="237" y="500"/>
-      <point x="312" y="376"/>
-      <point x="333" y="335" type="curve"/>
-      <point x="355" y="362" type="line"/>
-      <point x="336" y="392"/>
-      <point x="254" y="519"/>
-    </contour>
   </outline>
   <lib>
     <dict>
@@ -70,9 +36,41 @@
             <integer>0</integer>
           </dict>
         </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>D_length</key>
+            <integer>-20</integer>
+            <key>D_moveV</key>
+            <integer>0</integer>
+            <key>H_right_length</key>
+            <integer>-10</integer>
+            <key>width</key>
+            <integer>327</integer>
+          </dict>
+          <key>name</key>
+          <string>T_6728_2FF0</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>0</integer>
+            <key>y</key>
+            <integer>0</integer>
+          </dict>
+        </dict>
       </array>
       <key>robocjk.status</key>
-      <integer>1</integer>
+      <integer>4</integer>
       <key>robocjk.variationGlyphs</key>
       <array>
         <dict>
@@ -106,20 +104,52 @@
                 <integer>0</integer>
               </dict>
             </dict>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>D_length</key>
+                <integer>-10</integer>
+                <key>D_moveV</key>
+                <integer>0</integer>
+                <key>H_right_length</key>
+                <integer>-10</integer>
+                <key>width</key>
+                <integer>338</integer>
+              </dict>
+              <key>name</key>
+              <string>T_6728_2FF0</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>0</integer>
+                <key>y</key>
+                <integer>0</integer>
+              </dict>
+            </dict>
           </array>
           <key>layerName</key>
-          <string>wght=1</string>
+          <string></string>
           <key>location</key>
           <dict>
             <key>wght</key>
-            <real>1.0</real>
+            <integer>1</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
           <string>wght=1</string>
           <key>status</key>
-          <integer>1</integer>
+          <integer>4</integer>
         </dict>
       </array>
     </dict>

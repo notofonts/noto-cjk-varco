@@ -3,68 +3,6 @@
   <advance width="1000"/>
   <unicode hex="8459"/>
   <outline>
-    <contour>
-      <point x="60" y="445" type="line"/>
-      <point x="60" y="416" type="line"/>
-      <point x="453" y="416" type="line"/>
-      <point x="453" y="445" type="line"/>
-    </contour>
-    <contour>
-      <point x="254" y="605" type="line"/>
-      <point x="254" y="-70" type="line"/>
-      <point x="283" y="-70" type="line"/>
-      <point x="283" y="605" type="line"/>
-    </contour>
-    <contour>
-      <point x="251" y="428" type="line"/>
-      <point x="209" y="292"/>
-      <point x="127" y="145"/>
-      <point x="47" y="79" type="curve"/>
-      <point x="55" y="74"/>
-      <point x="64" y="65"/>
-      <point x="70" y="57" type="curve"/>
-      <point x="149" y="131"/>
-      <point x="231" y="278"/>
-      <point x="275" y="420" type="curve"/>
-    </contour>
-    <contour>
-      <point x="281" y="377" type="curve"/>
-      <point x="263" y="362" type="line"/>
-      <point x="295" y="329"/>
-      <point x="394" y="208"/>
-      <point x="423" y="168" type="curve"/>
-      <point x="443" y="192" type="line"/>
-      <point x="419" y="223"/>
-      <point x="310" y="349"/>
-    </contour>
-    <contour>
-      <point x="518" y="382" type="line"/>
-      <point x="518" y="353" type="line"/>
-      <point x="880" y="353" type="line"/>
-      <point x="880" y="382" type="line"/>
-    </contour>
-    <contour>
-      <point x="518" y="199" type="line"/>
-      <point x="518" y="170" type="line"/>
-      <point x="880" y="170" type="line"/>
-      <point x="880" y="199" type="line"/>
-    </contour>
-    <contour>
-      <point x="518" y="9" type="line"/>
-      <point x="518" y="-20" type="line"/>
-      <point x="880" y="-20" type="line"/>
-      <point x="880" y="9" type="line"/>
-    </contour>
-    <contour>
-      <point x="503" y="566" type="line"/>
-      <point x="503" y="-69" type="line"/>
-      <point x="532" y="-69" type="line"/>
-      <point x="532" y="536" type="line"/>
-      <point x="869" y="536" type="line"/>
-      <point x="869" y="-69" type="line"/>
-      <point x="899" y="-69" type="line"/>
-      <point x="899" y="566" type="line"/>
-    </contour>
   </outline>
   <lib>
     <dict>
@@ -99,31 +37,17 @@
         <dict>
           <key>coord</key>
           <dict>
-            <key>4H_weight</key>
-            <integer>-1</integer>
-            <key>L_S_bottom_length</key>
-            <real>50.63</real>
-            <key>L_S_weight</key>
-            <integer>0</integer>
-            <key>MB_H_moveV</key>
-            <real>3.96</real>
-            <key>MT_H_moveV</key>
-            <real>1.73</real>
-            <key>M_2H_weight</key>
-            <integer>0</integer>
-            <key>R_S_bottom_length</key>
-            <real>49.63</real>
-            <key>R_S_weight</key>
-            <integer>0</integer>
-            <key>height</key>
-            <integer>586</integer>
-            <key>weight</key>
-            <integer>30</integer>
+            <key>D_length</key>
+            <integer>-16</integer>
+            <key>D_moveV</key>
+            <integer>-50</integer>
+            <key>H_right_length</key>
+            <integer>-20</integer>
             <key>width</key>
-            <integer>396</integer>
+            <integer>413</integer>
           </dict>
           <key>name</key>
-          <string>VG_76EE_00</string>
+          <string>T_6728_2FF0</string>
           <key>transform</key>
           <dict>
             <key>rotation</key>
@@ -137,9 +61,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>503</integer>
+            <integer>0</integer>
             <key>y</key>
-            <integer>-314</integer>
+            <integer>0</integer>
           </dict>
         </dict>
       </array>
@@ -181,31 +105,13 @@
             <dict>
               <key>coord</key>
               <dict>
-                <key>4H_weight</key>
-                <real>-13.47</real>
-                <key>L_S_bottom_length</key>
-                <real>37.18</real>
-                <key>L_S_weight</key>
-                <integer>-8</integer>
-                <key>MB_H_moveV</key>
-                <real>-0.77</real>
-                <key>MT_H_moveV</key>
-                <real>-0.77</real>
-                <key>M_2H_weight</key>
-                <real>-10.18</real>
-                <key>R_S_bottom_length</key>
-                <integer>36</integer>
-                <key>R_S_weight</key>
-                <integer>0</integer>
-                <key>height</key>
-                <integer>646</integer>
-                <key>weight</key>
-                <real>143.56666666666666</real>
+                <key>D_moveV</key>
+                <integer>-30</integer>
                 <key>width</key>
-                <integer>449</integer>
+                <integer>403</integer>
               </dict>
               <key>name</key>
-              <string>VG_76EE_00</string>
+              <string>T_6728_2FF0</string>
               <key>transform</key>
               <dict>
                 <key>rotation</key>
@@ -219,18 +125,18 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <real>480.47499999999997</real>
+                <integer>0</integer>
                 <key>y</key>
-                <real>-289.225</real>
+                <integer>0</integer>
               </dict>
             </dict>
           </array>
           <key>layerName</key>
-          <string>wght=1</string>
+          <string></string>
           <key>location</key>
           <dict>
             <key>wght</key>
-            <real>1.0</real>
+            <integer>1</integer>
           </dict>
           <key>on</key>
           <true/>
