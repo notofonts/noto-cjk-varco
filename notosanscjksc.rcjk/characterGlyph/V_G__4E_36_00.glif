@@ -101,7 +101,7 @@
           <key>defaultValue</key>
           <integer>0</integer>
           <key>maxValue</key>
-          <integer>50</integer>
+          <integer>100</integer>
           <key>minValue</key>
           <integer>-50</integer>
           <key>name</key>
@@ -572,6 +572,21 @@
           <true/>
           <key>sourceName</key>
           <string>weight=175,length=325,width=200</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>B_weightV=100</string>
+          <key>location</key>
+          <dict>
+            <key>B_weightV</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>B_weightV=100</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
