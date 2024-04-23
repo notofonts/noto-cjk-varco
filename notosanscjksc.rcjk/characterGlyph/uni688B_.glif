@@ -37,8 +37,10 @@
         <dict>
           <key>coord</key>
           <dict>
+            <key>D_moveV</key>
+            <integer>-60</integer>
             <key>width</key>
-            <integer>450</integer>
+            <integer>360</integer>
           </dict>
           <key>name</key>
           <string>T_6728_2FF0</string>
@@ -97,8 +99,12 @@
             <dict>
               <key>coord</key>
               <dict>
+                <key>D_length</key>
+                <integer>0</integer>
+                <key>H_right_length</key>
+                <integer>-10</integer>
                 <key>width</key>
-                <integer>450</integer>
+                <integer>380</integer>
               </dict>
               <key>name</key>
               <string>T_6728_2FF0</string>
