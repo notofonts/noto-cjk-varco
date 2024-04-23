@@ -488,32 +488,53 @@
         </dict>
         <dict>
           <key>layerName</key>
-          <string>wght=1,width=130,bottom_weightV=100</string>
+          <string>width=130,bottom_weightV=100</string>
           <key>location</key>
           <dict>
             <key>bottom_weightV</key>
             <integer>100</integer>
-            <key>wght</key>
-            <integer>1</integer>
             <key>width</key>
             <integer>130</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>wght=1,width=130,bottom_weightV=100</string>
+          <string>width=130,bottom_weightV=100</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
         <dict>
           <key>layerName</key>
-          <string>wght=1,width=130,height=130,bottom_weightV=100</string>
+          <string>width=130,height=130,bottom_weightV=100</string>
           <key>location</key>
           <dict>
             <key>bottom_weightV</key>
             <integer>100</integer>
             <key>height</key>
             <integer>130</integer>
+            <key>width</key>
+            <integer>130</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>width=130,height=130,bottom_weightV=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>fontraLayerName</key>
+          <string>wght=1,weight=170,width=130,height=130,bottom_weightV=100</string>
+          <key>layerName</key>
+          <string>wght=1,weight=170,width=130,height=13.9b1e1edfeae1</string>
+          <key>location</key>
+          <dict>
+            <key>bottom_weightV</key>
+            <integer>100</integer>
+            <key>height</key>
+            <integer>130</integer>
+            <key>weight</key>
+            <integer>170</integer>
             <key>wght</key>
             <integer>1</integer>
             <key>width</key>
@@ -522,7 +543,24 @@
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>wght=1,width=130,height=130,bottom_weightV=100</string>
+          <string>wght=1,weight=170,width=130,height=130,bottom_weightV=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>width=130,bottom_weightH=-100</string>
+          <key>location</key>
+          <dict>
+            <key>bottom_weightH</key>
+            <integer>-100</integer>
+            <key>width</key>
+            <integer>130</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>width=130,bottom_weightH=-100</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
