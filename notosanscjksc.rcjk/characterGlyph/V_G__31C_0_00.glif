@@ -18,8 +18,6 @@
       <key>robocjk.axes</key>
       <array>
         <dict>
-          <key>customData</key>
-          <dict/>
           <key>defaultValue</key>
           <integer>25</integer>
           <key>maxValue</key>
@@ -30,8 +28,6 @@
           <string>weight</string>
         </dict>
         <dict>
-          <key>customData</key>
-          <dict/>
           <key>defaultValue</key>
           <integer>470</integer>
           <key>maxValue</key>
@@ -42,8 +38,6 @@
           <string>width</string>
         </dict>
         <dict>
-          <key>customData</key>
-          <dict/>
           <key>defaultValue</key>
           <integer>0</integer>
           <key>maxValue</key>
@@ -54,8 +48,6 @@
           <string>R_moveV</string>
         </dict>
         <dict>
-          <key>customData</key>
-          <dict/>
           <key>defaultValue</key>
           <integer>0</integer>
           <key>maxValue</key>
@@ -66,8 +58,6 @@
           <string>R_end_weightV</string>
         </dict>
         <dict>
-          <key>customData</key>
-          <dict/>
           <key>defaultValue</key>
           <integer>0</integer>
           <key>maxValue</key>
@@ -78,8 +68,6 @@
           <string>R_end_weightH</string>
         </dict>
         <dict>
-          <key>customData</key>
-          <dict/>
           <key>defaultValue</key>
           <integer>0</integer>
           <key>maxValue</key>
@@ -88,6 +76,26 @@
           <integer>-50</integer>
           <key>name</key>
           <string>L_weightH</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>50</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>curveV</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>curveH</string>
         </dict>
       </array>
       <key>robocjk.status</key>
@@ -309,6 +317,36 @@
           <true/>
           <key>sourceName</key>
           <string>weight=160,width=570</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>curveV=50</string>
+          <key>location</key>
+          <dict>
+            <key>curveV</key>
+            <integer>50</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>curveV=50</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>curveH=100</string>
+          <key>location</key>
+          <dict>
+            <key>curveH</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>curveH=100</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
