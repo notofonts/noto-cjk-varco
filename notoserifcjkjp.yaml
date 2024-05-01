@@ -1,22 +1,22 @@
 steps:
-- action: input
+- input: fontra-read
   source: notoserifcjkjp.rcjk
   steps:
-  - action: subset-by-development-status
+  - filter: subset-by-development-status
     statuses: [4]
 
-- action: set-font-info
+- filter: set-font-info
   fontInfo:
     familyName: Noto Serif CJK JP Variable Components
     versionMajor: 0
     versionMinor: 1
 
-- action: compile-fontmake
+- output: compile-fontmake
   destination: ttf/notoserifcjkjp.ttf
   steps:
-  - action: decompose-composites
+  - filter: decompose-composites
     onlyVariableComposites: true
-  - action: drop-unreachable-glyphs
+  - filter: drop-unreachable-glyphs
 
-- action: compile-varc
+- output: compile-varc
   destination: ttf-varco/notoserifcjkjp-glyf-1.ttf
