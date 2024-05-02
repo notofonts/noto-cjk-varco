@@ -22,8 +22,6 @@
       <key>robocjk.axes</key>
       <array>
         <dict>
-          <key>customData</key>
-          <dict/>
           <key>defaultValue</key>
           <integer>220</integer>
           <key>maxValue</key>
@@ -34,8 +32,6 @@
           <string>width</string>
         </dict>
         <dict>
-          <key>customData</key>
-          <dict/>
           <key>defaultValue</key>
           <integer>25</integer>
           <key>maxValue</key>
@@ -46,20 +42,16 @@
           <string>weight</string>
         </dict>
         <dict>
-          <key>customData</key>
-          <dict/>
           <key>defaultValue</key>
           <integer>0</integer>
           <key>maxValue</key>
           <integer>300</integer>
           <key>minValue</key>
-          <integer>0</integer>
+          <integer>-100</integer>
           <key>name</key>
           <string>P_bottom_moveV</string>
         </dict>
         <dict>
-          <key>customData</key>
-          <dict/>
           <key>defaultValue</key>
           <integer>0</integer>
           <key>maxValue</key>
@@ -70,8 +62,6 @@
           <string>P_bottom_weightV</string>
         </dict>
         <dict>
-          <key>customData</key>
-          <dict/>
           <key>defaultValue</key>
           <integer>0</integer>
           <key>maxValue</key>
@@ -82,12 +72,10 @@
           <string>P_bottom_weightH</string>
         </dict>
         <dict>
-          <key>customData</key>
-          <dict/>
           <key>defaultValue</key>
           <integer>0</integer>
           <key>maxValue</key>
-          <integer>0</integer>
+          <integer>500</integer>
           <key>minValue</key>
           <integer>-350</integer>
           <key>name</key>
@@ -259,6 +247,36 @@
           <true/>
           <key>sourceName</key>
           <string>width=250</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>P_bottom_moveV=-100</string>
+          <key>location</key>
+          <dict>
+            <key>P_bottom_moveV</key>
+            <integer>-100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>P_bottom_moveV=-100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>P_top_length=500</string>
+          <key>location</key>
+          <dict>
+            <key>P_top_length</key>
+            <integer>500</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>P_top_length=500</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
