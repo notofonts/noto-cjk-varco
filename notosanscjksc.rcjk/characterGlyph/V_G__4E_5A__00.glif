@@ -63,6 +63,26 @@
           <key>name</key>
           <string>L_S_top_length</string>
         </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>50</integer>
+          <key>minValue</key>
+          <integer>-50</integer>
+          <key>name</key>
+          <string>H_weight</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>50</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>R_G_top_length</string>
+        </dict>
       </array>
       <key>robocjk.status</key>
       <integer>1</integer>
@@ -127,6 +147,51 @@
           <true/>
           <key>sourceName</key>
           <string>L_S_top_length=-500</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>H_weight=-50</string>
+          <key>location</key>
+          <dict>
+            <key>H_weight</key>
+            <integer>-50</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>H_weight=-50</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>H_weight=50</string>
+          <key>location</key>
+          <dict>
+            <key>H_weight</key>
+            <integer>50</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>H_weight=50</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>R_G_top_length=50</string>
+          <key>location</key>
+          <dict>
+            <key>R_G_top_length</key>
+            <integer>50</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>R_G_top_length=50</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
