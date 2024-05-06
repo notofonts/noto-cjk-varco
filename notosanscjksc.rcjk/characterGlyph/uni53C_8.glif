@@ -39,17 +39,107 @@
   </outline>
   <lib>
     <dict>
+      <key>robocjk.deepComponents</key>
+      <array>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>B_weightH</key>
+            <integer>2</integer>
+            <key>B_weightV</key>
+            <integer>4</integer>
+            <key>T_weightH</key>
+            <integer>0</integer>
+            <key>T_weightV</key>
+            <integer>0</integer>
+            <key>curveH</key>
+            <integer>13</integer>
+            <key>curveV</key>
+            <integer>20</integer>
+            <key>height</key>
+            <integer>793</integer>
+            <key>weight</key>
+            <integer>26</integer>
+            <key>width</key>
+            <integer>770</integer>
+          </dict>
+          <key>name</key>
+          <string>VG_31CF_00</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>128</integer>
+            <key>y</key>
+            <integer>-107</integer>
+          </dict>
+        </dict>
+      </array>
       <key>robocjk.status</key>
       <integer>0</integer>
       <key>robocjk.variationGlyphs</key>
       <array>
         <dict>
+          <key>deepComponents</key>
+          <array>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>B_weightH</key>
+                <integer>-4</integer>
+                <key>B_weightV</key>
+                <integer>11</integer>
+                <key>T_weightH</key>
+                <integer>2</integer>
+                <key>T_weightV</key>
+                <integer>-13</integer>
+                <key>curveH</key>
+                <integer>24</integer>
+                <key>curveV</key>
+                <integer>5</integer>
+                <key>height</key>
+                <integer>785</integer>
+                <key>weight</key>
+                <integer>154</integer>
+                <key>width</key>
+                <integer>831</integer>
+              </dict>
+              <key>name</key>
+              <string>VG_31CF_00</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>97</integer>
+                <key>y</key>
+                <integer>-136</integer>
+              </dict>
+            </dict>
+          </array>
           <key>layerName</key>
           <string>wght=1</string>
           <key>location</key>
           <dict>
             <key>wght</key>
-            <real>1.0</real>
+            <integer>1</integer>
           </dict>
           <key>on</key>
           <true/>
