@@ -47,6 +47,8 @@
         <dict>
           <key>coord</key>
           <dict>
+            <key>S_top_length</key>
+            <integer>-10</integer>
             <key>height</key>
             <real>404.155859140629</real>
           </dict>
@@ -72,7 +74,7 @@
         </dict>
       </array>
       <key>robocjk.status</key>
-      <integer>0</integer>
+      <integer>1</integer>
       <key>robocjk.variationGlyphs</key>
       <array>
         <dict>
@@ -81,8 +83,12 @@
             <dict>
               <key>coord</key>
               <dict>
+                <key>H_weight</key>
+                <integer>10</integer>
+                <key>S_top_length</key>
+                <integer>-10</integer>
                 <key>height</key>
-                <real>404.155859140629</real>
+                <real>410.16</real>
               </dict>
               <key>name</key>
               <string>T_2FF1_6728</string>
