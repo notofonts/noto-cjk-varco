@@ -3,36 +3,6 @@
   <advance width="1000"/>
   <unicode hex="8345"/>
   <outline>
-    <contour>
-      <point x="282" y="395" type="line"/>
-      <point x="282" y="366" type="line"/>
-      <point x="716" y="366" type="line"/>
-      <point x="716" y="395" type="line"/>
-    </contour>
-    <contour>
-      <point x="491" y="646" type="line"/>
-      <point x="411" y="528"/>
-      <point x="245" y="425"/>
-      <point x="53" y="353" type="curve"/>
-      <point x="61" y="347"/>
-      <point x="71" y="336"/>
-      <point x="76" y="329" type="curve"/>
-      <point x="269" y="404"/>
-      <point x="433" y="509"/>
-      <point x="525" y="635" type="curve"/>
-    </contour>
-    <contour>
-      <point x="499" y="625" type="curve"/>
-      <point x="478" y="603" type="line"/>
-      <point x="569" y="520"/>
-      <point x="760" y="402"/>
-      <point x="935" y="342" type="curve"/>
-      <point x="941" y="351"/>
-      <point x="950" y="363"/>
-      <point x="958" y="370" type="curve"/>
-      <point x="780" y="425"/>
-      <point x="584" y="541"/>
-    </contour>
   </outline>
   <lib>
     <dict>
@@ -94,6 +64,32 @@
             <integer>0</integer>
             <key>y</key>
             <integer>0</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>height</key>
+            <integer>454</integer>
+          </dict>
+          <key>name</key>
+          <string>T_4EBA_2FF1</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>0</integer>
+            <key>y</key>
+            <integer>-200</integer>
           </dict>
         </dict>
       </array>
@@ -164,9 +160,35 @@
                 <integer>-4</integer>
               </dict>
             </dict>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>height</key>
+                <integer>454</integer>
+              </dict>
+              <key>name</key>
+              <string>T_4EBA_2FF1</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>0</integer>
+                <key>y</key>
+                <integer>-200</integer>
+              </dict>
+            </dict>
           </array>
           <key>layerName</key>
-          <string>wght=1</string>
+          <string></string>
           <key>location</key>
           <dict>
             <key>wght</key>

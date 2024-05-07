@@ -25,30 +25,6 @@
       <point x="729" y="565"/>
       <point x="630" y="623" type="curve"/>
     </contour>
-    <contour>
-      <point x="511" y="540" type="line"/>
-      <point x="412" y="397"/>
-      <point x="231" y="259"/>
-      <point x="46" y="184" type="curve"/>
-      <point x="54" y="179"/>
-      <point x="63" y="168"/>
-      <point x="69" y="161" type="curve"/>
-      <point x="254" y="239"/>
-      <point x="436" y="379"/>
-      <point x="537" y="527" type="curve"/>
-    </contour>
-    <contour>
-      <point x="510" y="509" type="curve"/>
-      <point x="484" y="497" type="line"/>
-      <point x="605" y="344"/>
-      <point x="754" y="252"/>
-      <point x="926" y="173" type="curve"/>
-      <point x="932" y="182"/>
-      <point x="941" y="193"/>
-      <point x="949" y="199" type="curve"/>
-      <point x="777" y="273"/>
-      <point x="624" y="362"/>
-    </contour>
   </outline>
   <lib>
     <dict>
@@ -108,6 +84,32 @@
             <integer>0</integer>
             <key>y</key>
             <integer>0</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>height</key>
+            <integer>454</integer>
+          </dict>
+          <key>name</key>
+          <string>T_4EBA_2FF1</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>0</integer>
+            <key>y</key>
+            <integer>-300</integer>
           </dict>
         </dict>
       </array>
@@ -176,13 +178,39 @@
                 <integer>0</integer>
               </dict>
             </dict>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>height</key>
+                <integer>454</integer>
+              </dict>
+              <key>name</key>
+              <string>T_4EBA_2FF1</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>0</integer>
+                <key>y</key>
+                <integer>-300</integer>
+              </dict>
+            </dict>
           </array>
           <key>layerName</key>
           <string>wght=1</string>
           <key>location</key>
           <dict>
             <key>wght</key>
-            <real>1.0</real>
+            <integer>1</integer>
           </dict>
           <key>on</key>
           <true/>
