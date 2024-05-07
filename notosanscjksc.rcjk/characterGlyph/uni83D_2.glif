@@ -37,6 +37,8 @@
         <dict>
           <key>coord</key>
           <dict>
+            <key>S_top_length</key>
+            <integer>20</integer>
             <key>height</key>
             <real>362.046476208058</real>
           </dict>
@@ -58,6 +60,48 @@
             <integer>0</integer>
             <key>y</key>
             <integer>0</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>H_weight</key>
+            <integer>0</integer>
+            <key>L_S_bottom_length</key>
+            <integer>0</integer>
+            <key>M_H_moveV</key>
+            <integer>1</integer>
+            <key>M_H_right_length</key>
+            <integer>0</integer>
+            <key>M_H_weight</key>
+            <integer>0</integer>
+            <key>R_S_bottom_length</key>
+            <integer>0</integer>
+            <key>height</key>
+            <integer>315</integer>
+            <key>weight</key>
+            <integer>29</integer>
+            <key>width</key>
+            <integer>663</integer>
+          </dict>
+          <key>name</key>
+          <string>VG_65E5_00</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>170</integer>
+            <key>y</key>
+            <integer>417</integer>
           </dict>
         </dict>
       </array>
@@ -103,8 +147,12 @@
             <dict>
               <key>coord</key>
               <dict>
+                <key>H_weight</key>
+                <integer>20</integer>
+                <key>S_top_length</key>
+                <integer>20</integer>
                 <key>height</key>
-                <real>362.046476208058</real>
+                <real>372.05</real>
               </dict>
               <key>name</key>
               <string>T_2FF1_6728</string>
@@ -126,13 +174,55 @@
                 <integer>0</integer>
               </dict>
             </dict>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>H_weight</key>
+                <integer>-39</integer>
+                <key>L_S_bottom_length</key>
+                <integer>0</integer>
+                <key>M_H_moveV</key>
+                <integer>0</integer>
+                <key>M_H_right_length</key>
+                <integer>0</integer>
+                <key>M_H_weight</key>
+                <integer>-5</integer>
+                <key>R_S_bottom_length</key>
+                <integer>0</integer>
+                <key>height</key>
+                <integer>354</integer>
+                <key>weight</key>
+                <integer>139</integer>
+                <key>width</key>
+                <integer>713</integer>
+              </dict>
+              <key>name</key>
+              <string>VG_65E5_00</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>142</integer>
+                <key>y</key>
+                <integer>388</integer>
+              </dict>
+            </dict>
           </array>
           <key>layerName</key>
           <string></string>
           <key>location</key>
           <dict>
             <key>wght</key>
-            <real>1.0</real>
+            <integer>1</integer>
           </dict>
           <key>on</key>
           <true/>
