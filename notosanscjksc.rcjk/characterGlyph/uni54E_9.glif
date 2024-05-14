@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="uni7406" format="2">
+<glyph name="uni54E9" format="2">
   <advance width="1000"/>
-  <unicode hex="7406"/>
+  <unicode hex="54E9"/>
   <outline>
   </outline>
   <lib>
@@ -11,36 +11,10 @@
         <dict>
           <key>coord</key>
           <dict>
-            <key>width</key>
-            <integer>325</integer>
-          </dict>
-          <key>name</key>
-          <string>T_738B_2FF0</string>
-          <key>transform</key>
-          <dict>
-            <key>rotation</key>
-            <integer>0</integer>
-            <key>scalex</key>
-            <integer>1</integer>
-            <key>scaley</key>
-            <integer>1</integer>
-            <key>tcenterx</key>
-            <integer>0</integer>
-            <key>tcentery</key>
-            <integer>0</integer>
-            <key>x</key>
-            <integer>0</integer>
-            <key>y</key>
-            <integer>0</integer>
-          </dict>
-        </dict>
-        <dict>
-          <key>coord</key>
-          <dict>
             <key>B_H_left_length</key>
-            <integer>30</integer>
+            <integer>-10</integer>
             <key>width</key>
-            <integer>616</integer>
+            <integer>626</integer>
           </dict>
           <key>name</key>
           <string>T_2FF0_91CC</string>
@@ -62,6 +36,36 @@
             <integer>0</integer>
           </dict>
         </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>L_S_bottom_length</key>
+            <integer>0</integer>
+            <key>height</key>
+            <integer>-40</integer>
+            <key>width</key>
+            <integer>214</integer>
+          </dict>
+          <key>name</key>
+          <string>T_53E3_2FF0</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>0</integer>
+            <key>y</key>
+            <integer>-20</integer>
+          </dict>
+        </dict>
       </array>
       <key>robocjk.status</key>
       <integer>4</integer>
@@ -73,34 +77,8 @@
             <dict>
               <key>coord</key>
               <dict>
-                <key>width</key>
-                <integer>343</integer>
-              </dict>
-              <key>name</key>
-              <string>T_738B_2FF0</string>
-              <key>transform</key>
-              <dict>
-                <key>rotation</key>
-                <integer>0</integer>
-                <key>scalex</key>
-                <integer>1</integer>
-                <key>scaley</key>
-                <integer>1</integer>
-                <key>tcenterx</key>
-                <integer>0</integer>
-                <key>tcentery</key>
-                <integer>0</integer>
-                <key>x</key>
-                <integer>0</integer>
-                <key>y</key>
-                <integer>0</integer>
-              </dict>
-            </dict>
-            <dict>
-              <key>coord</key>
-              <dict>
                 <key>B_H_left_length</key>
-                <integer>30</integer>
+                <integer>20</integer>
                 <key>width</key>
                 <integer>616</integer>
               </dict>
@@ -122,6 +100,36 @@
                 <integer>0</integer>
                 <key>y</key>
                 <integer>0</integer>
+              </dict>
+            </dict>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>L_S_bottom_length</key>
+                <integer>0</integer>
+                <key>height</key>
+                <integer>-20</integer>
+                <key>width</key>
+                <integer>255</integer>
+              </dict>
+              <key>name</key>
+              <string>T_53E3_2FF0</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>0</integer>
+                <key>y</key>
+                <integer>-10</integer>
               </dict>
             </dict>
           </array>
