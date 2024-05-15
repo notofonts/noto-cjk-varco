@@ -13,7 +13,7 @@
           <key>maxValue</key>
           <integer>688</integer>
           <key>minValue</key>
-          <integer>657</integer>
+          <integer>635</integer>
           <key>name</key>
           <string>width</string>
         </dict>
@@ -674,11 +674,13 @@
                 <key>curveV</key>
                 <integer>0</integer>
                 <key>height</key>
-                <real>359.24</real>
+                <real>360.24</real>
                 <key>length</key>
                 <real>514.91</real>
                 <key>top_weightH</key>
                 <integer>-2</integer>
+                <key>top_weightV</key>
+                <integer>0</integer>
                 <key>weight</key>
                 <integer>30</integer>
                 <key>width</key>
@@ -699,7 +701,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>-311</integer>
+                <integer>-285</integer>
                 <key>y</key>
                 <integer>-426</integer>
               </dict>
@@ -710,7 +712,7 @@
                 <key>weight</key>
                 <integer>30</integer>
                 <key>width</key>
-                <integer>596</integer>
+                <integer>549</integer>
               </dict>
               <key>name</key>
               <string>VG_4E00_00</string>
@@ -727,7 +729,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>347</integer>
+                <integer>387</integer>
                 <key>y</key>
                 <integer>274</integer>
               </dict>
@@ -755,7 +757,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>116</integer>
+                <integer>142</integer>
                 <key>y</key>
                 <integer>-48</integer>
               </dict>
@@ -780,7 +782,7 @@
                 <key>weight</key>
                 <integer>30</integer>
                 <key>width</key>
-                <real>350.04</real>
+                <real>328.04</real>
               </dict>
               <key>name</key>
               <string>VG_31CF_00</string>
@@ -797,7 +799,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>557</integer>
+                <integer>583</integer>
                 <key>y</key>
                 <integer>-467</integer>
               </dict>
@@ -815,6 +817,8 @@
                 <integer>12</integer>
                 <key>height</key>
                 <real>267.13</real>
+                <key>length</key>
+                <integer>0</integer>
                 <key>top_weightH</key>
                 <integer>1</integer>
                 <key>top_weightV</key>
@@ -839,7 +843,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>-117</integer>
+                <integer>-101</integer>
                 <key>y</key>
                 <integer>-195</integer>
               </dict>
@@ -864,7 +868,7 @@
                 <key>weight</key>
                 <integer>27</integer>
                 <key>width</key>
-                <real>125.78</real>
+                <real>95.78</real>
               </dict>
               <key>name</key>
               <string>VG_4E36_00</string>
@@ -881,7 +885,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>338</integer>
+                <integer>358</integer>
                 <key>y</key>
                 <integer>-353</integer>
               </dict>
@@ -894,11 +898,13 @@
                 <key>bottom_weightV</key>
                 <integer>2</integer>
                 <key>curveH</key>
-                <integer>10</integer>
+                <integer>16</integer>
                 <key>curveV</key>
                 <integer>15</integer>
                 <key>height</key>
-                <real>292.13</real>
+                <real>287.13</real>
+                <key>length</key>
+                <integer>0</integer>
                 <key>top_weightH</key>
                 <integer>1</integer>
                 <key>top_weightV</key>
@@ -906,7 +912,7 @@
                 <key>weight</key>
                 <integer>33</integer>
                 <key>width</key>
-                <real>180.44</real>
+                <real>170.44</real>
               </dict>
               <key>name</key>
               <string>VG_4E3F_01</string>
@@ -923,7 +929,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>-445</integer>
+                <integer>-421</integer>
                 <key>y</key>
                 <integer>-195</integer>
               </dict>
@@ -948,7 +954,7 @@
                 <key>weight</key>
                 <integer>27</integer>
                 <key>width</key>
-                <real>115.78</real>
+                <real>89.78</real>
               </dict>
               <key>name</key>
               <string>VG_4E36_00</string>
@@ -965,7 +971,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>8</integer>
+                <integer>42</integer>
                 <key>y</key>
                 <integer>-349</integer>
               </dict>
@@ -976,12 +982,12 @@
           <key>location</key>
           <dict>
             <key>width</key>
-            <integer>657</integer>
+            <integer>635</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>width=657</string>
+          <string>width=635</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
@@ -1000,15 +1006,17 @@
                 <key>curveV</key>
                 <integer>13</integer>
                 <key>height</key>
-                <real>385.24</real>
+                <real>393.24</real>
                 <key>length</key>
                 <real>514.91</real>
                 <key>top_weightH</key>
                 <integer>-17</integer>
+                <key>top_weightV</key>
+                <integer>0</integer>
                 <key>weight</key>
-                <integer>138</integer>
+                <integer>127</integer>
                 <key>width</key>
-                <real>308.81</real>
+                <real>298.81</real>
               </dict>
               <key>name</key>
               <string>VG_4E3F_01</string>
@@ -1025,7 +1033,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>-303</integer>
+                <integer>-277</integer>
                 <key>y</key>
                 <integer>-424</integer>
               </dict>
@@ -1034,9 +1042,9 @@
               <key>coord</key>
               <dict>
                 <key>weight</key>
-                <integer>131</integer>
+                <integer>121</integer>
                 <key>width</key>
-                <integer>596</integer>
+                <integer>553</integer>
               </dict>
               <key>name</key>
               <string>VG_4E00_00</string>
@@ -1053,9 +1061,9 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>364</integer>
+                <integer>407</integer>
                 <key>y</key>
-                <integer>222</integer>
+                <integer>229</integer>
               </dict>
             </dict>
             <dict>
@@ -1064,7 +1072,7 @@
                 <key>height</key>
                 <integer>952</integer>
                 <key>weight</key>
-                <integer>139</integer>
+                <integer>129</integer>
               </dict>
               <key>name</key>
               <string>VG_4E28_00</string>
@@ -1081,7 +1089,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>79</integer>
+                <integer>107</integer>
                 <key>y</key>
                 <integer>-24</integer>
               </dict>
@@ -1102,11 +1110,11 @@
                 <key>curveV</key>
                 <integer>14</integer>
                 <key>height</key>
-                <integer>429</integer>
+                <integer>421</integer>
                 <key>weight</key>
-                <integer>128</integer>
+                <integer>115</integer>
                 <key>width</key>
-                <real>395.04</real>
+                <real>360.04</real>
               </dict>
               <key>name</key>
               <string>VG_31CF_00</string>
@@ -1123,9 +1131,9 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>540</integer>
+                <integer>563</integer>
                 <key>y</key>
-                <integer>-458</integer>
+                <integer>-461</integer>
               </dict>
             </dict>
             <dict>
@@ -1134,21 +1142,23 @@
                 <key>bottom_weightH</key>
                 <integer>-18</integer>
                 <key>bottom_weightV</key>
-                <integer>19</integer>
+                <integer>9</integer>
                 <key>curveH</key>
                 <integer>9</integer>
                 <key>curveV</key>
                 <integer>12</integer>
                 <key>height</key>
-                <real>294.13</real>
+                <real>274.13</real>
+                <key>length</key>
+                <integer>0</integer>
                 <key>top_weightH</key>
                 <integer>7</integer>
                 <key>top_weightV</key>
                 <integer>-30</integer>
                 <key>weight</key>
-                <integer>127</integer>
+                <integer>120</integer>
                 <key>width</key>
-                <integer>152</integer>
+                <integer>141</integer>
               </dict>
               <key>name</key>
               <string>VG_4E3F_01</string>
@@ -1165,9 +1175,9 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>-74</integer>
+                <integer>-83</integer>
                 <key>y</key>
-                <integer>-207</integer>
+                <integer>-203</integer>
               </dict>
             </dict>
             <dict>
@@ -1188,9 +1198,9 @@
                 <key>length</key>
                 <integer>162</integer>
                 <key>weight</key>
-                <integer>119</integer>
+                <integer>114</integer>
                 <key>width</key>
-                <real>114.78</real>
+                <real>71.78</real>
               </dict>
               <key>name</key>
               <string>VG_4E36_00</string>
@@ -1207,9 +1217,9 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>372</integer>
+                <integer>382</integer>
                 <key>y</key>
-                <integer>-384</integer>
+                <integer>-374</integer>
               </dict>
             </dict>
             <dict>
@@ -1218,21 +1228,23 @@
                 <key>bottom_weightH</key>
                 <integer>-21</integer>
                 <key>bottom_weightV</key>
-                <integer>13</integer>
+                <integer>8</integer>
                 <key>curveH</key>
-                <integer>9</integer>
+                <integer>11</integer>
                 <key>curveV</key>
                 <integer>15</integer>
                 <key>height</key>
-                <real>305.13</real>
+                <real>303.13</real>
+                <key>length</key>
+                <integer>0</integer>
                 <key>top_weightH</key>
-                <integer>5</integer>
+                <integer>-5</integer>
                 <key>top_weightV</key>
-                <integer>-27</integer>
+                <integer>-31</integer>
                 <key>weight</key>
                 <integer>129</integer>
                 <key>width</key>
-                <real>155.44</real>
+                <real>149.44</real>
               </dict>
               <key>name</key>
               <string>VG_4E3F_01</string>
@@ -1249,18 +1261,18 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>-444</integer>
+                <integer>-410</integer>
                 <key>y</key>
-                <integer>-208</integer>
+                <integer>-203</integer>
               </dict>
             </dict>
             <dict>
               <key>coord</key>
               <dict>
                 <key>B_weightH</key>
-                <integer>-13</integer>
+                <integer>-7</integer>
                 <key>B_weightV</key>
-                <integer>21</integer>
+                <integer>31</integer>
                 <key>T_weightH</key>
                 <integer>0</integer>
                 <key>T_weightV</key>
@@ -1272,9 +1284,9 @@
                 <key>length</key>
                 <integer>153</integer>
                 <key>weight</key>
-                <integer>116</integer>
+                <integer>104</integer>
                 <key>width</key>
-                <real>46.78</real>
+                <real>30.78</real>
               </dict>
               <key>name</key>
               <string>VG_4E36_00</string>
@@ -1291,9 +1303,9 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>21</integer>
+                <integer>65</integer>
                 <key>y</key>
-                <integer>-370</integer>
+                <integer>-360</integer>
               </dict>
             </dict>
           </array>
@@ -1304,12 +1316,12 @@
             <key>wght</key>
             <integer>1</integer>
             <key>width</key>
-            <integer>657</integer>
+            <integer>635</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>wght=1,width=657</string>
+          <string>wght=1,width=635</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
