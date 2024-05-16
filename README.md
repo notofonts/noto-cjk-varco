@@ -10,7 +10,7 @@ There are 2 subsets of the typefaces `Noto Sans CJK SC` and `Noto Serif CJK JP`.
 
 The goal is to make 2 fonts with 1000 Character Glyphs each using the minimal quantity of Variable Components (details in the .txt files).
 
-We notice significant binary font file size savings:
+We notice significant binary font file size savings (currently based on the `glyf v1` implementation):
 
 - Noto Serif JP: 60,9% of file size savings
   - VarCo VF: 276 kb
