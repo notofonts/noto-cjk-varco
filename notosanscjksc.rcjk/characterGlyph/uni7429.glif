@@ -13,8 +13,10 @@
           <dict>
             <key>B_T_right_moveH</key>
             <integer>10</integer>
+            <key>height</key>
+            <integer>-30</integer>
             <key>width</key>
-            <integer>340</integer>
+            <integer>350</integer>
           </dict>
           <key>name</key>
           <string>T_738B_2FF0</string>
@@ -33,7 +35,7 @@
             <key>x</key>
             <integer>0</integer>
             <key>y</key>
-            <integer>0</integer>
+            <integer>-30</integer>
           </dict>
         </dict>
         <dict>
@@ -75,6 +77,10 @@
               <dict>
                 <key>B_T_right_moveH</key>
                 <integer>10</integer>
+                <key>B_T_right_moveV</key>
+                <integer>-10</integer>
+                <key>height</key>
+                <integer>-20</integer>
                 <key>width</key>
                 <integer>345</integer>
               </dict>
@@ -95,7 +101,7 @@
                 <key>x</key>
                 <integer>0</integer>
                 <key>y</key>
-                <integer>0</integer>
+                <integer>-10</integer>
               </dict>
             </dict>
             <dict>
