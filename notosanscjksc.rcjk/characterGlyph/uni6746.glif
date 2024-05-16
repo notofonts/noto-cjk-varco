@@ -14,9 +14,11 @@
             <key>M_H_left_length</key>
             <integer>6</integer>
             <key>M_H_moveV</key>
-            <integer>-10</integer>
+            <integer>-20</integer>
             <key>T_H_left_length</key>
             <integer>0</integer>
+            <key>T_H_moveV</key>
+            <integer>-10</integer>
             <key>width</key>
             <integer>550</integer>
           </dict>
@@ -86,9 +88,11 @@
                 <key>M_H_left_length</key>
                 <integer>20</integer>
                 <key>M_H_moveV</key>
-                <integer>-20</integer>
+                <integer>-30</integer>
                 <key>T_H_left_length</key>
                 <integer>13</integer>
+                <key>T_H_moveV</key>
+                <integer>-10</integer>
                 <key>width</key>
                 <integer>509</integer>
               </dict>
@@ -146,14 +150,14 @@
           <key>location</key>
           <dict>
             <key>wght</key>
-            <real>1.0</real>
+            <integer>1</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
           <string>wght=1</string>
           <key>status</key>
-          <integer>1</integer>
+          <integer>4</integer>
         </dict>
       </array>
     </dict>

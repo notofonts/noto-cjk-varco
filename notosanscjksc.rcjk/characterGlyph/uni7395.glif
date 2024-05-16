@@ -13,8 +13,12 @@
           <dict>
             <key>M_H_left_length</key>
             <integer>0</integer>
+            <key>M_H_moveV</key>
+            <integer>-30</integer>
             <key>T_H_left_length</key>
             <integer>0</integer>
+            <key>T_H_moveV</key>
+            <integer>-9</integer>
             <key>width</key>
             <integer>570</integer>
           </dict>
@@ -76,11 +80,11 @@
               <key>coord</key>
               <dict>
                 <key>M_H_left_length</key>
-                <integer>0</integer>
+                <integer>10</integer>
                 <key>T_H_left_length</key>
-                <integer>0</integer>
+                <integer>10</integer>
                 <key>width</key>
-                <integer>560</integer>
+                <integer>540</integer>
               </dict>
               <key>name</key>
               <string>T_2FF0_5E72</string>
