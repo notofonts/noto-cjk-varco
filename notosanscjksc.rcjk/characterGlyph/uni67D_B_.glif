@@ -39,6 +39,8 @@
           <dict>
             <key>D_moveV</key>
             <integer>-60</integer>
+            <key>H_moveV</key>
+            <integer>-12</integer>
             <key>width</key>
             <integer>342</integer>
           </dict>
@@ -103,6 +105,8 @@
                 <integer>-10</integer>
                 <key>D_moveV</key>
                 <integer>-30</integer>
+                <key>H_moveV</key>
+                <integer>-10</integer>
                 <key>H_right_length</key>
                 <integer>-40</integer>
                 <key>width</key>
@@ -134,7 +138,7 @@
           <key>location</key>
           <dict>
             <key>wght</key>
-            <real>1.0</real>
+            <integer>1</integer>
           </dict>
           <key>on</key>
           <true/>

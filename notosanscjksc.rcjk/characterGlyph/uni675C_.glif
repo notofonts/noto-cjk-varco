@@ -44,7 +44,11 @@
             <key>D_bottom_moveH</key>
             <integer>-50</integer>
             <key>D_length</key>
-            <integer>0</integer>
+            <integer>-20</integer>
+            <key>D_moveV</key>
+            <integer>40</integer>
+            <key>H_moveV</key>
+            <integer>20</integer>
             <key>H_right_length</key>
             <integer>-25</integer>
             <key>M_X_moveV</key>
@@ -117,8 +121,10 @@
                 <integer>-20</integer>
                 <key>D_length</key>
                 <integer>-9</integer>
+                <key>H_moveV</key>
+                <integer>9</integer>
                 <key>H_right_length</key>
-                <integer>-10</integer>
+                <integer>-20</integer>
                 <key>M_X_moveV</key>
                 <integer>17</integer>
                 <key>width</key>
