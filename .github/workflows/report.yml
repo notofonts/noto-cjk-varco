@@ -1,10 +1,6 @@
 name: reports
 
 on:
-  # push:
-  #   branches: [ master ]
-  schedule:
-    - cron: '0 0 * * *'  # once a day
   workflow_dispatch:  # allow manual trigger
 
 jobs:
