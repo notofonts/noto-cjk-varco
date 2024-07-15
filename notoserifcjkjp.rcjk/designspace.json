@@ -1,43 +1,136 @@
 {
-    "axes": [
-        {
-            "defaultValue": 200.0,
-            "hidden": false,
-            "label": "wght",
-            "mapping": [
-                [
-                    200.0,
-                    0.0
+    "axes": {
+        "axes": [
+            {
+                "defaultValue": 200,
+                "label": "wght",
+                "mapping": [
+                    [
+                        200,
+                        0
+                    ],
+                    [
+                        300,
+                        0.095
+                    ],
+                    [
+                        400,
+                        0.21
+                    ],
+                    [
+                        500,
+                        0.36
+                    ],
+                    [
+                        600,
+                        0.51
+                    ],
+                    [
+                        700,
+                        0.73
+                    ],
+                    [
+                        900,
+                        1
+                    ]
                 ],
-                [
-                    300.018310546875,
-                    0.094970703125
-                ],
-                [
-                    399.993896484375,
-                    0.21002197265625
-                ],
-                [
-                    500.01220703125,
-                    0.3599853515625
-                ],
-                [
-                    599.98779296875,
-                    0.510009765625
-                ],
-                [
-                    700.006103515625,
-                    0.72998046875
-                ],
-                [
-                    900.0,
-                    1.0
+                "maxValue": 900,
+                "minValue": 200,
+                "name": "wght",
+                "tag": "wght",
+                "valueLabels": [
+                    {
+                        "name": "Extra-light",
+                        "value": 200
+                    },
+                    {
+                        "name": "Light",
+                        "value": 300
+                    },
+                    {
+                        "name": "Regular",
+                        "value": 400
+                    },
+                    {
+                        "name": "Medium",
+                        "value": 500
+                    },
+                    {
+                        "name": "Semi-bold",
+                        "value": 600
+                    },
+                    {
+                        "name": "Bold",
+                        "value": 700
+                    },
+                    {
+                        "name": "Extra-bold",
+                        "value": 800
+                    },
+                    {
+                        "name": "Black",
+                        "value": 900
+                    }
                 ]
-            ],
-            "maxValue": 900.0,
-            "minValue": 200.0,
-            "name": "wght",
-            "tag": "wght"
+            }
+        ]
+    },
+    "sources": {
+        "1c893cce": {
+            "lineMetricsHorizontalLayout": {
+                "ascender": {
+                    "value": 800,
+                    "zone": 16
+                },
+                "baseline": {
+                    "value": 0,
+                    "zone": -16
+                },
+                "capHeight": {
+                    "value": 750,
+                    "zone": 16
+                },
+                "descender": {
+                    "value": -250,
+                    "zone": -16
+                },
+                "xHeight": {
+                    "value": 500,
+                    "zone": 16
+                }
+            },
+            "location": {
+                "wght": 0
+            },
+            "name": "Extra-light"
+        },
+        "28442f0f": {
+            "lineMetricsHorizontalLayout": {
+                "ascender": {
+                    "value": 800,
+                    "zone": 16
+                },
+                "baseline": {
+                    "value": 0,
+                    "zone": -16
+                },
+                "capHeight": {
+                    "value": 750,
+                    "zone": 16
+                },
+                "descender": {
+                    "value": -250,
+                    "zone": -16
+                },
+                "xHeight": {
+                    "value": 500,
+                    "zone": 16
+                }
+            },
+            "location": {
+                "wght": 1
+            },
+            "name": "Black"
         }
-    ]
+    }
 }
