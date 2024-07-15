@@ -11,12 +11,20 @@ steps:
     versionMajor: 0
     versionMinor: 1
 
-- output: compile-fontmake
-  destination: ttf/notoserifcjkjp.ttf
-  steps:
-  - filter: decompose-composites
-    onlyVariableComposites: true
-  - filter: drop-unreachable-glyphs
+- filter: memory-cache
 
 - output: compile-varc
   destination: ttf-varco/notoserifcjkjp-VARC.ttf
+
+- output: compile-varc
+  destination: otf-varco/notoserifcjkjp-VARC.otf
+
+- filter: decompose-composites
+  onlyVariableComposites: true
+- filter: drop-unreachable-glyphs
+
+- output: compile-fontmake
+  destination: ttf/notoserifcjkjp.ttf
+
+- output: compile-fontmake
+  destination: otf/notoserifcjkjp.otf
