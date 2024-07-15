@@ -37,8 +37,104 @@
                 "maxValue": 900,
                 "minValue": 100,
                 "name": "wght",
-                "tag": "wght"
+                "tag": "wght",
+                "valueLabels": [
+                    {
+                        "name": "Thin",
+                        "value": 100
+                    },
+                    {
+                        "name": "Extra-light",
+                        "value": 200
+                    },
+                    {
+                        "name": "Light",
+                        "value": 300
+                    },
+                    {
+                        "name": "Regular",
+                        "value": 400
+                    },
+                    {
+                        "name": "Medium",
+                        "value": 500
+                    },
+                    {
+                        "name": "Semi-bold",
+                        "value": 600
+                    },
+                    {
+                        "name": "Bold",
+                        "value": 700
+                    },
+                    {
+                        "name": "Extra-bold",
+                        "value": 800
+                    },
+                    {
+                        "name": "Black",
+                        "value": 900
+                    }
+                ]
             }
         ]
+    },
+    "sources": {
+        "53b46a1b": {
+            "lineMetricsHorizontalLayout": {
+                "ascender": {
+                    "value": 800,
+                    "zone": 16
+                },
+                "baseline": {
+                    "value": 0,
+                    "zone": -16
+                },
+                "capHeight": {
+                    "value": 750,
+                    "zone": 16
+                },
+                "descender": {
+                    "value": -250,
+                    "zone": -16
+                },
+                "xHeight": {
+                    "value": 500,
+                    "zone": 16
+                }
+            },
+            "location": {
+                "wght": 1
+            },
+            "name": "Black"
+        },
+        "c52203bb": {
+            "lineMetricsHorizontalLayout": {
+                "ascender": {
+                    "value": 800,
+                    "zone": 16
+                },
+                "baseline": {
+                    "value": 0,
+                    "zone": -16
+                },
+                "capHeight": {
+                    "value": 750,
+                    "zone": 16
+                },
+                "descender": {
+                    "value": -250,
+                    "zone": -16
+                },
+                "xHeight": {
+                    "value": 500,
+                    "zone": 16
+                }
+            },
+            "location": {
+                "wght": 0
+            },
+            "name": "Thin"
+        }
     }
 }
