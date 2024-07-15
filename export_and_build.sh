@@ -7,7 +7,9 @@ set -x  # echo commands
 mkdir -p build
 mkdir -p build/fontra
 mkdir -p build/ufo
+mkdir -p build/otf-varco
 mkdir -p build/ttf-varco
+mkdir -p build/otf
 mkdir -p build/ttf
 
 fontra-copy notosanscjksc.rcjk build/fontra/notosanscjksc.fontra
