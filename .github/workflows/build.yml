@@ -20,41 +20,11 @@ jobs:
           pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Export Fontra and UFO sources and build TTF
+      - name: Export Fontra and UFO sources and build fonts
         run: ./export_and_build.sh
 
       - name: Storing Sources Fontra
         uses: actions/upload-artifact@v4
         with:
-          name: NotoCJKVarCo_SourcesFontra
-          path: build/fontra
-
-      - name: Storing Sources UFO
-        uses: actions/upload-artifact@v4
-        with:
-          name: NotoCJKVarCo_SourcesUFO
-          path: build/ufo
-
-      - name: Storing Binary Fonts TTF VARC
-        uses: actions/upload-artifact@v4
-        with:
-          name: NotoCJKVarCo_TTF_VARC
-          path: build/ttf-varc
-
-      - name: Storing Binary Fonts OTF VARC
-        uses: actions/upload-artifact@v4
-        with:
-          name: NotoCJKVarCo_OTF_VARC
-          path: build/otf-varc
-
-      - name: Storing Binary Fonts TTF
-        uses: actions/upload-artifact@v4
-        with:
-          name: NotoCJKVarCo_TTF
-          path: build/ttf
-
-      - name: Storing Binary Fonts OTF
-        uses: actions/upload-artifact@v4
-        with:
-          name: NotoCJKVarCo_OTF
-          path: build/otf
+          name: NotoCJKVarCo_SourcesAndBinaries
+          path: build
