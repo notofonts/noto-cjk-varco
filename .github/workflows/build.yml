@@ -23,8 +23,14 @@ jobs:
       - name: Export Fontra and UFO sources and build fonts
         run: ./export_and_build.sh
 
-      - name: Storing Sources Fontra
+      - name: Storing Font Sources
         uses: actions/upload-artifact@v4
         with:
-          name: NotoCJKVarCo_SourcesAndBinaries
-          path: build
+          name: NotoCJKVarCo_Sources
+          path: build/sources
+
+      - name: Storing Font Binaries
+        uses: actions/upload-artifact@v4
+        with:
+          name: NotoCJKVarCo_Fonts
+          path: build/fonts
