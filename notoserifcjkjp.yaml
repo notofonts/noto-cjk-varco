@@ -14,10 +14,10 @@ steps:
 - filter: memory-cache
 
 - output: compile-varc
-  destination: ttf-varco/notoserifcjkjp-VARC.ttf
+  destination: ttf-varc/notoserifcjkjp-varc.ttf
 
 - output: compile-varc
-  destination: otf-varco/notoserifcjkjp-VARC.otf
+  destination: otf-varc/notoserifcjkjp-varc.otf
 
 - filter: decompose-composites
   onlyVariableComposites: true

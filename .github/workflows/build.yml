@@ -23,30 +23,38 @@ jobs:
       - name: Export Fontra and UFO sources and build TTF
         run: ./export_and_build.sh
 
-      - name: Storing Fontra Sources
+      - name: Storing Sources Fontra
         uses: actions/upload-artifact@v4
         with:
-          name: NotoCJKVarCoFontraSources
+          name: NotoCJKVarCo_SourcesFontra
           path: build/fontra
-          retention-days: 5
 
-      - name: Storing UFO Sources
+      - name: Storing Sources UFO
         uses: actions/upload-artifact@v4
         with:
-          name: NotoCJKVarCoUFOSources
+          name: NotoCJKVarCo_SourcesUFO
           path: build/ufo
-          retention-days: 5
 
-      - name: Storing TTF VarCo Artifacts
+      - name: Storing Binary Fonts TTF VARC
         uses: actions/upload-artifact@v4
         with:
-          name: NotoCJKVariableVarCoFonts
-          path: build/ttf-varco
-          retention-days: 5
+          name: NotoCJKVarCo_TTF_VARC
+          path: build/ttf-varc
 
-      - name: Storing TTF Artifacts
+      - name: Storing Binary Fonts OTF VARC
         uses: actions/upload-artifact@v4
         with:
-          name: NotoCJKVariableFonts
+          name: NotoCJKVarCo_OTF_VARC
+          path: build/otf-varc
+
+      - name: Storing Binary Fonts TTF
+        uses: actions/upload-artifact@v4
+        with:
+          name: NotoCJKVarCo_TTF
           path: build/ttf
-          retention-days: 5
+
+      - name: Storing Binary Fonts OTF
+        uses: actions/upload-artifact@v4
+        with:
+          name: NotoCJKVarCo_OTF
+          path: build/otf
