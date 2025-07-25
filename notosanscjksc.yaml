@@ -9,11 +9,13 @@ steps:
   fontInfo:
     familyName: Noto Sans CJK SC Variable Components
     versionMajor: 0
-    versionMinor: 2
+    versionMinor: 3
 
 - filter: memory-cache
 
 - output: compile-varc
+  steps:
+  - filter: convert-to-quadratics
   destination: ttf-varc/notosanscjksc-varc.ttf
 
 - output: compile-varc
