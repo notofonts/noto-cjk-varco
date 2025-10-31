@@ -24,13 +24,13 @@ jobs:
         run: ./export_and_build.sh
 
       - name: Storing Font Sources
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v5
         with:
           name: NotoCJKVarCo_Sources
           path: build/sources
 
       - name: Storing Font Binaries
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v5
         with:
           name: NotoCJKVarCo_Fonts
           path: build/fonts
