@@ -10,6 +10,10 @@
         src: url("notosanscjksc-varc.ttf") format("truetype-variations");
       }
       @font-face {
+        font-family: "Noto Sans CJK JP Varco OTF";
+        src: url("notosanscjksc-varc.otf") format("truetype-variations");
+      }
+      @font-face {
         font-family: "Noto Sans CJK JP Flat";
         src: url("NotoSansSC-Subset.ttf") format("truetype-variations");
       }
@@ -18,6 +22,9 @@
       }
       .varco {
         font-family: "Noto Sans CJK JP Varco";
+      }
+      .varco-otf {
+        font-family: "Noto Sans CJK JP Varco OTF";
       }
       body {
         font-family: sans-serif;
@@ -31,10 +38,13 @@
   <body>
     <h1>Does your browser support variable components?</h1>
 
-    <p>If this:</p>
-    <div class="varco">㑤㒦</div>
-    <p>Looks like this:</p>
+    <p>Here's some Chinese text:</p>
     <div class="flat">㑤㒦</div>
+    <p>If you see the same text here:</p>
+    <div class="varco">㑤㒦</div>
     <p>Then your browser supports variable components!</p>
+    <p>If you only see the same text here:</p>
+    <div class="varco-otf">㑤㒦</div>
+    <p>Then your browser only supports variable components in OTF format.</p>
   </body>
 </html>
