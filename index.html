@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CJK Var Components Test Page</title>
+    <style>
+      @font-face {
+        font-family: "Noto Sans CJK JP Varco";
+        src: url("notosanscjksc-varc.ttf") format("truetype-variations");
+      }
+      @font-face {
+        font-family: "Noto Sans CJK JP Flat";
+        src: url("NotoSansSC-Subset.ttf") format("truetype-variations");
+      }
+      .flat {
+        font-family: "Noto Sans CJK JP Flat";
+      }
+      .varco {
+        font-family: "Noto Sans CJK JP Varco";
+      }
+      body {
+        font-family: sans-serif;
+      }
+      .flat,
+      .varco {
+        font-size: 5em;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Does your browser support variable components?</h1>
+
+    <p>If this:</p>
+    <div class="varco">㑤㒦</div>
+    <p>Looks like this:</p>
+    <div class="flat">㑤㒦</div>
+    <p>Then your browser supports variable components!</p>
+  </body>
+</html>
